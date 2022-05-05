@@ -31,6 +31,8 @@ https://mailmeteor.com
 
 https://customer.io/ (send targeted emails, push notifications, and SMS < indiehacker)
 
+
+---
 Email Octopus + Amazon SES
 
 Email Octopus + Zapier + eCom?
@@ -39,7 +41,6 @@ https://mailmeteor.com/
 
 https://emailoctopus.com/
 
-https://www.upscribe.net/
 
 https://nocodeletters.com/
 
@@ -47,9 +48,7 @@ https://birdsend.co/
 
 https://buttondown.email/
 
-https://tinyletter.com/
 
-https://mailerlite.com
 
 https://www.activecampaign.com/
 
@@ -88,7 +87,7 @@ https://www.sendx.io/
 
 ## have ecommerce integration
 Klaviyo > https://kinsta.com/ 
-Campaign Monitor
+Campaign Monitor (listed below)
 Encharge
 Newsletter2go
 
