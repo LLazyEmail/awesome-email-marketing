@@ -5,7 +5,7 @@ Sendy > https://sendy.co/
 
 Sendfox
 
-TinyLetter
+TinyLetter > tinyletter.com
 
 Mailerlite > https://www.mailerlite.com/pricing
 
@@ -13,19 +13,19 @@ https://buttondown.email/
 
 https://www.upscribe.net/
 
-https://palabra.io/ (IndieHacker)
+https://palabra.io/ 
 
-https://friendly.is/automate (IndieHacker)
+https://friendly.is/automate 
 
-https://froged.com/ (IndieHacker)
+https://froged.com/ 
 
-http://nomadmail.io/ (IndieHacker)
+http://nomadmail.io/ 
 
-https://moosend.com/ (IndieHacker)
+https://moosend.com/ 
 
 https://www.mailjet.com/
 
-https://undersend.com/ (indieHacker)
+https://undersend.com/ 
 
 https://mailmeteor.com
 
@@ -46,26 +46,38 @@ https://nocodeletters.com/
 https://birdsend.co/
 
 https://buttondown.email/
+
 https://tinyletter.com/
+
 https://mailerlite.com
 
 https://www.activecampaign.com/
 
-AWeber 
+AWeber  www.aweber.com
 
-ConvertKit
-Constant Contact
-Omnisend
+ConvertKit convertkit.com
+
+Constant Contact www.constantcontact.com
+
+Omnisend https://www.omnisend.com/
+
 Getresponse
-Sendinblue
+
+Sendinblue www.sendinblue.com
+
 Privy 
 
+Campaign Monitor www.campaignmonitor.com
+
+Sendy sendy.co
 
 Mailtrain 
 Listmonk 
 BenchMark 
 
-old
+SendPulse > https://sendpulse.com/
+
+### old
 Mautic 
 Sympa
 OpenEMM
@@ -74,12 +86,66 @@ Lightmeterc
 
 https://www.sendx.io/
 
-have ecommerce integration
-Klaviyo, Campaign Monitor, Encharge, Newsletter2go
+## have ecommerce integration
+Klaviyo > https://kinsta.com/ 
+Campaign Monitor
+Encharge
+Newsletter2go
 
-marketing automation
-Aritic, ActiveCampaign , sendinblue , Drip, and GetResponse
+## marketing automation
+Aritic
+ActiveCampaign
+sendinblue
+Drip
+GetResponse
 
 
 Automizy
-Sender
+Sender https://www.sender.net/
+
+MailPoet www.mailpoet.com
+
+
+Elastic Email: https://elasticemail.com/
+
+Woodpecker - woodpecker.co 
+
+Zoho Campaigns
+
+
+
+list different features that you might take into consideration
+Email Builder	
+Email Templates	
+Landing Pages
+Segmentation & Personalization
+Retargeting Audience
+Email Analytics
+Dynamic Content
+Marketing Calendar
+Behavioral-based Automation
+Custom-coded Templates
+Lifetime Value
+Surveys
+Single-step Automation Rules
+Multi-Step Workflows
+A/B Testing
+Multivariate Testing
+Send Time Optimization
+Phone Support	
+
+
+Moosend
+
+
+https://flodesk.com/
+https://pepocampaigns.com/
+https://mailster.co/
+https://www.sparkpost.com/
+
+Jilt https://jilt.com/
+
+
+Autopilot https://www.autopilothq.com/
+
+Keap  https://keap.com/
