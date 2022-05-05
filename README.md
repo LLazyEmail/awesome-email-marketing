@@ -51,7 +51,7 @@ https://mailerlite.com
 
 https://www.activecampaign.com/
 
-AWeber
+AWeber 
 
 ConvertKit
 Constant Contact
@@ -72,6 +72,7 @@ OpenEMM
 SendPortal
 Lightmeterc
 
+https://www.sendx.io/
 
 have ecommerce integration
 Klaviyo, Campaign Monitor, Encharge, Newsletter2go
@@ -80,4 +81,5 @@ marketing automation
 Aritic, ActiveCampaign , sendinblue , Drip, and GetResponse
 
 
-
+Automizy
+Sender
