@@ -48,3 +48,36 @@ https://birdsend.co/
 https://buttondown.email/
 https://tinyletter.com/
 https://mailerlite.com
+
+https://www.activecampaign.com/
+
+AWeber
+
+ConvertKit
+Constant Contact
+Omnisend
+Getresponse
+Sendinblue
+Privy 
+
+
+Mailtrain 
+Listmonk 
+BenchMark 
+
+old
+Mautic 
+Sympa
+OpenEMM
+SendPortal
+Lightmeterc
+
+
+have ecommerce integration
+Klaviyo, Campaign Monitor, Encharge, Newsletter2go
+
+marketing automation
+Aritic, ActiveCampaign , sendinblue , Drip, and GetResponse
+
+
+
