@@ -1,43 +1,46 @@
 # awesome-email-marketing
 
 
-Sendy > https://sendy.co/
+Sendy  https://sendy.co/
 
 Sendfox https://sendfox.com/
 
-TinyLetter > tinyletter.com
+TinyLetter  tinyletter.com
 
-Mailerlite > https://www.mailerlite.com/pricing
+Mailerlite  https://www.mailerlite.com/pricing
 
-BUTTONDOWN 
-https://buttondown.email/
+BUTTONDOWN https://buttondown.email/
 
 Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &amp; Sequences Tool
 https://www.upscribe.net/
 
-Palabra
+### Palabra
 Automate your
 product-led growth
 https://palabra.io/ 
 
-Friendly
+### Friendly
 The Privacy Friendly Marketing Automation Software
 https://friendly.is/automate 
 
-Froged
+### Froged
 Optimize your Customer Experience with One Powerful Product
 https://froged.com/ 
 
-http://nomadmail.io/ 
 
+Moosend
 https://moosend.com/ 
 
+Mailjet
 https://www.mailjet.com/
 
+UnderSend
 https://undersend.com/ 
 
+MailMeteor
 https://mailmeteor.com
 
+Customer.io
 https://customer.io/ (send targeted emails, push notifications, and SMS < indiehacker)
 
 
@@ -46,19 +49,18 @@ Email Octopus + Amazon SES
 
 Email Octopus + Zapier + eCom?
 
-https://mailmeteor.com/
 
+EmailOctopus
 https://emailoctopus.com/
 
-
+NoCodeLetters
 https://nocodeletters.com/
 
+BirdSend
 https://birdsend.co/
 
-https://buttondown.email/
 
-
-
+ActiveCampaign
 https://www.activecampaign.com/
 
 AWeber  www.aweber.com
@@ -69,19 +71,19 @@ Constant Contact www.constantcontact.com
 
 Omnisend https://www.omnisend.com/
 
-Getresponse
+Getresponse https://www.getresponse.com/
 
 Sendinblue www.sendinblue.com
 
-Privy 
+Privy  https://www.privy.com/ marketing for ecommerce companies
 
 Campaign Monitor www.campaignmonitor.com
 
 Sendy sendy.co
 
-Mailtrain 
-Listmonk 
-BenchMark 
+Mailtrain https://github.com/Mailtrain-org/mailtrain
+Listmonk https://listmonk.app/
+BenchMark https://www.benchmarkemail.com/
 
 SendPulse > https://sendpulse.com/
 
@@ -92,23 +94,24 @@ OpenEMM
 SendPortal
 Lightmeterc
 
+
 https://www.sendx.io/
 
 ## have ecommerce integration
 Klaviyo > https://kinsta.com/ 
 Campaign Monitor (listed below)
-Encharge
-Newsletter2go
+Encharge https://encharge.io/
+Newsletter2go https://docs.newsletter2go.com/
 
 ## marketing automation
-Aritic
+Aritic https://aritic.com/
 ActiveCampaign
 sendinblue
-Drip
+Drip https://www.drip.com/
 GetResponse
 
 
-Automizy
+Automizy https://automizy.com/
 Sender https://www.sender.net/
 
 MailPoet www.mailpoet.com
@@ -145,10 +148,16 @@ Phone Support
 
 Moosend
 
-
+flodesk
 https://flodesk.com/
+
+peopcampaigns
 https://pepocampaigns.com/
+
+mailster
 https://mailster.co/
+
+sparkpost
 https://www.sparkpost.com/
 
 Jilt https://jilt.com/
