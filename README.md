@@ -3,20 +3,29 @@
 
 Sendy > https://sendy.co/
 
-Sendfox
+Sendfox https://sendfox.com/
 
 TinyLetter > tinyletter.com
 
 Mailerlite > https://www.mailerlite.com/pricing
 
+BUTTONDOWN 
 https://buttondown.email/
 
+Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &amp; Sequences Tool
 https://www.upscribe.net/
 
+Palabra
+Automate your
+product-led growth
 https://palabra.io/ 
 
+Friendly
+The Privacy Friendly Marketing Automation Software
 https://friendly.is/automate 
 
+Froged
+Optimize your Customer Experience with One Powerful Product
 https://froged.com/ 
 
 http://nomadmail.io/ 
