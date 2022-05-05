@@ -15,8 +15,7 @@ Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &amp; Sequen
 https://www.upscribe.net/
 
 ### Palabra
-Automate your
-product-led growth
+Automate your product-led growth
 https://palabra.io/ 
 
 ### Friendly
@@ -88,11 +87,11 @@ BenchMark https://www.benchmarkemail.com/
 SendPulse > https://sendpulse.com/
 
 ### old
-Mautic 
-Sympa
-OpenEMM
-SendPortal
-Lightmeterc
+- Mautic 
+- Sympa
+- OpenEMM
+- SendPortal
+- Lightmeterc
 
 
 https://www.sendx.io/
@@ -126,24 +125,24 @@ Zoho Campaigns
 
 
 list different features that you might take into consideration
-Email Builder	
-Email Templates	
-Landing Pages
-Segmentation & Personalization
-Retargeting Audience
-Email Analytics
-Dynamic Content
-Marketing Calendar
-Behavioral-based Automation
-Custom-coded Templates
-Lifetime Value
-Surveys
-Single-step Automation Rules
-Multi-Step Workflows
-A/B Testing
-Multivariate Testing
-Send Time Optimization
-Phone Support	
+- Email Builder	
+- Email Templates	
+- Landing Pages
+- Segmentation & Personalization
+- Retargeting Audience
+- Email Analytics
+- Dynamic Content
+- Marketing Calendar
+- Behavioral-based Automation
+- Custom-coded Templates
+- Lifetime Value
+- Surveys
+- Single-step Automation Rules
+- Multi-Step Workflows
+- A/B Testing
+- Multivariate Testing
+- Send Time Optimization
+- Phone Support	
 
 
 Moosend
