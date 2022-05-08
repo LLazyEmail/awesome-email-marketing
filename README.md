@@ -1,6 +1,24 @@
 # awesome-email-marketing
 
 
+### Email
+* [Revue](https://www.getrevue.co/) - Editorial newsletters tool for writers and publishers
+* [Sendgrid](https://sendgrid.com/) - Email delivery service
+* [Postcards](https://designmodo.com/postcards/) - Create awesome emails with drag & drop simplicity
+* [BEE](https://beefree.io/) - Create beautiful emails, fast.
+* [Stripo](https://stripo.email/fr/) - Free email template builder
+* [Substack](https://substack.com/) - Paid newsletters made simple
+* [Mailchimp](https://mailchimp.com/) - Free emailing software
+* [Converkit](https://convertkit.com/) - Send automated emailing campaigns
+
+https://designmodo.com/postcards/
+https://www.getrevue.co/
+https://beefree.io/ https://beefree.io/templates/
+
+https://stripo.email/fr/
+
+
+
 Sendy  https://sendy.co/
 
 Sendfox https://sendfox.com/
