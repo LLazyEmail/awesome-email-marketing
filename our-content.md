@@ -11,7 +11,7 @@
 - https://hackernoon.com/building-a-design-system-for-email-templates-react
 - https://dev.to/atherdon/building-a-design-system-for-email-templates-react-1h05
 - https://coding-philosophy.hashnode.dev/building-a-design-system-for-email-templates-react
-- 
+- https://llazyemail.github.io/documentation/blog/building-a-design-system-for-email-templates-react
 
 ### Exploring Substack for Building Your Newsletter
 - https://hackernoon.com/exploring-substack-for-building-your-newsletter
@@ -19,9 +19,9 @@
 - https://coding-philosophy.hashnode.dev/should-you-use-substack-for-building-your-newsletter
 
 ### How To Create a Curated Email Newsletter That Brings Results for Your Business
-https://dev.to/atherdon/how-to-create-a-curated-email-newsletter-that-brings-results-for-your-business-41i5
+- https://dev.to/atherdon/how-to-create-a-curated-email-newsletter-that-brings-results-for-your-business-41i5
 - https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter
-https://coding-philosophy.hashnode.dev/how-to-create-a-curated-email-newsletter-that-brings-results-for-your-business
+- https://coding-philosophy.hashnode.dev/how-to-create-a-curated-email-newsletter-that-brings-results-for-your-business
 
 
 ### Simple Glossary for Non Technies
@@ -32,18 +32,18 @@ https://coding-philosophy.hashnode.dev/how-to-create-a-curated-email-newsletter-
 ### How I created a simple NPM package with basic email templates
 - https://dev.to/atherdon/how-i-created-a-simple-npm-package-with-basic-email-templates-1efo
 - https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates
-https://coding-philosophy.hashnode.dev/how-i-created-a-simple-npm-package-with-basic-email-templates
+- https://coding-philosophy.hashnode.dev/how-i-created-a-simple-npm-package-with-basic-email-templates
 
 ### Building React Components for Emails
 - https://dev.to/atherdon/building-react-components-for-emails-1doe
 - https://hackernoon.com/how-i-started-to-build-react-components-for-email-templates
-https://coding-philosophy.hashnode.dev/building-react-components-for-emails
+- https://coding-philosophy.hashnode.dev/building-react-components-for-emails
 
 
 ### Creating an advanced Structure for HTML Email Template
 - https://dev.to/atherdon/creating-an-advanced-structure-for-html-email-template-1n28
 - https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template
-https://coding-philosophy.hashnode.dev/building-a-simple-module-with-basic-email-templates
+- https://coding-philosophy.hashnode.dev/building-a-simple-module-with-basic-email-templates
 
 
 - https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy
@@ -54,12 +54,12 @@ https://coding-philosophy.hashnode.dev/building-a-simple-module-with-basic-email
 - https://coding-philosophy.hashnode.dev/reading-list-email-marketing-basics
 
 ### Created a module for markdown RegEx`es
-https://dev.to/atherdon/created-a-module-for-markdown-regexes-3a1b
-https://coding-philosophy.hashnode.dev/published-npm-module-with-regular-expressions-for-markdown-format
+- https://dev.to/atherdon/created-a-module-for-markdown-regexes-3a1b
+- https://coding-philosophy.hashnode.dev/published-npm-module-with-regular-expressions-for-markdown-format
 
 
-5 Reasons to Start a Newsletter
-https://coding-philosophy.hashnode.dev/5-reasons-to-start-a-newsletter
+### 5 Reasons to Start a Newsletter
+- https://coding-philosophy.hashnode.dev/5-reasons-to-start-a-newsletter
 
 
 [Published on Hackernoon]
