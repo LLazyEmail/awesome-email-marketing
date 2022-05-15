@@ -7,7 +7,11 @@
 
 - https://hackernoon.com/together4victory-list-of-email-marketing-tools
 
+### Building a Design System for Email Templates (React)
 - https://hackernoon.com/building-a-design-system-for-email-templates-react
+- https://dev.to/atherdon/building-a-design-system-for-email-templates-react-1h05
+- https://coding-philosophy.hashnode.dev/building-a-design-system-for-email-templates-react
+- 
 
 ### Exploring Substack for Building Your Newsletter
 - https://hackernoon.com/exploring-substack-for-building-your-newsletter
