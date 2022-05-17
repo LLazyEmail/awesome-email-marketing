@@ -67,5 +67,12 @@
 [Published on Medium]
 [Published on Linkedin]
 [Published on Hashnode]
+[Published on Tealfeed]
+
+
+https://tealfeed.com/exploring-substack-building-newsletter-fxgtc
+https://tealfeed.com/create-curated-email-newsletter-brings-results-g3aop
+https://tealfeed.com/simple-glossary-non-technies-mv7dl
+https://tealfeed.com/reading-list-email-marketing-basics-ut1ad
 
 
