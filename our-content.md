@@ -3,7 +3,12 @@
 
 - https://hackernoon.com/cool-resources-for-sending-emails
 
+
+Cool Newsletters for developers [Part 1]
 - https://hackernoon.com/cool-newsletters-for-developers-part-1
+- https://dev.to/atherdon/cool-newsletters-for-developers-part-1-4f93
+- https://coding-philosophy.hashnode.dev/cool-newsletters-for-developers-part-1
+
 
 - https://hackernoon.com/together4victory-list-of-email-marketing-tools
 - https://coding-philosophy.hashnode.dev/together4victory-list-of-email-marketing-tools
