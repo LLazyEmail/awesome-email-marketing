@@ -6,6 +6,9 @@
 - https://hackernoon.com/cool-newsletters-for-developers-part-1
 
 - https://hackernoon.com/together4victory-list-of-email-marketing-tools
+- https://coding-philosophy.hashnode.dev/together4victory-list-of-email-marketing-tools
+- https://dev.to/atherdon/together4victory-list-of-email-marketing-tools-3m4h
+- 
 
 ### Building a Design System for Email Templates (React)
 - https://hackernoon.com/building-a-design-system-for-email-templates-react
