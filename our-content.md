@@ -2,7 +2,8 @@
 
 
 - https://hackernoon.com/cool-resources-for-sending-emails
-
+- https://coding-philosophy.hashnode.dev/cool-resources-for-sending-emails
+- https://dev.to/atherdon/cool-resources-for-sending-emails-3a9l
 
 Cool Newsletters for developers [Part 1]
 - https://hackernoon.com/cool-newsletters-for-developers-part-1
