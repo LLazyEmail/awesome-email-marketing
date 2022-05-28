@@ -205,6 +205,8 @@ We recommend to you pay more attention to these points
 
 
 
+- https://postmarkapp.com/guides/password-reset-email-best-practices
+
 
 #### Arthur Tkachenko articles
 
