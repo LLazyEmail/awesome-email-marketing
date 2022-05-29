@@ -65,11 +65,11 @@ Cool Newsletters for developers [Part 1]
 ### Created a module for markdown RegEx`es
 - https://dev.to/atherdon/created-a-module-for-markdown-regexes-3a1b
 - https://coding-philosophy.hashnode.dev/published-npm-module-with-regular-expressions-for-markdown-format
-
+- https://hackernoon.com/open-sourcing-regular-expressions-for-markdown-syntax-module
 
 ### 5 Reasons to Start a Newsletter
 - https://coding-philosophy.hashnode.dev/5-reasons-to-start-a-newsletter
-
+- https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy
 
 [Published on Hackernoon]
 [Published on Dev.to]
