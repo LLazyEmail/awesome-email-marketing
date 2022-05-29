@@ -85,3 +85,4 @@ https://tealfeed.com/simple-glossary-non-technies-mv7dl
 https://tealfeed.com/reading-list-email-marketing-basics-ut1ad
 
 
+https://coderwall.com/p/bed50q/cool-resources-for-sending-emails
