@@ -187,7 +187,7 @@ Keap  https://keap.com/
 
 ----
 
-A few tips for those who send cold emails. :рукопожатие: Specifically, our best practices to avoid being trapped by spam filters and reach more prospects with your campaigns.
+A few tips for those who send cold emails. :handshake: Specifically, our best practices to avoid being trapped by spam filters and reach more prospects with your campaigns.
 - Switch to dedicated IP address;
 - Set up and regularly monitor DNS settings (SPF, DKIM, DMARC, BIMI: you can do it manually or with record generator tools);
 - Respect sending limits (do not send 1000 emails per day per mailbox if your email service provider recommends 250);
