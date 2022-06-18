@@ -207,6 +207,7 @@ We recommend to you pay more attention to these points
 
 - https://postmarkapp.com/guides/password-reset-email-best-practices
 
+Sister Repository: https://github.com/jonathandion/awesome-emails
 
 #### Arthur Tkachenko articles
 
