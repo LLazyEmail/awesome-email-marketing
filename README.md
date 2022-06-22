@@ -225,7 +225,7 @@ Sister Repository: https://github.com/jonathandion/awesome-emails
 
 
 https://flodesk.com/
-
+https://www.mailwarm.com/
 
 # Blogs
 # Resources
