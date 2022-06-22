@@ -226,7 +226,7 @@ Sister Repository: https://github.com/jonathandion/awesome-emails
 
 https://flodesk.com/
 https://www.mailwarm.com/
-
+https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022
 # Blogs
 # Resources
 # Testing
