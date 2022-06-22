@@ -224,6 +224,9 @@ Sister Repository: https://github.com/jonathandion/awesome-emails
 * [https://hackernoon.com/cool-resources-for-sending-emails](https://hackernoon.com/cool-resources-for-sending-emails)
 
 
+https://flodesk.com/
+
+
 # Blogs
 # Resources
 # Testing
