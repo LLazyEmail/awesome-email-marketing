@@ -1,7 +1,9 @@
 
 * https://hackernoon.com/businesses-have-messy-emails
-* https://hackernoon.com/businesses-have-messy-emails-the-relationship-between-security-and-sales
+* https://dev.to/atherdon/businesses-have-messy-emails-p3h
 
+* https://hackernoon.com/businesses-have-messy-emails-the-relationship-between-security-and-sales
+* https://dev.to/atherdon/businesses-have-messy-emails-the-relationship-between-security-and-sales-39p1
 
 
 - https://hackernoon.com/cool-resources-for-sending-emails
