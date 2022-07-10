@@ -9,7 +9,7 @@ Stats
 
 [The best email newsletter software: 9 email marketing services for your business](https://zapier.com/learn/email-marketing/best-email-newsletter-software/)
 
-
+### Getvero 
 [How Email Marketing Increased Monthly Revenue Growth By 34%](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
 
 [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
@@ -18,7 +18,7 @@ Stats
 
 
 
-Zapier connectors
+### Zapier with integrations
 
 [How to choose email marketing software](https://zapier.com/learn/email-marketing/) 
 
@@ -34,7 +34,7 @@ Zapier connectors
 
 [Email by Zapier Integrations](https://zapier.com/apps/email/integrations)
 
-Revue
+### Revue
 
 [A newsletter for readers and writers on Twitter.](https://www.getrevue.co/profile/the_week_in_newsletters) 
 
