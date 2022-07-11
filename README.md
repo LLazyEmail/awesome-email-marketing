@@ -182,8 +182,11 @@ We recommend to you pay more attention to these points
 - [Flodesk (Design emails people love to open.)](https://flodesk.com/)
 - [Mailwarm (Don't land in spam anymore)](https://www.mailwarm.com/)
 - [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
+
 # Blogs
+
 # Resources
+
 Email templates
 [Email Marketing Templates](https://www.hubspot.com/resources/template/email-marketing) 
 [HTML Email Templates: A guide to getting started](https://www.getvero.com/resources/html-email-templates/)
@@ -221,7 +224,7 @@ GDPR
 - [GDPR Consent Examples](https://www.privacypolicies.com/blog/gdpr-consent-examples/)
 - [GDPR consent form examples – What to do and not to do](https://www.iubenda.com/en/help/21996-gdpr-consent-forms-examples)
 
-Links to read
+### Links to read
 - [DomainKeys Identified Mail (DKIM) Signatures](https://tools.ietf.org/html/rfc6376)
 - [Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1](https://tools.ietf.org/html/rfc7208)
 - [DomainKeys Identified Mail (DKIM) Service Overview](https://tools.ietf.org/html/rfc5585)
@@ -232,6 +235,10 @@ Links to read
 - [Authenticating Email with DKIM in Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-dkim.html)
 - [Authenticating Email with SPF in Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-spf.html)
 - [Complying with DMARC using Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-dmarc.html)
+
+---
+
+
 - [I want to send HTML emails from my site, but Outlook is flagging them as spam](https://stackoverflow.com/questions/8269067/i-want-to-send-html-emails-from-my-site-but-outlook-is-flagging-them-as-spam)
 
 Reasons:
