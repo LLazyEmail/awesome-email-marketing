@@ -12,43 +12,26 @@
 * [Converkit](https://convertkit.com/) - Send automated emailing campaigns
 
 [An intuitive email builder for teams and individuals amps up email marketing ideas.](https://designmodo.com/postcards/)
+
 [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
+
 [Plate-forme de conception d'e-mails](https://stripo.email/fr/)
 
-
-
-Sendy -  [Send newsletters, 100x cheaper](https://sendy.co/)
-Sendfox - [Start a newsletter without money](https://sendfox.com/)
-TinyLetter - [Email for people with something to say](tinyletter.com)
-Mailerlite - [Pricing mailerlite](https://www.mailerlite.com/pricing)
-BUTTONDOWN - [The easiest way to write/grow/build/launch/share/run/ your newsletter](https://buttondown.email/)
-Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &amp; Sequences Tool
-[No more battling with your email newsletter tool…](https://www.upscribe.net/)
-
-### Palabra
-[Automate your product-led growth](https://palabra.io/) 
-
-### Friendly
-[The Privacy Friendly Marketing Automation Software](https://friendly.is/automate) 
-
-### Froged
-[Optimize your Customer Experience with One Powerful Product](https://froged.com/)
-
-
-Moosend
-[The easiest email marketing and automation software](https://moosend.com/) 
-
-Mailjet
-[Create and send beautiful emails without touching a single line of code](https://www.mailjet.com/)
-
-UnderSend
-[Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS](https://undersend.com/) 
-
-MailMeteor
-[Send personalized mass emails with the best mail merge in Gmail](https://mailmeteor.com)
-
-Customer.io
-[Build your dream messaging workflows](https://customer.io/) (send targeted emails, push notifications, and SMS < indiehacker)
+- [Sendy](https://sendy.co/) - Send newsletters, 100x cheaper
+- [Sendfox](https://sendfox.com/) - Start a newsletter without money
+- [TinyLetter](tinyletter.com) - Email for people with something to say
+- [Mailerlite](https://www.mailerlite.com/pricing) - Pricing mailerlite
+- [BUTTONDOWN](https://buttondown.email/) - The easiest way to write/grow/build/launch/share/run/ your newsletter
+- [Upscribe](https://www.upscribe.net/) - Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &amp; Sequences Tool
+No more battling with your email newsletter tool…
+- [Palabra](https://palabra.io/) - Automate your product-led growth 
+- [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software
+- [Froged](https://froged.com/) - Optimize your Customer Experience with One Powerful Product
+- [Moosend](https://moosend.com/) - The easiest email marketing and automation software 
+- [Mailjet](https://www.mailjet.com/) - Create and send beautiful emails without touching a single line of code
+- [UnderSend](https://undersend.com/) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS 
+- [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
+- [Customer.io](https://customer.io/) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS < indiehacker)
 
 
 ---
