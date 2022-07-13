@@ -1,6 +1,25 @@
 # Awesome-email-marketing
 
 
+### Table of Contents
+
+- [Email](#email)
+- [Old](#old)
+- [Have ecommerce integration](#have-ecommerce-integration)
+- [Marketing automation](#marketing-automation)
+- [Arthur Tkachenko articles](#arthur-tkachenko-articles)
+- [Blogs](#blogs)
+- [Resources](#resources)
+- [Getvero](#getvero)
+- [Zapier with integrations](#zapier-with-integrations)
+- [Revue](#revue)
+- [GDPR](#gdpr)
+- [Reasons](#reasons)
+- [Testing](#testing)
+- [Metrics](#metrics)
+- [Great links](#great-links)
+- [Email marketing strategy](#email-marketing-strategy)
+
 ### Email
 * [Revue](https://www.getrevue.co/) - Editorial newsletters tool for writers and publishers
 * [Sendgrid](https://sendgrid.com/) - Email delivery service
