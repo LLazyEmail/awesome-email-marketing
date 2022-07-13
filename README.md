@@ -264,3 +264,83 @@ CSS for email templates:
 
 
 # Testing
+
+# Metrics
+
+- [Metrics: Measuring Your Newsletter](https://localnewslab.org/guide/newsletters/metrics-measuring-your-newsletter/)
+
+- [10 Metrics to Track Newsletter Content Success](https://writtent.com/blog/10-metrics-to-track-your-newsletter-content-success/)
+
+- [Email Marketing Benchmarks and Statistics by Industry](https://mailchimp.com/resources/email-marketing-benchmarks/)
+
+---
+
+_*******
+
+*********
+
+- [Email Marketing Benchmarks and Statistics by Industry](https://mailchimp.com/resources/email-marketing-benchmarks/)
+
+- [How to Effectively Measure Your Email Newsletter Performance](https://www.spinutech.com/digital-marketing/email/newsletter/how-to-effectively-measure-your-email-newsletter-performance/)
+
+- [How To Measure Your Newsletter Performance](https://fredericgonzalo.com/en/2017/11/28/how-to-measure-your-newsletter-performance/)
+
+- [Measuring the performance of your newsletter](https://www.verticalresponse.com/blog/measuring-the-performance-of-your-newsletter/)
+
+- [Beyond Clicks: 3 Methods to Measure Newsletter Effectiveness](https://www.gardnerweb.com/blog/post/getting-beyond-clicks-three-methods-for-measuring-newsletter-effectiveness)
+
+- [How to Measure Your Email Marketing Success](https://mailchimp.com/resources/how-to-measure-your-email-marketing-success/)
+
+- [6 Crucial Email Newsletter Metrics You Should Be Monitoring](https://blog.hubspot.com/marketing/email-newsletter-metrics-list)
+
+---
+
+Advanced
+
+- [6 advanced KPIs for measuring email engagement](https://www.smartinsights.com/email-marketing/email-marketing-analytics/email-engagement-kpis/)
+
+- [How To Measure Your Newsletter Performance](https://revenue-hub.com/measure-newsletter-performance/)
+
+- [How to create an effective email marketing strategy? (Step-By-Step Guide)](https://www.lianatech.com/resources/blog/how-to-create-an-effective-email-marketing-strategy-step-by-step-guide.html)
+
+- [7 Email Newsletter Best Practices for Small Businesses](https://www.fool.com/the-blueprint/email-newsletter-best-practices/)
+
+# Great links
+
+- [Making the most of your funnel: the ‘Hail Mary’ email](https://www.getvero.com/resources/making-the-most-of-your-funnel-the-hail-mary-email/) 
+- [15 Campaigns to Give You Inspiration for Data-driven Email Marketing Campaigns](https://www.getvero.com/resources/15-data-driven-email-marketing-campaigns-to-help-you-kick-ass-in-2014/)
+- [How Email Marketing Increased Monthly Revenue Growth By 34%/](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
+- [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
+- [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
+- [How ConvertKit helps you as a creator:](https://convertkit.com/features) 
+- [The best email newsletter software: 9 email marketing services for your business](https://zapier.com/learn/email-marketing/best-email-newsletter-software/) 
+- [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) 
+
+---
+- [200+ newsletters: a crowdsourced list of must-read emails](https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/) 
+- [The 80 best single-operator newsletters](https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet) 
+- [200+ newsletters: a crowdsourced list of must-read emails](https://medium.com/an-idea-for-you/25-newsletters-worth-inviting-into-your-inbox-62046f871a63) 
+- [Amazing email newsletters for bloggers/technology/scientists/startups/crypto/investing/finance/marceter/fitnesses](https://letterlist.com/)
+- [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
+
+# Email marketing strategy
+
+- [7 Effective Email Marketing Strategies to Generate More Sales](https://alite-international.com/7-effective-email-marketing-strategies-generat-sales/) 
+
+- [Email marketing strategy: a data-driven guide](https://www.superoffice.com/blog/email-marketing-strategy/) 
+
+- [A Beginner’s Guide to Email Marketing](https://neilpatel.com/blog/beginners-guide-email-marketing/) 
+
+- [Email marketing strategy and tips for successful campaigns](https://mailchimp.com/email-marketing/) 
+
+Can be extended a lot here.....
+
+- [10 Tried-And-True Email Marketing Tactics That Actually Work](https://www.forbes.com/sites/theyec/2020/09/11/10-tried-and-true-email-marketing-tactics-that-actually-work/?sh=3f5f54007a33) 
+
+- [What is an Email Marketing Strategy? - Guide](https://sendpulse.com/support/glossary/email-marketing-strategy) 
+
+- [8 Effective Email Marketing Strategies, Backed by Science](https://buffer.com/resources/8-effective-email-strategies-backed-by-research/) 
+
+- [Email Marketing: The #1 Ridiculously Easy Way To Grow Your Business](https://optinmonster.com/beginners-guide-to-email-marketing/) 
+
+- [The Email Design Guide is filled with tips and advice to help you convey your message in style. Learn how to better use images, fonts, calls to action and more.](https://mailchimp.com/email-design-guide/)
