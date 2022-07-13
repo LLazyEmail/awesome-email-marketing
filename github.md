@@ -1,58 +1,46 @@
-
-
 ### Checkers
 
-[https://www.htmlemailcheck.com/check/](https://www.htmlemailcheck.com/check/)
+- [HTML email check](https://www.htmlemailcheck.com/check/)
 
-[https://www.npmjs.com/package/eslint-plugin-html](https://www.npmjs.com/package/eslint-plugin-html)
+- [A ESLint plugin to lint and fix inline scripts contained in HTML files](https://www.npmjs.com/package/eslint-plugin-html)
 
-[https://www.freeformatter.com/html-validator.html](https://www.freeformatter.com/html-validator.html) 
+- [HTML Validator - Linter](https://www.freeformatter.com/html-validator.html) 
 
 ### Link checkers
 
+* [Broken-link-checker](https://www.npmjs.com/package/broken-link-checker)
+* [Link-checker](https://www.npmjs.com/package/link-checker)
+* [Link-check](https://www.npmjs.com/package/link-check)
 
+### Repositories related to emails
 
-* [https://www.npmjs.com/package/broken-link-checker](https://www.npmjs.com/package/broken-link-checker)
-* [https://www.npmjs.com/package/link-checker](https://www.npmjs.com/package/link-checker)
-* [https://www.npmjs.com/package/link-check](https://www.npmjs.com/package/link-check)
-
-Repositories related to emails
-
-
-
-* [https://maizzle.com/](https://maizzle.com/)
-* [https://www.npmjs.com/package/verymail](https://www.npmjs.com/package/verymail)
-* [https://www.npmjs.com/package/markdown-to-mailchimp](https://www.npmjs.com/package/markdown-to-mailchimp)
-* [https://github.com/MarcL/markdown-to-mailchimp](https://github.com/MarcL/markdown-to-mailchimp)
-* [https://github.com/pluralsight/htmlTagValidator](https://github.com/pluralsight/htmlTagValidator)
-* 
+* [Quickly build HTML emails with utility-first CSS](https://maizzle.com/)
+* [Verymail](https://www.npmjs.com/package/verymail)
+* [Markdown To Mailchimp (www.npmjs.com)](https://www.npmjs.com/package/markdown-to-mailchimp)
+* [Markdown To Mailchimp (github.com)](https://github.com/MarcL/markdown-to-mailchimp)
+* [HTML tag validator](https://github.com/pluralsight/htmlTagValidator)
 
 ### HTML stuff
 
-[https://www.npmjs.com/package//sanitize-html](https://www.npmjs.com/package//sanitize-html)
+- [Sanitize-html](https://www.npmjs.com/package//sanitize-html)
 
-[https://www.npmjs.com/package/html-element-attributes](https://www.npmjs.com/package/html-element-attributes)
+- [HTML element attributes (www.npmjs.com)](https://www.npmjs.com/package/html-element-attributes)
 
-[https://www.npmjs.com/package/html-tag](https://www.npmjs.com/package/html-tag)
+- [HTML tag](https://www.npmjs.com/package/html-tag)
 
-[https://github.com/breakdance/breakdance](https://github.com/breakdance/breakdance)
+- [Breakdance](https://github.com/breakdance/breakdance)
 
-[https://github.com/here-be/snapdragon](https://github.com/here-be/snapdragon)
+- [Snapdragon](https://github.com/here-be/snapdragon)
 
-[https://github.com/wooorm/html-element-attributes](https://github.com/wooorm/html-element-attributes)
+- [HTML element attributes (github.com)](https://github.com/wooorm/html-element-attributes)
 
-[https://www.npmjs.com/package/element-mold](https://www.npmjs.com/package/element-mold)
+- [Element mold](https://www.npmjs.com/package/element-mold)
 
 ### Cool projects to take a look
 
-
-
-* [https://github.com/Slicejack/bojler](https://github.com/Slicejack/bojler)
-* [https://github.com/maizzle/maizzle](https://github.com/maizzle/maizzle)
-* [https://github.com/sglazov/pechkin](https://github.com/sglazov/pechkin)
-
-
-[https://github.com/premailer/premailer](https://github.com/premailer/premailer)
-
-[https://github.com/foundation/inky](https://github.com/foundation/inky)
+* [Bojler](https://github.com/Slicejack/bojler)
+* [Maizzle](https://github.com/maizzle/maizzle)
+* [Pechkin](https://github.com/sglazov/pechkin)
+* [Premailer](https://github.com/premailer/premailer)
+* [Inky](https://github.com/foundation/inky)
 
