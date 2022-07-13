@@ -119,6 +119,13 @@ Moosend
 
 ----
 
+- [Spam Checker](https://mailmeteor.com/spam-checker)
+- [Email Checker](https://mailmeteor.com/email-checker)
+- [No-code Email Editor](https://mailmeteor.com/email-editor)
+- [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
+
+[Sister Repository](https://github.com/jonathandion/awesome-emails)
+
 A few tips for those who send cold emails. :handshake: Specifically, our best practices to avoid being trapped by spam filters and reach more prospects with your campaigns.
 
 - Switch to dedicated IP address
@@ -131,13 +138,6 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - Keep email lists clean (regularly validate them and stay away from bounces);
 - Do the warmup properly (increase the limits gradually, interact with recipients with high sender scores).
 We recommend to you pay more attention to these points
-
-- [Spam Checker](https://mailmeteor.com/spam-checker)
-- [Email Checker](https://mailmeteor.com/email-checker)
-- [No-code Email Editor](https://mailmeteor.com/email-editor)
-- [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
-
-[Sister Repository](https://github.com/jonathandion/awesome-emails)
 
 #### Arthur Tkachenko articles
 
@@ -157,15 +157,19 @@ We recommend to you pay more attention to these points
 - [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
 # Blogs
 # Resources
+
 Email templates
+
 - [Email Marketing Templates](https://www.hubspot.com/resources/template/email-marketing) 
 - [HTML Email Templates: A guide to getting started](https://www.getvero.com/resources/html-email-templates/)
 
 Stats
+
 - [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 - [The best email newsletter software: 9 email marketing services for your business](https://zapier.com/learn/email-marketing/best-email-newsletter-software/)
 
 ### Getvero 
+
 - [How Email Marketing Increased Monthly Revenue Growth By 34%](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
 - [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
 - [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
@@ -188,7 +192,8 @@ Stats
 - [How much is your newsletter worth?](https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-is-your-newsletter-worth-285518)
 - [Risks and rewards of a paid newsletter](https://www.getrevue.co/profile/the_week_in_newsletters/issues/risks-and-rewards-of-a-paid-newsletter-280186)
 
-GDPR
+### GDPR
+
 - [Collect Consent with GDPR Forms](https://mailchimp.com/help/collect-consent-with-gdpr-forms/)
 - [GDPR Re-permission Campaigns: 6 Tips for Making Them a Success](https://www.litmus.com/blog/gdpr-re-permission-campaigns-6-tips-for-making-them-a-success/)
 - [GDPR Consent Examples](https://www.privacypolicies.com/blog/gdpr-consent-examples/)
@@ -207,7 +212,8 @@ Links to read
 - [Complying with DMARC using Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-dmarc.html)
 - [I want to send HTML emails from my site, but Outlook is flagging them as spam](https://stackoverflow.com/questions/8269067/i-want-to-send-html-emails-from-my-site-but-outlook-is-flagging-them-as-spam)
 
-Reasons:
+### Reasons
+
 1. Your customers want to hear from you.
 2. Email newsletters spark sales.
 3. Newsletters reconnect you to your customers.
