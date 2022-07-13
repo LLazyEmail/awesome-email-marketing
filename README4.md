@@ -12,37 +12,64 @@
 * [Converkit](https://convertkit.com/) - Send automated emailing campaigns
 
 [An intuitive email builder for teams and individuals amps up email marketing ideas.](https://designmodo.com/postcards/)
-
-
 [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
-
 [Plate-forme de conception d'e-mails](https://stripo.email/fr/)
 
-- [Sendy](https://sendy.co/) - Send newsletters, 100x cheaper
-- [Sendfox](https://sendfox.com/) - Start a newsletter without money
-- [TinyLetter](tinyletter.com) - Email for people with something to say
-- [Mailerlite](https://www.mailerlite.com/pricing) - Pricing mailerlite
-- [BUTTONDOWN](https://buttondown.email/) - The easiest way to write/grow/build/launch/share/run/ your newsletter
-- [Upscribe](https://www.upscribe.net/) - Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &amp; Sequences Tool. No more battling with your email newsletter tool…
-- [Palabra](https://palabra.io/) - Automate your product-led growth
-- [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software 
-- [Froged](https://froged.com/) - Optimize your Customer Experience with One Powerful Product
-- [Moosend](https://moosend.com/) - The easiest email marketing and automation software]
-- [Mailjet](https://www.mailjet.com/) - Create and send beautiful emails without touching a single line of code
-- [UnderSend](https://undersend.com/) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS 
-- [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
-- [Customer.io](https://customer.io/) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS < indiehacker)
+
+
+Sendy -  [Send newsletters, 100x cheaper](https://sendy.co/)
+Sendfox - [Start a newsletter without money](https://sendfox.com/)
+TinyLetter - [Email for people with something to say](tinyletter.com)
+Mailerlite - [Pricing mailerlite](https://www.mailerlite.com/pricing)
+BUTTONDOWN - [The easiest way to write/grow/build/launch/share/run/ your newsletter](https://buttondown.email/)
+Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &amp; Sequences Tool
+[No more battling with your email newsletter tool…](https://www.upscribe.net/)
+
+### Palabra
+[Automate your product-led growth](https://palabra.io/) 
+
+### Friendly
+[The Privacy Friendly Marketing Automation Software](https://friendly.is/automate) 
+
+### Froged
+[Optimize your Customer Experience with One Powerful Product](https://froged.com/)
+
+
+Moosend
+[The easiest email marketing and automation software](https://moosend.com/) 
+
+Mailjet
+[Create and send beautiful emails without touching a single line of code](https://www.mailjet.com/)
+
+UnderSend
+[Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS](https://undersend.com/) 
+
+MailMeteor
+[Send personalized mass emails with the best mail merge in Gmail](https://mailmeteor.com)
+
+Customer.io
+[Build your dream messaging workflows](https://customer.io/) (send targeted emails, push notifications, and SMS < indiehacker)
 
 
 ---
 Email Octopus + Amazon SES
+
 Email Octopus + Zapier + eCom?
 
 
-- [EmailOctopus](https://emailoctopus.com/) - Email marketing made easy
-- [NoCodeLetters](https://nocodeletters.com/) - Send your newsletters directly from Notion
-- [BirdSend](https://birdsend.co/) - Don't waste paying 3-5X more on an expensive email marketing tool
-- [ActiveCampaign](https://www.activecampaign.com/) - Drive growth with customer experience automation
+EmailOctopus
+[Email marketing made easy](https://emailoctopus.com/)
+
+NoCodeLetters
+[Send your newsletters directly from Notion](https://nocodeletters.com/)
+
+BirdSend
+[Don't waste paying 3-5X more on an expensive email marketing tool](https://birdsend.co/)
+
+
+ActiveCampaign
+[Drive growth with customer experience automation](https://www.activecampaign.com/)
+
 - [AWeber](www.aweber.com)
 - [ConvertKit](convertkit.com)
 - [Constant Contact](www.constantcontact.com)
@@ -158,35 +185,35 @@ We recommend to you pay more attention to these points
 # Blogs
 # Resources
 Email templates
-- [Email Marketing Templates](https://www.hubspot.com/resources/template/email-marketing) 
-- [HTML Email Templates: A guide to getting started](https://www.getvero.com/resources/html-email-templates/)
+[Email Marketing Templates](https://www.hubspot.com/resources/template/email-marketing) 
+[HTML Email Templates: A guide to getting started](https://www.getvero.com/resources/html-email-templates/)
 
 Stats
-- [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
-- [The best email newsletter software: 9 email marketing services for your business](https://zapier.com/learn/email-marketing/best-email-newsletter-software/)
+[12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
+[The best email newsletter software: 9 email marketing services for your business](https://zapier.com/learn/email-marketing/best-email-newsletter-software/)
 
 ### Getvero 
-- [How Email Marketing Increased Monthly Revenue Growth By 34%](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
-- [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
-- [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
+[How Email Marketing Increased Monthly Revenue Growth By 34%](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
+[The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
+[25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
 
 ### Zapier with integrations
 
-- [How to choose email marketing software](https://zapier.com/learn/email-marketing/) 
-- [6 ways to automate your email marketing with Mailchimp](https://zapier.com/blog/mailchimp-integrations/) 
-- [4 ways to automate your email marketing for better communication](https://zapier.com/blog/automate-email-marketing/) 
-- [How to automate email marketing like a pro](https://zapier.com/learn/automation-for-small-businesses/email-marketing-automation/) 
-- [The 6 best email marketing apps to send drip campaigns in 2022](https://zapier.com/learn/email-marketing/best-drip-email-marketing-apps/) 
-- [4 ways to automate your email marketing for better communication](https://zapier.com/learn/email-marketing/email-marketing-list-automation/)
-- [Email by Zapier Integrations](https://zapier.com/apps/email/integrations)
+[How to choose email marketing software](https://zapier.com/learn/email-marketing/) 
+[6 ways to automate your email marketing with Mailchimp](https://zapier.com/blog/mailchimp-integrations/) 
+[4 ways to automate your email marketing for better communication](https://zapier.com/blog/automate-email-marketing/) 
+[How to automate email marketing like a pro](https://zapier.com/learn/automation-for-small-businesses/email-marketing-automation/) 
+[The 6 best email marketing apps to send drip campaigns in 2022](https://zapier.com/learn/email-marketing/best-drip-email-marketing-apps/) 
+[4 ways to automate your email marketing for better communication](https://zapier.com/learn/email-marketing/email-marketing-list-automation/)
+[Email by Zapier Integrations](https://zapier.com/apps/email/integrations)
 
 ### Revue
 
-- [A newsletter for readers and writers on Twitter.](https://www.getrevue.co/profile/the_week_in_newsletters) 
-- [How much can you earn from your newsletter?](https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-can-you-earn-from-your-newsletter-557696) 
-- [Options to start a paid newsletter](https://www.getrevue.co/profile/the_week_in_newsletters/issues/options-to-start-a-paid-newsletter-292557)
-- [How much is your newsletter worth?](https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-is-your-newsletter-worth-285518)
-- [Risks and rewards of a paid newsletter](https://www.getrevue.co/profile/the_week_in_newsletters/issues/risks-and-rewards-of-a-paid-newsletter-280186)
+[A newsletter for readers and writers on Twitter.](https://www.getrevue.co/profile/the_week_in_newsletters) 
+[How much can you earn from your newsletter?](https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-can-you-earn-from-your-newsletter-557696) 
+[Options to start a paid newsletter](https://www.getrevue.co/profile/the_week_in_newsletters/issues/options-to-start-a-paid-newsletter-292557)
+[How much is your newsletter worth?](https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-is-your-newsletter-worth-285518)
+[Risks and rewards of a paid newsletter](https://www.getrevue.co/profile/the_week_in_newsletters/issues/risks-and-rewards-of-a-paid-newsletter-280186)
 
 GDPR
 - [Collect Consent with GDPR Forms](https://mailchimp.com/help/collect-consent-with-gdpr-forms/)
