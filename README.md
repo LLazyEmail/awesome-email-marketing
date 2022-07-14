@@ -372,6 +372,106 @@ Can be extended a lot here.....
 
 ---
 
+
+=======
+
+- [Email Blueprints](https://github.com/mailchimp/email-blueprints)
+
+- [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
+
+- [Foundation for Emails](https://github.com/foundation/foundation-emails)
+
+- [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates)
+
+- [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates)
+
+- [Email-Boilerplate haw to use](https://github.com/seanpowell/Email-Boilerplate)
+
+- [SendGrid](https://github.com/sendgrid/email-templates)
+
+- [Email Templates](https://github.com/forwardemail/email-templates)
+
+- [Premailer README](https://github.com/premailer/premailer)
+
+- [Email Framework](https://github.com/g13nn/Email-Framework)
+
+- [Responsive HTML email templates](https://github.com/konsav/email-templates)
+
+- [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates)
+
+- [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico)
+
+- [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains)
+
+- [EmailEngine Email API](https://github.com/postalsys/emailengine)
+
+- [MJML 4](https://github.com/mjmlio/mjml)
+
+- [Forward email](https://github.com/forwardemail/free-email-forwarding)
+
+- [React html email](https://github.com/chromakode/react-html-email)
+
+- [SMTP Email Verification](https://github.com/EmailVerify/email-verify)
+
+- [Mailwind](https://github.com/soheilpro/mailwind)
+
+- [Email templates](https://github.com/mjmlio/email-templates)
+
+- [Email Lab](https://github.com/sparkbox/email-lab)
+
+- [Generating Emails with React](https://github.com/lang-ai/react-emails)
+
+---
+
+- [Free HTML Email Templates](https://github.com/designmodo/html-email-templates)
+
+- [Responsive Email](https://github.com/derekpunsalan/responsive-email)
+
+- [How to Code a Mobile-First Responsive Email Template [Tutorial]](https://designmodo.com/code-responsive-email-template/)
+
+- [Unlayer. Create beautiful emails, easily.](unlayer.com)
+
+- [Codepen Email Templates](https://codepen.io/collection/AyVBJr)
+
+- [Really good email](https://reallygoodemails.com/)
+
+- [Benchmarkemail. Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
+
+---
+
+- [Colorlib content is free. When you buy through links on our site, we may earn an affiliate commission. Learn More
+19 Email Platforms for Web Developers To Simplify Email Delivery 2022](https://colorlib.com/wp/email-platforms-for-developers/)
+
+- [Mailtrap. Email Sandbox Service](https://mailtrap.io/)
+
+- [Elastic-email. A Beginner’s Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
+
+- [How Bilety.fm Transitioned to Elastic Email](https://elasticemail.com/blog/bilety-fm-case-study)
+
+- [What Are The Advantages Of Mobile-First Email Design](https://elasticemail.com/blog/marketing_tips/mobile-first-email-design)
+
+- [7 Powerful Examples of AMP Email Campaigns](https://elasticemail.com/blog/7-powerful-examples-of-amp-email-campaigns)
+
+- [4 Reasons to Use Newsletters in Your Email Marketing Strategy](https://elasticemail.com/blog/newsletter-strategy)
+
+- [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md)
+
+
+### Transactional Emails
+
+- [Transactional Emails: Types, Examples and Best Practices](https://www.getvero.com/resources/guides/lifecycle-marketing/transactional-emails/)
+
+- [The Difference Between Marketing Email and Transactional Email](https://blog.hubspot.com/customers/difference-between-transactional-and-marketing-email)
+
+- [Email Guidelines](https://awesomeopensource.com/project/hteumeuleu/email-guidelines)
+
+- [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates)
+
+- [Mjml react](https://github.com/wix-incubator/mjml-react)
+
+- [Email Framework](https://github.com/g13nn/Email-Framework)
+
+
 - [Email Templates You Need To Run Your Startup](https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/)
 
 - [Inspiring Email Startups](https://mailtrap.io/blog/email-startups/)
