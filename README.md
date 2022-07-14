@@ -587,3 +587,93 @@ Can be extended a lot here.....
 * [Pechkin](https://github.com/sglazov/pechkin)
 * [Premailer](https://github.com/premailer/premailer)
 * [Inky](https://github.com/foundation/inky)
+
+---
+
+- [How to Send Newsletters On Demand](https://blog.feedly.com/how-to-send-newsletters-on-demand/)
+
+- [Demand curve tested tactics for growing newsletters](https://techcrunch.com/2021/08/03/demand-curve-tested-tactics-for-growing-newsletters/) 
+
+- [On demand newsletters](http://www.tlehs.com/on-demand-newsletters) 
+
+- [Advanced marketing insights. By email](https://www.demandcurve.com/newsletter#oktgfxnrwma0uvcsjkaw)
+
+- [Deliver 100% personalized news and targeted newsletters to your partners – based on their preferences](https://www.impartner.com/news-on-demand/) 
+
+- [Top-Level Advice and Guidance from Experts in IT and Cyber Security—at no cost to you](https://www.it-on-demand.com/free-stuff/newsletters/) 
+
+- [Top 10 Supply Chain Newsletters](https://supplychaindigital.com/top10/top-10-supply-chain-newsletters) 
+
+- [Demand Curve: Email marketing tactics that convert subscribers into customers](https://techcrunch.com/2021/06/28/demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers/) 
+
+- [Feedotter](https://www.feedotter.com/customers/) 
+
+- [Everything you need to know about email newsletter monetization](https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/) 
+
+- [Creating Demand With Email Newsletters](https://ezinearticles.com/?Creating-Demand-With-Email-Newsletters&id=17354) 
+
+- [What 14 Studies Say About The Best Time To Send Email](https://coschedule.com/blog/best-time-to-send-email) 
+
+- [Five Reasons the Newsletter Should Be Part of Your Marketing Strategy](https://www.simplemachinesmarketing.com/blog/five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy/) 
+
+- [Email newsletters: start, improve, reap](https://www.zembr.co/blog-archive/email-newsletters-start-improve-reap) 
+
+- [94% Of Marketers Cite Email As Integral For Pandemic & Post-Pandemic Success](https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/) 
+
+- [The Future of Email in 2020 and Beyond: The Email Marketing Trends That Will Really Matter](https://www.litmus.com/blog/infographic-5-email-marketing-trends-2020/)
+
+- [Partnerdemand newsletters](https://www.partnerdemand.com/hpi/newsletters)
+
+- [63% of Marketers to Use Email Newsletters to Enhance First-Party Data](https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/) 
+
+- [Images vs. No Images in Email Marketing Newsletters: Which Gets Better Results?](https://www.impactplus.com/blog/images-vs.-no-images-in-marketing-emails-newsletters) 
+
+- [What are the benefits of email newsletters](https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters)
+
+---
+
+- website
+- popup form or subscribtion form(but be careful)
+- spread the word on your social media or create FB ads
+- provide a value to current users
+- make it easier to share your letter, so you can benefit from it. 
+ask your readers to share :)
+
+[How to Build an Email List From Scratch: 9 List Building Steps to Follow in 2022 + Infographic](https://www.getresponse.com/blog/email-list-building-ideas)
+
+1. Make your newsletter a valuable product 
+- Focus on your target audience 
+- Make it useful 
+- Engage with your contacts and ask for feedback 
+2. Promote your newsletter like a product 
+- Social media pages
+- Blog
+- Podcast
+- Online conferences and events
+- Partnerships\Ads-PPC campaigns
+- Use some tools and software
+3. Create lead magnets
+Examples:
+- Ebook 
+- Guide
+- Report 
+- Checklist 
+- Resource kit 
+- Framework 
+- Educational materials
+4. Present the benefits or joining your email list 
+5. Create a landing page for your newsletter 
+6. Add subscription forms to your website and blog 
+7. Create a survey for website and blog visitors 
+8. Run a webinar for your target audience (Partner up with people in your industry with same target audience)
+9. Create a list building funnel 
+- Lead magnet funnel 
+- Standard opt-in funnel 
+
+---
+
+- [React multi email](https://github.com/jsdevkr/react-multi-email)
+
+- [Generating Emails with React](https://github.com/lang-ai/react-emails)
+
+- [React Confirm Email](https://github.com/funador/react-confirm-email)
