@@ -32,7 +32,6 @@
 
 [An intuitive email builder for teams and individuals amps up email marketing ideas.](https://designmodo.com/postcards/)
 
-
 [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
 
 [Plate-forme de conception d'e-mails](https://stripo.email/fr/)
@@ -104,58 +103,26 @@ Email Octopus + Zapier + eCom?
 - [Woodpecker](woodpecker.co) 
 - Zoho Campaigns
 
-List different features that you might take into consideration
-- Email Builder	
-- Email Templates	
-- Landing Pages
-- Segmentation & Personalization
-- Retargeting Audience
-- Email Analytics
-- Dynamic Content
-- Marketing Calendar
-- Behavioral-based Automation
-- Custom-coded Templates
-- Lifetime Value
-- Surveys
-- Single-step Automation Rules
-- Multi-Step Workflows
-- A/B Testing
-- Multivariate Testing
-- Send Time Optimization
-- Phone Support	
-
-
 Moosend
 
-- [flodesk](https://flodesk.com/)
-- [peopcampaigns](https://pepocampaigns.com/)
-- [mailster](https://mailster.co/)
-- [sparkpost](https://www.sparkpost.com/)
-- [Jilt](https://jilt.com/)
-- [Autopilot](https://www.autopilothq.com/)
-- [Keap](https://keap.com/)
-
+- [flodesk](https://flodesk.com/) - a new email marketing service provider that’s built for creators, by creators
+- [peopcampaigns](https://pepocampaigns.com/) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
+- [mailster](https://mailster.co/) - is an easy to use Email Newsletter Plugin for WordPress
+- [sparkpost](https://www.sparkpost.com/) - is the world’s first and only predictive email intelligence platform
+- [Jilt](https://jilt.com/) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
+- [Autopilot](https://www.autopilothq.com/) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
+- [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
+- [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
 
 ----
+
+### Tools
 
 - [Spam Checker](https://mailmeteor.com/spam-checker)
 - [Email Checker](https://mailmeteor.com/email-checker)
 - [No-code Email Editor](https://mailmeteor.com/email-editor)
 - [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
 
-[Sister Repository](https://github.com/jonathandion/awesome-emails)
-
-A few tips for those who send cold emails. :handshake: Specifically, our best practices to avoid being trapped by spam filters and reach more prospects with your campaigns.
-
-- Switch to dedicated IP address
-- Set up and regularly monitor DNS settings (SPF, DKIM, DMARC, BIMI: you can do it manually or with record generator tools);
-- Respect sending limits (do not send 1000 emails per day per mailbox if your email service provider recommends 250);
-- Make the ‘from’ line trustful (name, surname, and company name must be real);
-- No caps lock, spam words, or exclamation marks in the subject line;
-- Do not insert links or images with the first cold email (your prospects’ are not supposed to hear from you, any links will be considered suspicious);
-- Check your email copy for spam triggers;
-- Keep email lists clean (regularly validate them and stay away from bounces);
-- Do the warmup properly (increase the limits gradually, interact with recipients with high sender scores).
 We recommend to you pay more attention to these points
 
 #### Arthur Tkachenko articles
@@ -171,10 +138,13 @@ We recommend to you pay more attention to these points
 * [#Together4Victory: List of Email Marketing Tools](https://hackernoon.com/together4victory-list-of-email-marketing-tools)
 * [Cool Newsletters for developers [Part 1]](https://hackernoon.com/cool-newsletters-for-developers-part-1)
 * [Cool resources for sending emails](https://hackernoon.com/cool-resources-for-sending-emails)
+* [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
+
+# Blogs
+
 - [Flodesk (Design emails people love to open.)](https://flodesk.com/)
 - [Mailwarm (Don't land in spam anymore)](https://www.mailwarm.com/)
-- [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
-# Blogs
+
 # Resources
 
 Email templates
@@ -190,6 +160,11 @@ Stats
 ### Getvero 
 
 - [How Email Marketing Increased Monthly Revenue Growth By 34%](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
+- [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
+- [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
+- [Making the most of your funnel: the ‘Hail Mary’ email](https://www.getvero.com/resources/making-the-most-of-your-funnel-the-hail-mary-email/) 
+- [15 Campaigns to Give You Inspiration for Data-driven Email Marketing Campaigns](https://www.getvero.com/resources/15-data-driven-email-marketing-campaigns-to-help-you-kick-ass-in-2014/)
+- [How Email Marketing Increased Monthly Revenue Growth By 34%/](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
 - [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
 - [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
 
@@ -222,6 +197,10 @@ Links to read
 - [DomainKeys Identified Mail (DKIM) Signatures](https://tools.ietf.org/html/rfc6376)
 - [Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1](https://tools.ietf.org/html/rfc7208)
 - [DomainKeys Identified Mail (DKIM) Service Overview](https://tools.ietf.org/html/rfc5585)
+- [I want to send HTML emails from my site, but Outlook is flagging them as spam](https://stackoverflow.com/questions/8269067/i-want-to-send-html-emails-from-my-site-but-outlook-is-flagging-them-as-spam
+
+### Sending emails via Amazon SES"
+
 - [What is Amazon SES?](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/Welcome.html)
 - [Verifying a DKIM domain identity with your DNS provider](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-domain-procedure.html)
 - [Verifying an email address identity](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-email-addresses.html)
@@ -229,40 +208,6 @@ Links to read
 - [Authenticating Email with DKIM in Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-dkim.html)
 - [Authenticating Email with SPF in Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-spf.html)
 - [Complying with DMARC using Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-dmarc.html)
-- [I want to send HTML emails from my site, but Outlook is flagging them as spam](https://stackoverflow.com/questions/8269067/i-want-to-send-html-emails-from-my-site-but-outlook-is-flagging-them-as-spam)
-
-### Reasons
-
-1. Your customers want to hear from you.
-2. Email newsletters spark sales.
-3. Newsletters reconnect you to your customers.
-4. Newsletters build your credibility.
-5. It’s a cheap way to test marketing ideas.
-6. It’s a way to get people when they’re on their phones.
-7. You can give your customers things of value and trigger their desire to reciprocate.
-8. You can segment your market as narrowly as you wish.
-9. It’s a warmup pen for your leads.
-10. You can start two-way conversations.
-
-Questions
-- What is the most common reason for subscribing to a newsletter?
-- What is the main purpose of a newsletter?
-- How should you start a newsletter?
-- Whats the difference between a blog and newsletter?
-- How do I start a newsletter for free?
-- What does it mean to subscribe to a newsletter?
-- Does subscribing to a newsletter cost money?
-- Why do we subscribe?
-- How do you organize a newsletter?
-- What are 5 elements of an effective newsletter?
-- What a newsletter should contain?
-- How many words should a newsletter be?
-- What is the best format for a newsletter?
-- How do you end a newsletter example?
-- How do you write a killer newsletter?
-- What can I do instead of a newsletter?
-- Does your blog need a newsletter?
-- Is a mailing list the same as a newsletter?
 
 CSS for email templates:
 - [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
@@ -282,8 +227,7 @@ CSS for email templates:
 - [The RIGHT WAY to create HTML emails | TUTORIAL [2021]](https://www.youtube.com/watch?v=sSNnixkKqcA)
 - [How to HTML: Your Guide to Designing and Coding Emails That Deliver](https://customer.io/blog/how-to-html-your-guide-to-designing-and-coding-emails-that-deliver/)
 - [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
-- [Mailbakery](https://mailbakery.com/)
-- [A Complete Guide To Create Your Own HTML Email](https://email.uplers.com/blog/step-step-guide-create-html-email/)
+- - [A Complete Guide To Create Your Own HTML Email](https://email.uplers.com/blog/step-step-guide-create-html-email/)
 - [Email Coding vs Web Coding: It’s Not The Same](https://smaily.com/email-coding-vs-web-coding-its-not-the-same/)
 - [Email Coding Guidelines](https://gist.github.com/janogarcia/4977a2346cbc7e52334b)
 
@@ -332,11 +276,6 @@ Advanced
 
 # Great links
 
-- [Making the most of your funnel: the ‘Hail Mary’ email](https://www.getvero.com/resources/making-the-most-of-your-funnel-the-hail-mary-email/) 
-- [15 Campaigns to Give You Inspiration for Data-driven Email Marketing Campaigns](https://www.getvero.com/resources/15-data-driven-email-marketing-campaigns-to-help-you-kick-ass-in-2014/)
-- [How Email Marketing Increased Monthly Revenue Growth By 34%/](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
-- [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
-- [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
 - [How ConvertKit helps you as a creator:](https://convertkit.com/features) 
 - [The best email newsletter software: 9 email marketing services for your business](https://zapier.com/learn/email-marketing/best-email-newsletter-software/) 
 - [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) 
@@ -677,3 +616,72 @@ Examples:
 - [Generating Emails with React](https://github.com/lang-ai/react-emails)
 
 - [React Confirm Email](https://github.com/funador/react-confirm-email)
+
+---
+
+List different features that you might take into consideration
+- Email Builder	
+- Email Templates	
+- Landing Pages
+- Segmentation & Personalization
+- Retargeting Audience
+- Email Analytics
+- Dynamic Content
+- Marketing Calendar
+- Behavioral-based Automation
+- Custom-coded Templates
+- Lifetime Value
+- Surveys
+- Single-step Automation Rules
+- Multi-Step Workflows
+- A/B Testing
+- Multivariate Testing
+- Send Time Optimization
+- Phone Support	
+
+A few tips for those who send cold emails. :handshake: Specifically, our best practices to avoid being trapped by spam filters and reach more prospects with your campaigns.
+
+- Switch to dedicated IP address
+- Set up and regularly monitor DNS settings (SPF, DKIM, DMARC, BIMI: you can do it manually or with record generator tools);
+- Respect sending limits (do not send 1000 emails per day per mailbox if your email service provider recommends 250);
+- Make the ‘from’ line trustful (name, surname, and company name must be real);
+- No caps lock, spam words, or exclamation marks in the subject line;
+- Do not insert links or images with the first cold email (your prospects’ are not supposed to hear from you, any links will be considered suspicious);
+- Check your email copy for spam triggers;
+- Keep email lists clean (regularly validate them and stay away from bounces);
+- Do the warmup properly (increase the limits gradually, interact with recipients with high sender scores).
+
+[Sister Repository](https://github.com/jonathandion/awesome-emails)
+
+### Reasons
+
+1. Your customers want to hear from you.
+2. Email newsletters spark sales.
+3. Newsletters reconnect you to your customers.
+4. Newsletters build your credibility.
+5. It’s a cheap way to test marketing ideas.
+6. It’s a way to get people when they’re on their phones.
+7. You can give your customers things of value and trigger their desire to reciprocate.
+8. You can segment your market as narrowly as you wish.
+9. It’s a warmup pen for your leads.
+10. You can start two-way conversations.
+
+Questions
+- What is the most common reason for subscribing to a newsletter?
+- What is the main purpose of a newsletter?
+- How should you start a newsletter?
+- Whats the difference between a blog and newsletter?
+- How do I start a newsletter for free?
+- What does it mean to subscribe to a newsletter?
+- Does subscribing to a newsletter cost money?
+- Why do we subscribe?
+- How do you organize a newsletter?
+- What are 5 elements of an effective newsletter?
+- What a newsletter should contain?
+- How many words should a newsletter be?
+- What is the best format for a newsletter?
+- How do you end a newsletter example?
+- How do you write a killer newsletter?
+- What can I do instead of a newsletter?
+- Does your blog need a newsletter?
+- Is a mailing list the same as a newsletter?
