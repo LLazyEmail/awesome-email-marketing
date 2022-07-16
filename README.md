@@ -49,11 +49,14 @@
 * [Palabra](https://palabra.io/) - Automate your product-led growth
 * [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software 
 * [Froged](https://froged.com/) - Optimize your Customer Experience with One Powerful Product
-* [Moosend](https://moosend.com/) - The easiest email marketing and automation software]
 * [Mailjet](https://www.mailjet.com/) - Create and send beautiful emails without touching a single line of code
 * [UnderSend](https://undersend.com/) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
 * [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
 * [Customer.io](https://customer.io/) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS < indiehacker)
+* [Flodesk](https://flodesk.com/) - Design emails people love to open
+* [Mailwarm](https://www.mailwarm.com/) - Don't land in spam anymore
+* [ConvertKit](https://convertkit.com) - How ConvertKit helps you as a creator
+* [SendX](https://www.sendx.io/) -  makes it easy to be a responsible email marketer
 
 ---
 Email Octopus + Amazon SES
@@ -76,15 +79,6 @@ Email Octopus + Zapier + eCom?
 - [Listmonk](https://listmonk.app/) - is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.
 - [BenchMark](https://www.benchmarkemail.com/) - is a simple email marketing tool for anyone who needs to send personalized email at scale.
 - [SendPulse](https://sendpulse.com/) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
-
-## Old
-- Mautic 
-- Sympa
-- OpenEMM
-- SendPortal
-- Lightmeterc
-
-[SendX makes it easy to be a responsible email marketer](https://www.sendx.io/)
 
 ## Have ecommerce integration
 - [Klaviyo](https://kinsta.com/) 
@@ -135,16 +129,12 @@ We recommend to you pay more attention to these points
 * [Email Marketing and How to Curate an Effective Business Newsletter](https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter)
 * [Exploring Substack for Building Your Newsletter](https://hackernoon.com/exploring-substack-for-building-your-newsletter)
 * [Building a Design System for Email Templates (React)](https://hackernoon.com/building-a-design-system-for-email-templates-react)
-* [#Together4Victory: List of Email Marketing Tools](https://hackernoon.com/together4victory-list-of-email-marketing-tools)
+* [Together4Victory: List of Email Marketing Tools](https://hackernoon.com/together4victory-list-of-email-marketing-tools)
 * [Cool Newsletters for developers [Part 1]](https://hackernoon.com/cool-newsletters-for-developers-part-1)
 * [Cool resources for sending emails](https://hackernoon.com/cool-resources-for-sending-emails)
-* [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
 
 ## Blogs
 
-- [Flodesk (Design emails people love to open.)](https://flodesk.com/)
-- [Mailwarm (Don't land in spam anymore)](https://www.mailwarm.com/)
-- [How ConvertKit helps you as a creator:](https://convertkit.com/features) 
 - [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) 
 - [200+ newsletters: a crowdsourced list of must-read emails](https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/) 
 - [The 80 best single-operator newsletters](https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet) 
@@ -154,10 +144,11 @@ We recommend to you pay more attention to these points
 
 ## Resources
 
+* [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
+
 ### Email templates
 
 - [Email Marketing Templates](https://www.hubspot.com/resources/template/email-marketing) 
-- [HTML Email Templates: A guide to getting started](https://www.getvero.com/resources/html-email-templates/)
 
 ### Stats
 
@@ -174,6 +165,7 @@ We recommend to you pay more attention to these points
 - [How Email Marketing Increased Monthly Revenue Growth By 34%/](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
 - [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
 - [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
+- [HTML Email Templates: A guide to getting started](https://www.getvero.com/resources/html-email-templates/)
 
 ### Zapier with integrations
 
@@ -250,6 +242,13 @@ We recommend to you pay more attention to these points
 [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
 
 [Plate-forme de conception d'e-mails](https://stripo.email/fr/)
+
+## Old
+- Mautic 
+- Sympa
+- OpenEMM
+- SendPortal
+- Lightmeterc
 
 ## Administration
 
@@ -516,6 +515,8 @@ List different features that you might take into consideration
 - Multivariate Testing
 - Send Time Optimization
 - Phone Support	
+
+----
 
 A few tips for those who send cold emails. :handshake: Specifically, our best practices to avoid being trapped by spam filters and reach more prospects with your campaigns.
 
