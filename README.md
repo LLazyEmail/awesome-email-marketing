@@ -18,10 +18,11 @@
 - [GDPR](#gdpr)
 - [Sending emails via Amazon SES](#sending-emails-via-amazon-ses)
 - [Testing](#testing)
-- [Metrics](#metrics)
+- [Newsletter Metrics](#newsletter-metrics)
 - [Great links](#great-links)
 - [Email marketing strategy](#email-marketing-strategy)
 - [Transactional Emails](#transactional-emails)
+- [Demand Curve: Tested tactics for growing newsletters](#demand-curve:-tested-tactics-for-growing-newsletters)
 - [Checkers](#checkers)
 - [Link checkers](#link-checkers)
 - [Repositories related to emails](#repositories-related-to-emails)
@@ -54,6 +55,10 @@
 * [UnderSend](https://undersend.com/) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
 * [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
 * [Customer.io](https://customer.io/) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS < indiehacker)
+* [Colorlib](https://colorlib.com) - is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month
+* [Mailtrap](https://mailtrap.io/) - is a testing tool and is not designed to deliver emails to real addresses
+* [Feedotter](https://www.feedotter.com) - Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools
+* [Stripo](https://stripo.email/fr/) - Plateforme de conception d'e-mails
 
 ---
 Email Octopus + Amazon SES
@@ -146,13 +151,14 @@ We recommend to you pay more attention to these points
 - [Mailwarm (Don't land in spam anymore)](https://www.mailwarm.com/)
 - [How ConvertKit helps you as a creator:](https://convertkit.com/features) 
 - [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) 
-- [200+ newsletters: a crowdsourced list of must-read emails](https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/) 
-- [The 80 best single-operator newsletters](https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet) 
-- [200+ newsletters: a crowdsourced list of must-read emails](https://medium.com/an-idea-for-you/25-newsletters-worth-inviting-into-your-inbox-62046f871a63) 
-- [Amazing email newsletters for bloggers/technology/scientists/startups/crypto/investing/finance/marceter/fitnesses](https://letterlist.com/)
 - [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 
 ## Resources
+
+- [How Bilety.fm Transitioned to Elastic Email](https://elasticemail.com/blog/bilety-fm-case-study)
+- [What Are The Advantages Of Mobile-First Email Design](https://elasticemail.com/blog/marketing_tips/mobile-first-email-design)
+- [7 Powerful Examples of AMP Email Campaigns](https://elasticemail.com/blog/7-powerful-examples-of-amp-email-campaigns)
+- [4 Reasons to Use Newsletters in Your Email Marketing Strategy](https://elasticemail.com/blog/newsletter-strategy)
 
 ### Email templates
 
@@ -201,22 +207,6 @@ We recommend to you pay more attention to these points
 - [GDPR Consent Examples](https://www.privacypolicies.com/blog/gdpr-consent-examples/)
 - [GDPR consent form examples – What to do and not to do](https://www.iubenda.com/en/help/21996-gdpr-consent-forms-examples)
 
-### Links to read
-- [DomainKeys Identified Mail (DKIM) Signatures](https://tools.ietf.org/html/rfc6376)
-- [Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1](https://tools.ietf.org/html/rfc7208)
-- [DomainKeys Identified Mail (DKIM) Service Overview](https://tools.ietf.org/html/rfc5585)
-- [I want to send HTML emails from my site, but Outlook is flagging them as spam](https://stackoverflow.com/questions/8269067/i-want-to-send-html-emails-from-my-site-but-outlook-is-flagging-them-as-spam)
-
-### Sending emails via Amazon SES"
-
-- [What is Amazon SES?](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/Welcome.html)
-- [Verifying a DKIM domain identity with your DNS provider](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-domain-procedure.html)
-- [Verifying an email address identity](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-email-addresses.html)
-- [How do I migrate from my email-sending solution to Amazon SES?](https://aws.amazon.com/ru/premiumsupport/knowledge-center/ses-migrate-email-solution/)
-- [Authenticating Email with DKIM in Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-dkim.html)
-- [Authenticating Email with SPF in Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-spf.html)
-- [Complying with DMARC using Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-dmarc.html)
-
 ### Frontend Development
 
 - [Responsive Email Templates](https://zurb.com/playground/responsive-email-templates)
@@ -234,69 +224,23 @@ We recommend to you pay more attention to these points
 - [A Complete Guide To Create Your Own HTML Email](https://email.uplers.com/blog/step-step-guide-create-html-email/)
 - [Email Coding vs Web Coding: It’s Not The Same](https://smaily.com/email-coding-vs-web-coding-its-not-the-same/)
 - [Email Coding Guidelines](https://gist.github.com/janogarcia/4977a2346cbc7e52334b)
+- [Free HTML Email Templates](https://github.com/designmodo/html-email-templates)
+- [Responsive Email](https://github.com/derekpunsalan/responsive-email)
+- [How to Code a Mobile-First Responsive Email Template [Tutorial]](https://designmodo.com/code-responsive-email-template/)
+- [Unlayer. Create beautiful emails, easily.](unlayer.com)
+- [Codepen Email Templates](https://codepen.io/collection/AyVBJr)
+- [Really good email](https://reallygoodemails.com/)
+- [Benchmarkemail. Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
+- [An intuitive email builder for teams and individuals amps up email marketing ideas](https://designmodo.com/postcards/)
+- [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
 
-### Github
+## Github
 
 - [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
 - [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
 - [Add CSS to the head section of an email template](https://knowledge.hubspot.com/email/can-i-add-css-to-the-head-section-of-my-email-templates)
 - [Free HTML Email Templates](https://www.dyspatch.io/resources/templates/)
 - [Inky](https://github.com/foundation/inky)
-
-## Miscellaneous
-
-[An intuitive email builder for teams and individuals amps up email marketing ideas](https://designmodo.com/postcards/)
-
-[1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
-
-[Plate-forme de conception d'e-mails](https://stripo.email/fr/)
-
-## Administration
-
-## Testing
-
-## Metrics
-
-- [Metrics: Measuring Your Newsletter](https://localnewslab.org/guide/newsletters/metrics-measuring-your-newsletter/)
-- [10 Metrics to Track Newsletter Content Success](https://writtent.com/blog/10-metrics-to-track-your-newsletter-content-success/)
-- [Email Marketing Benchmarks and Statistics by Industry](https://mailchimp.com/resources/email-marketing-benchmarks/)
-
----
-
-- [Email Marketing Benchmarks and Statistics by Industry](https://mailchimp.com/resources/email-marketing-benchmarks/)
-- [How to Effectively Measure Your Email Newsletter Performance](https://www.spinutech.com/digital-marketing/email/newsletter/how-to-effectively-measure-your-email-newsletter-performance/)
-- [How To Measure Your Newsletter Performance](https://fredericgonzalo.com/en/2017/11/28/how-to-measure-your-newsletter-performance/)
-- [Measuring the performance of your newsletter](https://www.verticalresponse.com/blog/measuring-the-performance-of-your-newsletter/)
-- [Beyond Clicks: 3 Methods to Measure Newsletter Effectiveness](https://www.gardnerweb.com/blog/post/getting-beyond-clicks-three-methods-for-measuring-newsletter-effectiveness)
-- [How to Measure Your Email Marketing Success](https://mailchimp.com/resources/how-to-measure-your-email-marketing-success/)
-- [6 Crucial Email Newsletter Metrics You Should Be Monitoring](https://blog.hubspot.com/marketing/email-newsletter-metrics-list)
-
----
-
-## Advanced
-
-- [6 advanced KPIs for measuring email engagement](https://www.smartinsights.com/email-marketing/email-marketing-analytics/email-engagement-kpis/)
-- [How To Measure Your Newsletter Performance](https://revenue-hub.com/measure-newsletter-performance/)
-- [How to create an effective email marketing strategy? (Step-By-Step Guide)](https://www.lianatech.com/resources/blog/how-to-create-an-effective-email-marketing-strategy-step-by-step-guide.html)
-- [7 Email Newsletter Best Practices for Small Businesses](https://www.fool.com/the-blueprint/email-newsletter-best-practices/)
-
-## Email marketing strategy
-
-- [7 Effective Email Marketing Strategies to Generate More Sales](https://alite-international.com/7-effective-email-marketing-strategies-generat-sales/) 
-- [Email marketing strategy: a data-driven guide](https://www.superoffice.com/blog/email-marketing-strategy/) 
-- [A Beginner’s Guide to Email Marketing](https://neilpatel.com/blog/beginners-guide-email-marketing/) 
-- [Email marketing strategy and tips for successful campaigns](https://mailchimp.com/email-marketing/) 
-
-### Can be extended a lot here.....
-
-- [10 Tried-And-True Email Marketing Tactics That Actually Work](https://www.forbes.com/sites/theyec/2020/09/11/10-tried-and-true-email-marketing-tactics-that-actually-work/?sh=3f5f54007a33) 
-- [What is an Email Marketing Strategy? - Guide](https://sendpulse.com/support/glossary/email-marketing-strategy) 
-- [8 Effective Email Marketing Strategies, Backed by Science](https://buffer.com/resources/8-effective-email-strategies-backed-by-research/) 
-- [Email Marketing: The #1 Ridiculously Easy Way To Grow Your Business](https://optinmonster.com/beginners-guide-to-email-marketing/) 
-- [The Email Design Guide is filled with tips and advice to help you convey your message in style. Learn how to better use images, fonts, calls to action and more](https://mailchimp.com/email-design-guide/)
-
----
-
 - [Email Blueprints](https://github.com/mailchimp/email-blueprints)
 - [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
 - [Foundation for Emails](https://github.com/foundation/foundation-emails)
@@ -316,79 +260,12 @@ We recommend to you pay more attention to these points
 - [Forward email](https://github.com/forwardemail/free-email-forwarding)
 - [React html email](https://github.com/chromakode/react-html-email)
 - [SMTP Email Verification](https://github.com/EmailVerify/email-verify)
-- [Mailwind](https://github.com/soheilpro/mailwind)
-- [Email templates](https://github.com/mjmlio/email-templates)
-- [Email Lab](https://github.com/sparkbox/email-lab)
-- [Generating Emails with React](https://github.com/lang-ai/react-emails)
 
----
+### [Mjml react](https://github.com/wix-incubator/mjml-react)
 
-- [Free HTML Email Templates](https://github.com/designmodo/html-email-templates)
-- [Responsive Email](https://github.com/derekpunsalan/responsive-email)
-- [How to Code a Mobile-First Responsive Email Template [Tutorial]](https://designmodo.com/code-responsive-email-template/)
-- [Unlayer. Create beautiful emails, easily.](unlayer.com)
-- [Codepen Email Templates](https://codepen.io/collection/AyVBJr)
-- [Really good email](https://reallygoodemails.com/)
-- [Benchmarkemail. Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
+### [Email Framework](https://github.com/g13nn/Email-Framework)
 
----
-
-- [Colorlib content is free. When you buy through links on our site, we may earn an affiliate commission. Learn More
-19 Email Platforms for Web Developers To Simplify Email Delivery 2022](https://colorlib.com/wp/email-platforms-for-developers/)
-- [Mailtrap. Email Sandbox Service](https://mailtrap.io/)
-- [Elastic-email. A Beginner’s Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
-- [How Bilety.fm Transitioned to Elastic Email](https://elasticemail.com/blog/bilety-fm-case-study)
-- [What Are The Advantages Of Mobile-First Email Design](https://elasticemail.com/blog/marketing_tips/mobile-first-email-design)
-- [7 Powerful Examples of AMP Email Campaigns](https://elasticemail.com/blog/7-powerful-examples-of-amp-email-campaigns)
-- [4 Reasons to Use Newsletters in Your Email Marketing Strategy](https://elasticemail.com/blog/newsletter-strategy)
-- [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md)
-
-## Transactional Emails
-
-- [Transactional Emails: Types, Examples and Best Practices](https://www.getvero.com/resources/guides/lifecycle-marketing/transactional-emails/)
-- [The Difference Between Marketing Email and Transactional Email](https://blog.hubspot.com/customers/difference-between-transactional-and-marketing-email)
-- [Email Guidelines](https://awesomeopensource.com/project/hteumeuleu/email-guidelines)
-- [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates)
-- [Mjml react](https://github.com/wix-incubator/mjml-react)
-- [Email Framework](https://github.com/g13nn/Email-Framework)
-- [Email Templates You Need To Run Your Startup](https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/)
-- [Inspiring Email Startups](https://mailtrap.io/blog/email-startups/)
-- [Email marketing automation tools startups](https://messaged.com/email-marketing-automation-tools-startups)
-- [Email Marketing for Startups: Promotion Best Practices](https://sendpulse.com/blog/email-marketing-for-startups)
-- [5 essential lessons of email marketing for startups](https://www.campaignmonitor.com/blog/email-marketing/5-essential-lessons-of-email-marketing-for-startups/)
-- [How to Send Email Like a Startup](https://www.dyspatch.io/ebooks-guides-report/how-to-send-email-like-a-startup/)
-- [The Startup CEO blog. Email](https://startupceo.com/category/email)
-- [What is transactional email and what is it used for?](https://postmarkapp.com/blog/what-is-transactional-email-and-how-is-it-used)
-- [About Transactional Email](https://mailchimp.com/help/about-transactional-email/)
-- [The Difference Between Marketing Email and Transactional Email](https://blog.hubspot.com/customers/difference-between-transactional-and-marketing-email)
-- [Transactional Email](https://sendgrid.com/use-cases/transactional-email/)
-- [Transactional Emails: Types, Examples and Best Practices](https://www.getvero.com/resources/guides/lifecycle-marketing/transactional-emails/)
-- [What is a Transactional Email? - Definitive Guide](https://sendpulse.com/support/glossary/transactional-email)
-- [The 6 best transactional email services in 2022](https://zapier.com/blog/best-transactional-email-sending-services/)
-- [Transactional Email Explained: Definition, Best Practices, & Setup](https://www.sendinblue.com/blog/transactional-emails-guide/)
-- [What are transactional emails?](https://www.zoho.com/zeptomail/what-are-transactional-emails.html)
-- [The Beginner’s Guide to Transactional Emails](https://encharge.io/what-are-transactional-emails/)
-- [Transactional Email: What It Is, Why You Need It [+Examples]](https://www.getresponse.com/blog/introducing-transactional-emails)
-- [What is Transactional Email?](https://www.sparkpost.com/blog/transactional-email-101/)
-- [Transactional email: Definition, types, and examples](https://www.omnisend.com/blog/transactional-email/)
-- [Transactional emails](https://help.campaignmonitor.com/transactional-emails)
-- [Intro to Transactional Emails](https://mailtrap.io/blog/transactional-emails/)
-- [How to use flows to send transactional emails](https://help.klaviyo.com/hc/en-us/articles/360003165732-How-to-use-flows-to-send-transactional-emails)
-- [What Is a Transactional Email? (With 10 Stunning Examples)](https://optinmonster.com/transactional-emails/)
-- [10 Transactional Email Examples to Help You Sell, Upsell & Boost Engagement](https://instapage.com/blog/transactional-email-best-practices)
-- [Transactional Email campaigns](https://www.braze.com/docs/user_guide/message_building_by_channel/email/transactional_message_api_campaign/)
-- [What Is a Transactional Email?](https://serversmtp.com/what-is-a-transactional-email/)
-- [Best Transactional Email Software](https://www.g2.com/categories/transactional-email)
-- [Your Lite option: MailerSend](https://www.mailerlite.com/features/transactional-emails)
-- [Transactional emails](https://documentation.bloomreach.com/engagement/docs/transactional-emails)
-- [Reliable Transactional Email Services](https://www.mailjet.com/solutions/use-cases/transactional-email/)
-- [Transactional Email – Send Email From Your WordPress Website](https://kinsta.com/help/transactional-email/)
-- [What are marketing and transactional emails?](https://help.kajabi.com/hc/en-us/articles/360043089694-What-are-marketing-and-transactional-emails-)
-- [Ultimate guide: Transactional email explained (what, why and how)](https://www.mailersend.com/blog/transactional-email-explained)
-
----
-
-## Checkers
+### Checkers
 
 - [HTML email check](https://www.htmlemailcheck.com/check/)
 - [A ESLint plugin to lint and fix inline scripts contained in HTML files](https://www.npmjs.com/package/eslint-plugin-html)
@@ -426,7 +303,134 @@ We recommend to you pay more attention to these points
 * [Premailer](https://github.com/premailer/premailer)
 * [Inky](https://github.com/foundation/inky)
 
+### [React multi email](https://github.com/jsdevkr/react-multi-email)
+
+### [Generating Emails with React](https://github.com/lang-ai/react-emails)
+
+### [React Confirm Email](https://github.com/funador/react-confirm-email)
+
+## Miscellaneous
+
+- [200+ newsletters: a crowdsourced list of must-read emails](https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/) 
+- [The 80 best single-operator newsletters](https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet) 
+- [200+ newsletters: a crowdsourced list of must-read emails](https://medium.com/an-idea-for-you/25-newsletters-worth-inviting-into-your-inbox-62046f871a63) 
+- [Amazing email newsletters for bloggers/technology/scientists/startups/crypto/investing/finance/marceter/fitnesses](https://letterlist.com/)
+
+## Administration
+
+### Links to read
+- [DomainKeys Identified Mail (DKIM) Signatures](https://tools.ietf.org/html/rfc6376)
+- [Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1](https://tools.ietf.org/html/rfc7208)
+- [DomainKeys Identified Mail (DKIM) Service Overview](https://tools.ietf.org/html/rfc5585)
+- [I want to send HTML emails from my site, but Outlook is flagging them as spam](https://stackoverflow.com/questions/8269067/i-want-to-send-html-emails-from-my-site-but-outlook-is-flagging-them-as-spam)
+
+### Sending emails via Amazon SES"
+
+- [What is Amazon SES?](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/Welcome.html)
+- [Verifying a DKIM domain identity with your DNS provider](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-domain-procedure.html)
+- [Verifying an email address identity](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-email-addresses.html)
+- [How do I migrate from my email-sending solution to Amazon SES?](https://aws.amazon.com/ru/premiumsupport/knowledge-center/ses-migrate-email-solution/)
+- [Authenticating Email with DKIM in Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-dkim.html)
+- [Authenticating Email with SPF in Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-spf.html)
+- [Complying with DMARC using Amazon SES](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/send-email-authentication-dmarc.html)
+
+## Testing
+
+## Newsletter Metrics
+
+### Basics
+
+- [Metrics: Measuring Your Newsletter](https://localnewslab.org/guide/newsletters/metrics-measuring-your-newsletter/)
+- [10 Metrics to Track Newsletter Content Success](https://writtent.com/blog/10-metrics-to-track-your-newsletter-content-success/)
+- [Email Marketing Benchmarks and Statistics by Industry](https://mailchimp.com/resources/email-marketing-benchmarks/)
+
+### How To Measure Your Newsletter Performance
+
+- [Email Marketing Benchmarks and Statistics by Industry](https://mailchimp.com/resources/email-marketing-benchmarks/)
+- [How to Effectively Measure Your Email Newsletter Performance](https://www.spinutech.com/digital-marketing/email/newsletter/how-to-effectively-measure-your-email-newsletter-performance/)
+- [How To Measure Your Newsletter Performance](https://fredericgonzalo.com/en/2017/11/28/how-to-measure-your-newsletter-performance/)
+- [Measuring the performance of your newsletter](https://www.verticalresponse.com/blog/measuring-the-performance-of-your-newsletter/)
+- [Beyond Clicks: 3 Methods to Measure Newsletter Effectiveness](https://www.gardnerweb.com/blog/post/getting-beyond-clicks-three-methods-for-measuring-newsletter-effectiveness)
+- [How to Measure Your Email Marketing Success](https://mailchimp.com/resources/how-to-measure-your-email-marketing-success/)
+- [6 Crucial Email Newsletter Metrics You Should Be Monitoring](https://blog.hubspot.com/marketing/email-newsletter-metrics-list)
+
+### Advanced
+
+- [6 advanced KPIs for measuring email engagement](https://www.smartinsights.com/email-marketing/email-marketing-analytics/email-engagement-kpis/)
+- [How To Measure Your Newsletter Performance](https://revenue-hub.com/measure-newsletter-performance/)
+- [How to create an effective email marketing strategy? (Step-By-Step Guide)](https://www.lianatech.com/resources/blog/how-to-create-an-effective-email-marketing-strategy-step-by-step-guide.html)
+- [7 Email Newsletter Best Practices for Small Businesses](https://www.fool.com/the-blueprint/email-newsletter-best-practices/)
+
+## Email marketing strategy
+
+- [7 Effective Email Marketing Strategies to Generate More Sales](https://alite-international.com/7-effective-email-marketing-strategies-generat-sales/) 
+- [Email marketing strategy: a data-driven guide](https://www.superoffice.com/blog/email-marketing-strategy/) 
+- [A Beginner’s Guide to Email Marketing](https://neilpatel.com/blog/beginners-guide-email-marketing/) 
+- [Email marketing strategy and tips for successful campaigns](https://mailchimp.com/email-marketing/) 
+
+### Can be extended a lot here.....
+
+- [10 Tried-And-True Email Marketing Tactics That Actually Work](https://www.forbes.com/sites/theyec/2020/09/11/10-tried-and-true-email-marketing-tactics-that-actually-work/?sh=3f5f54007a33) 
+- [What is an Email Marketing Strategy? - Guide](https://sendpulse.com/support/glossary/email-marketing-strategy) 
+- [8 Effective Email Marketing Strategies, Backed by Science](https://buffer.com/resources/8-effective-email-strategies-backed-by-research/) 
+- [Email Marketing: The #1 Ridiculously Easy Way To Grow Your Business](https://optinmonster.com/beginners-guide-to-email-marketing/) 
+- [The Email Design Guide is filled with tips and advice to help you convey your message in style. Learn how to better use images, fonts, calls to action and more](https://mailchimp.com/email-design-guide/)
+
 ---
+
+- [Mailwind](https://github.com/soheilpro/mailwind)
+- [Email templates](https://github.com/mjmlio/email-templates)
+- [Email Lab](https://github.com/sparkbox/email-lab)
+- [Generating Emails with React](https://github.com/lang-ai/react-emails)
+
+---
+
+- [Elastic-email. A Beginner’s Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
+
+
+## Transactional Emails
+
+- [Transactional Emails: Types, Examples and Best Practices](https://www.getvero.com/resources/guides/lifecycle-marketing/transactional-emails/)
+- [The Difference Between Marketing Email and Transactional Email](https://blog.hubspot.com/customers/difference-between-transactional-and-marketing-email)
+- [Email Guidelines](https://awesomeopensource.com/project/hteumeuleu/email-guidelines)
+- [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates)
+- [Email Templates You Need To Run Your Startup](https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/)
+- [Inspiring Email Startups](https://mailtrap.io/blog/email-startups/)
+- [Email marketing automation tools startups](https://messaged.com/email-marketing-automation-tools-startups)
+- [Email Marketing for Startups: Promotion Best Practices](https://sendpulse.com/blog/email-marketing-for-startups)
+- [5 essential lessons of email marketing for startups](https://www.campaignmonitor.com/blog/email-marketing/5-essential-lessons-of-email-marketing-for-startups/)
+- [How to Send Email Like a Startup](https://www.dyspatch.io/ebooks-guides-report/how-to-send-email-like-a-startup/)
+- [The Startup CEO blog. Email](https://startupceo.com/category/email)
+- [What is transactional email and what is it used for?](https://postmarkapp.com/blog/what-is-transactional-email-and-how-is-it-used)
+- [About Transactional Email](https://mailchimp.com/help/about-transactional-email/)
+- [The Difference Between Marketing Email and Transactional Email](https://blog.hubspot.com/customers/difference-between-transactional-and-marketing-email)
+- [Transactional Email](https://sendgrid.com/use-cases/transactional-email/)
+- [Transactional Emails: Types, Examples and Best Practices](https://www.getvero.com/resources/guides/lifecycle-marketing/transactional-emails/)
+- [What is a Transactional Email? - Definitive Guide](https://sendpulse.com/support/glossary/transactional-email)
+- [The 6 best transactional email services in 2022](https://zapier.com/blog/best-transactional-email-sending-services/)
+- [Transactional Email Explained: Definition, Best Practices, & Setup](https://www.sendinblue.com/blog/transactional-emails-guide/)
+- [What are transactional emails?](https://www.zoho.com/zeptomail/what-are-transactional-emails.html)
+- [The Beginner’s Guide to Transactional Emails](https://encharge.io/what-are-transactional-emails/)
+- [Transactional Email: What It Is, Why You Need It [+Examples]](https://www.getresponse.com/blog/introducing-transactional-emails)
+- [What is Transactional Email?](https://www.sparkpost.com/blog/transactional-email-101/)
+- [Transactional email: Definition, types, and examples](https://www.omnisend.com/blog/transactional-email/)
+- [Transactional emails](https://help.campaignmonitor.com/transactional-emails)
+- [Intro to Transactional Emails](https://mailtrap.io/blog/transactional-emails/)
+- [How to use flows to send transactional emails](https://help.klaviyo.com/hc/en-us/articles/360003165732-How-to-use-flows-to-send-transactional-emails)
+- [What Is a Transactional Email? (With 10 Stunning Examples)](https://optinmonster.com/transactional-emails/)
+- [10 Transactional Email Examples to Help You Sell, Upsell & Boost Engagement](https://instapage.com/blog/transactional-email-best-practices)
+- [Transactional Email campaigns](https://www.braze.com/docs/user_guide/message_building_by_channel/email/transactional_message_api_campaign/)
+- [What Is a Transactional Email?](https://serversmtp.com/what-is-a-transactional-email/)
+- [Best Transactional Email Software](https://www.g2.com/categories/transactional-email)
+- [Your Lite option: MailerSend](https://www.mailerlite.com/features/transactional-emails)
+- [Transactional emails](https://documentation.bloomreach.com/engagement/docs/transactional-emails)
+- [Reliable Transactional Email Services](https://www.mailjet.com/solutions/use-cases/transactional-email/)
+- [Transactional Email – Send Email From Your WordPress Website](https://kinsta.com/help/transactional-email/)
+- [What are marketing and transactional emails?](https://help.kajabi.com/hc/en-us/articles/360043089694-What-are-marketing-and-transactional-emails-)
+- [Ultimate guide: Transactional email explained (what, why and how)](https://www.mailersend.com/blog/transactional-email-explained)
+
+---
+## Demand Curve: Tested tactics for growing newsletters
 
 - [How to Send Newsletters On Demand](https://blog.feedly.com/how-to-send-newsletters-on-demand/)
 - [Demand curve tested tactics for growing newsletters](https://techcrunch.com/2021/08/03/demand-curve-tested-tactics-for-growing-newsletters/) 
@@ -436,7 +440,9 @@ We recommend to you pay more attention to these points
 - [Top-Level Advice and Guidance from Experts in IT and Cyber Security—at no cost to you](https://www.it-on-demand.com/free-stuff/newsletters/) 
 - [Top 10 Supply Chain Newsletters](https://supplychaindigital.com/top10/top-10-supply-chain-newsletters) 
 - [Demand Curve: Email marketing tactics that convert subscribers into customers](https://techcrunch.com/2021/06/28/demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers/) 
-- [Feedotter](https://www.feedotter.com/customers/) 
+
+---
+
 - [Everything you need to know about email newsletter monetization](https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/) 
 - [Creating Demand With Email Newsletters](https://ezinearticles.com/?Creating-Demand-With-Email-Newsletters&id=17354) 
 - [What 14 Studies Say About The Best Time To Send Email](https://coschedule.com/blog/best-time-to-send-email) 
@@ -491,12 +497,6 @@ Examples:
 
 ---
 
-- [React multi email](https://github.com/jsdevkr/react-multi-email)
-- [Generating Emails with React](https://github.com/lang-ai/react-emails)
-- [React Confirm Email](https://github.com/funador/react-confirm-email)
-
----
-
 List different features that you might take into consideration
 - Email Builder	
 - Email Templates	
@@ -530,6 +530,8 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - Do the warmup properly (increase the limits gradually, interact with recipients with high sender scores).
 
 [Sister Repository](https://github.com/jonathandion/awesome-emails)
+
+[Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md)
 
 ## Reasons
 
