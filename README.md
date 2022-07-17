@@ -13,19 +13,18 @@
 - [Blogs](#blogs)
 - [Resources](#resources)
 - [Getvero](#getvero)
-- [Zapier with integrations](#zapier-with-integrations)
+- [Zapier Blog](#zapier-blog)
 - [Revue](#revue)
 - [GDPR](#gdpr)
 - [Sending emails via Amazon SES](#sending-emails-via-amazon-ses)
 - [Testing](#testing)
 - [Newsletter Metrics](#newsletter-metrics)
-- [Great links](#great-links)
 - [Email marketing strategy](#email-marketing-strategy)
 - [Transactional Emails](#transactional-emails)
-- [Demand Curve: Tested tactics for growing newsletters](#demand-curve:-tested-tactics-for-growing-newsletters)
+- [Demand Curve: Tested tactics for growing newsletters](#demand-curve-tested-tactics-for-growing-newsletters)
 - [Checkers](#checkers)
-- [Link checkers](#link-checkers)
-- [Repositories related to emails](#repositories-related-to-emails)
+- [DNS DKIM record](#dns-dkim-record)
+- [GitHub repositories related to email marketing](#github-repositories-related-to-email-marketing)
 - [HTML stuff](#html-stuff)
 - [Cool projects to take a look](#cool-projects-to-take-a-look)
 - [Reasons](#reasons)
@@ -147,23 +146,22 @@ We recommend to you pay more attention to these points
 
 ## Resources
 
-
-* [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
-
+- [Elastic-email. A Beginner’s Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
+- [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
 - [How Bilety.fm Transitioned to Elastic Email](https://elasticemail.com/blog/bilety-fm-case-study)
 - [What Are The Advantages Of Mobile-First Email Design](https://elasticemail.com/blog/marketing_tips/mobile-first-email-design)
 - [7 Powerful Examples of AMP Email Campaigns](https://elasticemail.com/blog/7-powerful-examples-of-amp-email-campaigns)
 - [4 Reasons to Use Newsletters in Your Email Marketing Strategy](https://elasticemail.com/blog/newsletter-strategy)
+- [Everything you need to know about email newsletter monetization](https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/) 
+- [What 14 Studies Say About The Best Time To Send Email](https://coschedule.com/blog/best-time-to-send-email) 
+- [Five Reasons the Newsletter Should Be Part of Your Marketing Strategy](https://www.simplemachinesmarketing.com/blog/five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy/) 
+- [Images vs. No Images in Email Marketing Newsletters: Which Gets Better Results?](https://www.impactplus.com/blog/images-vs.-no-images-in-marketing-emails-newsletters) 
+- [What are the benefits of email newsletters](https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters)
 
 
 ### Email templates
 
 - [Email Marketing Templates](https://www.hubspot.com/resources/template/email-marketing) 
-
-### Stats
-
-- [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
-- [The best email newsletter software: 9 email marketing services for your business](https://zapier.com/learn/email-marketing/best-email-newsletter-software/)
 
 ### Getvero 
 
@@ -177,7 +175,7 @@ We recommend to you pay more attention to these points
 - [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
 - [HTML Email Templates: A guide to getting started](https://www.getvero.com/resources/html-email-templates/)
 
-### Zapier with integrations
+### Zapier Blog
 
 - [How to choose email marketing software](https://zapier.com/learn/email-marketing/) 
 - [6 ways to automate your email marketing with Mailchimp](https://zapier.com/blog/mailchimp-integrations/) 
@@ -256,10 +254,8 @@ We recommend to you pay more attention to these points
 - [Forward email](https://github.com/forwardemail/free-email-forwarding)
 - [React html email](https://github.com/chromakode/react-html-email)
 - [SMTP Email Verification](https://github.com/EmailVerify/email-verify)
-
-### [Mjml react](https://github.com/wix-incubator/mjml-react)
-
-### [Email Framework](https://github.com/g13nn/Email-Framework)
+- [Mjml react](https://github.com/wix-incubator/mjml-react)
+- [Email Framework](https://github.com/g13nn/Email-Framework)
 
 ### Checkers
 
@@ -267,19 +263,23 @@ We recommend to you pay more attention to these points
 - [A ESLint plugin to lint and fix inline scripts contained in HTML files](https://www.npmjs.com/package/eslint-plugin-html)
 - [HTML Validator - Linter](https://www.freeformatter.com/html-validator.html) 
 
-### Link checkers
+### DNS DKIM record
 
 * [Broken-link-checker](https://www.npmjs.com/package/broken-link-checker)
 * [Link-checker](https://www.npmjs.com/package/link-checker)
 * [Link-check](https://www.npmjs.com/package/link-check)
 
-### Repositories related to emails
+### GitHub repositories related to email marketing
 
 * [Quickly build HTML emails with utility-first CSS](https://maizzle.com/)
 * [Verymail](https://www.npmjs.com/package/verymail)
 * [Markdown To Mailchimp (www.npmjs.com)](https://www.npmjs.com/package/markdown-to-mailchimp)
 * [Markdown To Mailchimp (github.com)](https://github.com/MarcL/markdown-to-mailchimp)
 * [HTML tag validator](https://github.com/pluralsight/htmlTagValidator)
+* [Mailwind](https://github.com/soheilpro/mailwind)
+* [Email templates](https://github.com/mjmlio/email-templates)
+* [Email Lab](https://github.com/sparkbox/email-lab)
+* [Generating Emails with React](https://github.com/lang-ai/react-emails)
 
 ### HTML stuff
 
@@ -299,11 +299,11 @@ We recommend to you pay more attention to these points
 * [Premailer](https://github.com/premailer/premailer)
 * [Inky](https://github.com/foundation/inky)
 
-### [React multi email](https://github.com/jsdevkr/react-multi-email)
+[React multi email](https://github.com/jsdevkr/react-multi-email)
 
-### [Generating Emails with React](https://github.com/lang-ai/react-emails)
+[Generating Emails with React](https://github.com/lang-ai/react-emails)
 
-### [React Confirm Email](https://github.com/funador/react-confirm-email)
+[React Confirm Email](https://github.com/funador/react-confirm-email)
 
 ## Miscellaneous
 
@@ -327,7 +327,7 @@ We recommend to you pay more attention to these points
 - [DomainKeys Identified Mail (DKIM) Service Overview](https://tools.ietf.org/html/rfc5585)
 - [I want to send HTML emails from my site, but Outlook is flagging them as spam](https://stackoverflow.com/questions/8269067/i-want-to-send-html-emails-from-my-site-but-outlook-is-flagging-them-as-spam)
 
-### Sending emails via Amazon SES"
+### Sending emails via Amazon SES
 
 - [What is Amazon SES?](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/Welcome.html)
 - [Verifying a DKIM domain identity with your DNS provider](https://docs.aws.amazon.com/ses/latest/DeveloperGuide/verify-domain-procedure.html)
@@ -346,6 +346,7 @@ We recommend to you pay more attention to these points
 - [Metrics: Measuring Your Newsletter](https://localnewslab.org/guide/newsletters/metrics-measuring-your-newsletter/)
 - [10 Metrics to Track Newsletter Content Success](https://writtent.com/blog/10-metrics-to-track-your-newsletter-content-success/)
 - [Email Marketing Benchmarks and Statistics by Industry](https://mailchimp.com/resources/email-marketing-benchmarks/)
+- [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 
 ### How To Measure Your Newsletter Performance
 
@@ -371,7 +372,6 @@ We recommend to you pay more attention to these points
 - [A Beginner’s Guide to Email Marketing](https://neilpatel.com/blog/beginners-guide-email-marketing/) 
 - [Email marketing strategy and tips for successful campaigns](https://mailchimp.com/email-marketing/) 
 
-### Can be extended a lot here.....
 
 - [10 Tried-And-True Email Marketing Tactics That Actually Work](https://www.forbes.com/sites/theyec/2020/09/11/10-tried-and-true-email-marketing-tactics-that-actually-work/?sh=3f5f54007a33) 
 - [What is an Email Marketing Strategy? - Guide](https://sendpulse.com/support/glossary/email-marketing-strategy) 
@@ -380,16 +380,6 @@ We recommend to you pay more attention to these points
 - [The Email Design Guide is filled with tips and advice to help you convey your message in style. Learn how to better use images, fonts, calls to action and more](https://mailchimp.com/email-design-guide/)
 
 ---
-
-- [Mailwind](https://github.com/soheilpro/mailwind)
-- [Email templates](https://github.com/mjmlio/email-templates)
-- [Email Lab](https://github.com/sparkbox/email-lab)
-- [Generating Emails with React](https://github.com/lang-ai/react-emails)
-
----
-
-- [Elastic-email. A Beginner’s Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
-
 
 ## Transactional Emails
 
@@ -446,17 +436,12 @@ We recommend to you pay more attention to these points
 
 ---
 
-- [Everything you need to know about email newsletter monetization](https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/) 
 - [Creating Demand With Email Newsletters](https://ezinearticles.com/?Creating-Demand-With-Email-Newsletters&id=17354) 
-- [What 14 Studies Say About The Best Time To Send Email](https://coschedule.com/blog/best-time-to-send-email) 
-- [Five Reasons the Newsletter Should Be Part of Your Marketing Strategy](https://www.simplemachinesmarketing.com/blog/five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy/) 
 - [Email newsletters: start, improve, reap](https://www.zembr.co/blog-archive/email-newsletters-start-improve-reap) 
 - [94% Of Marketers Cite Email As Integral For Pandemic & Post-Pandemic Success](https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/) 
 - [The Future of Email in 2020 and Beyond: The Email Marketing Trends That Will Really Matter](https://www.litmus.com/blog/infographic-5-email-marketing-trends-2020/)
 - [Partnerdemand newsletters](https://www.partnerdemand.com/hpi/newsletters)
 - [63% of Marketers to Use Email Newsletters to Enhance First-Party Data](https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/) 
-- [Images vs. No Images in Email Marketing Newsletters: Which Gets Better Results?](https://www.impactplus.com/blog/images-vs.-no-images-in-marketing-emails-newsletters) 
-- [What are the benefits of email newsletters](https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters)
 
 ---
 
