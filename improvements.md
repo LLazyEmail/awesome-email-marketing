@@ -39,6 +39,7 @@ Mainly the purpose is to only run e2e or unit tests before pushing to master, bu
 I modified the pre-push hook like this and it works like a charm
 
 #!/bin/sh
+```
 while read oldrev newrev refname
 do
     branch=$(git rev-parse --symbolic --abbrev-ref $refname)
@@ -83,66 +84,73 @@ do
       }
     fi
 done
+```
 
 Then I used this npm command line script to override the husky default hook
-
+```
     "postinstall": "rimraf ../.git/hooks/pre-push && mklink /H \"../.git/hooks/pre-push\" \"config/git-hooks/pre-push.sh\"",
-    
+```
+   
 That deletes the original hook, then makes a hard link between the place where git looks for hooks and the new hook I created within my project directly. Works awesome.
 
 It would be even nice if this can be some kind of config option. Just an idea. I hope this helps someone else.
 
 Could you also accomplish this by checking what branch you're in within your package.json file? Something along the lines of this pseudo-code:
 
+```
 "prepush": "if branch is master; then npm run master_prepush; fi",
 "master_prepush": "echo 'cool master stuff'"
+```
 
 I ended up using https://github.com/kevinoid/git-branch-is.
-
+```
 "prepush": "if git-branch-is master; then yarn test; fi"
-
+```
 When I try using git-branch-is i get the error "master was unexpected at this time." Any ideas?
-
+```
 "pre-commit": "if git-branch-is master; then lint-staged && git-authors-cli && npm run gen-docs && node tools/add-size-badge.js && git add package.json README.md docs/*; else echo 0; fi"
-
+```
 try this:
+```
 "pre-commit": "(git-branch-is master && lint-staged && git-authors-cli && npm run gen-docs && node tools/add-size-badge.js && git add package.json README.md docs/*) || true"
-
+```
 I ended up with this in order to limit the hooks to dev and master:
-
+```
 "husky": {
 	"hooks": {
 		"pre-commit": "branch=`git branch | grep \\* | cut -d ' ' -f2`;branchesToCheck=(\"dev\" \"master\"); [[ \" ${branchesToCheck[@]} \" =~ \" ${branch} \" ]] &&  yarn check-flow-lint || exit 0",
 		"pre-push": "branch=`git branch | grep \\* | cut -d ' ' -f2`;branchesToCheck=(\"dev\" \"master\"); [[ \" ${branchesToCheck[@]} \" =~ \" ${branch} \" ]] &&  yarn check-flow-lint-test || exit 0"
 	}
 }
-
+```
 For some reason extracting into a variable didn't work for me (via $npm_package_myVar) so I had to duplicate large pieces of code.
 
 I ended up with this in order to limit the hooks to dev and master:
-
+```
 "husky": {
 	"hooks": {
 		"pre-commit": "branch=`git branch | grep \\* | cut -d ' ' -f2`;branchesToCheck=(\"dev\" \"master\"); [[ \" ${branchesToCheck[@]} \" =~ \" ${branch} \" ]] &&  yarn check-flow-lint || exit 0",
 		"pre-push": "branch=`git branch | grep \\* | cut -d ' ' -f2`;branchesToCheck=(\"dev\" \"master\"); [[ \" ${branchesToCheck[@]} \" =~ \" ${branch} \" ]] &&  yarn check-flow-lint-test || exit 0"
 	}
 }
-
+```
 For some reason extracting into a variable didn't work for me (via $npm_package_myVar) so I had to duplicate large pieces of code.
 
 And this goes into package.json?
 
 -----
 
-https://stackoverflow.com/questions/53895745/use-git-hooks-for-certain-branches-with-husky-and-git-branch-is
+- https://stackoverflow.com/questions/53895745/use-git-hooks-for-certain-branches-with-husky-and-git-branch-is
 
-https://blog.theodo.com/2018/07/protect-git-branches-husky/
+- https://blog.theodo.com/2018/07/protect-git-branches-husky/
 
-https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/
+- https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-actions/
 
-https://npm.io/package/validate-branch-name
+- https://npm.io/package/validate-branch-name
 
-https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-automate-code-tasks/
+- https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-automate-code-tasks/
+
+---
 
 # Import no cycle issue #1286
 
@@ -175,7 +183,7 @@ I plan to move out this task somewhere, in order to not polluting our github wit
 markdown-to-email/src/callbacks/html/methods/br.js
 
 Line 11 in d11a401
-
+```
  // TODO well, it's not good. can be improved with lodash 
  
  
@@ -216,9 +224,10 @@ export function _br(text, newLines) {
 }
 
 export default _br;
+```
 
 # I propose to move inner things of this method into Replace runConfigure #1166
-
+```
 Replacer.replaceMDBindedPreviewText = replaceMarkdownPreviewText.bind(state);
 
 markdown-to-email/src/domain/replacer-class/configuration-plain.js
@@ -262,11 +271,12 @@ import {
   }
 
   export default configureReplacer;
+```
 
 # replace this layout with plain v3 layout #1165
 
 markdown-to-email/src/domain/replace-markdown/pre-replace-objects.js
-
+```
 Line 54 in e0568c2
 
  // TODO replace this layout with plain v3 layout 
@@ -468,19 +478,7 @@ export default {
   image,
   previewText,
   italic,
-  //----------
-  header,
-  sibtitle,
-  title,
-  //-----------
-  q,
-  code,
-  //-----------
-  ulList,
-  olList,
-  listItem,
-  list,
-  //-----------
+
   blockquote,
   hr,
   paragraph,
@@ -489,6 +487,8 @@ export default {
   memes,
   separator,
 };
+```
+
 
 # enable const messages #1110
 
@@ -500,7 +500,7 @@ Line 9 in a052695
 
  // TODO enable const messages
  
-
+```
 /* eslint-disable no-use-before-define */
 import chalk from 'chalk';
 import { forEach } from 'lodash';
@@ -515,42 +515,14 @@ import { forEach } from 'lodash';
 function checkWarnings(warnings) {
   forEach(warnings, (index, element) => {
     if (index) {
+```
 
 # Vadim wants to add issue templates, restrict who and how can do merges into the main branch #1109
 
 from one of our last chats
 
-# Find a way to handle errors carefully [Important] #970
 
-модули которые я нагуглил, они популярные для вывода ошибок.
 
-https://www.npmjs.com/package/error
-https://www.npmjs.com/package/pretty-error
-https://www.npmjs.com/package/node-error-handler
-
-stacktrace выглядит интересно и вроде как они делают центральную систему
-https://www.npmjs.com/package/error-stack-parser
-https://www.stacktracejs.com/
-
-https://www.npmjs.com/package/process-warning
-
-https://www.npmjs.com/package/stack-trace
-
-or maybe we should go all-in and install sentry here? as we have an open-source project it can be used for free
-
-https://stackoverflow.com/questions/59575152/error-stack-displays-different-information-when-i-split-the-stack-into-array
-
-https://www.tabnine.com/code/javascript/functions/builtins/Error/stack
-
-https://stackoverflow.com/questions/9754735/is-it-a-best-practice-to-extract-string-literals-to-constants-in-javascript
-
-https://github.com/LLazyEmail/markdown-to-email/blob/my-name-is-debby/src/domain/error-handle/index.js
-
-not sure if we can find a solution for everything, but we need to find a way to do things better
-
-like more throw errors is good for debugging and building new things,
-
-logging will help us to be on the pulse of changes at one place, etc
 
 ## add here error handlers from domain error handle #1021
 
@@ -562,7 +534,7 @@ Line 80 in a7f26e5
 
  // TODO add here error handlers from domain/error-handle. 
  
-
+```
 import _ from 'lodash';
 import { _previewText } from '../../callbacks/callbacksHtml/methods/simple';
 import {
@@ -789,6 +761,8 @@ export default {
   memes ,
   separator, 
 } 
+```
+
 
 ## #1038
 
