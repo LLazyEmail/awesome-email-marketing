@@ -26,7 +26,7 @@
 
 - [Husky and eslint as actions #9333](#husky-and-eslint-as-actions-9333)
 
-# Husky and eslint as actions #933
+# Husky and eslint as actions [#933](https://github.com/LLazyEmail/markdown-to-email/issues/933)
 
 ## Apply husky git hook to specific branch only #186
 
