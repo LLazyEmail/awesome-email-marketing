@@ -57,6 +57,9 @@ Read a few of those articles, it might help you with cases, like this one: https
 - https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html
 - https://www.valentinog.com/blog/error/
 
+### add here error handlers from domain/error-handle
+- https://github.com/LLazyEmail/markdown-to-email/blob/a7f26e56bc00693e254ad112103004d5eda26f84/src/domain/replace-markdown/pre-replace-objects.js#L80
+
 
 
 ### TableWithTwoRecipes
