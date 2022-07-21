@@ -1,4 +1,4 @@
-# Find a way to handle errors carefully [Important] #970: https://github.com/LLazyEmail/markdown-to-email/issues/970
+# Find a way to handle errors carefully [Important] [#970](https://github.com/LLazyEmail/markdown-to-email/issues/970)
 
 модули которые я нагуглил, они популярные для вывода ошибок.
 
