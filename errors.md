@@ -25,11 +25,11 @@ or maybe we should go all-in and install sentry here? as we have an open-source 
 
 - https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/helper-methods/index.js
 
-not sure if we can find a solution for everything, but we need to find a way to do things better
+not sure if we can find a solution for everything, but we need to find a way to do things better:
 
-like more throw errors is good for debugging and building new things,
+- like more throw errors is good for debugging and building new things,
 
-logging will help us to be on the pulse of changes at one place, etc
+- logging will help us to be on the pulse of changes at one place, etc
 
 ---
 
