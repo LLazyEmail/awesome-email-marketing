@@ -3,34 +3,42 @@
 
 ## Table of Contents
 
-- [Email](#email)
-- [Old](#old)
+- [Best Email Marketing Tools for 2022](#best-email-marketing-tools-for-2022)
 - [Have ecommerce integration](#have-ecommerce-integration)
 - [Marketing automation](#marketing-automation)
-- [Moosend](#moosend)
 - [Tools](#tools)
-- [Arthur Tkachenko articles](#arthur-tkachenko-articles)
 - [Blogs](#blogs)
 - [Resources](#resources)
+- [Demand Curve: Tested tactics for growing newsletters](#demand-curve-tested-tactics-for-growing-newsletters)
+- [Email templates](#email-templates)
 - [Getvero](#getvero)
 - [Zapier Blog](#zapier-blog)
 - [Revue](#revue)
 - [GDPR](#gdpr)
-- [Sending emails via Amazon SES](#sending-emails-via-amazon-ses)
-- [Testing](#testing)
-- [Newsletter Metrics](#newsletter-metrics)
-- [Email marketing strategy](#email-marketing-strategy)
-- [Transactional Emails](#transactional-emails)
-- [Demand Curve: Tested tactics for growing newsletters](#demand-curve-tested-tactics-for-growing-newsletters)
+- [Frontend Development](#frontend-development)
+- [Github](#github)
 - [Checkers](#checkers)
-- [DNS DKIM record](#dns-dkim-record)
 - [GitHub repositories related to email marketing](#github-repositories-related-to-email-marketing)
 - [HTML stuff](#html-stuff)
 - [Cool projects to take a look](#cool-projects-to-take-a-look)
+- [Miscellaneous](#miscellaneous)
+- [Arthur Tkachenko articles](#arthur-tkachenko-articles)
+- [Open source tools](#open-source-tools)
+- [Administration](#administration)
+- [DNS DKIM Records](#dns-dkim-records)
+- [Sending emails via Amazon SES](#sending-emails-via-amazon-ses)
+- [Testing](#testing)
+- [Newsletter Metrics](#newsletter-metrics)
+- [Basics](#basics)
+- [How To Measure Your Newsletter Performance](#how-to-measure-your-newsletter-performance)
+- [Advanced](#advanced)
+- [Email marketing strategy](#email-marketing-strategy)
+- [Transactional Emails](#transactional-emails)
 - [Reasons](#reasons)
 - [Questions](#questions)
+- [Similar awesome lists](#similar-awesome-lists)
 
-## Email
+## Best Email Marketing Tools for 2022
 
 * [Revue](https://www.getrevue.co/) - Editorial newsletters tool for writers and publishers
 * [Sendgrid](https://sendgrid.com/) - Email delivery service
@@ -53,46 +61,49 @@
 * [UnderSend](https://undersend.com/) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
 * [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
 * [Customer.io](https://customer.io/) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS < indiehacker)
-
 * [Flodesk](https://flodesk.com/) - Design emails people love to open
 * [Mailwarm](https://www.mailwarm.com/) - Don't land in spam anymore
 * [ConvertKit](https://convertkit.com) - How ConvertKit helps you as a creator
 * [SendX](https://www.sendx.io/) -  makes it easy to be a responsible email marketer
-
 * [Colorlib](https://colorlib.com) - is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month
 * [Mailtrap](https://mailtrap.io/) - is a testing tool and is not designed to deliver emails to real addresses
 * [Feedotter](https://www.feedotter.com) - Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools
 * [Stripo](https://stripo.email/fr/) - Plateforme de conception d'e-mails
-
----
-Email Octopus + Amazon SES
-Email Octopus + Zapier + eCom?
-
-- [EmailOctopus](https://emailoctopus.com/) - Email marketing made easy
-- [NoCodeLetters](https://nocodeletters.com/) - Send your newsletters directly from Notion
-- [BirdSend](https://birdsend.co/) - Don't waste paying 3-5X more on an expensive email marketing tool
-- [ActiveCampaign](https://www.activecampaign.com/) - Drive growth with customer experience automation
-- [AWeber](www.aweber.com) - is an email marketing tool that allows you to: create a mailing list and capture data onto it; design newsletters that can be sent to the subscribers on your list; automate your email marketing via use of 'autoresponders' view and analyse statistics related to your email marketing campaigns.
-- [ConvertKit](convertkit.com) - is the go-to marketing hub for creators that helps you grow and monetize your audience with ease
-- [Constant Contact](www.constantcontact.com) - effective email marketing and other online marketing campaigns to meet business goals
-- [Omnisend](https://www.omnisend.com/) - is an omnichannel marketing automation platform for growth-focused ecommerce businesses
-- [Getresponse](https://www.getresponse.com/) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
-- [Sendinblue](www.sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
-- [Privy](https://www.privy.com/) marketing for ecommerce companies
-- [Campaign Monitor](www.campaignmonitor.com) - is a global technology company that provides an email marketing platform that's easy to use yet extremely powerful
-- [Sendy](sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
-- [Mailtrain](https://github.com/Mailtrain-org/mailtrain) - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
-- [Listmonk](https://listmonk.app/) - is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.
-- [BenchMark](https://www.benchmarkemail.com/) - is a simple email marketing tool for anyone who needs to send personalized email at scale.
-- [SendPulse](https://sendpulse.com/) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
+* [EmailOctopus](https://emailoctopus.com/) - Email marketing made easy
+* [NoCodeLetters](https://nocodeletters.com/) - Send your newsletters directly from Notion
+* [BirdSend](https://birdsend.co/) - Don't waste paying 3-5X more on an expensive email marketing tool
+* [ActiveCampaign](https://www.activecampaign.com/) - Drive growth with customer experience automation
+* [AWeber](www.aweber.com) - is an email marketing tool that allows you to: create a mailing list and capture data onto it; design newsletters that can be sent to the subscribers on your list; automate your email marketing via use of 'autoresponders' view and analyse statistics related to your email marketing campaigns.
+* [ConvertKit](convertkit.com) - is the go-to marketing hub for creators that helps you grow and monetize your audience with ease
+* [Constant Contact](www.constantcontact.com) - effective email marketing and other online marketing campaigns to meet business goals
+* [Omnisend](https://www.omnisend.com/) - is an omnichannel marketing automation platform for growth-focused ecommerce businesses
+* [Getresponse](https://www.getresponse.com/) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
+* [Sendinblue](www.sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
+* [Privy](https://www.privy.com/) marketing for ecommerce companies
+* [Campaign Monitor](www.campaignmonitor.com) - is a global technology company that provides an email marketing platform that's easy to use yet extremely powerful
+* [Sendy](sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
+* [Mailtrain](https://github.com/Mailtrain-org/mailtrain) - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
+* [Listmonk](https://listmonk.app/) - is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.
+* [BenchMark](https://www.benchmarkemail.com/) - is a simple email marketing tool for anyone who needs to send personalized email at scale.
+* [SendPulse](https://sendpulse.com/) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
+* [Flodesk](https://flodesk.com/) - a new email marketing service provider that’s built for creators, by creators
+* [Peopcampaigns](https://pepocampaigns.com/) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
+* [Mailster](https://mailster.co/) - is an easy to use Email Newsletter Plugin for WordPress
+* [Sparkpost](https://www.sparkpost.com/) - is the world’s first and only predictive email intelligence platform
+* [Jilt](https://jilt.com/) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
+* [Autopilot](https://www.autopilothq.com/) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
+* [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
+* [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
 
 ## Have ecommerce integration
+
 - [Klaviyo](https://kinsta.com/) 
 - Campaign Monitor (listed below)
 - [Encharge](https://encharge.io/)
 - [Newsletter2go](https://docs.newsletter2go.com/)
 
 ## Marketing automation
+
 - [Aritic](https://aritic.com/) - is a full-stack automation platform. It includes marketing automation, communication automation, CRM application, service desk application and business automation stack designed for B2B companies
 - [ActiveCampaign](https://www.activecampaign.com/) - is a  software for customer experience automation (CXA), which combines the transactional email, email marketing, marketing automation, sales automation, and CRM categories
 - [Sendinblue](www.sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
@@ -105,39 +116,12 @@ Email Octopus + Zapier + eCom?
 - [Woodpecker](woodpecker.co) - uses to get emails delivered to main inbox & get more sales opportunities
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them
 
-## Moosend
-
-- [Flodesk](https://flodesk.com/) - a new email marketing service provider that’s built for creators, by creators
-- [Peopcampaigns](https://pepocampaigns.com/) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
-- [Mailster](https://mailster.co/) - is an easy to use Email Newsletter Plugin for WordPress
-- [Sparkpost](https://www.sparkpost.com/) - is the world’s first and only predictive email intelligence platform
-- [Jilt](https://jilt.com/) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
-- [Autopilot](https://www.autopilothq.com/) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
-- [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
-- [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
-
 ## Tools
 
 - [Spam Checker](https://mailmeteor.com/spam-checker)
 - [Email Checker](https://mailmeteor.com/email-checker)
 - [No-code Email Editor](https://mailmeteor.com/email-editor)
 - [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
-
-We recommend to you pay more attention to these points
-
-## Arthur Tkachenko articles
-
-* [5 Reasons Why Newsletters Should Be Part Of Your Business Strategy](https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy)
-* [Organizing an Advanced Structure for HTML Email Template](https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template)
-* [How I Started to Build React Components for Email Templates](https://hackernoon.com/how-i-started-to-build-react-components-for-email-templates)
-* [Introducing a Simple NPM Module with Email Templates](https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates)
-* [Glossary for Non Technies](https://hackernoon.com/glossary-for-non-technies)
-* [Email Marketing and How to Curate an Effective Business Newsletter](https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter)
-* [Exploring Substack for Building Your Newsletter](https://hackernoon.com/exploring-substack-for-building-your-newsletter)
-* [Building a Design System for Email Templates (React)](https://hackernoon.com/building-a-design-system-for-email-templates-react)
-* [Together4Victory: List of Email Marketing Tools](https://hackernoon.com/together4victory-list-of-email-marketing-tools)
-* [Cool Newsletters for developers [Part 1]](https://hackernoon.com/cool-newsletters-for-developers-part-1)
-* [Cool resources for sending emails](https://hackernoon.com/cool-resources-for-sending-emails)
 
 ## Blogs
 
@@ -279,12 +263,6 @@ We recommend to you pay more attention to these points
 - [A ESLint plugin to lint and fix inline scripts contained in HTML files](https://www.npmjs.com/package/eslint-plugin-html)
 - [HTML Validator - Linter](https://www.freeformatter.com/html-validator.html) 
 
-### DNS DKIM record
-
-* [Broken-link-checker](https://www.npmjs.com/package/broken-link-checker)
-* [Link-checker](https://www.npmjs.com/package/link-checker)
-* [Link-check](https://www.npmjs.com/package/link-check)
-
 ### GitHub repositories related to email marketing
 
 * [Quickly build HTML emails with utility-first CSS](https://maizzle.com/)
@@ -314,12 +292,9 @@ We recommend to you pay more attention to these points
 * [Pechkin](https://github.com/sglazov/pechkin)
 * [Premailer](https://github.com/premailer/premailer)
 * [Inky](https://github.com/foundation/inky)
-
-[React multi email](https://github.com/jsdevkr/react-multi-email)
-
-[Generating Emails with React](https://github.com/lang-ai/react-emails)
-
-[React Confirm Email](https://github.com/funador/react-confirm-email)
+* [React multi email](https://github.com/jsdevkr/react-multi-email)
+* [Generating Emails with React](https://github.com/lang-ai/react-emails)
+* [React Confirm Email](https://github.com/funador/react-confirm-email)
 
 ## Miscellaneous
 
@@ -328,20 +303,39 @@ We recommend to you pay more attention to these points
 - [200+ newsletters: a crowdsourced list of must-read emails](https://medium.com/an-idea-for-you/25-newsletters-worth-inviting-into-your-inbox-62046f871a63) 
 - [Amazing email newsletters for bloggers/technology/scientists/startups/crypto/investing/finance/marceter/fitnesses](https://letterlist.com/)
 
-## Old
-- Mautic 
-- Sympa
-- OpenEMM
-- SendPortal
-- Lightmeterc
+## Arthur Tkachenko articles
+
+* [5 Reasons Why Newsletters Should Be Part Of Your Business Strategy](https://hackernoon.com/5-reasons-why-newsletters-should-be-part-of-your-business-strategy)
+* [Organizing an Advanced Structure for HTML Email Template](https://hackernoon.com/organizing-an-advanced-structure-for-html-email-template)
+* [How I Started to Build React Components for Email Templates](https://hackernoon.com/how-i-started-to-build-react-components-for-email-templates)
+* [Introducing a Simple NPM Module with Email Templates](https://hackernoon.com/introducing-a-simple-npm-module-with-email-templates)
+* [Glossary for Non Technies](https://hackernoon.com/glossary-for-non-technies)
+* [Email Marketing and How to Curate an Effective Business Newsletter](https://hackernoon.com/email-marketing-and-how-to-curate-an-effective-business-newsletter)
+* [Exploring Substack for Building Your Newsletter](https://hackernoon.com/exploring-substack-for-building-your-newsletter)
+* [Building a Design System for Email Templates (React)](https://hackernoon.com/building-a-design-system-for-email-templates-react)
+* [Together4Victory: List of Email Marketing Tools](https://hackernoon.com/together4victory-list-of-email-marketing-tools)
+* [Cool Newsletters for developers [Part 1]](https://hackernoon.com/cool-newsletters-for-developers-part-1)
+* [Cool resources for sending emails](https://hackernoon.com/cool-resources-for-sending-emails)
+
+## Open source tools
+
+- [Mautic](https://www.mautic.org/) 
+- [Sympa](https://www.sympa.org/)
+- [OpenEMM](https://www.openemm.org/doku.php)
+- [SendPortal](https://sendportal.io/)
+- [Lightmeterc](https://lightmeter.io/)
 
 ## Administration
 
-### Links to read
+### DNS DKIM Records
+
 - [DomainKeys Identified Mail (DKIM) Signatures](https://tools.ietf.org/html/rfc6376)
 - [Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1](https://tools.ietf.org/html/rfc7208)
 - [DomainKeys Identified Mail (DKIM) Service Overview](https://tools.ietf.org/html/rfc5585)
 - [I want to send HTML emails from my site, but Outlook is flagging them as spam](https://stackoverflow.com/questions/8269067/i-want-to-send-html-emails-from-my-site-but-outlook-is-flagging-them-as-spam)
+- [Broken-link-checker](https://www.npmjs.com/package/broken-link-checker)
+- [Link-checker](https://www.npmjs.com/package/link-checker)
+- [Link-check](https://www.npmjs.com/package/link-check)
 
 ### Sending emails via Amazon SES
 
@@ -387,15 +381,11 @@ We recommend to you pay more attention to these points
 - [Email marketing strategy: a data-driven guide](https://www.superoffice.com/blog/email-marketing-strategy/) 
 - [A Beginner’s Guide to Email Marketing](https://neilpatel.com/blog/beginners-guide-email-marketing/) 
 - [Email marketing strategy and tips for successful campaigns](https://mailchimp.com/email-marketing/) 
-
-
 - [10 Tried-And-True Email Marketing Tactics That Actually Work](https://www.forbes.com/sites/theyec/2020/09/11/10-tried-and-true-email-marketing-tactics-that-actually-work/?sh=3f5f54007a33) 
 - [What is an Email Marketing Strategy? - Guide](https://sendpulse.com/support/glossary/email-marketing-strategy) 
 - [8 Effective Email Marketing Strategies, Backed by Science](https://buffer.com/resources/8-effective-email-strategies-backed-by-research/) 
 - [Email Marketing: The #1 Ridiculously Easy Way To Grow Your Business](https://optinmonster.com/beginners-guide-to-email-marketing/) 
 - [The Email Design Guide is filled with tips and advice to help you convey your message in style. Learn how to better use images, fonts, calls to action and more](https://mailchimp.com/email-design-guide/)
-
----
 
 ## Transactional Emails
 
@@ -408,20 +398,16 @@ We recommend to you pay more attention to these points
 - [Email marketing automation tools startups](https://messaged.com/email-marketing-automation-tools-startups)
 - [Email Marketing for Startups: Promotion Best Practices](https://sendpulse.com/blog/email-marketing-for-startups)
 - [5 essential lessons of email marketing for startups](https://www.campaignmonitor.com/blog/email-marketing/5-essential-lessons-of-email-marketing-for-startups/)
-- [How to Send Email Like a Startup](https://www.dyspatch.io/ebooks-guides-report/how-to-send-email-like-a-startup/)
-- [The Startup CEO blog. Email](https://startupceo.com/category/email)
 - [What is transactional email and what is it used for?](https://postmarkapp.com/blog/what-is-transactional-email-and-how-is-it-used)
 - [About Transactional Email](https://mailchimp.com/help/about-transactional-email/)
-- [The Difference Between Marketing Email and Transactional Email](https://blog.hubspot.com/customers/difference-between-transactional-and-marketing-email)
 - [Transactional Email](https://sendgrid.com/use-cases/transactional-email/)
-- [Transactional Emails: Types, Examples and Best Practices](https://www.getvero.com/resources/guides/lifecycle-marketing/transactional-emails/)
 - [What is a Transactional Email? - Definitive Guide](https://sendpulse.com/support/glossary/transactional-email)
 - [The 6 best transactional email services in 2022](https://zapier.com/blog/best-transactional-email-sending-services/)
 - [Transactional Email Explained: Definition, Best Practices, & Setup](https://www.sendinblue.com/blog/transactional-emails-guide/)
 - [What are transactional emails?](https://www.zoho.com/zeptomail/what-are-transactional-emails.html)
 - [The Beginner’s Guide to Transactional Emails](https://encharge.io/what-are-transactional-emails/)
 - [Transactional Email: What It Is, Why You Need It [+Examples]](https://www.getresponse.com/blog/introducing-transactional-emails)
-- [What is Transactional Email?](https://www.sparkpost.com/blog/transactional-email-101/)
+- [What is Transactional Email 101?](https://www.sparkpost.com/blog/transactional-email-101/)
 - [Transactional email: Definition, types, and examples](https://www.omnisend.com/blog/transactional-email/)
 - [Transactional emails](https://help.campaignmonitor.com/transactional-emails)
 - [Intro to Transactional Emails](https://mailtrap.io/blog/transactional-emails/)
@@ -432,7 +418,7 @@ We recommend to you pay more attention to these points
 - [What Is a Transactional Email?](https://serversmtp.com/what-is-a-transactional-email/)
 - [Best Transactional Email Software](https://www.g2.com/categories/transactional-email)
 - [Your Lite option: MailerSend](https://www.mailerlite.com/features/transactional-emails)
-- [Transactional emails](https://documentation.bloomreach.com/engagement/docs/transactional-emails)
+- [Transactional emails (documentation)](https://documentation.bloomreach.com/engagement/docs/transactional-emails)
 - [Reliable Transactional Email Services](https://www.mailjet.com/solutions/use-cases/transactional-email/)
 - [Transactional Email – Send Email From Your WordPress Website](https://kinsta.com/help/transactional-email/)
 - [What are marketing and transactional emails?](https://help.kajabi.com/hc/en-us/articles/360043089694-What-are-marketing-and-transactional-emails-)
@@ -514,10 +500,6 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - Keep email lists clean (regularly validate them and stay away from bounces);
 - Do the warmup properly (increase the limits gradually, interact with recipients with high sender scores).
 
-[Sister Repository](https://github.com/jonathandion/awesome-emails)
-
-[Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md)
-
 ## Reasons
 
 1. Your customers want to hear from you.
@@ -551,3 +533,8 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - What can I do instead of a newsletter?
 - Does your blog need a newsletter?
 - Is a mailing list the same as a newsletter?
+
+## Similar awesome lists
+
+- [Sister Repository](https://github.com/jonathandion/awesome-emails)
+- [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md)
