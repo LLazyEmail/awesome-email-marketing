@@ -1,4 +1,4 @@
-# Find a way to handle errors carefully [Important] #970
+# Find a way to handle errors carefully [Important] #970: https://github.com/LLazyEmail/markdown-to-email/issues/970
 
 модули которые я нагуглил, они популярные для вывода ошибок.
 
@@ -13,13 +13,17 @@ stacktrace выглядит интересно и вроде как они де�
 - https://www.npmjs.com/package/process-warning
 - https://www.npmjs.com/package/stack-trace
 
-https://stackoverflow.com/questions/59575152/error-stack-displays-different-information-when-i-split-the-stack-into-array
+---
 
-https://www.tabnine.com/code/javascript/functions/builtins/Error/stack
+or maybe we should go all-in and install sentry here? as we have an open-source project it can be used for free
 
-https://stackoverflow.com/questions/9754735/is-it-a-best-practice-to-extract-string-literals-to-constants-in-javascript
+- https://stackoverflow.com/questions/59575152/error-stack-displays-different-information-when-i-split-the-stack-into-array
 
-https://github.com/LLazyEmail/markdown-to-email/blob/my-name-is-debby/src/domain/error-handle/index.js
+- https://www.tabnine.com/code/javascript/functions/builtins/Error/stack
+
+- https://stackoverflow.com/questions/9754735/is-it-a-best-practice-to-extract-string-literals-to-constants-in-javascript
+
+- https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/helper-methods/index.js
 
 not sure if we can find a solution for everything, but we need to find a way to do things better
 
@@ -27,9 +31,15 @@ like more throw errors is good for debugging and building new things,
 
 logging will help us to be on the pulse of changes at one place, etc
 
+---
+
+## try Winston 
+
 I installed winston, but didn't configure it https://github.com/winstonjs/winston
 
-https://www.testim.io/pricing/
+## try to use Testim
+
+- https://www.testim.io/pricing/
 
 - https://homoly.me/posts/organizing-tests-with-jest-projects
 - https://jestjs.io/docs/configuration#projects-arraystring--projectconfig
@@ -47,6 +57,8 @@ Read a few of those articles, it might help you with cases, like this one: https
 - https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html
 - https://www.valentinog.com/blog/error/
 
+
+
 ### TableWithTwoRecipes
 
 - простое улучшение может быть в том, что мы передаем не 6 аттрибутов а например 2 объекта.
@@ -59,9 +71,11 @@ Read a few of those articles, it might help you with cases, like this one: https
 
 это не конечный вариант, но позволят легко читать как работают некоторые блоки в теплейте.
 
+
+
 ### Get-recipe.js
 
-файл внутри выглядит красивее. за чет того что разбили на несколько частей - проще ловить ошибки будет.
+файл внутри выглядит красивее. за cчет того что разбили на несколько частей - проще ловить ошибки будет.
 
 - я бы переименовал файл
 - добавил бы простые проверки в getTitle, getText, getImage
@@ -71,17 +85,21 @@ Read a few of those articles, it might help you with cases, like this one: https
 
 https://github.com/LLazyEmail/markdown-to-email/blob/main/src/helper/constants.js
 
+
+
 ### Get-supportContact.js
 
 предлагаю сделать похожие шаги как я указал выше, а потом уже по-факту посмотрю еще раз
 
 сделать функцией https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/src/components/get-supportContact.js#L24
 
-# https://www.npmjs.com/package/debug markdown-to-email#1038
+# try Debug pkg from npm - markdown-to-email#1038
 
 Issue https://www.npmjs.com/package/debug #1038
 
 https://www.npmjs.com/package/debug
+
+
 
 # Pictures
 
