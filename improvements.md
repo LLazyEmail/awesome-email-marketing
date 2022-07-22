@@ -791,3 +791,12 @@ https://blog.logrocket.com/build-robust-react-app-husky-pre-commit-hooks-github-
 https://npm.io/package/validate-branch-name
 
 https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-automate-code-tasks/
+
+
+logger
+
+- [Designing Error Messages and a Logging Strategy in Node.js](https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html)
+- [Npmlog](https://www.npmjs.com/package/npmlog)
+- [How to use levels function in Logger](https://www.tabnine.com/code/javascript/functions/npmlog/Logger/levels)
+- [Comparing Node.js logging tools](https://blog.logrocket.com/comparing-node-js-logging-tools/)
+- [How to handle log events with the npmlog library?](https://stackoverflow.com/questions/72506435/how-to-handle-log-events-with-the-npmlog-library)
