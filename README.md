@@ -13,6 +13,8 @@
 - [Email templates](#email-templates)
 - [Getvero](#getvero)
 - [Zapier Blog](#zapier-blog)
+- [Drip Blog](#drip-blog)
+- [Automizy Blog](#automizy-blog)
 - [Revue](#revue)
 - [GDPR](#gdpr)
 - [Frontend Development](#frontend-development)
@@ -185,6 +187,25 @@
 - [4 ways to automate your email marketing for better communication](https://zapier.com/learn/email-marketing/email-marketing-list-automation/)
 - [Email by Zapier Integrations](https://zapier.com/apps/email/integrations)
 - [The best email newsletter software: 9 email marketing services for your business](https://zapier.com/learn/email-marketing/best-email-newsletter-software/) 
+
+### Drip blog
+
+- [11 Must-Have E-Commerce Email Marketing Campaigns](https://www.drip.com/blog/ecommerce/transactional-email-examples)
+- [The 7 Best Forward to a Friend Email Examples We’ve Seen](https://www.drip.com/blog/ecommerce/forward-to-a-friend-email-examples)
+- [Brand development](https://www.drip.com/blog/ecommerce-marketing/brand-development)
+- [9 of the Best Drip Campaign Examples We’ve Seen](https://www.drip.com/blog/email-marketing/drip-campaign-examples)
+- [How to Use Popups (The Right Way)](https://www.drip.com/blog/ecommerce/how-to-use-popups)
+
+### Automizy Blog
+
+- [9 SaaS Marketing Tools Every Startup Needs [Tested In 2021]](https://automizy.com/blog/saas-marketing-tools/)
+- [79 Email Call To Action Examples & How To Use Them](https://automizy.com/blog/email-call-to-action/)
+- [SaaS Marketing 101: How To Acquire & Retain Customers](https://automizy.com/blog/saas-marketing/)
+- [18 SaaS Marketing Best Practices To Boost Your Business](https://automizy.com/blog/18-saas-marketing-best-practices/)
+- [8 Email Marketing Skills You Need To Know In 2021](https://automizy.com/blog/email-marketing-skills/)
+- [Email List Management Best Practices (The Complete Guide)](https://automizy.com/blog/email-list-management/)
+- [16 B2B Email Marketing Examples For 2021 [How To Write Them]](https://automizy.com/blog/b2b-email-marketing/)
+- [9 Drip Email Campaign Examples [Learn How To Create Them]](https://automizy.com/blog/drip-email-campaign-examples/)
 
 ### Revue
 
