@@ -53,3 +53,18 @@ display on preview
 display on a previewjs 3 different letters from a billing folder
 - https://github.com/LLazyEmail/react-email-letter-components/tree/main/email-templates/--empty/billing
 
+----
+
+
+Test table components and freeze development
+
+----
+
+#Basic React components working without a lotof efforts 
+
+## table
+
+## misc
+
+## simple templates without complex styles in head
+
