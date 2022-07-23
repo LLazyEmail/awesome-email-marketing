@@ -28,7 +28,7 @@
 
 # Husky and eslint as actions [#933](https://github.com/LLazyEmail/markdown-to-email/issues/933)
 
-## Apply husky git hook to specific branch only #186
+## Task ## Apply husky git hook to specific branch only #186
 
 Is there a way to configure husky to apply a specific git hook, i.e. prepush ONLY to a specific branch i.e. master?
 
@@ -152,13 +152,13 @@ And this goes into package.json?
 
 ---
 
-# Import no cycle issue #1286
+## Task # Import no cycle issue #1286
 
 ![import/no-cycle issue #1286](https://user-images.githubusercontent.com/1469198/178752138-476b7e4d-f251-4887-94ce-b903f0621b5a.png "import/no-cycle issue #1286")
 
 я пока просто уберу эту ошибку, но нужно будет подумать. вохможно моя структура хрень
 
-# Enable and connect react parser #1279
+## Task # Enable and connect react parser #1279
 
 ![1](https://user-images.githubusercontent.com/1469198/179402426-6952843f-ae94-4f1a-87c0-f8563c448eab.png "1")
 
@@ -178,7 +178,7 @@ And this goes into package.json?
 
 I plan to move out this task somewhere, in order to not polluting our github with bad explained tasks
 
-# Well it is not good can be improved with lodash #1246
+## Task # Well it is not good can be improved with lodash #1246
 
 markdown-to-email/src/callbacks/html/methods/br.js
 
@@ -226,7 +226,7 @@ export function _br(text, newLines) {
 export default _br;
 ```
 
-# I propose to move inner things of this method into Replace runConfigure #1166
+## Task # I propose to move inner things of this method into Replace runConfigure #1166
 ```
 Replacer.replaceMDBindedPreviewText = replaceMarkdownPreviewText.bind(state);
 
@@ -273,7 +273,7 @@ import {
   export default configureReplacer;
 ```
 
-# replace this layout with plain v3 layout #1165
+## Task # replace this layout with plain v3 layout #1165
 
 markdown-to-email/src/domain/replace-markdown/pre-replace-objects.js
 ```
@@ -490,7 +490,7 @@ export default {
 ```
 
 
-# enable const messages #1110
+## Task # enable const messages #1110
 
 import { WARNING_IMAGE_VERSION, ERROR_SOURCE_DONT_HAVE, FULL_TEMPLATE_ERROR, HTML_EMAIL_SUCCESS, HTML_EMAIL_ERROR } from './constants';
 
@@ -517,14 +517,14 @@ function checkWarnings(warnings) {
     if (index) {
 ```
 
-# Vadim wants to add issue templates, restrict who and how can do merges into the main branch #1109
+## Task # Vadim wants to add issue templates, restrict who and how can do merges into the main branch #1109
 
 from one of our last chats
 
 
 
 
-## add here error handlers from domain error handle #1021
+## Task ## add here error handlers from domain error handle #1021
 
 removing them from this file
 
@@ -764,7 +764,7 @@ export default {
 ```
 
 
-## #1038
+## Task ## #1038
 
 https://www.npmjs.com/package/debug
 
@@ -793,7 +793,7 @@ https://npm.io/package/validate-branch-name
 https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-automate-code-tasks/
 
 
-logger
+## Task logger
 
 - [Designing Error Messages and a Logging Strategy in Node.js](https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html)
 - [Npmlog](https://www.npmjs.com/package/npmlog)
