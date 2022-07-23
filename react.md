@@ -11,3 +11,24 @@
 
 ---
 
+
+explore mdx stuff deeper
+
+
+explore mdx stuff deeper
+
+
+- https://github.com/mdx-js/mdx/issues/197
+- https://egghead.io/lessons/react-use-mdxprovider-to-control-the-rendering-of-markdown-elements-with-gatsby-mdx
+- https://mdxjs.com/guides/wrapper-customization/
+
+
+----
+
+
+design system
+
+should we think about `design system` or just have quick itterations and generate more templates instead.
+- https://blog.bitsrc.io/independent-components-the-webs-new-building-blocks-59c893ef0f65
+- https://blog.bitsrc.io/how-we-build-our-design-system-15713a1f1833
+- https://martinfowler.com/articles/micro-frontends.html
