@@ -103,3 +103,21 @@ order is :
 [https://www.niemanlab.org/2015/08/how-the-skimms-passionate-readership-helped-its-newsletter-grow-to-1-5-million-subscribers/](https://www.niemanlab.org/2015/08/how-the-skimms-passionate-readership-helped-its-newsletter-grow-to-1-5-million-subscribers/)
 
 [https://www.inc.com/guides/2010/06/email-etiquette.html](https://www.inc.com/guides/2010/06/email-etiquette.html)
+
+
+
+# newsletters lead generation
+
+[https://marketingplatform.com/resources/lead-generation-how-to-collect-leads-for-the-newsletter/](https://marketingplatform.com/resources/lead-generation-how-to-collect-leads-for-the-newsletter/) 
+
+[https://rachelandreago.com/newsletter-lead-generation/](https://rachelandreago.com/newsletter-lead-generation/) 
+
+[https://www.smartbugmedia.com/blog/newsletter-lead-generation](https://www.smartbugmedia.com/blog/newsletter-lead-generation) 
+
+[https://www.benchmarkone.com/blog/generate-leads-email-newsletter/](https://www.benchmarkone.com/blog/generate-leads-email-newsletter/) 
+
+[https://moosend.com/resource/newsletter-checklist/](https://moosend.com/resource/newsletter-checklist/) 
+
+[https://moosend.com/resource/email-optin-process/](https://moosend.com/resource/email-optin-process/) 
+
+[https://www.getvero.com/resources/lead-generation-strategies/](https://www.getvero.com/resources/lead-generation-strategies/)
