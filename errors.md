@@ -70,9 +70,6 @@ Read a few of those articles, it might help you with cases, like this one: https
 мы прийдем к тому, что наши компоненты будут собраться вместе в файлах display/display-* и там мы наверное будем передавать данные и вызывать функции.
 я бы скорее назвал эту функцию как то, аля checking for errors, а кспортировал бы только компонент.
 
-можете посмотреть как я начал делать футер в репозитории https://github.com/LLazyEmail/_trying-lit/blob/main/src/components/footer.js
-
-это не конечный вариант, но позволят легко читать как работают некоторые блоки в теплейте.
 
 
 
@@ -90,11 +87,6 @@ https://github.com/LLazyEmail/markdown-to-email/blob/main/src/helper/constants.j
 
 
 
-### Get-supportContact.js
-
-предлагаю сделать похожие шаги как я указал выше, а потом уже по-факту посмотрю еще раз
-
-сделать функцией https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/src/components/get-supportContact.js#L24
 
 # try Debug pkg from npm - markdown-to-email#1038
 
