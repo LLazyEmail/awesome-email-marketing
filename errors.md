@@ -1,5 +1,5 @@
 # Find a way to handle errors carefully [Important] [#970](https://github.com/LLazyEmail/markdown-to-email/issues/970)
-
+## Task 
 модули которые я нагуглил, они популярные для вывода ошибок.
 
 - https://www.npmjs.com/package/error
@@ -14,7 +14,7 @@ stacktrace выглядит интересно и вроде как они де�
 - https://www.npmjs.com/package/stack-trace
 
 ---
-
+## Task 
 or maybe we should go all-in and install sentry here? as we have an open-source project it can be used for free
 
 - https://stackoverflow.com/questions/59575152/error-stack-displays-different-information-when-i-split-the-stack-into-array
@@ -33,11 +33,11 @@ not sure if we can find a solution for everything, but we need to find a way to 
 
 ---
 
-## try Winston 
+## Task ## try Winston 
 
 I installed winston, but didn't configure it https://github.com/winstonjs/winston
 
-## try to use Testim
+## Task ## try to use Testim
 
 - https://www.testim.io/pricing/
 
@@ -48,7 +48,7 @@ I'll move contents of this task into a separate place, organize it with help of 
 
 We'll migrate it into our documentation website and then will discuss it
 
-# best practices for error handling #63
+## Task # best practices for error handling #63
 
 Read a few of those articles, it might help you with cases, like this one: https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/src/components/tableWithTwoRecipes.js#L72
 
@@ -73,22 +73,8 @@ Read a few of those articles, it might help you with cases, like this one: https
 
 
 
-### Get-recipe.js
 
-файл внутри выглядит красивее. за cчет того что разбили на несколько частей - проще ловить ошибки будет.
-
-- я бы переименовал файл
-- добавил бы простые проверки в getTitle, getText, getImage
-- переименовал бы эти три метода тоже - можно сделать textComponent, titleComponent, imageComponent - чтобы мы со временем пришли к единой логике в названиях наших методов
-- создал бы 3 константы вначале этого файла в которых бы хранил сообщения
-пример того, как я начал организовывать ошибки в основном репозитории, потому что там их много
-
-https://github.com/LLazyEmail/markdown-to-email/blob/main/src/helper/constants.js
-
-
-
-
-# try Debug pkg from npm - markdown-to-email#1038
+## Task # try Debug pkg from npm - markdown-to-email#1038
 
 Issue https://www.npmjs.com/package/debug #1038
 
