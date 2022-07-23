@@ -32,3 +32,24 @@ should we think about `design system` or just have quick itterations and generat
 - https://blog.bitsrc.io/independent-components-the-webs-new-building-blocks-59c893ef0f65
 - https://blog.bitsrc.io/how-we-build-our-design-system-15713a1f1833
 - https://martinfowler.com/articles/micro-frontends.html
+
+
+---
+
+Storybook
+will storybook generation help us to move components forward?
+
+as we have a lot of similar repositories - by making it work - we can simply make a great improvement
+
+Link: https://github.com/LLazyEmail/react-email-table/issues/85 I also need to find a way to share a video
+
+https://user-images.githubusercontent.com/1469198/180625210-f9cc8abf-7fb8-4596-8904-22458886f800.mp4
+
+----
+
+
+display on preview
+
+display on a previewjs 3 different letters from a billing folder
+- https://github.com/LLazyEmail/react-email-letter-components/tree/main/email-templates/--empty/billing
+
