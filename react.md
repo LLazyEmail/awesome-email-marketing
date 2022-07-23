@@ -12,7 +12,7 @@
 ---
 
 
-explore mdx stuff deeper
+## Task  explore mdx stuff deeper
 
 
 explore mdx stuff deeper
@@ -26,7 +26,7 @@ explore mdx stuff deeper
 ----
 
 
-design system
+## Task design system
 
 should we think about `design system` or just have quick itterations and generate more templates instead.
 - https://blog.bitsrc.io/independent-components-the-webs-new-building-blocks-59c893ef0f65
@@ -36,7 +36,7 @@ should we think about `design system` or just have quick itterations and generat
 
 ---
 
-Storybook
+## Task Storybook
 will storybook generation help us to move components forward?
 
 as we have a lot of similar repositories - by making it work - we can simply make a great improvement
@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/1469198/180625210-f9cc8abf-7fb8-4596-8
 ----
 
 
-display on preview
+## Task display on preview
 
 display on a previewjs 3 different letters from a billing folder
 - https://github.com/LLazyEmail/react-email-letter-components/tree/main/email-templates/--empty/billing
@@ -56,11 +56,11 @@ display on a previewjs 3 different letters from a billing folder
 ----
 
 
-Test table components and freeze development
+## Task Test table components and freeze development
 
 ----
 
-#Basic React components working without a lotof efforts 
+## Task  v#Basic React components working without a lotof efforts 
 
 ## table
 
