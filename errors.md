@@ -1,5 +1,5 @@
-# Find a way to handle errors carefully [Important] [#970](https://github.com/LLazyEmail/markdown-to-email/issues/970)
-## Task 
+# Task 1: Find a way to handle errors carefully [Important] [#970](https://github.com/LLazyEmail/markdown-to-email/issues/970)
+
 модули которые я нагуглил, они популярные для вывода ошибок.
 
 - https://www.npmjs.com/package/error
@@ -13,8 +13,8 @@ stacktrace выглядит интересно и вроде как они де�
 - https://www.npmjs.com/package/process-warning
 - https://www.npmjs.com/package/stack-trace
 
----
-## Task 
+# Task 2: Install sentry here
+
 or maybe we should go all-in and install sentry here? as we have an open-source project it can be used for free
 
 - https://stackoverflow.com/questions/59575152/error-stack-displays-different-information-when-i-split-the-stack-into-array
@@ -31,16 +31,13 @@ not sure if we can find a solution for everything, but we need to find a way to 
 
 - logging will help us to be on the pulse of changes at one place, etc
 
----
-
-## Task ## try Winston 
+# Task 3: Try Winston 
 
 I installed winston, but didn't configure it https://github.com/winstonjs/winston
 
-## Task ## try to use Testim
+# Task 4: Try to use Testim
 
 - https://www.testim.io/pricing/
-
 - https://homoly.me/posts/organizing-tests-with-jest-projects
 - https://jestjs.io/docs/configuration#projects-arraystring--projectconfig
 
@@ -48,7 +45,7 @@ I'll move contents of this task into a separate place, organize it with help of 
 
 We'll migrate it into our documentation website and then will discuss it
 
-## Task # best practices for error handling #63
+# Task 5: Best practices for error handling #63
 
 Read a few of those articles, it might help you with cases, like this one: https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/src/components/tableWithTwoRecipes.js#L72
 
@@ -60,9 +57,7 @@ Read a few of those articles, it might help you with cases, like this one: https
 ### add here error handlers from domain/error-handle
 - https://github.com/LLazyEmail/markdown-to-email/blob/a7f26e56bc00693e254ad112103004d5eda26f84/src/domain/replace-markdown/pre-replace-objects.js#L80
 
-
-
-### TableWithTwoRecipes
+### Table With Two Recipes
 
 - простое улучшение может быть в том, что мы передаем не 6 аттрибутов а например 2 объекта.
 - https://github.com/LLazyEmail/nomoretogo_email_template/blob/main/src/components/tableWithTwoRecipes.js#L72-L88
@@ -70,17 +65,11 @@ Read a few of those articles, it might help you with cases, like this one: https
 мы прийдем к тому, что наши компоненты будут собраться вместе в файлах display/display-* и там мы наверное будем передавать данные и вызывать функции.
 я бы скорее назвал эту функцию как то, аля checking for errors, а кспортировал бы только компонент.
 
-
-
-
-
-## Task # try Debug pkg from npm - markdown-to-email#1038
+# Task 6: Try Debug pkg from npm - markdown-to-email [#1038](https://www.npmjs.com/package/debug)
 
 Issue https://www.npmjs.com/package/debug #1038
 
 https://www.npmjs.com/package/debug
-
-
 
 # Pictures
 
