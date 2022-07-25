@@ -160,23 +160,10 @@ And this goes into package.json?
 
 ## Task # Enable and connect react parser #1279
 
-![1](https://user-images.githubusercontent.com/1469198/179402426-6952843f-ae94-4f1a-87c0-f8563c448eab.png "1")
-
-![2](https://user-images.githubusercontent.com/1469198/179402447-4e8b811c-240e-4a9b-841c-9f9f7528b544.png "2")
-
-![3](https://user-images.githubusercontent.com/1469198/179402458-484e87f1-81c5-4c0c-b37e-6a128ebb3afc.png "3")
-
-![4](https://user-images.githubusercontent.com/1469198/179402473-be20c034-ca80-46f0-8c0a-fe75730eeb05.png "4")
 
 ![5](https://user-images.githubusercontent.com/1469198/179402426-6952843f-ae94-4f1a-87c0-f8563c448eab.png "5")
 
-![6](https://user-images.githubusercontent.com/1469198/179402447-4e8b811c-240e-4a9b-841c-9f9f7528b544.png "6")
-
-![7](https://user-images.githubusercontent.com/1469198/179402458-484e87f1-81c5-4c0c-b37e-6a128ebb3afc.png "7")
-
-![8](https://user-images.githubusercontent.com/1469198/179402473-be20c034-ca80-46f0-8c0a-fe75730eeb05.png "8")
-
-I plan to move out this task somewhere, in order to not polluting our github with bad explained tasks
+---
 
 ## Task # Well it is not good can be improved with lodash #1246
 
