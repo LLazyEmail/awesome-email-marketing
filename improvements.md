@@ -787,3 +787,48 @@ https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-a
 - [How to use levels function in Logger](https://www.tabnine.com/code/javascript/functions/npmlog/Logger/levels)
 - [Comparing Node.js logging tools](https://blog.logrocket.com/comparing-node-js-logging-tools/)
 - [How to handle log events with the npmlog library?](https://stackoverflow.com/questions/72506435/how-to-handle-log-events-with-the-npmlog-library)
+
+
+---
+
+Почему я бы хотел чтобы мы быстрее разобрали mdx. Есть ощущение(которому больше чем год) - что возможно будет заменить работу нашего replacer`a.
+но нужно подумать.
+
+---
+
+почему работа с подмодулями мне нравится. Потому что я легко могу раскидать модули на разные репозитории, настроить простые билды и легко дебажить и фиксить код.
+делать коммиты и небоятся что все зафейлится.
+
+нужно просто все настроить.
+
+---
+
+Почему хочется использовать реальный React components для быстрого запила templates.
+таким макаром мы можем наконецто уйти от странных "темлпейтов" и делать блоки фронтенда с помощью тех средств, которые для этого предпочтительнее и реаль работают лучше.
+
+---
+
+Придумать как можно улучшить работу с кастомными реплейсерами:
+sponsorship, memes, etc.
+
+например sponsorship это блок текста + link, image + link
+
+почему мы неможем сделать универсальный вариант, который внутрь _sponshorship бахнет text, link, image, link
+
+наверное легче от этого не станет. Но мы сможем использовать эту логику в nmtg темплейте.
+
+сборный replacer/callback
+
+в nmtg есть блок рецептов. там 4 переменные внутри
+- image
+- link
+- title
+- subtitle
+
+---
+
+Адаптер для подключения наших тем.
+Например в основном генераторе нам не нужно устанавливать тысячу тем. Скорее это долно работать в обратном направлении.
+Есть generator, есть тема, есть темплейт проекта который ты установил и там юзаешь.
+
+---
