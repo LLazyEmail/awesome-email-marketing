@@ -831,6 +831,24 @@ sponsorship, memes, etc.
 - subtitle
 
 также можно посмотреть в markdown-it, но я думаю что это просто будет прожетуточный вариант и воможно нужно просто пропускать и сразу идти в MDX.
+https://github.com/markdown-it/markdown-it#plugins-load
+
+
+
+```
+:::
+![Recipe One](https://raw.githubusercontent.com/LLazyEmail/nomoretogo_email_template/main/data/images/recipe1.jpeg)
+[recipe](https://www.nomoretogo.com/weekly-meal-plan-menu-122214/)
+## Grilled Salmon with Chipotle Cream Sauce
+### over Potato Poblano Hash and Broccolini
+
+:::
+```
+
+**REGEXP_IMAGE, REGEXP_LINK, REGEXP_H2, REGEXP_H3**
+
+
+
 
 ---
 
