@@ -2,33 +2,41 @@
 
 - [Husky and eslint as actions #933](#husky-and-eslint-as-actions-933)
 
-- [Apply husky git hook to specific branch only #186](#apply-husky-git-hook-to-specific-branch-only-186)
+- [Task 1: Apply husky git hook to specific branch only #186](#task-1-apply-husky-git-hook-to-specific-branch-only-186)
 
-- [Import no cycle issue #1286](#import-no-cycle-issue-1286)
+- [Task 2: Import no cycle issue #1286](#task-2-import-no-cycle-issue-1286)
 
-- [Enable and connect react parser #1279](#enable-and-connect-react-parser-1279)
+- [Task 3: Enable and connect react parser #1279](#task-3-enable-and-connect-react-parser-1279)
 
-- [Well it is not good. can be improved with lodash #1246](#well-it-is-not-good-can-be-improved-with-lodash-1246)
+- [Task 4: Well it is not good. can be improved with lodash #1246](#task-4-well-it-is-not-good-can-be-improved-with-lodash-1246)
 
-- [I propose to move inner things of this method into Replace runConfigure #1166](#i-propose-to-move-inner-things-of-this-method-into-replace-runconfigure-1166)
+- [Task 5: I propose to move inner things of this method into Replace runConfigure #1166](#task-5-i-propose-to-move-inner-things-of-this-method-into-replace-runconfigure-1166)
 
-- [Replace this layout with plain v3 layout #1165](#replace-this-layout-with-plain-v3-layout-1165)
+- [Task 6: Replace this layout with plain v3 layout #1165](#task-6-replace-this-layout-with-plain-v3-layout-1165)
 
-- [Enable const messages #1110](#enable-const-messages-1110)
+- [Task 7: Enable const messages #1110](#task-7-enable-const-messages-1110)
 
-- [Vadim wants to add issue templates, restrict who and how can do merges into the main branch #1109](#vadim-wants-to-add-issue-templates-restrict-who-and-how-can-do-merges-into-the-main-branch-1109)
+- [Task 8: Vadim wants to add issue templates, restrict who and how can do merges into the main branch #1109](#task-8-vadim-wants-to-add-issue-templates-restrict-who-and-how-can-do-merges-into-the-main-branch-1109)
 
-- [Find a way to handle errors carefully [Important] #970](#find-a-way-to-handle-errors-carefully-important-970)
+- [Task 9: Add here error handlers from domain error handle #1021](#task-9-add-here-error-handlers-from-domain-error-handle-1021)
 
-- [Add here error handlers from domain error handle #1021](#add-here-error-handlers-from-domain-error-handle-1021)
-
-- [#1038](#1038)
+- [Task 10: #1038](#task-10-1038)
 
 - [Husky and eslint as actions #9333](#husky-and-eslint-as-actions-9333)
 
+- [Task 11: Logger](#task-11-logger)
+
+- [Task 12](#task-12)
+
+- [Task 13](#task-13)
+
+- [Task 14](#task-14)
+
+- [Task 15](#task-15)
+
 # Husky and eslint as actions [#933](https://github.com/LLazyEmail/markdown-to-email/issues/933)
 
-## Task ## Apply husky git hook to specific branch only #186
+## Task 1: Apply husky git hook to specific branch only #186
 
 Is there a way to configure husky to apply a specific git hook, i.e. prepush ONLY to a specific branch i.e. master?
 
@@ -152,20 +160,17 @@ And this goes into package.json?
 
 ---
 
-## Task # Import no cycle issue #1286
+## Task 2: Import no cycle issue #1286
 
 ![import/no-cycle issue #1286](https://user-images.githubusercontent.com/1469198/178752138-476b7e4d-f251-4887-94ce-b903f0621b5a.png "import/no-cycle issue #1286")
 
 я пока просто уберу эту ошибку, но нужно будет подумать. вохможно моя структура хрень
 
-## Task # Enable and connect react parser #1279
-
+## Task 3: Enable and connect react parser #1279
 
 ![5](https://user-images.githubusercontent.com/1469198/179402426-6952843f-ae94-4f1a-87c0-f8563c448eab.png "5")
 
----
-
-## Task # Well it is not good can be improved with lodash #1246
+## Task 4: Well it is not good can be improved with lodash #1246
 
 markdown-to-email/src/callbacks/html/methods/br.js
 
@@ -213,7 +218,7 @@ export function _br(text, newLines) {
 export default _br;
 ```
 
-## Task # I propose to move inner things of this method into Replace runConfigure #1166
+## Task 5: I propose to move inner things of this method into Replace runConfigure #1166
 ```
 Replacer.replaceMDBindedPreviewText = replaceMarkdownPreviewText.bind(state);
 
@@ -260,7 +265,7 @@ import {
   export default configureReplacer;
 ```
 
-## Task # replace this layout with plain v3 layout #1165
+## Task 6: Replace this layout with plain v3 layout #1165
 
 markdown-to-email/src/domain/replace-markdown/pre-replace-objects.js
 ```
@@ -476,9 +481,9 @@ export default {
 };
 ```
 
+## Task 7: Enable const messages #1110
 
-## Task # enable const messages #1110
-
+```
 import { WARNING_IMAGE_VERSION, ERROR_SOURCE_DONT_HAVE, FULL_TEMPLATE_ERROR, HTML_EMAIL_SUCCESS, HTML_EMAIL_ERROR } from './constants';
 
 markdown-to-email/src/helper/command-line-methods.js
@@ -486,6 +491,7 @@ markdown-to-email/src/helper/command-line-methods.js
 Line 9 in a052695
 
  // TODO enable const messages
+ ```
  
 ```
 /* eslint-disable no-use-before-define */
@@ -504,14 +510,11 @@ function checkWarnings(warnings) {
     if (index) {
 ```
 
-## Task # Vadim wants to add issue templates, restrict who and how can do merges into the main branch #1109
+## Task 8: Vadim wants to add issue templates, restrict who and how can do merges into the main branch #1109
 
 from one of our last chats
 
-
-
-
-## Task ## add here error handlers from domain error handle #1021
+## Task 9: Add here error handlers from domain error handle #1021
 
 removing them from this file
 
@@ -751,7 +754,7 @@ export default {
 ```
 
 
-## Task ## #1038
+## Task 10: #1038
 
 https://www.npmjs.com/package/debug
 
@@ -766,7 +769,7 @@ I'll move contents of this task into a separate place, organize it with help of 
 
 We'll migrate it into our documentation website and then will discuss it
  
-# husky and eslint as actions #9333
+## Husky and eslint as actions #9333
 
 typicode/husky#186
 
@@ -779,8 +782,7 @@ https://npm.io/package/validate-branch-name
 
 https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-automate-code-tasks/
 
-
-## Task logger
+## Task 11: Logger
 
 - [Designing Error Messages and a Logging Strategy in Node.js](https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html)
 - [Npmlog](https://www.npmjs.com/package/npmlog)
@@ -788,30 +790,24 @@ https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-a
 - [Comparing Node.js logging tools](https://blog.logrocket.com/comparing-node-js-logging-tools/)
 - [How to handle log events with the npmlog library?](https://stackoverflow.com/questions/72506435/how-to-handle-log-events-with-the-npmlog-library)
 
+## Task 12
 
----
-
-## Task
 Почему я бы хотел чтобы мы быстрее разобрали mdx. Есть ощущение(которому больше чем год) - что возможно будет заменить работу нашего replacer`a.
 но нужно подумать.
 
----
+## Task 13
 
-## Task
 почему работа с подмодулями мне нравится. Потому что я легко могу раскидать модули на разные репозитории, настроить простые билды и легко дебажить и фиксить код.
 делать коммиты и небоятся что все зафейлится.
 
 нужно просто все настроить.
 
----
+## Task 14
 
-## Task
 Почему хочется использовать реальный React components для быстрого запила templates.
 таким макаром мы можем наконецто уйти от странных "темлпейтов" и делать блоки фронтенда с помощью тех средств, которые для этого предпочтительнее и реаль работают лучше.
 
----
-
-## Task
+## Task 15
 
 Придумать как можно улучшить работу с кастомными реплейсерами:
 sponsorship, memes, etc.
