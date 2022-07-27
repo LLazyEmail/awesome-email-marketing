@@ -4,21 +4,21 @@
 ## Table of Contents
 
 - [Best Email Marketing Tools for 2022](#best-email-marketing-tools-for-2022)
-- [Have ecommerce integration](#have-ecommerce-integration)
-- [Marketing automation](#marketing-automation)
-- [Tools](#tools)
+- [Marketing automation platform wich have ecommerce integration](#marketing-automation-platform-wich-have-ecommerce-integration)
+- [Automation Email Marketing platform](#automation-email-marketing-platform)
+- [Tools for effective works with e-mail](#tools-for-effective-works-with-e-mail)
 - [Blogs](#blogs)
-- [Resources](#resources)
+- [Resources wich giv answers about importance e-mail in your business](#resources-wich-giv-answers-about-importance-e-mail-in-your-business)
 - [Demand Curve: Tested tactics for growing newsletters](#demand-curve-tested-tactics-for-growing-newsletters)
 - [Email templates](#email-templates)
-- [Getvero](#getvero)
+- [Getvero about Email Marketing](#getvero-about-email-marketing)
 - [Zapier Blog](#zapier-blog)
 - [Drip Blog](#drip-blog)
 - [Automizy Blog](#automizy-blog)
-- [Revue](#revue)
+- [Revue: fears and risks](#revue-fears-and-risks)
 - [GDPR](#gdpr)
 - [Frontend Development](#frontend-development)
-- [Github](#github)
+- [Github about Email Marketing](#github-about-email-marketing)
 - [Checkers](#checkers)
 - [GitHub repositories related to email marketing](#github-repositories-related-to-email-marketing)
 - [HTML stuff](#html-stuff)
@@ -31,14 +31,14 @@
 - [Sending emails via Amazon SES](#sending-emails-via-amazon-ses)
 - [Testing](#testing)
 - [Newsletter Metrics](#newsletter-metrics)
-- [Basics](#basics)
+- [Basics in Email Marketing](#basics-in-email-marketing)
 - [How To Measure Your Newsletter Performance](#how-to-measure-your-newsletter-performance)
-- [Advanced](#advanced)
+- [All about effective Email Marketing](#all-about-effective-email-marketing)
 - [Email marketing strategy](#email-marketing-strategy)
 - [Transactional Emails](#transactional-emails)
-- [Reasons](#reasons)
-- [Questions](#questions)
-- [Similar awesome lists](#similar-awesome-lists)
+- [Reasons to use email newsletters](#reasons-to-use-email-newsletters)
+- [Frequently asked questionss](#frequently-asked-questions)
+- [Awesome lists](#awesome-lists)
 
 ## Best Email Marketing Tools for 2022
 
@@ -97,14 +97,14 @@
 * [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
 
-## Have ecommerce integration
+## Marketing automation platform wich have ecommerce integration
 
 - [Klaviyo](https://kinsta.com/) 
 - Campaign Monitor (listed below)
 - [Encharge](https://encharge.io/)
 - [Newsletter2go](https://docs.newsletter2go.com/)
 
-## Marketing automation
+## Automation Email Marketing platform
 
 - [Aritic](https://aritic.com/) - is a full-stack automation platform. It includes marketing automation, communication automation, CRM application, service desk application and business automation stack designed for B2B companies
 - [ActiveCampaign](https://www.activecampaign.com/) - is a  software for customer experience automation (CXA), which combines the transactional email, email marketing, marketing automation, sales automation, and CRM categories
@@ -118,7 +118,7 @@
 - [Woodpecker](woodpecker.co) - uses to get emails delivered to main inbox & get more sales opportunities
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them
 
-## Tools
+## Tools for effective works with e-mail
 
 - [Spam Checker](https://mailmeteor.com/spam-checker)
 - [Email Checker](https://mailmeteor.com/email-checker)
@@ -130,7 +130,7 @@
 - [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) 
 - [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 
-## Resources
+## Resources wich giv answers about importance e-mail in your business
 
 - [Elastic-email. A Beginner’s Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
 - [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
@@ -165,7 +165,7 @@
 
 - [Email Marketing Templates](https://www.hubspot.com/resources/template/email-marketing) 
 
-### Getvero 
+### Getvero about Email Marketing 
 
 - [How Email Marketing Increased Monthly Revenue Growth By 34%](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
 - [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
@@ -207,7 +207,7 @@
 - [16 B2B Email Marketing Examples For 2021 [How To Write Them]](https://automizy.com/blog/b2b-email-marketing/)
 - [9 Drip Email Campaign Examples [Learn How To Create Them]](https://automizy.com/blog/drip-email-campaign-examples/)
 
-### Revue
+### Revue: fears and risks
 
 - [A newsletter for readers and writers on Twitter.](https://www.getrevue.co/profile/the_week_in_newsletters) 
 - [How much can you earn from your newsletter?](https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-can-you-earn-from-your-newsletter-557696) 
@@ -249,7 +249,7 @@
 - [An intuitive email builder for teams and individuals amps up email marketing ideas](https://designmodo.com/postcards/)
 - [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
 
-## Github
+## Github about Email Marketing
 
 - [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
 - [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
@@ -372,7 +372,7 @@
 
 ## Newsletter Metrics
 
-### Basics
+### Basics in Email Marketing
 
 - [Metrics: Measuring Your Newsletter](https://localnewslab.org/guide/newsletters/metrics-measuring-your-newsletter/)
 - [10 Metrics to Track Newsletter Content Success](https://writtent.com/blog/10-metrics-to-track-your-newsletter-content-success/)
@@ -389,7 +389,7 @@
 - [How to Measure Your Email Marketing Success](https://mailchimp.com/resources/how-to-measure-your-email-marketing-success/)
 - [6 Crucial Email Newsletter Metrics You Should Be Monitoring](https://blog.hubspot.com/marketing/email-newsletter-metrics-list)
 
-### Advanced
+### All about effective Email Marketing
 
 - [6 advanced KPIs for measuring email engagement](https://www.smartinsights.com/email-marketing/email-marketing-analytics/email-engagement-kpis/)
 - [How To Measure Your Newsletter Performance](https://revenue-hub.com/measure-newsletter-performance/)
@@ -521,7 +521,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - Keep email lists clean (regularly validate them and stay away from bounces);
 - Do the warmup properly (increase the limits gradually, interact with recipients with high sender scores).
 
-## Reasons
+## Reasons to use email newsletters
 
 1. Your customers want to hear from you.
 2. Email newsletters spark sales.
@@ -534,7 +534,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 9. It’s a warmup pen for your leads.
 10. You can start two-way conversations.
 
-## Questions
+## Frequently asked questions
 
 - What is the most common reason for subscribing to a newsletter?
 - What is the main purpose of a newsletter?
@@ -555,7 +555,7 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - Does your blog need a newsletter?
 - Is a mailing list the same as a newsletter?
 
-## Similar awesome lists
+## Awesome lists
 
 - [Sister Repository](https://github.com/jonathandion/awesome-emails)
 - [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md)
