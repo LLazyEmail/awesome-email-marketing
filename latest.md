@@ -81,6 +81,20 @@ Order is :
 
 - [Guide: All You Need to Know About Lifecycle Email Marketing](https://chamaileon.io/resources/lifecycle-email-marketing/)
 
+- [The Anatomy of a Perfect Lifecycle Email](https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/)
+
+- [Lifecycle Email Marketing for E-commerce and D2C Brands](https://www.mailmodo.com/guides/lifecycle-email-marketing/)
+
+- [What is customer lifecycle marketing?](https://www.smartinsights.com/ecommerce/web-personalisation/what-is-lifecycle-marketing/)
+
+- [5 Must-Have Email Lifecycle Campaigns and How to Build Them](https://www.mailcharts.com/blog/lifecycle-campaigns)
+
+- [Customer Lifecycle Marketing](https://www.optimove.com/resources/learning-center/customer-lifecycle-marketing)
+
+- [LIFECYCLE EMAIL MARKETING: THE ULTIMATE GUIDE (WITH 250 EXAMPLES)](https://chainlinkmarketing.com/lifecycle-email-marketing/)
+
+- [9 Must-Have Lifecycle Email Marketing Programs for Retailers](https://iterable.com/blog/9-must-have-lifecycle-email-marketing-programs-for-retailers/)
+
 # Personalization and slides
 
 - [Personalization is when marketers use,tailor-made for the individual](https://www.campaignmonitor.com/resources/glossary/personalization/#:~:text=Personalization%20is%20when%20marketers%20use,tailor%2Dmade%20for%20the%20individual.&text=As%20a%20result%2C%20your%20subscribers,receiving%20emails%20from%20your%20brand)
@@ -90,6 +104,18 @@ Order is :
 - [5 Email Personalization Strategies to Skyrocket Your Sales in 2022](https://hyperise.com/blog/email-personalization-strategies-to-skyrocket-your-sales) 
 
 - [15 Email Personalization Techniques That Work](https://neilpatel.com/blog/email-personalization-techniques/)
+
+- [Email Personalization: 23 of the Best Personalized Email Examples](https://blog.hubspot.com/blog/tabid/6307/bid/34146/7-excellent-examples-of-email-personalization-in-action.aspx)
+
+- [25 Tips for Perfecting Your E-mail](https://www.inc.com/guides/2010/06/email-etiquette.html)
+
+- [What is a Personalized Email? Definition, Tactics & Examples](https://respona.com/blog/personalized-email/)
+
+- [What is a Personalized Email: Definition and Guide](https://sendpulse.com/support/glossary/personalized-email)
+
+- [The power of personalized emails: A guide for marketers](https://www.mailjet.com/blog/email-best-practices/personalized-emails/)
+
+- [10 Email Personalization Hacks: How to Grab a Prospect’s Attention](https://www.cience.com/blog/email-personalization-hacks)
 
 # Read and use later
 
@@ -120,3 +146,15 @@ Order is :
 - [Single Opt-In vs Double Opt-In: Which Is The Best Opt-in Process?](https://moosend.com/resource/email-optin-process/) 
 
 - [Lead generation strategies: What you need to know](https://www.getvero.com/resources/lead-generation-strategies/)
+
+- [The best way to generate leads using email newsletter advertising](https://www.thedrum.com/industryinsights/2022/05/11/the-best-way-generate-leads-using-email-newsletter-advertising)
+
+- [How to generate more leads with a Monthly Newsletter](https://leadsbridge.com/blog/how-to-generate-more-leads-with-a-monthly-newsletter/)
+
+- [12 Creative Lead Generation Strategies for Your Business](https://www.wix.com/blog/amp/2019/10/lead-generation-strategies?utm_source=google&utm_medium=cpc&utm_campaign=13708482660^124757113592&experiment_id=^^530755701287^^_DSA&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCZGTXqgzInNLgx5J1JS54qmoWlhlzsdkdnlsVc3zmWnjgOp18MsqGkaAkBWEALw_wcB)
+
+- [4 ways to generate leads with newsletters](https://www.randallreilly.com/4-ways-to-generate-leads-with-newsletters/)
+
+- [How to Generate High-Quality Leads Using Automation](https://www.leadfeeder.com/blog/how-to-generate-leads-automation/)
+
+- [7 Lead Generation Strategies that Work for Startups](https://www.wordstream.com/blog/ws/2014/10/15/lead-generation-strategies)
