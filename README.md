@@ -47,6 +47,7 @@
 - [Reasons to use email newsletters](#reasons-to-use-email-newsletters)
 - [Frequently asked questionss](#frequently-asked-questions)
 - [Awesome lists](#awesome-lists)
+- [Additional content](#additional-content)
 
 ## Best Email Marketing Tools for 2022
 
@@ -660,3 +661,11 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 
 - [Sister Repository](https://github.com/jonathandion/awesome-emails)
 - [Awesome-augmented](https://github.com/chaconnewu/awesome-augmented/blob/master/awesomes/awesome-emails.md)
+
+## Additional content
+
+- [Direct-to-consumer advertising](https://en.wikipedia.org/wiki/Direct-to-consumer_advertising)
+- [E-mail versus print](https://www.washington.edu/marketing/e-communications/e-communications-basics/e-mail-vs-print/)
+- [What is a Newsletter? The Ultimate Guide](https://www.brafton.com/what-is-a-newsletter/)
+- [What is Email Newsletter? - Definition and Tips](https://sendpulse.com/support/glossary/email-newsletter)
+- [Why Is Everyone Talking About Newsletters?](https://the1a.org/segments/substack-newsletter-blog/)
