@@ -4,9 +4,9 @@
 ## Table of Contents
 
 - [Best Email Marketing Tools for 2022](#best-email-marketing-tools-for-2022)
-- [Marketing automation platform wich have ecommerce integration](#marketing-automation-platform-wich-have-ecommerce-integration)
+- [Email Marketing For eCommerce](#email-marketing-for-ecommerce)
 - [Automation Email Marketing platform](#automation-email-marketing-platform)
-- [Tools for effective works with e-mail](#tools-for-effective-works-with-e-mail)
+- [Tools for effective work with emails](#tools-for-effective-work-with-emails)
 - [Strategy](#strategy)
 - [Similar companies](#similar-companies)
 - [Building a list](#building-a-list)
@@ -19,14 +19,14 @@
 - [Resources wich giv answers about importance e-mail in your business](#resources-wich-giv-answers-about-importance-e-mail-in-your-business)
 - [Demand Curve: Tested tactics for growing newsletters](#demand-curve-tested-tactics-for-growing-newsletters)
 - [Email templates](#email-templates)
-- [Getvero about Email Marketing](#getvero-about-email-marketing)
+- [Email marketing insights from Vero](#email-marketing-insights-from-vero)
 - [Zapier Blog](#zapier-blog)
 - [Drip Blog](#drip-blog)
 - [Automizy Blog](#automizy-blog)
 - [Revue: fears and risks](#revue-fears-and-risks)
 - [GDPR](#gdpr)
 - [Frontend Development](#frontend-development)
-- [Github about Email Marketing](#github-about-email-marketing)
+- [Github Repositories](#github-repositories)
 - [Checkers](#checkers)
 - [GitHub repositories related to email marketing](#github-repositories-related-to-email-marketing)
 - [HTML stuff](#html-stuff)
@@ -39,7 +39,7 @@
 - [Sending emails via Amazon SES](#sending-emails-via-amazon-ses)
 - [Testing](#testing)
 - [Newsletter Metrics](#newsletter-metrics)
-- [Basics in Email Marketing](#basics-in-email-marketing)
+- [Email Marketing Basics](#email-marketing-basics)
 - [How To Measure Your Newsletter Performance](#how-to-measure-your-newsletter-performance)
 - [All about effective Email Marketing](#all-about-effective-email-marketing)
 - [Email marketing strategy](#email-marketing-strategy)
@@ -105,7 +105,7 @@
 * [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
 
-## Marketing automation platform wich have ecommerce integration
+## Email Marketing For eCommerce
 
 - [Klaviyo](https://kinsta.com/) 
 - Campaign Monitor (listed below)
@@ -126,7 +126,7 @@
 - [Woodpecker](woodpecker.co) - uses to get emails delivered to main inbox & get more sales opportunities
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them
 
-## Tools for effective works with e-mail
+## Tools for effective work with emails
 
 - [Spam Checker](https://mailmeteor.com/spam-checker)
 - [Email Checker](https://mailmeteor.com/email-checker)
@@ -266,7 +266,7 @@ Order is :
 
 - [Email Marketing Templates](https://www.hubspot.com/resources/template/email-marketing) 
 
-### Getvero about Email Marketing 
+### Email marketing insights from Vero 
 
 - [How Email Marketing Increased Monthly Revenue Growth By 34%](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
 - [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
@@ -350,7 +350,7 @@ Order is :
 - [An intuitive email builder for teams and individuals amps up email marketing ideas](https://designmodo.com/postcards/)
 - [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
 
-## Github about Email Marketing
+## Github Repositories
 
 - [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
 - [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
@@ -473,7 +473,7 @@ Order is :
 
 ## Newsletter Metrics
 
-### Basics in Email Marketing
+### Email Marketing Basics
 
 - [Metrics: Measuring Your Newsletter](https://localnewslab.org/guide/newsletters/metrics-measuring-your-newsletter/)
 - [10 Metrics to Track Newsletter Content Success](https://writtent.com/blog/10-metrics-to-track-your-newsletter-content-success/)
