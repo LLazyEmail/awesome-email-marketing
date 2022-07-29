@@ -9,8 +9,8 @@
 - [Tools for effective work with emails](#tools-for-effective-work-with-emails)
 - [Strategy](#strategy)
 - [Similar companies](#similar-companies)
-- [Building a list](#building-a-list)
-- [Data Driven Email Mark](#data-driven-email-mark)
+- [Building an email list](#building-an-email-list)
+- [Data Driven Email Marketing](#data-driven-email-marketing)
 - [Lifecycle of](#lifecycle-of)
 - [Personalization and slides](#personalization-and-slides)
 - [Read and use later](#read-and-use-later)
@@ -142,7 +142,7 @@
 
 [Feedotter](https://www.feedotter.com/)
 
-## Building a list
+## Building an email list
 
 - [Email List Building: 13 Proven Methods to Grow Your Email List in 2022](https://popupsmart.com/blog/email-list-building-methods-beginners) 
 - [What are the Advantages and Disadvantages of Email Marketing?](https://popupsmart.com/email-marketing/#how-to-build-an-email-list)
@@ -155,7 +155,7 @@
 - [Personalized email](https://www.campaignmonitor.com/resources/guides/personalized-email/) 
 - [Personalization](https://www.campaignmonitor.com/resources/glossary/personalization/#:~:text=Personalization%20is%20when%20marketers%20use,tailor%2Dmade%20for%20the%20individual.&text=As%20a%20result%2C%20your%20subscribers,receiving%20emails%20from%20your%20brand)
 
-## Data Driven Email Mark
+## Data Driven Email Marketing
 
 - [6 Strategies to Make Your Email Campaign More Data-Driven](https://www.voilanorbert.com/blog/data-driven-email-campaigns/)
 - [Data-Driven Email Marketing](https://emailmastery.org/data-driven-email-marketing/) 
