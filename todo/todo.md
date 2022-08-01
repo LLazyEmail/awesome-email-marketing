@@ -582,3 +582,15 @@ export { verification, checkWarnings, checkHtml, newLine };
 - strong
 
 ![4](https://user-images.githubusercontent.com/1469198/180827704-e67d8e22-79d3-4424-bb8d-ece5413a8990.png "4")
+
+
+---
+CHECK CASES WHEN CONTENT CAN HAVE EMPTY LISTS OR BLOCKQUOTE
+
+Replacer.emptyUl();
+
+Replacer.emptyOl();
+
+Replacer.emptyBlockquote();
+
+Replacer.separator();
