@@ -46,6 +46,8 @@
 
 - [Task 21: Index](#task-21-index)
 
+- [Task 22: Simple tasks for main branch #403](#task-22-simple-tasks-for-main-branch-403)
+
 
 # Husky and eslint as actions [#933](https://github.com/LLazyEmail/markdown-to-email/issues/933)
 
@@ -972,3 +974,73 @@ markdown-to-email/src/domain/callbacks-factory/index.js /
 
 // export default CallbackFactory;
 ```
+
+## Task 22: Simple tasks for main branch [#403](https://github.com/LLazyEmail/markdown-to-email/issues/403)
+
+create 3 npm calls for generating full-template for 3 different cases(only plain version is necessary right now):
+
+- full-template with advertising
+- full template with advertising placeholders
+- full-template without sponsors
+
+https://github.com/atherdon/markdown-to-email/blob/main/package.json#L8
+
+---
+
+maybe we should do a custom markdown tag "[separator]" that will be replaced with `***`?
+[#355](https://github.com/LLazyEmail/markdown-to-email/issues/355)
+
+---
+
+Can we add some warnings for preview text, for advertising blocks too?
+[#355](https://github.com/LLazyEmail/markdown-to-email/issues/355)
+
+---
+
+can we clean up our constants package? [#356](https://github.com/LLazyEmail/markdown-to-email/issues/356)
+
+---
+
+switch from default RegExp that we have for links and create custom_link constant.
+
+our goal will be to add URL param like `?ref=noonifications.tech` but let's use some working module, aka extension of `path` module.
+because there can be tons of stupid issues that I want to skip
+
+https://github.com/sindresorhus/query-string#stringifyobject-options
+
+__coder-do:__
+
+"_create 3 npm calls for generating full-template for 3 different cases(only plain version is necessary right now):_" - Этот момент не оч понятен
+
+"_maybe we should do a custom markdown tag "[separator]" that will be replaced with `***`?_" - Это уже готово
+
+"_Can we add some warnings for preview text, for advertising blocks too?_" - Для previwText есть warning - когда парсим фулл контент в консоли выводится красным что previwText нету
+
+"_can we clean up our constants package? [#356](https://github.com/LLazyEmail/markdown-to-email/issues/356)_" - В этом не очень уверен
+
+__Над последним пунктом Вадим работает как помню__
+
+__atherdon__
+
+
+< create 3 npm calls for generating full-template for 3 different cases(only plain version is necessary right now
+
+сейчас у нас вызывается генератор с помощью одной команды.
+и генерирует он темплейт только в том случае, когда есть вся информация сразу. - это первая команда.
+
+но т.к. клиенты иногда тупят - мы генерируем темплейт, но не имеет в этот момент данных от спонсоров.
+это будет вторая команда.
+
+третья команда в package.json будет тоже генерировать темплейт, но в котором нету блоков от спонсора совсем. пример: https://www.noonifications.tech/w/FrS0z4j1mwy0iPFsU6N2Ig
+Сейчас, с помощью нашего генератора, такой layout не просто сделать. приходится потом руками удалять блоки
+
+сс @coder-do
+
+
+
+
+
+
+
+
+
