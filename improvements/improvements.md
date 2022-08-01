@@ -16,15 +16,15 @@
 
 - [Task 7: Enable const messages #1110](#task-7-enable-const-messages-1110)
 
-- [Task 8: Vadim wants to add issue templates, restrict who and how can do merges into the main branch #1109](#task-8-vadim-wants-to-add-issue-templates-restrict-who-and-how-can-do-merges-into-the-main-branch-1109)
+- [Task 8: Vadim wants to add issue templates](#task-8-vadim-wants-to-add-issue-templates)
 
 - [Task 9: Add here error handlers from domain error handle #1021](#task-9-add-here-error-handlers-from-domain-error-handle-1021)
 
-- [Task 10: #1038](#task-10-1038)
-
 - [Husky and eslint as actions #9333](#husky-and-eslint-as-actions-9333)
 
-- [Task 11: Logger](#task-11-logger)
+- [Task 10: Logger](#task-10-logger)
+
+- [Task 11](#task-11)
 
 - [Task 12](#task-12)
 
@@ -33,6 +33,10 @@
 - [Task 14](#task-14)
 
 - [Task 15](#task-15)
+
+- [Task 16](#task-16)
+
+- [Task 17: If I comment any of those cases - i wouldnt get any warning or something in our ... #1433](task-187-if-i-comment-any-of-those-cases-i-wouldnt-get-any-warning-or-something-in-our-1433)
 
 
 # Husky and eslint as actions [#933](https://github.com/LLazyEmail/markdown-to-email/issues/933)
@@ -459,7 +463,7 @@ export default {
 ```
 
 
-## Task 11: Logger
+## Task 10: Logger
 
 - [Designing Error Messages and a Logging Strategy in Node.js](https://blog.appsignal.com/2021/11/03/designing-error-messages-and-a-logging-strategy-in-nodejs.html)
 - [Npmlog](https://www.npmjs.com/package/npmlog)
@@ -469,14 +473,14 @@ export default {
 
 
 
-## Task 12
+## Task 11
 
 Почему я бы хотел чтобы мы быстрее разобрали mdx. Есть ощущение(которому больше чем год) - что возможно будет заменить работу нашего replacer`a.
 но нужно подумать.
 
 
 
-## Task 13
+## Task 12
 
 почему работа с подмодулями мне нравится. Потому что я легко могу раскидать модули на разные репозитории, настроить простые билды и легко дебажить и фиксить код.
 делать коммиты и небоятся что все зафейлится.
@@ -485,13 +489,13 @@ export default {
 
 
 
-## Task 14
+## Task 13
 
 Почему хочется использовать реальный React components для быстрого запила templates.
 таким макаром мы можем наконецто уйти от странных "темлпейтов" и делать блоки фронтенда с помощью тех средств, которые для этого предпочтительнее и реаль работают лучше.
 
 
-## Task 15
+## Task 14
 
 Придумать как можно улучшить работу с кастомными реплейсерами:
 sponsorship, memes, etc.
@@ -536,14 +540,14 @@ https://user-images.githubusercontent.com/1469198/180642690-d6ca3af5-f9eb-4a55-a
 
 ---
 
-## Task 16
+## Task 15
 Адаптер для подключения наших тем.
 Например в основном генераторе нам не нужно устанавливать тысячу тем. Скорее это долно работать в обратном направлении.
 Есть generator, есть тема, есть темплейт проекта который ты установил и там юзаешь.
 
 ---
 
-## Task 17
+## Task 16
 Тесты приводить в порядок. 
 - Есть централизация
 - есть улучшение в процессе работы
@@ -676,3 +680,64 @@ Maizzle
 https://maizzle.com/docs/introduction
 + https://maizzle.com/docs/introduction#byohtml
 ----
+
+## Task 17: If I comment any of those cases - i wouldnt get any warning or something in our ... [#1433](https://github.com/LLazyEmail/markdown-to-email/issues/1433)
+
+reactFull: () => generateReactFullTemplate(FULL_SOURCE),
+
+markdown-to-email/src/index.js
+
+Line 14 in 54325ce
+
+ // TODO if I comment any of those cases - i wouldnt get any warning or something in our command line. 
+ 
+ ```
+ 
+import { isFolderExists } from './domain/write';
+
+import { generateReactFullTemplate } from './templates/NewsletterReactTemplate';
+import { generateFullTemplateHackernoon } from './templates/HackernoonTemplate';
+//-------------------
+// @TODO add path package, in order to make it work PERFECTLY
+const FULL_SOURCE = 'source/source.md';
+
+isFolderExists('./generated');
+isFolderExists('./tests/_generated');
+
+console.log('Mode', process.env.PARSE);
+
+// TODO if I comment any of those cases - i wouldnt get any warning or something in our command line.
+
+const modeMap = {
+  full: () => generateFullTemplateHackernoon(FULL_SOURCE),
+  // reactContentOnly: () => generateReactContent(CONTENT_SOURCE),
+  reactFull: () => generateReactFullTemplate(FULL_SOURCE),
+};
+
+modeMap[process.env.PARSE ?? 'full']();
+```
+
+_vadim9999:_
+
+@atherdon the problem was with printMessage, because you have wrapped params into object, but didn't change call of this function
+
+_atherdon:_
+
+hmm. I mean, probably there was an issue with my code, but the reason why I created this issue is different.
+
+i mean that it's hard to manage items from this array. while we protected our main page - we still don't have a proper way to get an error. Imagine this situation - this generator was used for creating 100 different templates - do you think this structure will be able to handle that?
+
+Do you want to explore this issue deeper?
+
+_vadim9999:_
+
+I don't think that the object can cause any errors. switch is not so good, because it's hard to read and understand what is going on. also there are some troubles with switch block, and it's recommended to use object instead
+
+_atherdon:_
+
+here i totally agree with you. switch sucks.
+
+ok, let me move this part of our conversation into "improvements.md"
+document that I'm still working on.
+
+
