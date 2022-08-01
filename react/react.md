@@ -21,6 +21,8 @@
 
 - [Task 8: Remark research for Markdown to Html generator #754](#task-8-remark-research-for-markdown-to-html-generator-754)
 
+- [Task 9: Try to make "full-template" work #385](#task-9-try-to-make-full-template-work-385)
+
 
 ## Task 2: Explore mdx stuff deeper
 
@@ -84,10 +86,6 @@ https://app.asana.com/0/1201360899207493/1201391597060794
 
 ---
 
-LLazyEmail/markdown-to-email#754
-
-LLazyEmail/markdown-to-email#385
-
 ## Task 8: Remark research for Markdown to Html generator [#754](https://github.com/LLazyEmail/markdown-to-email/issues/754)
 
 React module issue: [#142](https://github.com/LLazyEmail/markdown-to-email/issues/142)
@@ -111,3 +109,19 @@ https://github.com/unifiedjs/handbook#writing-a-plugin-to-modify-headings
 Links that can help in future:
 https://swizec.com/blog/custom-markdown-extensions-with-remark-and-hast-handlers/
 
+## Task 9: Try to make "full-template" work [#385](https://github.com/LLazyEmail/markdown-to-email/issues/385)
+
+__atherdon:__
+
+![1](https://user-images.githubusercontent.com/1469198/116010103-b8d68780-a625-11eb-8acc-67b9c96a7f37.png "1")
+
+получается что мы начали работу над этими темплейтами, но она явно не очень была закончена.
+предлагаю попробывать вывести какие то данные и посмотреть, как все работает в реакт ветке
+
+сс @coder-do
+
+__coder-do:__
+
+да full template не работает, вот почему - файл https://github.com/atherdon/markdown-to-email/blob/react-components-stage-zero/templates/full/Body/BodyPrototype.js пустой и поэтому кроме ошибок ничего не выводилось - я для теста взял контент этого же файла из `first` страницы и фулл тоже запустился. Я просто не знаю что должно быть в фулл темплейте(контент имею ввиду) если заполнить этот файл все сработает норм
+
+Плюс в full template нету компонента для футера!
