@@ -548,3 +548,35 @@ https://user-images.githubusercontent.com/1469198/180642690-d6ca3af5-f9eb-4a55-a
 - Есть централизация
 - есть улучшение в процессе работы
 - берем и дебажим
+
+
+
+---
+
+
+create a separated method that will generate a tree of components for content only case...
+
+
+
+### create a custom tag that will skip our generator
+sometimes everything is not ideal and i want to put something, like comment, that must be skipped and not wrapped with some blocks.
+
+###
+
+наверное нам нужно попробывать сделать\закончить отдельный метод, который позволит внутри текущего модуля генерировать DOM из react components. Основная идея простая - мне ненравится то что мы храним куски нашего email template в js файлах. это глупо. и в 2021 году есть гораздо более удобные и специфические задачи для этого. мы в ноябре начали подготовку к версии 2.0 генератора - которая темлейт будет хранить в react components и позволит нам играться
+с другими вариантами layouts - при этом ничего не ломая.
+
+Чуть позже нам нужно будет перегнать весь процесс на react - если захотите, можете посмотреть код внутри react ветки
+
+чтобы не начинать переходить на версию 2.0 генератора и проверить - можем ли мы сделать дерево из react тегов - я перенес их в отдельную папку, с похожей структурой.
+
+модуль, в котором хранится старая версия react components находится тут.
+https://github.com/atherdon/markdown-to-email/blob/master/package/generator-react-components/package.json
+нам этой версии сейчас будет достаточно, чтобы понять что эта идея работает, и что можно легко заменить на react components
+
+probably it will be a great idea for doing it.
+
+
+### validator of tags
+
+https://github.com/pluralsight/htmlTagValidator
