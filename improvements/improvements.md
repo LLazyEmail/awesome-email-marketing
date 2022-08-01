@@ -36,7 +36,15 @@
 
 - [Task 16](#task-16)
 
-- [Task 17: If I comment any of those cases - i wouldnt get any warning or something in our ... #1433](task-187-if-i-comment-any-of-those-cases-i-wouldnt-get-any-warning-or-something-in-our-1433)
+- [Task 17: If I comment any of those cases i wouldnt get any warning or something in our #1433](#task-17-if-i-comment-any-of-those-cases-i-wouldnt-get-any-warning-or-something-in-our-1433)
+
+- [Task 18: DDD #1003](#task-18-ddd-1003)
+
+- [Task 19: Mdx bundler #1337](#task-19-mdx-bundler-1337)
+
+- [Task 20: Replace md](#task-20-replace-md)
+
+- [Task 21: Index](#task-21-index)
 
 
 # Husky and eslint as actions [#933](https://github.com/LLazyEmail/markdown-to-email/issues/933)
@@ -681,7 +689,7 @@ https://maizzle.com/docs/introduction
 + https://maizzle.com/docs/introduction#byohtml
 ----
 
-## Task 17: If I comment any of those cases - i wouldnt get any warning or something in our ... [#1433](https://github.com/LLazyEmail/markdown-to-email/issues/1433)
+## Task 17: If I comment any of those cases i wouldnt get any warning or something in our [#1433](https://github.com/LLazyEmail/markdown-to-email/issues/1433)
 
 reactFull: () => generateReactFullTemplate(FULL_SOURCE),
 
@@ -740,4 +748,227 @@ here i totally agree with you. switch sucks.
 ok, let me move this part of our conversation into "improvements.md"
 document that I'm still working on.
 
+## Task 18: DDD [#1003](https://github.com/LLazyEmail/markdown-to-email/issues/1003)
 
+https://medium.com/spotlight-on-javascript/domain-driven-design-for-javascript-developers-9fc3f681931a
+
+https://khalilstemmler.com/articles/domain-driven-design-intro/
+
+https://en.wikipedia.org/wiki/Domain-driven_design
+
+__Мария Тихоновна, [10.07.2022 02:40]__
+
+Entity
+
+Trmplate
+-full
+-content only
+-no ads
+
+Callback
+-name
+-arguments
+-settings object
+
+Object
+-regex
+-csllback
+-literal
+
+__Мария Тихоновна, [10.07.2022 02:41]__
+
+Error
+
+message
+try catch
+Debug and how to play with it.
+
+## Task 19: Mdx bundler [#1337](https://github.com/LLazyEmail/markdown-to-email/issues/1337)
+
+[Mdx bundler](https://github.com/kentcdodds/mdx-bundler)
+
+https://github.com/hashicorp/next-mdx-remote
+
+## Task 20: [Replace md](https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/react/replace-markdown/replace-md.js)
+
+markdown-to-email/src/domain/react/replace-markdown/replace-md.js /
+
+```
+// import debuggingReplacer from './debugging';
+import mainObject from '../pre-replace-object/index';
+// import { replaceMarkdown } from '../../replace-class';
+
+const prepOurCallback = (name) => {
+  if (!name) {
+    throw new Error(`name of ${name} is undefined or empty`);
+  }
+
+  const settings = mainObject[name];
+
+  if (!settings) {
+    throw new Error(`object by name ${name} not found`);
+  }
+
+  return settings;
+};
+
+// if (debug) {
+//   //--------------
+//   if (!settings.literal) {
+//     console.log(callbackName, settings.constant);
+//     console.log('-----------------');
+//   }
+//   //---------------
+// }
+// TODO we finally can replaceMarkdown()*** for this one.
+
+export function replaceMarkdownReact(callback_name) {
+  // const debugging = new replaceMarkdownDebug(callback_name);
+
+  const singleElement = prepOurCallback(callback_name, false);
+
+  // --------- comment for debugging purposes
+  // // --- You can comment this when you debugging our wrapper
+  // const _replacer = singleElement.replacer.bind(this);
+  // this.content = this.content.replace(singleElement.constant, _replacer);
+
+  const _replacer = singleElement.replacer.bind(this);
+  this.content = this.content.replace(singleElement.constant, _replacer);
+
+  //   // -------------- Uncomment for debugging reasons
+  // if (debuggingReplacer(callback_name)) {
+  //   // console.log(callback_name);
+
+  //   //     console.log(replacedString);
+
+  //   //     // TODO another case why i dont like this solution
+  //   //     // with string.replace - when you forget to return something it's hard to catch
+  // }
+  // return '';
+  //-----------------------
+}
+
+// function replaceMarkdownDebug(callback_name) {
+//   // -------------- Uncomment for debugging reasons
+//   if (debuggingReplacer(callback_name)) {
+
+//     console.log(callback_name);
+
+//     const _replacer = singleElement.replacer.bind(this);
+
+//     console.log(replacedString);
+
+//     // TODO another case why i dont like this solution
+//     // with string.replace - when you forget to return something it's hard to catch
+//     this.content = this.content.replace(singleElement.constant, _replacer);
+//   }
+//   return '';
+//   //--------------
+// }
+
+// TODO mayber replace it with class?
+// class replaceMarkdownReact {
+//   constructor(callback_name) {
+//     const singleElement = prepOurCallback(callback_name, false);
+//     // --------- comment for debugging purposes
+//     // // --- You can comment this when you debugging our wrapper
+//     // const _replacer = singleElement.replacer.bind(this);
+//     // this.content = this.content.replace(singleElement.constant, _replacer);
+//     //   // -------------- Uncomment for debugging reasons
+//     if (debuggingReplacer(callback_name)) {
+
+//       // console.log(callback_name);
+//       const _replacer = singleElement.replacer.bind(this);
+
+//       //     console.log(replacedString);
+//       //     // TODO another case why i dont like this solution
+//       //     // with string.replace - when you forget to return something it's hard to catch
+//       this.content = this.content.replace(singleElement.constant, _replacer);
+
+//     }
+//     return '';
+//     //   //-----------------------
+//   }
+// }
+```
+
+## Task 21: [Index](https://github.com/LLazyEmail/markdown-to-email/blob/main/src/domain/callbacks-factory/index.js)
+
+markdown-to-email/src/domain/callbacks-factory/index.js /
+
+```
+//-------------------
+// ----- examples below
+
+// import { catchErrorTraceOutput, inspector } from '../error-handle';
+
+// import { WR3_generateNewString, WR3_getWrapper } from '../replace-wrapper3.0';
+
+// class CallbackFactory {
+//   error = false;
+
+//   create = (settings) => {
+//     // if(inspector(settings) throw new Error('nooooo settings')
+
+//     // if (!settings)
+//     // add error checking here.. probably few versions to test
+//     // error = false;
+
+//     const { params, name, valuesObj, replacerMethod, debug } =
+//       settings || false;
+
+//     const { regex, replacer, literal } = valuesObj;
+
+//     const configCopy = Object.assign(
+//       settings,
+//       WR3_getWrapper(name),
+//       // this.getWrapper(name)
+//     );
+
+//     // params: {
+//     //   content: title.trim(),
+//     //   href: href.trim(),
+//     // };
+
+//     // let partial;
+
+//     // here i want to apply a check and see if everything is fine, if not we generate error = true
+//     try {
+//       // or
+//       // let newString = WR3_generateNewString(configCopy);
+//       // console.log(newString);
+//       //     return newString;
+//       // or
+//       // let newString = this.WR3_generateNewString(configCopy);
+//       // console.log(newString);
+//     } catch (error) {
+//       catchErrorTraceOutput(error);
+//     }
+//   };
+
+//   // WR4_getWrapper = (name) => {
+//   //   return {
+//   //     literal: mainObj[name]['literal']
+//   //   }
+//   // }
+
+//   // partial = '';
+
+//   // isError = () => {
+//   //     return this.error;
+//   // }
+//   // setPartial = (string) => {
+//   //   this.partial = string;
+//   // }
+
+//   // getPartial = () => {
+//   //   return this.partial;
+//   // }
+
+//   // display = () => {
+//   //   this.getPartial();
+//   // }
+// }
+
+// export default CallbackFactory;
+```
