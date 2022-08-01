@@ -167,3 +167,15 @@ Read a few of those articles, it might help you with cases, like this one: https
 6. Parser runs from build so hard to trace
 
 ![Parser runs from build so hard to trace](https://github.com/LLazyEmail/awesome-email-marketing/blob/main/images%20folder/parser-runs-from-build-so-hard-to-trace.png "Parser runs from build so hard to trace")
+
+## Task 6: More error handling [#930](https://github.com/LLazyEmail/markdown-to-email/issues/930)
+
+markdown-to-email/src/callbacks/replace-md.js
+
+Line 176 in dae7dbc
+
+ throw new Error('name of callback is undefined or empty'); 
+ 
+https://github.com/LLazyEmail/markdown-to-email/blob/my-name-is-debby/src/helper/command-line-methods.js
+
+
