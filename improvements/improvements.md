@@ -664,3 +664,13 @@ we can use https://www.freeformatter.com/html-validator.html and see errors. not
 - add links checker
 
 ![image](https://user-images.githubusercontent.com/1469198/101926544-f937ea80-3bdb-11eb-8df8-0ca4250c54b0.png)
+
+
+---
+
+
+Maizzle 
+
+https://maizzle.com/docs/introduction
++ https://maizzle.com/docs/introduction#byohtml
+----
