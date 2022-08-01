@@ -580,3 +580,20 @@ probably it will be a great idea for doing it.
 ### validator of tags
 
 https://github.com/pluralsight/htmlTagValidator
+
+### add parameter ref to url of links
+
+?ref=noonifications.tech
+https://www.npmjs.com/package/url-parse
+https://www.npmjs.com/package/use-query-params
+
+```
+Url.set(key, value)
+query
+```
+
+
+### image resizing
+
+- image should be resized or applied like 300x300 or something
+
