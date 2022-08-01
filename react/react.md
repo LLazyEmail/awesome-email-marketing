@@ -19,6 +19,8 @@
 
 - [Simple templates without complex styles in head](#simple-templates-without-complex-styles-in-head)
 
+- [Task 8: Remark research for Markdown to Html generator #754](#task-8-remark-research-for-markdown-to-html-generator-754)
+
 
 ## Task 2: Explore mdx stuff deeper
 
@@ -85,3 +87,27 @@ https://app.asana.com/0/1201360899207493/1201391597060794
 LLazyEmail/markdown-to-email#754
 
 LLazyEmail/markdown-to-email#385
+
+## Task 8: Remark research for Markdown to Html generator [#754](https://github.com/LLazyEmail/markdown-to-email/issues/754)
+
+React module issue: [#142](https://github.com/LLazyEmail/markdown-to-email/issues/142)
+
+https://github.com/remarkjs/remark/tree/main/packages/remark-parse
+
+[#751](https://github.com/LLazyEmail/markdown-to-email/discussions/751)
+
+https://github.com/atherdon/markdown-to-email/tree/remark_research
+
+- read article https://www.ryanfiller.com/blog/remark-and-rehype-plugins
+- find great tutorial for remark parser
+- find out how to create custom md elements and change markup
+
+https://astexplorer.net/
+
+https://braincoke.fr/blog/2020/03/an-introduction-to-unified-and-remark/#syntax-trees
+
+https://github.com/unifiedjs/handbook#writing-a-plugin-to-modify-headings
+
+Links that can help in future:
+https://swizec.com/blog/custom-markdown-extensions-with-remark-and-hast-handlers/
+
