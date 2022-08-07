@@ -24,3 +24,6 @@
 - [Benchmarkemail. Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
 - [An intuitive email builder for teams and individuals amps up email marketing ideas](https://designmodo.com/postcards/)
 - [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
