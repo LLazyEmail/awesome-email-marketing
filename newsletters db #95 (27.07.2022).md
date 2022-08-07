@@ -400,3 +400,6 @@ https://mongodb.email/
 Weekly newsletter filled with great updates from Docker, our users and ecosystem.
 
 https://www.docker.com/newsletter-subscription
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
