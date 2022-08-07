@@ -54,3 +54,6 @@
 * [Autopilot](https://www.autopilothq.com/) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 * [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
