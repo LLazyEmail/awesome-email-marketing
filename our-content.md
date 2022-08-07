@@ -96,3 +96,6 @@ Cool Newsletters for developers [Part 1]
 
 
 [Cool resources for sendin emails](https://coderwall.com/p/bed50q/cool-resources-for-sending-emails)
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
