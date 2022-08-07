@@ -20,3 +20,6 @@ Email Marketing Strategy
 - professionaly designed emails
 - clear and defined KPIs
 - Campaign Objectives
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
