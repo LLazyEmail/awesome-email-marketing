@@ -418,3 +418,6 @@ https://newsletter.softwaretalks.ir/
 Receive high-paying tech jobs based on your minimum salary requirement.
 
 https://www.joinfigures.com/
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
