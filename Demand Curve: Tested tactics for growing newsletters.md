@@ -14,3 +14,6 @@
 - [The Future of Email in 2020 and Beyond: The Email Marketing Trends That Will Really Matter](https://www.litmus.com/blog/infographic-5-email-marketing-trends-2020/)
 - [Partnerdemand newsletters](https://www.partnerdemand.com/hpi/newsletters)
 - [63% of Marketers to Use Email Newsletters to Enhance First-Party Data](https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/) 
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
