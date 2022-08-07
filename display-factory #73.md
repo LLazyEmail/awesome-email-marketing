@@ -99,3 +99,6 @@ sample: https://blog.sessionstack.com/how-javascript-works-the-factory-design-pa
 
 я ж добавляю все ваши изменения. если какого то компонента нет - тут я скорее всего не виноват.
 но т.к. в нашем репозитории есть история всех изменений - мы легко можем пройтись по ней и найти компонент который нам нужен
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
