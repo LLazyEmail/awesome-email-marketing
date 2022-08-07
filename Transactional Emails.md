@@ -34,3 +34,6 @@
 - [Transactional Email – Send Email From Your WordPress Website](https://kinsta.com/help/transactional-email/)
 - [What are marketing and transactional emails?](https://help.kajabi.com/hc/en-us/articles/360043089694-What-are-marketing-and-transactional-emails-)
 - [Ultimate guide: Transactional email explained (what, why and how)](https://www.mailersend.com/blog/transactional-email-explained)
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
