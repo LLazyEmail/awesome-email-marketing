@@ -154,3 +154,6 @@ http://designgest.com/
 biweekly curated newsletter about Figma.
 
 https://figmalion.com/
+
+
+## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
