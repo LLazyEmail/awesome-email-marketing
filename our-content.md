@@ -102,5 +102,10 @@ Cool Newsletters for developers [Part 1]
 - [Email Marketing For eCommerce](https://dev.to/atherdon/email-marketing-for-ecommerce-6n2) - dev.to
 - [Email Marketing For eCommerce](https://coding-philosophy.hashnode.dev/email-marketing-for-ecommerce) - hashnode
 
+### Best Email Marketing Tools for 2022
+
+- [Best Email Marketing Tools for 2022](https://dev.to/atherdon/best-email-marketing-tools-for-2022-h7a) - dev.to
+- [Best Email Marketing Tools for 2022](https://coding-philosophy.hashnode.dev/best-email-marketing-tools-for-2022) - hashnode
+
 
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
