@@ -669,6 +669,6 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - [What is a Newsletter? The Ultimate Guide](https://www.brafton.com/what-is-a-newsletter/)
 - [What is Email Newsletter? - Definition and Tips](https://sendpulse.com/support/glossary/email-newsletter)
 - [Why Is Everyone Talking About Newsletters?](https://the1a.org/segments/substack-newsletter-blog/)
-
+- [YouTube: Custom HTML emails with an email expert](https://www.youtube.com/watch?v=MHnTpN0g7ko&ab_channel=KevinPowell)
 
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
