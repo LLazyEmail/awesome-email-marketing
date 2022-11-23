@@ -60,6 +60,7 @@
 * [Mailchimp](https://mailchimp.com/) - Free emailing software
 * [Converkit](https://convertkit.com/) - Send automated emailing campaigns
 * [Sendy](https://sendy.co/) - Send newsletters, 100x cheaper
+* [Interspire](https://www.interspire.com/) - Self-hosted Email Marketing Software
 * [Sendfox](https://sendfox.com/) - Start a newsletter without money
 * [TinyLetter](tinyletter.com) - Email for people with something to say
 * [Mailerlite](https://www.mailerlite.com/pricing) - Pricing mailerlite
