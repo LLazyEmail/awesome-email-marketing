@@ -1,5 +1,5 @@
 
-# ✉  Awesome Email Marketing list
+# ✉  Awesome Email Marketing List 👩‍💻👨‍💻
 
 #### A collection of articles, templates, tools, and many more to build and manage emails.
 
