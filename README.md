@@ -1,9 +1,11 @@
-# Awesome-email-marketing
 
+# ✉  Awesome Email Marketing list
+
+#### A collection of articles, templates, tools, and many more to build and manage emails.
 
 ## Table of Contents
 
-- [Best Email Marketing Tools for 2022](#best-email-marketing-tools-for-2022)
+- [Best Email Marketing Tools](#best-email-marketing-tools-for-2022)
 - [Email Marketing For eCommerce](#email-marketing-for-ecommerce)
 - [Automation Email Marketing platform](#automation-email-marketing-platform)
 - [Tools for effective work with emails](#tools-for-effective-work-with-emails)
