@@ -61,6 +61,7 @@
 * [Substack](https://substack.com/) - Paid newsletters made simple
 * [Mailchimp](https://mailchimp.com/) - Free emailing software
 * [Converkit](https://convertkit.com/) - Send automated emailing campaigns
+* [Mailscribe](https://mailscribe.com) - AI-powered email marketing platform, with built-in components
 * [Sendy](https://sendy.co/) - Send newsletters, 100x cheaper
 * [MailWiz](https://www.mailwizz.com/) - Self-hosted Email Marketing Software
 * [Interspire](https://www.interspire.com/) - Self-hosted Email Marketing Software
