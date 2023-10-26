@@ -74,6 +74,7 @@
 * [Froged](https://froged.com/) - Optimize your Customer Experience with One Powerful Product
 * [Mailjet](https://www.mailjet.com/) - Create and send beautiful emails without touching a single line of code
 * [UnderSend](https://undersend.com/) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
+* [DailyStory](https://www.dailystory.com/) - Simple to use email marketing and more
 * [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
 * [Customer.io](https://customer.io/) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS < indiehacker)
 * [Flodesk](https://flodesk.com/) - Design emails people love to open
@@ -121,6 +122,7 @@
 
 - [Aritic](https://aritic.com/) - is a full-stack automation platform. It includes marketing automation, communication automation, CRM application, service desk application and business automation stack designed for B2B companies
 - [ActiveCampaign](https://www.activecampaign.com/) - is a  software for customer experience automation (CXA), which combines the transactional email, email marketing, marketing automation, sales automation, and CRM categories
+- [DailyStory](https://www.dailystory.com/) - is a marketing automation platform built to help you create sales, build loyalty and grow your business. It includes email, SMS marketing, automation and more.
 - [Sendinblue](www.sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
 - [Drip](https://www.drip.com/) - the automated marketing tools, insights, and savvy to turn shopping experiences into useful data streams, emails into earnings, and popups into cha-chings
 - [GetResponse](https://www.getresponse.com/) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
@@ -158,6 +160,7 @@
 - [5 Email Personalization Strategies to Skyrocket Your Sales in 2022](https://hyperise.com/blog/email-personalization-strategies-to-skyrocket-your-sales)
 - [Personalized email](https://www.campaignmonitor.com/resources/guides/personalized-email/) 
 - [Personalization](https://www.campaignmonitor.com/resources/glossary/personalization/#:~:text=Personalization%20is%20when%20marketers%20use,tailor%2Dmade%20for%20the%20individual.&text=As%20a%20result%2C%20your%20subscribers,receiving%20emails%20from%20your%20brand)
+- [Email marketing 101 - A guide](https://www.dailystory.com/guides/email-marketing-beginners-guide/)
 
 ## Data Driven Email Marketing
 
@@ -236,7 +239,7 @@ Order is :
 - [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) 
 - [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
 
-## Resources wich giv answers about importance e-mail in your business
+## Resources which give answers about importance e-mail in your business
 
 - [Elastic-email. A Beginner’s Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
 - [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
