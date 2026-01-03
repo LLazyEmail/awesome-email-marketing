@@ -109,6 +109,7 @@
 * [Autopilot](https://www.autopilothq.com/) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 * [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
+* [Vedika API](https://vedika.io) - Vedic astrology API for daily horoscope, rashifal, and panchang content to power personalized email newsletters. 22 languages, 108+ endpoints with AI chatbot integration.
 
 ## Email Marketing For eCommerce
 
