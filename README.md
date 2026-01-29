@@ -129,6 +129,7 @@
 - [MailPoet](www.mailpoet.com) - is an one-stop email solution for wordPress and woocommerce website
 - [Elastic Email](https://elasticemail.com/) - is an email delivery service for transactional emailing
 - [Woodpecker](woodpecker.co) - uses to get emails delivered to main inbox & get more sales opportunities
+- [Wraps](https://wraps.dev) - Email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure.
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them
 
 ## Tools for effective work with emails
@@ -676,3 +677,4 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - [YouTube: Custom HTML emails with an email expert](https://www.youtube.com/watch?v=MHnTpN0g7ko&ab_channel=KevinPowell)
 
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
+
