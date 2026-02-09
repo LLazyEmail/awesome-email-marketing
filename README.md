@@ -270,6 +270,9 @@ Order is :
 ### Email templates
 
 - [Email Marketing Templates](https://www.hubspot.com/resources/template/email-marketing) 
+- [Project Kickoff Email Template (Free)](https://techchenko.github.io/cobaltstudio-products/files/project-kickoff-email-template.md) - Copy/paste kickoff email + agenda for freelancers.
+- [Testimonial Request Email Templates (Free)](https://techchenko.github.io/cobaltstudio-products/files/testimonial-request-email-templates.md) - 3 ready-to-send testimonial ask emails + subject lines.
+- [Invoice Follow-Up Email Templates (Free)](https://techchenko.github.io/cobaltstudio-products/files/invoice-follow-up-email-templates.md) - Gentle → firm payment reminder emails.
 
 ### Email marketing insights from Vero 
 
