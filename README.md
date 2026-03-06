@@ -370,6 +370,8 @@ Order is :
 - [Email-Boilerplate haw to use](https://github.com/seanpowell/Email-Boilerplate)
 - [SendGrid](https://github.com/sendgrid/email-templates)
 - [Email Templates](https://github.com/forwardemail/email-templates)
+- [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.
+
 - [Premailer README](https://github.com/premailer/premailer)
 - [Email Framework](https://github.com/g13nn/Email-Framework)
 - [Responsive HTML email templates](https://github.com/konsav/email-templates)
