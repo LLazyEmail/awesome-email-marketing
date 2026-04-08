@@ -130,6 +130,7 @@
 - [Elastic Email](https://elasticemail.com/) - is an email delivery service for transactional emailing
 - [Woodpecker](woodpecker.co) - uses to get emails delivered to main inbox & get more sales opportunities
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine available as a CLI. Source 450M+ contacts, run email and LinkedIn campaigns, manage conversations. JSON output, agent-native. Install via `npm i -g overloop-cli`.
 
 ## Tools for effective work with emails
 
