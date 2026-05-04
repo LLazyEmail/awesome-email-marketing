@@ -386,6 +386,7 @@ Order is :
 
 ### Checkers
 
+- [Domain Email Blacklist Checker](https://email-blacklist-checker.vercel.app) - Check if your sending domain or IP is listed on 16 spam blacklists. Also checks SPF, DMARC, and MX configuration. Free tool.
 - [HTML email check](https://www.htmlemailcheck.com/check/)
 - [A ESLint plugin to lint and fix inline scripts contained in HTML files](https://www.npmjs.com/package/eslint-plugin-html)
 - [HTML Validator - Linter](https://www.freeformatter.com/html-validator.html) 
