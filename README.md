@@ -109,6 +109,7 @@
 * [Autopilot](https://www.autopilothq.com/) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 * [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
+* [SalesLabel](https://sales-label.com) - White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and built-in deliverability.
 
 ## Email Marketing For eCommerce
 
