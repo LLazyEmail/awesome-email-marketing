@@ -130,6 +130,7 @@
 - [Elastic Email](https://elasticemail.com/) - is an email delivery service for transactional emailing
 - [Woodpecker](woodpecker.co) - uses to get emails delivered to main inbox & get more sales opportunities
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them
+- [Sequenzy](https://www.sequenzy.com/) - email marketing and transactional email platform for SaaS teams, combining subscribers, campaigns, sequences, templates, and product emails
 
 ## Tools for effective work with emails
 
