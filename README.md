@@ -119,6 +119,7 @@
 
 ## Automation Email Marketing platform
 
+- [Sequenzy](https://sequenzy.com/) - lifecycle email marketing and transactional email workflows for SaaS and product teams, with an agent skill for campaign and sequence operations
 - [Aritic](https://aritic.com/) - is a full-stack automation platform. It includes marketing automation, communication automation, CRM application, service desk application and business automation stack designed for B2B companies
 - [ActiveCampaign](https://www.activecampaign.com/) - is a  software for customer experience automation (CXA), which combines the transactional email, email marketing, marketing automation, sales automation, and CRM categories
 - [Sendinblue](www.sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
