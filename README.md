@@ -137,6 +137,7 @@
 - [Email Checker](https://mailmeteor.com/email-checker)
 - [No-code Email Editor](https://mailmeteor.com/email-editor)
 - [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
+- [DNSai](https://dnsai.com/dns-tools/) - Free SPF, DKIM and DMARC checkers, plus DNS/WHOIS lookups and email-header analysis; no signup.
 
 ## Strategy
 
