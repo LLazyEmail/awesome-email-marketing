@@ -235,6 +235,7 @@ Order is :
 
 - [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) 
 - [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
+- - [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
 ## Resources wich giv answers about importance e-mail in your business
 
