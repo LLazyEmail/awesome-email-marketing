@@ -86,16 +86,20 @@ const config: Config = {
           title: 'Resources',
           items: [
             {
-              label: 'Awesome List',
-              to: '/docs/awesome-list',
+              label: 'Overview',
+              to: '/docs/',
             },
             {
-              label: 'Services',
-              to: '/docs/services',
+              label: 'Best Tools',
+              to: '/docs/tools/best-tools',
+            },
+            {
+              label: 'Building an Email List',
+              to: '/docs/strategy/building-an-email-list',
             },
             {
               label: 'Opt-in Tactics',
-              to: '/docs/opt-in-tactics',
+              to: '/docs/strategy/opt-in-tactics',
             },
           ],
         },
@@ -118,6 +122,10 @@ const config: Config = {
             {
               label: 'Blog',
               to: '/blog',
+            },
+            {
+              label: 'Services',
+              to: '/docs/more/services',
             },
           ],
         },

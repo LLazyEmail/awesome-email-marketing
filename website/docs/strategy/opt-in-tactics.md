@@ -1,11 +1,15 @@
 ---
-sidebar_position: 3
-title: Opt-in Tactics
+sidebar_position: 11
+sidebar_label: "Opt-in Tactics"
+title: "Opt-in Tactics"
+description: "Real-world opt-in conversion tactics and experiments."
 ---
 
 # Opt-in Tactics
 
-38% opt-in rate from a product page
+Real-world opt-in conversion tactics, experiments, and growth notes.
+
+## 38% opt-in rate from a product page
 
 This pop-up on a product page converts into opt-ins at a 38.4% rate...
 
@@ -20,14 +24,8 @@ Here are the details:
 
 That's a perfect way to nurture them and boost sales - and even promote your next book/product.
 
-https://sumo.com/stories/pop-up-statistics
-
-
-----
-
-
-
-+271% more opt-ins (study)
+[https://sumo.com/stories/pop-up-statistics](https://sumo.com/stories/pop-up-statistics)
+## +271% more opt-ins (study)
 
 How RocketMemory managed to increase their opt-ins by +271% without reducing number of form fields...
 
@@ -35,12 +33,12 @@ RocketMemory had low conversions for opt-ins: 5.15%
 But they couldn't reduce the number of fields in their form.
 
 They asked for:
-+ First name
-+ Email
-+ Age
-+ Gender
-+ Are you a student: yes/no
-+ Are you taking classes or studying for something? yes/no
+- First name
+- Email
+- Age
+- Gender
+- Are you a student: yes/no
+- Are you taking classes or studying for something? yes/no
 
 
 After they made the following changes, their signup rate increased by 271% (more than triple!)
@@ -61,13 +59,8 @@ As you can see, they asked for the same info but in 4 different steps.
 The result is amazing:
 over 3 times more opt-ins.
 
-https://www.crazyegg.com/blog/science-of-micro-commitments
-
-
-----
-
-3.5 million opt-ins analysis
-
+[https://www.crazyegg.com/blog/science-of-micro-commitments](https://www.crazyegg.com/blog/science-of-micro-commitments)
+## 3.5 million opt-ins analysis
 
 They analyzed over 3.5 million opt-ins and found a magic number for the best conversions...
 
@@ -82,19 +75,14 @@ Here's what the huge research says.
 The best place to show your "Scroll Popup" is 47.7% down your page.
 
 
-https://sumo.com/stories/attention-grabbing-popups
-
----
-
-
-+181% better opt-in rate (secret targeting)
+[https://sumo.com/stories/attention-grabbing-popups](https://sumo.com/stories/attention-grabbing-popups)
+## +181% better opt-in rate (secret targeting)
 
 Secret ad targeting that boosted opt-in rates for Periscopix by 181%...
 
 
 Periscopix used this smart targeting and boosted their opt-in rate by 181%.
-http://www.periscopix.co.uk/clients/case-studies/world-first-gmail-ads
-
+[http://www.periscopix.co.uk/clients/case-studies/world-first-gmail-ads](http://www.periscopix.co.uk/clients/case-studies/world-first-gmail-ads)
 How?
 
 Have you heard of Gmail Ads?
@@ -120,12 +108,8 @@ click on “Use a different targeting method.”
 
 P.S. Remember to confirm that your ad is formatted for the smaller screen and loads quickly, because 75% of Gmail users access their accounts from their mobile device.
 
-https://neilpatel.com/blog/the-beginners-guide-to-gmail-ads
-
----
-
-
-60% open rate for sales emails (Smart)
+[https://neilpatel.com/blog/the-beginners-guide-to-gmail-ads](https://neilpatel.com/blog/the-beginners-guide-to-gmail-ads)
+## 60% open rate for sales emails (Smart)
 
 How this company achieved a 60% open rate for sales emails...
 
@@ -142,11 +126,8 @@ Only when the temperature crossed 75°F (24°C).
 60% of those emails and close to 90% of the text messages were opened.
 
 
-https://neilpatel.com/blog/how-to-optimize-your-ecommerce-website-for-mobile-devices/
-
----
-
-+12% more subscribers (easy)
+[https://neilpatel.com/blog/how-to-optimize-your-ecommerce-website-for-mobile-devices/](https://neilpatel.com/blog/how-to-optimize-your-ecommerce-website-for-mobile-devices/)
+## +12% more subscribers (easy)
 
 +12% more subscribers (easy)
 
@@ -155,18 +136,14 @@ I was looking for this experiment for a long time.
 You’ve probably seen this many times -
 Opt-in forms asking for name and email.
 
-https://www.leadpages.com/blog/ab-test-how-many-fields-opt-in-form/
-
+[https://www.leadpages.com/blog/ab-test-how-many-fields-opt-in-form/](https://www.leadpages.com/blog/ab-test-how-many-fields-opt-in-form/)
 These guys ran an A/B test and saw that...
 
 Asking for just an email increased conversions by 12.44% compared to asking for name and email.
 
 Huh.
 
-
----
-
-1,000 new subscribers in 60 hours (study)
+## 1,000 new subscribers in 60 hours (study)
 
 This approach helped Sarah to get over 1,000 new subscribers in 60 hours with $0 spent
 
@@ -211,12 +188,8 @@ Let me know what you think.
 3. When your article gets accepted, ask to place a canonical tag to your original article (it helps Google to understand where the original article is):
 `<link rel="canonical" href="YOUR_URL_HERE">`
 
-https://sumo.com/stories/traffic-from-republishing
-
----
-
-
-Free email marketing tool by Google
+[https://sumo.com/stories/traffic-from-republishing](https://sumo.com/stories/traffic-from-republishing)
+## Free email marketing tool by Google
 
 TODAY'S HACK
 
@@ -244,10 +217,5 @@ feedburner.google.com
 
 
 P.S. If you mix this free tool with another free tool - Welcome Mat by Sumo - OMG, that's going to be massive!
-https://sumo.com/app/welcome-mat
-
-
-https://support.google.com/feedburner/answer/78982
-
-
-
+[https://sumo.com/app/welcome-mat](https://sumo.com/app/welcome-mat)
+[https://support.google.com/feedburner/answer/78982](https://support.google.com/feedburner/answer/78982)
