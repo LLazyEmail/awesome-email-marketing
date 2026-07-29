@@ -675,4 +675,14 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - [Why Is Everyone Talking About Newsletters?](https://the1a.org/segments/substack-newsletter-blog/)
 - [YouTube: Custom HTML emails with an email expert](https://www.youtube.com/watch?v=MHnTpN0g7ko&ab_channel=KevinPowell)
 
+## Website
+
+This repository includes a [Docusaurus](https://docusaurus.io/) site in the [`website/`](./website) directory.
+
+```bash
+cd website
+npm install
+npm start
+```
+
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)
