@@ -21,8 +21,12 @@ Open [http://localhost:3000/awesome-email-marketing/](http://localhost:3000/awes
 
 ## Content
 
-Documentation lives in `docs/`:
+Documentation lives in `docs/`, split from the root `README.md` into focused pages:
 
-- `awesome-list.md` — main curated resource list
-- `services.md` — services overview
-- `opt-in-tactics.md` — opt-in conversion tactics
+- `intro.md` — site overview
+- `tools/` — ESPs, automation, eCommerce, open-source tools
+- `strategy/` — list building, lifecycle, personalization, opt-in tactics
+- `guides/` — blogs, templates, FAQ, and learning resources
+- `development/` — HTML email coding and GitHub projects
+- `operations/` — GDPR, DNS/DKIM, SES, metrics
+- `more/` — transactional email, services, related lists
