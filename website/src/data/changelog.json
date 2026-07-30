@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Docs IA polish: H2s, Explore filters, nested sidebar, CI link check",
+    "items": [
+      "Merged pull request #231",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/231"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Split GitHub Repos + refine Transactional Emails (#221)",
     "items": [
       "Merged pull request #230",

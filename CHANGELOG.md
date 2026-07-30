@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Docs IA polish: H2s, Explore filters, nested sidebar, CI link check ([#231](https://github.com/LLazyEmail/awesome-email-marketing/pull/231))
 - Split GitHub Repos + refine Transactional Emails (#221) ([#230](https://github.com/LLazyEmail/awesome-email-marketing/pull/230))
 - Split GitHub Repositories and refine Transactional Emails ([#221](https://github.com/LLazyEmail/awesome-email-marketing/pull/221))
 - Apply #223: LLM/docs plugins for copy, llms.txt, and AgentReady ([#229](https://github.com/LLazyEmail/awesome-email-marketing/pull/229))
