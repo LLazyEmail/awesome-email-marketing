@@ -14,12 +14,12 @@
   gap: 0.65rem;
   padding: 0.55rem 0.55rem 0.55rem 1rem;
   border-radius: 999px;
-  background: color-mix(in srgb, #ffffff 92%, transparent);
-  border: 1px solid color-mix(in srgb, #0f6e56 18%, #ffffff);
+  background: #ffffff;
+  border: 1px solid transparent;
   box-shadow:
-    0 18px 40px color-mix(in srgb, #073528 22%, transparent),
-    0 2px 0 color-mix(in srgb, #ffffff 55%, transparent) inset;
-  backdrop-filter: blur(10px);
+    0 1px 2px 0 rgba(28, 38, 63, 0.06),
+    0 1px 3px 0 rgba(28, 38, 63, 0.1),
+    0 14px 32px rgba(7, 53, 40, 0.16);
 }
 
 .icon {
@@ -53,6 +53,7 @@
   color: #fff;
   font: inherit;
   font-weight: 650;
+  letter-spacing: -0.01em;
   cursor: pointer;
   transition: transform 120ms ease, background-color 120ms ease;
 }
