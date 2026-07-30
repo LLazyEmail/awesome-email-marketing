@@ -116,7 +116,21 @@ const sidebars: SidebarsConfig = {
         'development/frontend-development',
         'development/html-email-tutorials',
         'development/html-email-templates',
-        'development/github-repositories',
+        {
+          type: 'category',
+          label: 'GitHub Repositories',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'development/github-repositories',
+          },
+          items: [
+            'development/github-repositories',
+            'development/github-email-templates',
+            'development/github-frameworks',
+            'development/github-infrastructure',
+          ],
+        },
         'development/related-repositories',
         'development/cool-projects',
         'development/html-utilities',

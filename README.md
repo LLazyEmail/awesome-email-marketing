@@ -39,6 +39,9 @@ Docs site: [`website/`](./website/). Project history: [`CHANGELOG.md`](./CHANGEL
     - [Articles & Tutorials](#articles--tutorials)
     - [HTML Email Templates](#html-email-templates)
 - [Github Repositories](#github-repositories)
+    - [HTML email templates & boilerplates](#html-email-templates--boilerplates)
+    - [Frameworks & compilers](#frameworks--compilers)
+    - [Infrastructure & APIs](#infrastructure--apis)
 - [Checkers](#checkers)
 - [GitHub repositories related to email marketing](#github-repositories-related-to-email-marketing)
 - [HTML stuff](#html-stuff)
@@ -55,9 +58,10 @@ Docs site: [`website/`](./website/). Project history: [`CHANGELOG.md`](./CHANGEL
 - [How To Measure Your Newsletter Performance](#how-to-measure-your-newsletter-performance)
 - [All about effective Email Marketing](#all-about-effective-email-marketing)
 - [Email marketing strategy](#email-marketing-strategy)
+    - [Email marketing for startups](#email-marketing-for-startups)
 - [Transactional Emails](#transactional-emails)
-    - [Articles](#articles)
-    - [Tools](#tools)
+    - [Concepts & guides](#concepts--guides)
+    - [Providers & products](#providers--products)
 - [Reasons to use email newsletters](#reasons-to-use-email-newsletters)
 - [Frequently asked questionss](#frequently-asked-questions)
 - [Awesome lists](#awesome-lists)
@@ -401,35 +405,48 @@ Resources for building HTML emails — tutorials stay separate from template col
 
 ## Github Repositories
 
+Canonical open-source repositories for building and running email. Docs: [`website/docs/development/`](./website/docs/development/).
+
+**Page jobs:** this section = templates / frameworks / infrastructure · [Related Repositories](#github-repositories-related-to-email-marketing) = adjacent packages & sites · [Cool Projects](#cool-projects-to-take-a-look) = showcases.
+
+### HTML email templates & boilerplates
+
 - [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
-- [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
-- [Add CSS to the head section of an email template](https://knowledge.hubspot.com/email/can-i-add-css-to-the-head-section-of-my-email-templates)
 - [Free HTML Email Templates](https://www.dyspatch.io/resources/templates/)
-- [Inky](https://github.com/foundation/inky)
 - [Email Blueprints](https://github.com/mailchimp/email-blueprints)
-- [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
-- [Foundation for Emails](https://github.com/foundation/foundation-emails)
 - [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates)
 - [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) - Responsive HTML email template starter
 - [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates)
-- [Email-Boilerplate haw to use](https://github.com/seanpowell/Email-Boilerplate)
-- [SendGrid](https://github.com/sendgrid/email-templates)
-- [Email Templates](https://github.com/forwardemail/email-templates)
+- [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
+- [SendGrid email templates](https://github.com/sendgrid/email-templates)
+- [Email Templates (forwardemail)](https://github.com/forwardemail/email-templates)
 - [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.
-- [Premailer README](https://github.com/premailer/premailer)
-- [Email Framework](https://github.com/g13nn/Email-Framework)
-- [Responsive HTML email templates](https://github.com/konsav/email-templates)
+- [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates)
 - [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates)
-- [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico)
-- [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains)
-- [EmailEngine Email API](https://github.com/postalsys/emailengine)
-- [Tutanota](https://github.com/tutao/tutanota) - Privacy-focused encrypted email service for email, contacts, and calendar
-- [MJML 4](https://github.com/mjmlio/mjml)
-- [Forward email](https://github.com/forwardemail/free-email-forwarding)
-- [React html email](https://github.com/chromakode/react-html-email)
-- [SMTP Email Verification](https://github.com/EmailVerify/email-verify)
+
+Tutorials (related):
+
+- [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
+- [Add CSS to the head section of an email template](https://knowledge.hubspot.com/email/can-i-add-css-to-the-head-section-of-my-email-templates)
+
+### Frameworks & compilers
+
+- [MJML](https://github.com/mjmlio/mjml)
 - [Mjml react](https://github.com/wix-incubator/mjml-react)
+- [Inky](https://github.com/foundation/inky)
+- [Foundation for Emails](https://github.com/foundation/foundation-emails)
+- [Premailer](https://github.com/premailer/premailer)
 - [Email Framework](https://github.com/g13nn/Email-Framework)
+- [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico)
+- [React html email](https://github.com/chromakode/react-html-email)
+
+### Infrastructure & APIs
+
+- [EmailEngine Email API](https://github.com/postalsys/emailengine)
+- [Forward email](https://github.com/forwardemail/free-email-forwarding)
+- [SMTP Email Verification](https://github.com/EmailVerify/email-verify)
+- [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains)
+- [Tutanota](https://github.com/tutao/tutanota) - Privacy-focused encrypted email service for email, contacts, and calendar
 
 ### Checkers
 
@@ -439,6 +456,8 @@ Resources for building HTML emails — tutorials stay separate from template col
 - [EmailQo Email Infrastructure Grader](https://emailqo.com/email-grader) - Free tool to check SPF, DKIM, DMARC and mail server configuration. Scores any domain out of 100. No signup required.
 
 ### GitHub repositories related to email marketing
+
+Adjacent packages and sites (not the core catalog above).
 
 * [Quickly build HTML emails with utility-first CSS](https://maizzle.com/)
 * [Verymail](https://www.npmjs.com/package/verymail)
@@ -462,11 +481,11 @@ Resources for building HTML emails — tutorials stay separate from template col
 
 ### Cool projects to take a look
 
+Showcase projects (compilers like Inky/Premailer live under Frameworks above).
+
 * [Bojler](https://github.com/Slicejack/bojler)
 * [Maizzle](https://github.com/maizzle/maizzle)
 * [Pechkin](https://github.com/sglazov/pechkin)
-* [Premailer](https://github.com/premailer/premailer)
-* [Inky](https://github.com/foundation/inky)
 * [React multi email](https://github.com/jsdevkr/react-multi-email)
 * [Generating Emails with React](https://github.com/lang-ai/react-emails)
 * [React Confirm Email](https://github.com/funador/react-confirm-email)
@@ -570,11 +589,21 @@ Resources for building HTML emails — tutorials stay separate from template col
 - [Email Marketing: The #1 Ridiculously Easy Way To Grow Your Business](https://optinmonster.com/beginners-guide-to-email-marketing/) 
 - [The Email Design Guide is filled with tips and advice to help you convey your message in style. Learn how to better use images, fonts, calls to action and more](https://mailchimp.com/email-design-guide/)
 
+### Email marketing for startups
+
+Startup-focused marketing articles (moved out of Transactional Emails).
+
+- [Email Templates You Need To Run Your Startup](https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/)
+- [Inspiring Email Startups](https://mailtrap.io/blog/email-startups/)
+- [Email Marketing for Startups: Promotion Best Practices](https://sendpulse.com/blog/email-marketing-for-startups)
+- [5 essential lessons of email marketing for startups](https://www.campaignmonitor.com/blog/email-marketing/5-essential-lessons-of-email-marketing-for-startups/)
+- [Email marketing automation tools for startups](https://messaged.com/email-marketing-automation-tools-startups)
+
 ## Transactional Emails
 
-Guides and tools for transactional email. Docs: [`website/docs/more/`](./website/docs/more/).
+Concepts, guides, and providers for transactional email. Docs: [`website/docs/more/`](./website/docs/more/).
 
-### Articles
+### Concepts & guides
 
 #### Concepts & definitions
 
@@ -603,28 +632,23 @@ Guides and tools for transactional email. Docs: [`website/docs/more/`](./website
 
 - [What Is a Transactional Email? (With 10 Stunning Examples)](https://optinmonster.com/transactional-emails/)
 - [10 Transactional Email Examples to Help You Sell, Upsell & Boost Engagement](https://instapage.com/blog/transactional-email-best-practices)
-- [Email Templates You Need To Run Your Startup](https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/)
-- [Inspiring Email Startups](https://mailtrap.io/blog/email-startups/)
-- [Email Marketing for Startups: Promotion Best Practices](https://sendpulse.com/blog/email-marketing-for-startups)
-- [5 essential lessons of email marketing for startups](https://www.campaignmonitor.com/blog/email-marketing/5-essential-lessons-of-email-marketing-for-startups/)
 
-### Tools
+### Providers & products
 
 #### Providers & platforms
 
-- [Transactional Email](https://sendgrid.com/use-cases/transactional-email/)
-- [Your Lite option: MailerSend](https://www.mailerlite.com/features/transactional-emails)
-- [Reliable Transactional Email Services](https://www.mailjet.com/solutions/use-cases/transactional-email/)
-- [Transactional Email – Send Email From Your WordPress Website](https://kinsta.com/help/transactional-email/)
-- [How to use flows to send transactional emails](https://help.klaviyo.com/hc/en-us/articles/360003165732-How-to-use-flows-to-send-transactional-emails)
-- [Transactional Email campaigns](https://www.braze.com/docs/user_guide/message_building_by_channel/email/transactional_message_api_campaign/)
-- [Transactional emails (documentation)](https://documentation.bloomreach.com/engagement/docs/transactional-emails)
+- [Transactional Email (SendGrid)](https://sendgrid.com/use-cases/transactional-email/)
+- [MailerSend / MailerLite transactional](https://www.mailerlite.com/features/transactional-emails)
+- [Mailjet transactional email](https://www.mailjet.com/solutions/use-cases/transactional-email/)
+- [Transactional Email – WordPress (Kinsta)](https://kinsta.com/help/transactional-email/)
+- [How to use flows to send transactional emails (Klaviyo)](https://help.klaviyo.com/hc/en-us/articles/360003165732-How-to-use-flows-to-send-transactional-emails)
+- [Transactional Email campaigns (Braze)](https://www.braze.com/docs/user_guide/message_building_by_channel/email/transactional_message_api_campaign/)
+- [Transactional emails (Bloomreach)](https://documentation.bloomreach.com/engagement/docs/transactional-emails)
 
 #### Roundups & directories
 
 - [The 6 best transactional email services in 2022](https://zapier.com/blog/best-transactional-email-sending-services/)
-- [Best Transactional Email Software](https://www.g2.com/categories/transactional-email)
-- [Email marketing automation tools startups](https://messaged.com/email-marketing-automation-tools-startups)
+- [Best Transactional Email Software (G2)](https://www.g2.com/categories/transactional-email)
 
 #### Templates
 

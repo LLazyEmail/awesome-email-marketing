@@ -1,13 +1,12 @@
 ---
 title: "GitHub Repositories"
-description: "GitHub Repositories — curated development resources from the Awesome Email Marketing library."
+description: "Hub for curated GitHub repos: HTML email templates, frameworks/compilers, and email infrastructure APIs."
 keywords:
-  - html email
-  - email coding
-  - development
   - github repositories
+  - html email templates
+  - mjml
+  - email infrastructure
   - awesome email marketing
-  - email marketing
 sidebar_label: "GitHub Repositories"
 sidebar_position: 2
 image: img/docusaurus-social-card.jpg
@@ -20,11 +19,12 @@ unlisted: false
 category: development
 topics:
   - development
+  - github
 audience:
   - developers
 seo:
   title: "GitHub Repositories | Awesome Email Marketing"
-  description: "GitHub Repositories — curated development resources from the Awesome Email Marketing library."
+  description: "Hub for curated GitHub repos: HTML email templates, frameworks/compilers, and email infrastructure APIs."
   robots: index,follow
   canonical_path: "/docs/development/github-repositories"
   og_type: article
@@ -33,33 +33,28 @@ seo:
 
 # GitHub Repositories
 
-- [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
-- [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
-- [Add CSS to the head section of an email template](https://knowledge.hubspot.com/email/can-i-add-css-to-the-head-section-of-my-email-templates)
-- [Free HTML Email Templates](https://www.dyspatch.io/resources/templates/)
-- [Inky](https://github.com/foundation/inky)
-- [Email Blueprints](https://github.com/mailchimp/email-blueprints)
-- [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
-- [Foundation for Emails](https://github.com/foundation/foundation-emails)
-- [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates)
-- [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) - Responsive HTML email template starter
-- [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates)
-- [Email-Boilerplate haw to use](https://github.com/seanpowell/Email-Boilerplate)
-- [SendGrid](https://github.com/sendgrid/email-templates)
-- [Email Templates](https://github.com/forwardemail/email-templates)
-- [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.
-- [Premailer README](https://github.com/premailer/premailer)
-- [Email Framework](https://github.com/g13nn/Email-Framework)
-- [Responsive HTML email templates](https://github.com/konsav/email-templates)
-- [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates)
-- [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico)
-- [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains)
-- [EmailEngine Email API](https://github.com/postalsys/emailengine)
-- [Tutanota](https://github.com/tutao/tutanota) - Privacy-focused encrypted email service for email, contacts, and calendar
-- [MJML 4](https://github.com/mjmlio/mjml)
-- [Forward email](https://github.com/forwardemail/free-email-forwarding)
-- [React html email](https://github.com/chromakode/react-html-email)
-- [SMTP Email Verification](https://github.com/EmailVerify/email-verify)
-- [Mjml react](https://github.com/wix-incubator/mjml-react)
-- [Email Framework](https://github.com/g13nn/Email-Framework)
+Canonical open-source repositories for building and running email. The flat list was hard to scan, so entries are grouped by job. Duplicates (same repo twice) have been removed.
 
+## Browse by section
+
+| Section | What you’ll find |
+| --- | --- |
+| [HTML email templates & boilerplates](./github-email-templates) | Starter templates, blueprints, and ready-to-send HTML |
+| [Frameworks & compilers](./github-frameworks) | MJML, Inky, Foundation, Premailer, React/MJML wrappers |
+| [Infrastructure & APIs](./github-infrastructure) | EmailEngine, forwarding, verification, privacy mail |
+
+## How these pages differ
+
+| Page | Job |
+| --- | --- |
+| **GitHub Repositories** (this hub + children) | Canonical repos for templates, compilers, and mail infrastructure |
+| [Related Repositories](./related-repositories) | Adjacent packages and sites (npm helpers, Maizzle docs site, labs) |
+| [Cool Projects](./cool-projects) | Standout showcases worth exploring (Maizzle app, Bojler, React experiments) |
+
+Prefer one home per repo: frameworks live under [Frameworks](./github-frameworks); Cool Projects highlights demos without re-listing every compiler.
+
+## Related
+
+- [Frontend Development](./frontend-development)
+- [HTML Email Templates (guides)](./html-email-templates)
+- [Filter GitHub-tagged resources](/explore?tag=github)
