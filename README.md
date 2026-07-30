@@ -78,6 +78,8 @@ Docs site: [`website/`](./website/). Project history: [`CHANGELOG.md`](./CHANGEL
 
 A curated directory of email marketing tools, grouped for easier navigation. Full docs live in [`website/docs/tools/`](./website/docs/tools/).
 
+Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/explore?tag=esp) · [self-hosted](https://llazyemail.github.io/awesome-email-marketing/explore?tag=self-hosted) · [templates](https://llazyemail.github.io/awesome-email-marketing/explore?tag=templates) · [automation](https://llazyemail.github.io/awesome-email-marketing/explore?tag=automation) · [newsletter](https://llazyemail.github.io/awesome-email-marketing/explore?tag=newsletter) · [transactional](https://llazyemail.github.io/awesome-email-marketing/explore?tag=transactional).
+
 ### Newsletter Platforms
 
 * [BirdSend](https://birdsend.co) - Don't waste paying 3-5X more on an expensive email marketing tool
