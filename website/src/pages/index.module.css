@@ -20,4 +20,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 1.5rem;
+  flex-wrap: wrap;
+  gap: 0.75rem;
 }

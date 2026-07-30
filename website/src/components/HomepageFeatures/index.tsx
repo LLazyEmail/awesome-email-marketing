@@ -36,8 +36,8 @@ const FeatureList: FeatureItem[] = [
     to: '/docs/development/frontend-development',
     description: (
       <>
-        HTML email coding resources, GitHub projects, deliverability guides, and
-        measurement basics.
+        HTML email tutorials, template collections, GitHub projects, and
+        deliverability basics.
       </>
     ),
   },
