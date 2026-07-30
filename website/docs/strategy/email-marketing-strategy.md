@@ -44,3 +44,19 @@ seo:
 - [Email Marketing: The #1 Ridiculously Easy Way To Grow Your Business](https://optinmonster.com/beginners-guide-to-email-marketing/)
 - [The Email Design Guide is filled with tips and advice to help you convey your message in style. Learn how to better use images, fonts, calls to action and more](https://mailchimp.com/email-design-guide/)
 
+## Email marketing for startups
+
+Startup-focused marketing articles (moved out of Transactional Emails so that section stays on triggered/message infrastructure topics).
+
+- [Email Templates You Need To Run Your Startup](https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/)
+- [Inspiring Email Startups](https://mailtrap.io/blog/email-startups/)
+- [Email Marketing for Startups: Promotion Best Practices](https://sendpulse.com/blog/email-marketing-for-startups)
+- [5 essential lessons of email marketing for startups](https://www.campaignmonitor.com/blog/email-marketing/5-essential-lessons-of-email-marketing-for-startups/)
+- [Email marketing automation tools for startups](https://messaged.com/email-marketing-automation-tools-startups)
+
+## Related
+
+- [Lifecycle Emails](./lifecycle-emails)
+- [Transactional Emails](/docs/more/transactional-emails)
+- [Reasons for Newsletters](./reasons-for-newsletters)
+

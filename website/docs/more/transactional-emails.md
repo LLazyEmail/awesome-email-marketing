@@ -1,6 +1,6 @@
 ---
 title: "Transactional Emails"
-description: "Guides and tools for transactional email — password resets, receipts, notifications, and triggered messages."
+description: "Hub for transactional email concepts, guides, and providers — password resets, receipts, notifications, and triggered messages."
 keywords:
   - transactional email
   - transactional email tools
@@ -24,7 +24,7 @@ audience:
   - developers
 seo:
   title: "Transactional Emails | Awesome Email Marketing"
-  description: "Guides and tools for transactional email — password resets, receipts, notifications, and triggered messages."
+  description: "Hub for transactional email concepts, guides, and providers — password resets, receipts, notifications, and triggered messages."
   robots: index,follow
   canonical_path: "/docs/more/transactional-emails"
   og_type: article
@@ -33,18 +33,21 @@ seo:
 
 # Transactional Emails
 
-Transactional email is message traffic triggered by user actions — receipts, password resets, shipping updates, and product notifications. This list is split so articles stay separate from tools.
+Transactional email is message traffic triggered by user actions — receipts, password resets, shipping updates, and product notifications.
+
+Startup / lifecycle marketing articles that are **not** specifically transactional live under [Email Marketing Strategy](/docs/strategy/email-marketing-strategy#email-marketing-for-startups).
 
 ## Browse by section
 
 | Section | What you’ll find |
 | --- | --- |
-| [Articles](./transactional-articles) | Definitions, guides, examples, and best practices |
-| [Tools](./transactional-tools) | Providers, software roundups, templates, and product docs |
+| [Concepts & guides](./transactional-articles) | Definitions, best practices, and transactional examples |
+| [Providers & products](./transactional-tools) | SES-adjacent / MailerSend / Postmark-style providers and roundups |
 
 ## Related
 
 - [Lifecycle Emails](/docs/strategy/lifecycle-emails)
+- [Email Marketing Strategy](/docs/strategy/email-marketing-strategy)
 - [Amazon SES](/docs/operations/amazon-ses)
 - [Automation Platforms](/docs/tools/automation-platforms)
 - [Filter transactional resources](/explore?tag=transactional)

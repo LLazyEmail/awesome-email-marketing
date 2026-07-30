@@ -1,15 +1,13 @@
 ---
 title: "Related Repositories"
-description: "Related Repositories — curated development resources from the Awesome Email Marketing library."
+description: "Adjacent email-coding packages and sites — npm helpers, Maizzle docs, labs, and utilities outside the core GitHub catalog."
 keywords:
-  - html email
-  - email coding
-  - development
+  - maizzle
+  - mailwind
+  - npm email packages
   - related repositories
-  - awesome email marketing
-  - email marketing
 sidebar_label: "Related Repositories"
-sidebar_position: 4
+sidebar_position: 6
 image: img/docusaurus-social-card.jpg
 hide_title: false
 hide_table_of_contents: false
@@ -20,11 +18,12 @@ unlisted: false
 category: development
 topics:
   - development
+  - github
 audience:
   - developers
 seo:
   title: "Related Repositories | Awesome Email Marketing"
-  description: "Related Repositories — curated development resources from the Awesome Email Marketing library."
+  description: "Adjacent email-coding packages and sites — npm helpers, Maizzle docs, labs, and utilities outside the core GitHub catalog."
   robots: index,follow
   canonical_path: "/docs/development/related-repositories"
   og_type: article
@@ -33,13 +32,28 @@ seo:
 
 # Related Repositories
 
-- [Quickly build HTML emails with utility-first CSS](https://maizzle.com/)
+Adjacent packages, product sites, and labs that support HTML email work but are **not** the primary GitHub catalog.
+
+- Core templates / frameworks / APIs → [GitHub Repositories](./github-repositories)
+- Showcase apps and demos → [Cool Projects](./cool-projects)
+
+## Packages & sites
+
+- [Maizzle — utility-first HTML emails](https://maizzle.com/)
 - [Verymail](https://www.npmjs.com/package/verymail)
-- [Markdown To Mailchimp (www.npmjs.com)](https://www.npmjs.com/package/markdown-to-mailchimp)
-- [Markdown To Mailchimp (github.com)](https://github.com/MarcL/markdown-to-mailchimp)
+- [Markdown To Mailchimp (npm)](https://www.npmjs.com/package/markdown-to-mailchimp)
+- [Markdown To Mailchimp (GitHub)](https://github.com/MarcL/markdown-to-mailchimp)
 - [HTML tag validator](https://github.com/pluralsight/htmlTagValidator)
 - [Mailwind](https://github.com/soheilpro/mailwind)
-- [Email templates](https://github.com/mjmlio/email-templates)
+- [MJML email templates](https://github.com/mjmlio/email-templates)
 - [Email Lab](https://github.com/sparkbox/email-lab)
 - [Generating Emails with React](https://github.com/lang-ai/react-emails)
 
+`Generating Emails with React` also appears under [Cool Projects](./cool-projects) as a showcase entry.
+
+## Related
+
+- [GitHub Repositories overview](./github-repositories)
+- [Frameworks & compilers](./github-frameworks)
+- [HTML utilities](./html-utilities)
+- [Cool Projects](./cool-projects)

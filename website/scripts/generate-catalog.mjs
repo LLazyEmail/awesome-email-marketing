@@ -78,10 +78,22 @@ const SOURCES = [
     baseTags: ['checker', 'development'],
   },
   {
-    file: 'development/github-repositories.md',
+    file: 'development/github-email-templates.md',
     section: 'development',
-    page: '/docs/development/github-repositories',
+    page: '/docs/development/github-email-templates',
     baseTags: ['templates', 'github', 'development'],
+  },
+  {
+    file: 'development/github-frameworks.md',
+    section: 'development',
+    page: '/docs/development/github-frameworks',
+    baseTags: ['github', 'development', 'open-source'],
+  },
+  {
+    file: 'development/github-infrastructure.md',
+    section: 'development',
+    page: '/docs/development/github-infrastructure',
+    baseTags: ['github', 'development'],
   },
   {
     file: 'development/cool-projects.md',

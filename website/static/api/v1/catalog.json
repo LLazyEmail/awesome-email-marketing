@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-07-30T04:27:06.069Z",
+  "generatedAt": "2026-07-30T18:10:13.795Z",
   "name": "Awesome Email Marketing catalog",
   "homepage": "https://llazyemail.github.io/awesome-email-marketing/",
   "repository": "https://github.com/LLazyEmail/awesome-email-marketing",
@@ -69,12 +69,26 @@
       "url": "https://knowledge.hubspot.com/email/can-i-add-css-to-the-head-section-of-my-email-templates",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
         "templates"
+      ]
+    },
+    {
+      "id": "amazon-ses",
+      "name": "Amazon SES",
+      "url": "/docs/operations/amazon-ses",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-infrastructure",
+      "sourceFile": "development/github-infrastructure.md",
+      "tags": [
+        "development",
+        "github",
+        "ses"
       ]
     },
     {
@@ -186,8 +200,8 @@
       "url": "https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -248,6 +262,20 @@
       ]
     },
     {
+      "id": "checkers",
+      "name": "Checkers",
+      "url": "./checkers",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-infrastructure",
+      "sourceFile": "development/github-infrastructure.md",
+      "tags": [
+        "checker",
+        "development",
+        "github"
+      ]
+    },
+    {
       "id": "colorlib",
       "name": "Colorlib",
       "url": "https://colorlib.com",
@@ -284,6 +312,21 @@
       "tags": [
         "esp",
         "newsletter"
+      ]
+    },
+    {
+      "id": "cool-projects",
+      "name": "Cool Projects",
+      "url": "./cool-projects",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
       ]
     },
     {
@@ -368,8 +411,8 @@
       "url": "https://github.com/mailchimp/email-blueprints",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -396,13 +439,12 @@
       "url": "https://github.com/g13nn/Email-Framework",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
       "tags": [
         "development",
         "github",
-        "open-source",
-        "templates"
+        "open-source"
       ]
     },
     {
@@ -420,28 +462,13 @@
       ]
     },
     {
-      "id": "email-templates",
-      "name": "Email templates",
-      "url": "https://github.com/mjmlio/email-templates",
-      "description": "",
-      "section": "development",
-      "sourcePage": "/docs/development/related-repositories",
-      "sourceFile": "development/related-repositories.md",
-      "tags": [
-        "development",
-        "github",
-        "open-source",
-        "templates"
-      ]
-    },
-    {
-      "id": "email-templates",
-      "name": "Email Templates",
+      "id": "email-templates-forwardemail",
+      "name": "Email Templates (forwardemail)",
       "url": "https://github.com/forwardemail/email-templates",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -450,13 +477,13 @@
       ]
     },
     {
-      "id": "email-boilerplate-haw-to-use",
-      "name": "Email-Boilerplate haw to use",
+      "id": "email-boilerplate",
+      "name": "Email-Boilerplate",
       "url": "https://github.com/seanpowell/Email-Boilerplate",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -470,13 +497,12 @@
       "url": "https://github.com/postalsys/emailengine",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-infrastructure",
+      "sourceFile": "development/github-infrastructure.md",
       "tags": [
         "development",
         "github",
-        "open-source",
-        "templates"
+        "open-source"
       ]
     },
     {
@@ -553,14 +579,13 @@
       "url": "https://github.com/forwardemail/free-email-forwarding",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-infrastructure",
+      "sourceFile": "development/github-infrastructure.md",
       "tags": [
         "development",
         "free",
         "github",
-        "open-source",
-        "templates"
+        "open-source"
       ]
     },
     {
@@ -569,8 +594,22 @@
       "url": "https://github.com/foundation/foundation-emails",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "frameworks-compilers",
+      "name": "Frameworks & compilers",
+      "url": "./github-frameworks",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -584,8 +623,8 @@
       "url": "https://github.com/ColorlibHQ/email-templates",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "free",
@@ -600,8 +639,8 @@
       "url": "https://www.dyspatch.io/resources/templates/",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "free",
@@ -615,8 +654,8 @@
       "url": "https://github.com/leemunroe/responsive-html-email-template",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "free",
@@ -689,6 +728,21 @@
       ]
     },
     {
+      "id": "github-repositories-overview",
+      "name": "GitHub Repositories overview",
+      "url": "./github-repositories",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
       "id": "html-email-check",
       "name": "HTML email check",
       "url": "https://www.htmlemailcheck.com/check/",
@@ -699,6 +753,21 @@
       "tags": [
         "checker",
         "development"
+      ]
+    },
+    {
+      "id": "html-email-templates-boilerplates",
+      "name": "HTML email templates & boilerplates",
+      "url": "./github-email-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
       ]
     },
     {
@@ -717,6 +786,19 @@
       ]
     },
     {
+      "id": "html-utilities",
+      "name": "HTML utilities",
+      "url": "./html-utilities",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "development",
+        "github"
+      ]
+    },
+    {
       "id": "html-validator-linter",
       "name": "HTML Validator - Linter",
       "url": "https://www.freeformatter.com/html-validator.html",
@@ -730,18 +812,31 @@
       ]
     },
     {
+      "id": "infrastructure-apis",
+      "name": "Infrastructure & APIs",
+      "url": "./github-infrastructure",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
       "id": "inky",
       "name": "Inky",
       "url": "https://github.com/foundation/inky",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
       "tags": [
         "development",
         "github",
-        "open-source",
-        "templates"
+        "open-source"
       ]
     },
     {
@@ -815,13 +910,12 @@
       "url": "https://github.com/disposable-email-domains/disposable-email-domains",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-infrastructure",
+      "sourceFile": "development/github-infrastructure.md",
       "tags": [
         "development",
         "github",
-        "open-source",
-        "templates"
+        "open-source"
       ]
     },
     {
@@ -1019,8 +1113,21 @@
       ]
     },
     {
-      "id": "markdown-to-mailchimp-github-com",
-      "name": "Markdown To Mailchimp (github.com)",
+      "id": "maizzle-utility-first-html-emails",
+      "name": "Maizzle — utility-first HTML emails",
+      "url": "https://maizzle.com/",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "development",
+        "github"
+      ]
+    },
+    {
+      "id": "markdown-to-mailchimp-github",
+      "name": "Markdown To Mailchimp (GitHub)",
       "url": "https://github.com/MarcL/markdown-to-mailchimp",
       "description": "",
       "section": "development",
@@ -1033,8 +1140,8 @@
       ]
     },
     {
-      "id": "markdown-to-mailchimp-www-npmjs-com",
-      "name": "Markdown To Mailchimp (www.npmjs.com)",
+      "id": "markdown-to-mailchimp-npm",
+      "name": "Markdown To Mailchimp (npm)",
       "url": "https://www.npmjs.com/package/markdown-to-mailchimp",
       "description": "",
       "section": "development",
@@ -1059,13 +1166,27 @@
       ]
     },
     {
-      "id": "mjml-4",
-      "name": "MJML 4",
+      "id": "mjml",
+      "name": "MJML",
       "url": "https://github.com/mjmlio/mjml",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "mjml-email-templates",
+      "name": "MJML email templates",
+      "url": "https://github.com/mjmlio/email-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
       "tags": [
         "development",
         "github",
@@ -1079,23 +1200,22 @@
       "url": "https://github.com/wix-incubator/mjml-react",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
       "tags": [
         "development",
         "github",
-        "open-source",
-        "templates"
+        "open-source"
       ]
     },
     {
       "id": "mosaico-responsive-email-template-editor",
-      "name": "Mosaico - Responsive Email Template Editor",
+      "name": "Mosaico — Responsive Email Template Editor",
       "url": "https://github.com/voidlabs/mosaico",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
       "tags": [
         "development",
         "github",
@@ -1259,8 +1379,8 @@
       "url": "https://github.com/ActiveCampaign/postmark-templates",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -1275,40 +1395,12 @@
       "url": "https://github.com/premailer/premailer",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/cool-projects",
-      "sourceFile": "development/cool-projects.md",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
       "tags": [
         "development",
         "github",
         "open-source"
-      ]
-    },
-    {
-      "id": "premailer-readme",
-      "name": "Premailer README",
-      "url": "https://github.com/premailer/premailer",
-      "description": "",
-      "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
-      "tags": [
-        "development",
-        "github",
-        "open-source",
-        "templates"
-      ]
-    },
-    {
-      "id": "quickly-build-html-emails-with-utility-first-css",
-      "name": "Quickly build HTML emails with utility-first CSS",
-      "url": "https://maizzle.com/",
-      "description": "",
-      "section": "development",
-      "sourcePage": "/docs/development/related-repositories",
-      "sourceFile": "development/related-repositories.md",
-      "tags": [
-        "development",
-        "github"
       ]
     },
     {
@@ -1331,13 +1423,12 @@
       "url": "https://github.com/chromakode/react-html-email",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-frameworks",
+      "sourceFile": "development/github-frameworks.md",
       "tags": [
         "development",
         "github",
-        "open-source",
-        "templates"
+        "open-source"
       ]
     },
     {
@@ -1355,13 +1446,13 @@
       ]
     },
     {
-      "id": "responsive-html-email-template",
-      "name": "Responsive HTML Email Template",
-      "url": "https://github.com/charlesmudy/responsive-html-email-template",
-      "description": "Responsive HTML email template starter",
+      "id": "related-repositories",
+      "name": "Related Repositories",
+      "url": "./related-repositories",
+      "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -1370,13 +1461,28 @@
       ]
     },
     {
-      "id": "responsive-html-email-templates",
-      "name": "Responsive HTML email templates",
+      "id": "responsive-html-email-template",
+      "name": "Responsive HTML Email Template",
+      "url": "https://github.com/charlesmudy/responsive-html-email-template",
+      "description": "Responsive HTML email template starter",
+      "section": "development",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "responsive-html-email-templates-konsav",
+      "name": "Responsive HTML email templates (konsav)",
       "url": "https://github.com/konsav/email-templates",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -1390,8 +1496,8 @@
       "url": "https://github.com/mailgun/transactional-email-templates",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -1466,13 +1572,13 @@
       ]
     },
     {
-      "id": "sendgrid",
-      "name": "SendGrid",
+      "id": "sendgrid-email-templates",
+      "name": "SendGrid email templates",
       "url": "https://github.com/sendgrid/email-templates",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -1584,13 +1690,12 @@
       "url": "https://github.com/EmailVerify/email-verify",
       "description": "",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-infrastructure",
+      "sourceFile": "development/github-infrastructure.md",
       "tags": [
         "development",
         "github",
-        "open-source",
-        "templates"
+        "open-source"
       ]
     },
     {
@@ -1676,10 +1781,10 @@
       "id": "trade-show-email-templates",
       "name": "Trade Show Email Templates",
       "url": "https://github.com/LensmorOfficial/trade-show-email-templates",
-      "description": "Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.",
+      "description": "Ready-to-use templates for pre-show, onsite, and post-show B2B outreach",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-email-templates",
+      "sourceFile": "development/github-email-templates.md",
       "tags": [
         "development",
         "github",
@@ -1691,15 +1796,14 @@
       "id": "tutanota",
       "name": "Tutanota",
       "url": "https://github.com/tutao/tutanota",
-      "description": "Privacy-focused encrypted email service for email, contacts, and calendar",
+      "description": "Privacy-focused encrypted email for mail, contacts, and calendar",
       "section": "development",
-      "sourcePage": "/docs/development/github-repositories",
-      "sourceFile": "development/github-repositories.md",
+      "sourcePage": "/docs/development/github-infrastructure",
+      "sourceFile": "development/github-infrastructure.md",
       "tags": [
         "development",
         "github",
-        "open-source",
-        "templates"
+        "open-source"
       ]
     },
     {

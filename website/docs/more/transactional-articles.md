@@ -1,12 +1,12 @@
 ---
-title: "Transactional Email Articles"
-description: "Articles and guides explaining transactional email concepts, examples, and best practices."
+title: "Transactional Email Concepts & Guides"
+description: "What transactional email is, how it differs from marketing email, and best-practice guides."
 keywords:
-  - transactional email articles
   - transactional email guide
   - transactional vs marketing email
-  - email notification best practices
-sidebar_label: "Articles"
+  - transactional email best practices
+  - concepts
+sidebar_label: "Concepts & Guides"
 sidebar_position: 2
 image: img/docusaurus-social-card.jpg
 hide_title: false
@@ -24,17 +24,19 @@ audience:
   - marketers
   - developers
 seo:
-  title: "Transactional Email Articles | Awesome Email Marketing"
-  description: "Articles and guides explaining transactional email concepts, examples, and best practices."
+  title: "Transactional Email Concepts & Guides | Awesome Email Marketing"
+  description: "What transactional email is, how it differs from marketing email, and best-practice guides."
   robots: index,follow
   canonical_path: "/docs/more/transactional-articles"
   og_type: article
   twitter_card: summary_large_image
 ---
 
-# Articles
+# Concepts & guides
 
-Definitions, explainers, examples, and best-practice guides for transactional email.
+Definitions, explainers, examples, and best-practice guides for transactional email (receipts, password resets, shipping updates, product notifications).
+
+Startup-focused marketing articles moved to [Email Marketing Strategy](/docs/strategy/email-marketing-strategy#email-marketing-for-startups).
 
 ## Concepts & definitions
 
@@ -63,9 +65,5 @@ Definitions, explainers, examples, and best-practice guides for transactional em
 
 - [What Is a Transactional Email? (With 10 Stunning Examples)](https://optinmonster.com/transactional-emails/)
 - [10 Transactional Email Examples to Help You Sell, Upsell & Boost Engagement](https://instapage.com/blog/transactional-email-best-practices)
-- [Email Templates You Need To Run Your Startup](https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/)
-- [Inspiring Email Startups](https://mailtrap.io/blog/email-startups/)
-- [Email Marketing for Startups: Promotion Best Practices](https://sendpulse.com/blog/email-marketing-for-startups)
-- [5 essential lessons of email marketing for startups](https://www.campaignmonitor.com/blog/email-marketing/5-essential-lessons-of-email-marketing-for-startups/)
 
-Looking for providers and software instead? See [Tools](./transactional-tools).
+Looking for providers instead? See [Providers & products](./transactional-tools).

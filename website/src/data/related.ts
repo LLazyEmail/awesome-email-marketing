@@ -106,9 +106,36 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
     {label: 'Filter templates', to: '/explore?tag=templates'},
   ],
   'development/github-repositories': [
-    {label: 'Frontend Development', to: '/docs/development/frontend-development'},
+    {label: 'Templates & Boilerplates', to: '/docs/development/github-email-templates'},
+    {label: 'Frameworks & Compilers', to: '/docs/development/github-frameworks'},
+    {label: 'Infrastructure & APIs', to: '/docs/development/github-infrastructure'},
     {label: 'Cool Projects', to: '/docs/development/cool-projects'},
-    {label: 'Filter templates', to: '/explore?tag=templates'},
+    {label: 'Related Repositories', to: '/docs/development/related-repositories'},
+  ],
+  'development/github-email-templates': [
+    {label: 'GitHub Repositories overview', to: '/docs/development/github-repositories'},
+    {label: 'Frameworks & Compilers', to: '/docs/development/github-frameworks'},
+    {label: 'Related Repositories', to: '/docs/development/related-repositories'},
+  ],
+  'development/github-frameworks': [
+    {label: 'GitHub Repositories overview', to: '/docs/development/github-repositories'},
+    {label: 'Cool Projects', to: '/docs/development/cool-projects'},
+    {label: 'Related Repositories', to: '/docs/development/related-repositories'},
+  ],
+  'development/github-infrastructure': [
+    {label: 'GitHub Repositories overview', to: '/docs/development/github-repositories'},
+    {label: 'Checkers', to: '/docs/development/checkers'},
+    {label: 'Amazon SES', to: '/docs/operations/amazon-ses'},
+  ],
+  'development/cool-projects': [
+    {label: 'GitHub Repositories', to: '/docs/development/github-repositories'},
+    {label: 'Frameworks & Compilers', to: '/docs/development/github-frameworks'},
+    {label: 'Related Repositories', to: '/docs/development/related-repositories'},
+  ],
+  'development/related-repositories': [
+    {label: 'GitHub Repositories', to: '/docs/development/github-repositories'},
+    {label: 'Frameworks & Compilers', to: '/docs/development/github-frameworks'},
+    {label: 'Cool Projects', to: '/docs/development/cool-projects'},
   ],
   'development/checkers': [
     {label: 'Email Work Tools', to: '/docs/tools/email-work-tools'},
@@ -131,20 +158,27 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
     {label: 'Glossary', to: '/docs/glossary'},
   ],
   'more/transactional-emails': [
-    {label: 'Articles', to: '/docs/more/transactional-articles'},
-    {label: 'Tools', to: '/docs/more/transactional-tools'},
+    {label: 'Concepts & Guides', to: '/docs/more/transactional-articles'},
+    {label: 'Providers & Products', to: '/docs/more/transactional-tools'},
     {label: 'Lifecycle Emails', to: '/docs/strategy/lifecycle-emails'},
+    {label: 'Email Marketing Strategy', to: '/docs/strategy/email-marketing-strategy'},
     {label: 'Amazon SES', to: '/docs/operations/amazon-ses'},
   ],
   'more/transactional-articles': [
-    {label: 'Tools', to: '/docs/more/transactional-tools'},
+    {label: 'Providers & Products', to: '/docs/more/transactional-tools'},
     {label: 'Transactional Emails overview', to: '/docs/more/transactional-emails'},
     {label: 'Lifecycle Emails', to: '/docs/strategy/lifecycle-emails'},
+    {label: 'Startup email marketing', to: '/docs/strategy/email-marketing-strategy'},
   ],
   'more/transactional-tools': [
-    {label: 'Articles', to: '/docs/more/transactional-articles'},
+    {label: 'Concepts & Guides', to: '/docs/more/transactional-articles'},
     {label: 'Amazon SES', to: '/docs/operations/amazon-ses'},
     {label: 'Automation Platforms', to: '/docs/tools/automation-platforms'},
+  ],
+  'strategy/email-marketing-strategy': [
+    {label: 'Lifecycle Emails', to: '/docs/strategy/lifecycle-emails'},
+    {label: 'Transactional Emails', to: '/docs/more/transactional-emails'},
+    {label: 'Reasons for Newsletters', to: '/docs/strategy/reasons-for-newsletters'},
   ],
   glossary: [
     {label: 'DNS & DKIM', to: '/docs/operations/dns-dkim'},
