@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Homepage search + Frontend Development split",
+    "items": [
+      "Added a prominent homepage search bar that routes into Explore filters",
+      "Split Frontend Development into Articles & Tutorials and HTML Email Templates",
+      "Mirrored the Frontend Development structure in README.md"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Best Tools split, explicit sidebar, SEO frontmatter",
     "items": [
       "Split Best Tools into newsletter, self-hosted, builders, deliverability, growth automation, and ESP pages",

@@ -1,13 +1,12 @@
 ---
 title: "Frontend Development"
-description: "Frontend Development — curated development resources from the Awesome Email Marketing library."
+description: "Learn HTML email coding and browse curated HTML email template collections for marketing and transactional mail."
 keywords:
   - html email
   - email coding
-  - development
   - frontend development
-  - awesome email marketing
-  - email marketing
+  - email templates
+  - responsive email
 sidebar_label: "Frontend Development"
 sidebar_position: 1
 image: img/docusaurus-social-card.jpg
@@ -20,11 +19,12 @@ unlisted: false
 category: development
 topics:
   - development
+  - html-email
 audience:
   - developers
 seo:
   title: "Frontend Development | Awesome Email Marketing"
-  description: "Frontend Development — curated development resources from the Awesome Email Marketing library."
+  description: "Learn HTML email coding and browse curated HTML email template collections for marketing and transactional mail."
   robots: index,follow
   canonical_path: "/docs/development/frontend-development"
   og_type: article
@@ -33,28 +33,18 @@ seo:
 
 # Frontend Development
 
-- [Responsive Email Templates](https://zurb.com/playground/responsive-email-templates)
-- [The Most Common Email Coding Mistakes and How to Avoid Them](https://sendpulse.com/blog/email-coding-mistakes)
-- [How to Code a Responsive Email from Scratch](https://litmus.com/community/learning/24-how-to-code-a-responsive-email-from-scratch)
-- [HTML Email Development Best Practices: Rules to Code By](https://www.emailonacid.com/blog/article/email-development/email-development-best-practices-2/)
-- [How To Code An Email Newsletter in 6 Simple Steps](https://www.crazyegg.com/blog/how-to-code-an-email-newsletter/)
-- [HTML Email Basics](https://templates.mailchimp.com/getting-started/html-email-basics/)
-- [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
-- [Coding html emails](https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails/)
-- [New to email coding? Here’s where to start](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4)
-- [The RIGHT WAY to create HTML emails | TUTORIAL [2021]](https://www.youtube.com/watch?v=sSNnixkKqcA)
-- [How to HTML: Your Guide to Designing and Coding Emails That Deliver](https://customer.io/blog/how-to-html-your-guide-to-designing-and-coding-emails-that-deliver/)
-- [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
-- [A Complete Guide To Create Your Own HTML Email](https://email.uplers.com/blog/step-step-guide-create-html-email/)
-- [Email Coding vs Web Coding: It’s Not The Same](https://smaily.com/email-coding-vs-web-coding-its-not-the-same/)
-- [Email Coding Guidelines](https://gist.github.com/janogarcia/4977a2346cbc7e52334b)
-- [Free HTML Email Templates](https://github.com/designmodo/html-email-templates)
-- [Responsive Email](https://github.com/derekpunsalan/responsive-email)
-- [How to Code a Mobile-First Responsive Email Template [Tutorial]](https://designmodo.com/code-responsive-email-template/)
-- [Unlayer. Create beautiful emails, easily.](https://unlayer.com)
-- [Codepen Email Templates](https://codepen.io/collection/AyVBJr)
-- [Really good email](https://reallygoodemails.com/)
-- [Benchmarkemail. Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
-- [An intuitive email builder for teams and individuals amps up email marketing ideas](https://designmodo.com/postcards/)
-- [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
+Resources for building HTML emails — split so tutorials stay separate from template collections.
 
+## Browse by section
+
+| Section | What you’ll find |
+| --- | --- |
+| [Articles & Tutorials](./html-email-tutorials) | Guides, coding lessons, and best practices |
+| [HTML Email Templates](./html-email-templates) | Template packs, galleries, and builders |
+
+## Related
+
+- [GitHub Repositories](./github-repositories)
+- [Cool Projects](./cool-projects)
+- [Email Builders & Templates](/docs/tools/email-builders)
+- [Explore templates](/explore?tag=templates)

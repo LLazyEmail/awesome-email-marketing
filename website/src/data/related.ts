@@ -91,9 +91,19 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
     {label: 'Filter deliverability tools', to: '/explore?tag=deliverability'},
   ],
   'development/frontend-development': [
+    {label: 'Articles & Tutorials', to: '/docs/development/html-email-tutorials'},
+    {label: 'HTML Email Templates', to: '/docs/development/html-email-templates'},
     {label: 'GitHub Repositories', to: '/docs/development/github-repositories'},
-    {label: 'HTML Utilities', to: '/docs/development/html-utilities'},
-    {label: 'Email Templates', to: '/docs/guides/email-templates'},
+  ],
+  'development/html-email-tutorials': [
+    {label: 'HTML Email Templates', to: '/docs/development/html-email-templates'},
+    {label: 'Frontend Development overview', to: '/docs/development/frontend-development'},
+    {label: 'Email Coding Checkers', to: '/docs/development/checkers'},
+  ],
+  'development/html-email-templates': [
+    {label: 'Articles & Tutorials', to: '/docs/development/html-email-tutorials'},
+    {label: 'GitHub Repositories', to: '/docs/development/github-repositories'},
+    {label: 'Filter templates', to: '/explore?tag=templates'},
   ],
   'development/github-repositories': [
     {label: 'Frontend Development', to: '/docs/development/frontend-development'},

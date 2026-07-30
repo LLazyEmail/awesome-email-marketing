@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import HomepageSearch from '@site/src/components/HomepageSearch';
 import MetricsStrip from '@site/src/components/MetricsStrip';
 import Heading from '@theme/Heading';
 
@@ -18,6 +19,7 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <HomepageSearch />
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/explore">
             Explore & filter

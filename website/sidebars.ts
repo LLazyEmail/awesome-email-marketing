@@ -114,6 +114,8 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'development/frontend-development',
+        'development/html-email-tutorials',
+        'development/html-email-templates',
         'development/github-repositories',
         'development/related-repositories',
         'development/cool-projects',
