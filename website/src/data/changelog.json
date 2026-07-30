@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Port Hasura docs CSS modules for a closer visual match",
+    "items": [
+      "Merged pull request #236",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/236"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Adopt Hasura-inspired professional docs theme",
     "items": [
       "Merged pull request #234",

@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Port Hasura docs CSS modules for a closer visual match ([#236](https://github.com/LLazyEmail/awesome-email-marketing/pull/236))
 - Adopt Hasura-inspired professional docs theme ([#234](https://github.com/LLazyEmail/awesome-email-marketing/pull/234))
 - Use Helvetica Neue with Eightshift-like typography ([#233](https://github.com/LLazyEmail/awesome-email-marketing/pull/233))
 - Auto-generated All Docs Pages index + GitHub Action ([#232](https://github.com/LLazyEmail/awesome-email-marketing/pull/232))
