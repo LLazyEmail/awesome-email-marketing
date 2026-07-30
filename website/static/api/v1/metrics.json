@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-30T04:22:14.107Z",
-  "resources": 126,
+  "generatedAt": "2026-07-30T04:27:06.069Z",
+  "resources": 128,
   "tags": 18,
   "docsPages": 62,
   "sections": 2,
   "bySection": {
-    "development": 44,
+    "development": 46,
     "tools": 82
   },
   "byTag": {
@@ -15,16 +15,16 @@
     "cli": 1,
     "cold-email": 2,
     "deliverability": 9,
-    "development": 44,
+    "development": 46,
     "ecommerce": 9,
     "esp": 40,
     "free": 7,
-    "github": 42,
+    "github": 44,
     "newsletter": 30,
-    "open-source": 47,
+    "open-source": 49,
     "self-hosted": 7,
     "ses": 3,
-    "templates": 33,
+    "templates": 35,
     "transactional": 7,
     "utility": 6
   }

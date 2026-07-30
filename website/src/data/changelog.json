@@ -1,6 +1,16 @@
 [
   {
     "date": "2026-07-30",
+    "title": "GitHub repos and Miscellaneous from open issues",
+    "items": [
+      "Added Responsive HTML Email Template (charlesmudy) and Tutanota to GitHub Repositories (issues #194, #188)",
+      "Confirmed Colorlib, konsav, and EmailEngine entries in GitHub Repositories (issues #195, #192, #190)",
+      "Added StampReady, Correlated, and email-team articles to Miscellaneous (issues #186, #189, #191)",
+      "Synced the same entries in README.md"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Transactional Emails: Articles and Tools",
     "items": [
       "Split Transactional Emails into Articles and Tools subsections (issue #103)",

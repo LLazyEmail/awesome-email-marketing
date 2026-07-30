@@ -408,6 +408,7 @@ Resources for building HTML emails — tutorials stay separate from template col
 - [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
 - [Foundation for Emails](https://github.com/foundation/foundation-emails)
 - [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates)
+- [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) - Responsive HTML email template starter
 - [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates)
 - [Email-Boilerplate haw to use](https://github.com/seanpowell/Email-Boilerplate)
 - [SendGrid](https://github.com/sendgrid/email-templates)
@@ -420,6 +421,7 @@ Resources for building HTML emails — tutorials stay separate from template col
 - [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico)
 - [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains)
 - [EmailEngine Email API](https://github.com/postalsys/emailengine)
+- [Tutanota](https://github.com/tutao/tutanota) - Privacy-focused encrypted email service for email, contacts, and calendar
 - [MJML 4](https://github.com/mjmlio/mjml)
 - [Forward email](https://github.com/forwardemail/free-email-forwarding)
 - [React html email](https://github.com/chromakode/react-html-email)
@@ -473,6 +475,14 @@ Resources for building HTML emails — tutorials stay separate from template col
 - [The 80 best single-operator newsletters](https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet) 
 - [200+ newsletters: a crowdsourced list of must-read emails](https://medium.com/an-idea-for-you/25-newsletters-worth-inviting-into-your-inbox-62046f871a63) 
 - [Amazing email newsletters for bloggers/technology/scientists/startups/crypto/investing/finance/marceter/fitnesses](https://letterlist.com/)
+- [Really Good Emails Newsletter](https://reallygoodemails.com/emails/really-good-emails-weekly) — Curated examples and email inspiration.
+- [Email on Acid Newsletter](https://www.emailonacid.com/blog/article/email-marketing/email-on-acids-email-newsletter/) — Deliverability and QA insights.
+- [Email Love Newsletter](https://emaillove.com/newsletter) — Design and campaign inspiration.
+- [Email Weekly Newsletter](https://www.getrevue.co/profile/emailweekly) — Weekly email industry roundup.
+- [StampReady](https://www.stampready.net/) — Email template tool and editor for building and managing HTML emails.
+- [Correlated](https://www.linkedin.com/company/correlated) — LinkedIn company page for the Correlated product/community.
+- [How to Build a World-Class Email Team](https://www.mailjet.com/blog/email-best-practices/build-email-team/) — Mailjet guide to hiring and structuring email marketing teams.
+- [How to Build a Remote Email Marketing Team](https://www.benchmarkemail.com/blog/remote-email-marketing-team/) — Benchmark Email on remote team setup and collaboration.
 
 ## Arthur Tkachenko articles
 

@@ -42,6 +42,7 @@ seo:
 - [Free Responsive HTML Email Template](https://github.com/leemunroe/responsive-html-email-template)
 - [Foundation for Emails](https://github.com/foundation/foundation-emails)
 - [Free Email Templates by Colorlib](https://github.com/ColorlibHQ/email-templates)
+- [Responsive HTML Email Template](https://github.com/charlesmudy/responsive-html-email-template) - Responsive HTML email template starter
 - [Responsive transactional HTML email templates](https://github.com/mailgun/transactional-email-templates)
 - [Email-Boilerplate haw to use](https://github.com/seanpowell/Email-Boilerplate)
 - [SendGrid](https://github.com/sendgrid/email-templates)
@@ -54,6 +55,7 @@ seo:
 - [Mosaico - Responsive Email Template Editor](https://github.com/voidlabs/mosaico)
 - [List of disposable email domains](https://github.com/disposable-email-domains/disposable-email-domains)
 - [EmailEngine Email API](https://github.com/postalsys/emailengine)
+- [Tutanota](https://github.com/tutao/tutanota) - Privacy-focused encrypted email service for email, contacts, and calendar
 - [MJML 4](https://github.com/mjmlio/mjml)
 - [Forward email](https://github.com/forwardemail/free-email-forwarding)
 - [React html email](https://github.com/chromakode/react-html-email)
