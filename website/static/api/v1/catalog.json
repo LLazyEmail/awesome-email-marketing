@@ -1,0 +1,1726 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-07-30T01:10:13.676Z",
+  "name": "Awesome Email Marketing catalog",
+  "homepage": "https://llazyemail.github.io/awesome-email-marketing/",
+  "repository": "https://github.com/LLazyEmail/awesome-email-marketing",
+  "tags": [
+    "automation",
+    "checker",
+    "cli",
+    "cold-email",
+    "deliverability",
+    "development",
+    "ecommerce",
+    "esp",
+    "free",
+    "github",
+    "newsletter",
+    "open-source",
+    "self-hosted",
+    "ses",
+    "templates",
+    "transactional",
+    "utility"
+  ],
+  "items": [
+    {
+      "id": "a-eslint-plugin-to-lint-and-fix-inline-scripts-contained-in-html-files",
+      "name": "A ESLint plugin to lint and fix inline scripts contained in HTML files",
+      "url": "https://www.npmjs.com/package/eslint-plugin-html",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/checkers",
+      "sourceFile": "development/checkers.md",
+      "tags": [
+        "checker",
+        "development"
+      ]
+    },
+    {
+      "id": "activecampaign",
+      "name": "ActiveCampaign",
+      "url": "https://www.activecampaign.com/",
+      "description": "Drive growth with customer experience automation",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter",
+        "transactional"
+      ]
+    },
+    {
+      "id": "add-css-to-the-head-section-of-an-email-template",
+      "name": "Add CSS to the head section of an email template",
+      "url": "https://knowledge.hubspot.com/email/can-i-add-css-to-the-head-section-of-my-email-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "templates"
+      ]
+    },
+    {
+      "id": "aritic",
+      "name": "Aritic",
+      "url": "https://aritic.com/",
+      "description": "is a full-stack automation platform. It includes marketing automation, communication automation, CRM application, service desk application and business automation stack designed for B2B companies",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "id": "automizy",
+      "name": "Automizy",
+      "url": "https://automizy.com/",
+      "description": "is an email marketing software platform that helps marketers improve their open rate through its different features",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "id": "autopilot",
+      "name": "Autopilot",
+      "url": "https://www.autopilothq.com/",
+      "description": "brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "aweber",
+      "name": "AWeber",
+      "url": "https://www.aweber.com",
+      "description": "is an email marketing tool that allows you to: create a mailing list and capture data onto it; design newsletters that can be sent to the subscribers on your list; automate your email marketing via use of 'autoresponders' view and analyse statistics related to your email marketing campaigns.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "bee",
+      "name": "BEE",
+      "url": "https://beefree.io/",
+      "description": "Create beautiful emails, fast.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "benchmark",
+      "name": "BenchMark",
+      "url": "https://www.benchmarkemail.com/",
+      "description": "is a simple email marketing tool for anyone who needs to send personalized email at scale.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "birdsend",
+      "name": "BirdSend",
+      "url": "https://birdsend.co/",
+      "description": "Don't waste paying 3-5X more on an expensive email marketing tool",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "bojler",
+      "name": "Bojler",
+      "url": "https://github.com/Slicejack/bojler",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/cool-projects",
+      "sourceFile": "development/cool-projects.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "build-an-html-email-template-from-scratch",
+      "name": "Build an HTML Email Template From Scratch",
+      "url": "https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "templates"
+      ]
+    },
+    {
+      "id": "butondown",
+      "name": "Butondown",
+      "url": "https://buttondown.email/",
+      "description": "The easiest way to write/grow/build/launch/share/run/ your newsletter",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "campaign-cleaner",
+      "name": "Campaign Cleaner",
+      "url": "https://campaigncleaner.com",
+      "description": "Spam checker, Font Color Adjuster, Blacklist Link Checker, Broken Link Checker, CSS Inliner, HTML Sanitizer, Non-ASCII replacement, Font-Size Adjuster, and more.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/email-work-tools",
+      "sourceFile": "tools/email-work-tools.md",
+      "tags": [
+        "checker",
+        "deliverability",
+        "utility"
+      ]
+    },
+    {
+      "id": "campaign-monitor",
+      "name": "Campaign Monitor",
+      "url": "https://www.campaignmonitor.com",
+      "description": "is a global technology company that provides an email marketing platform that's easy to use yet extremely powerful",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "ecommerce",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "colorlib",
+      "name": "Colorlib",
+      "url": "https://colorlib.com",
+      "description": "is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "constant-contact",
+      "name": "Constant Contact",
+      "url": "https://www.constantcontact.com",
+      "description": "effective email marketing and other online marketing campaigns to meet business goals",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "converkit",
+      "name": "Converkit",
+      "url": "https://convertkit.com/",
+      "description": "Send automated emailing campaigns",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "convertkit",
+      "name": "ConvertKit",
+      "url": "https://convertkit.com",
+      "description": "How ConvertKit helps you as a creator",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "customer-io",
+      "name": "Customer.io",
+      "url": "https://customer.io/",
+      "description": "Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "dailystory",
+      "name": "DailyStory",
+      "url": "https://www.dailystory.com/",
+      "description": "Simple to use email marketing and more",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "dnsai",
+      "name": "DNSai",
+      "url": "https://dnsai.com/dns-tools/",
+      "description": "Free SPF, DKIM and DMARC checkers, plus DNS/WHOIS lookups and email-header analysis; no signup.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/email-work-tools",
+      "sourceFile": "tools/email-work-tools.md",
+      "tags": [
+        "checker",
+        "deliverability",
+        "free",
+        "utility"
+      ]
+    },
+    {
+      "id": "drip",
+      "name": "Drip",
+      "url": "https://www.drip.com/",
+      "description": "the automated marketing tools, insights, and savvy to turn shopping experiences into useful data streams, emails into earnings, and popups into cha-chings",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "id": "elastic-email",
+      "name": "Elastic Email",
+      "url": "https://elasticemail.com/",
+      "description": "is an email delivery service for transactional emailing",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation",
+        "transactional"
+      ]
+    },
+    {
+      "id": "email-blueprints",
+      "name": "Email Blueprints",
+      "url": "https://github.com/mailchimp/email-blueprints",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "email-checker",
+      "name": "Email Checker",
+      "url": "https://mailmeteor.com/email-checker",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/email-work-tools",
+      "sourceFile": "tools/email-work-tools.md",
+      "tags": [
+        "checker",
+        "utility"
+      ]
+    },
+    {
+      "id": "email-framework",
+      "name": "Email Framework",
+      "url": "https://github.com/g13nn/Email-Framework",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "email-lab",
+      "name": "Email Lab",
+      "url": "https://github.com/sparkbox/email-lab",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "email-templates",
+      "name": "Email templates",
+      "url": "https://github.com/mjmlio/email-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "email-templates",
+      "name": "Email Templates",
+      "url": "https://github.com/forwardemail/email-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "email-boilerplate-haw-to-use",
+      "name": "Email-Boilerplate haw to use",
+      "url": "https://github.com/seanpowell/Email-Boilerplate",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "emailengine-email-api",
+      "name": "EmailEngine Email API",
+      "url": "https://github.com/postalsys/emailengine",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "emailoctopus",
+      "name": "EmailOctopus",
+      "url": "https://emailoctopus.com/",
+      "description": "Email marketing made easy",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "emailqo-email-infrastructure-grader",
+      "name": "EmailQo Email Infrastructure Grader",
+      "url": "https://emailqo.com/email-grader",
+      "description": "Free tool to check SPF, DKIM, DMARC and mail server configuration. Scores any domain out of 100. No signup required.",
+      "section": "development",
+      "sourcePage": "/docs/development/checkers",
+      "sourceFile": "development/checkers.md",
+      "tags": [
+        "checker",
+        "deliverability",
+        "development",
+        "free"
+      ]
+    },
+    {
+      "id": "encharge",
+      "name": "Encharge",
+      "url": "https://encharge.io/",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/ecommerce",
+      "sourceFile": "tools/ecommerce.md",
+      "tags": [
+        "ecommerce",
+        "esp"
+      ]
+    },
+    {
+      "id": "feedotter",
+      "name": "Feedotter",
+      "url": "https://www.feedotter.com",
+      "description": "Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "flodesk",
+      "name": "Flodesk",
+      "url": "https://flodesk.com/",
+      "description": "Design emails people love to open",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "forward-email",
+      "name": "Forward email",
+      "url": "https://github.com/forwardemail/free-email-forwarding",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "free",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "foundation-for-emails",
+      "name": "Foundation for Emails",
+      "url": "https://github.com/foundation/foundation-emails",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "free-email-templates-by-colorlib",
+      "name": "Free Email Templates by Colorlib",
+      "url": "https://github.com/ColorlibHQ/email-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "free",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "free-html-email-templates",
+      "name": "Free HTML Email Templates",
+      "url": "https://www.dyspatch.io/resources/templates/",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "free",
+        "github",
+        "templates"
+      ]
+    },
+    {
+      "id": "free-responsive-html-email-template",
+      "name": "Free Responsive HTML Email Template",
+      "url": "https://github.com/leemunroe/responsive-html-email-template",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "free",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "friendly",
+      "name": "Friendly",
+      "url": "https://friendly.is/automate",
+      "description": "The Privacy Friendly Marketing Automation Software",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "froged",
+      "name": "Froged",
+      "url": "https://froged.com/",
+      "description": "Optimize your Customer Experience with One Powerful Product",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "generating-emails-with-react",
+      "name": "Generating Emails with React",
+      "url": "https://github.com/lang-ai/react-emails",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/cool-projects",
+      "sourceFile": "development/cool-projects.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "getresponse",
+      "name": "Getresponse",
+      "url": "https://www.getresponse.com/",
+      "description": "is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "html-email-check",
+      "name": "HTML email check",
+      "url": "https://www.htmlemailcheck.com/check/",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/checkers",
+      "sourceFile": "development/checkers.md",
+      "tags": [
+        "checker",
+        "development"
+      ]
+    },
+    {
+      "id": "html-tag-validator",
+      "name": "HTML tag validator",
+      "url": "https://github.com/pluralsight/htmlTagValidator",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "checker",
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "html-validator-linter",
+      "name": "HTML Validator - Linter",
+      "url": "https://www.freeformatter.com/html-validator.html",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/checkers",
+      "sourceFile": "development/checkers.md",
+      "tags": [
+        "checker",
+        "development"
+      ]
+    },
+    {
+      "id": "inky",
+      "name": "Inky",
+      "url": "https://github.com/foundation/inky",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "interspire",
+      "name": "Interspire",
+      "url": "https://www.interspire.com/",
+      "description": "Self-hosted Email Marketing Software",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter",
+        "open-source",
+        "self-hosted"
+      ]
+    },
+    {
+      "id": "jilt",
+      "name": "Jilt",
+      "url": "https://jilt.com/",
+      "description": "eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "ecommerce",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "keap",
+      "name": "Keap",
+      "url": "https://keap.com/",
+      "description": "the all-in-one sales and marketing automation platform designed to help you grow",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "url": "https://www.klaviyo.com/",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/ecommerce",
+      "sourceFile": "tools/ecommerce.md",
+      "tags": [
+        "ecommerce",
+        "esp"
+      ]
+    },
+    {
+      "id": "lightmeterc",
+      "name": "Lightmeterc",
+      "url": "https://lightmeter.io/",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/open-source-tools",
+      "sourceFile": "tools/open-source-tools.md",
+      "tags": [
+        "esp",
+        "open-source"
+      ]
+    },
+    {
+      "id": "list-of-disposable-email-domains",
+      "name": "List of disposable email domains",
+      "url": "https://github.com/disposable-email-domains/disposable-email-domains",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "listmonk",
+      "name": "Listmonk",
+      "url": "https://listmonk.app/",
+      "description": "is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter",
+        "open-source",
+        "self-hosted"
+      ]
+    },
+    {
+      "id": "mailbakery",
+      "name": "Mailbakery",
+      "url": "https://mailbakery.com/",
+      "description": "simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter",
+        "templates"
+      ]
+    },
+    {
+      "id": "mailchimp",
+      "name": "Mailchimp",
+      "url": "https://mailchimp.com/",
+      "description": "Free emailing software",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "free",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "mailerlite",
+      "name": "Mailerlite",
+      "url": "https://www.mailerlite.com/pricing",
+      "description": "Pricing mailerlite",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "mailjet",
+      "name": "Mailjet",
+      "url": "https://www.mailjet.com/",
+      "description": "Create and send beautiful emails without touching a single line of code",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "mailmeteor",
+      "name": "MailMeteor",
+      "url": "https://mailmeteor.com",
+      "description": "Send personalized mass emails with the best mail merge in Gmail",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "mailpoet",
+      "name": "MailPoet",
+      "url": "https://www.mailpoet.com",
+      "description": "is an one-stop email solution for wordPress and woocommerce website",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation",
+        "ecommerce"
+      ]
+    },
+    {
+      "id": "mailster",
+      "name": "Mailster",
+      "url": "https://mailster.co/",
+      "description": "is an easy to use Email Newsletter Plugin for WordPress",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "mailtrain",
+      "name": "Mailtrain",
+      "url": "https://github.com/Mailtrain-org/mailtrain",
+      "description": "is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "github",
+        "newsletter",
+        "open-source",
+        "self-hosted"
+      ]
+    },
+    {
+      "id": "mailtrap",
+      "name": "Mailtrap",
+      "url": "https://mailtrap.io/",
+      "description": "is a testing tool and is not designed to deliver emails to real addresses",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "mailwarm",
+      "name": "Mailwarm",
+      "url": "https://www.mailwarm.com/",
+      "description": "Don't land in spam anymore",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "deliverability",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "mailwind",
+      "name": "Mailwind",
+      "url": "https://github.com/soheilpro/mailwind",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "mailwiz",
+      "name": "MailWiz",
+      "url": "https://www.mailwizz.com/",
+      "description": "Self-hosted Email Marketing Software",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter",
+        "open-source",
+        "self-hosted"
+      ]
+    },
+    {
+      "id": "maizzle",
+      "name": "Maizzle",
+      "url": "https://github.com/maizzle/maizzle",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/cool-projects",
+      "sourceFile": "development/cool-projects.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "markdown-to-mailchimp-github-com",
+      "name": "Markdown To Mailchimp (github.com)",
+      "url": "https://github.com/MarcL/markdown-to-mailchimp",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "markdown-to-mailchimp-www-npmjs-com",
+      "name": "Markdown To Mailchimp (www.npmjs.com)",
+      "url": "https://www.npmjs.com/package/markdown-to-mailchimp",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "development",
+        "github"
+      ]
+    },
+    {
+      "id": "mautic",
+      "name": "Mautic",
+      "url": "https://www.mautic.org/",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/open-source-tools",
+      "sourceFile": "tools/open-source-tools.md",
+      "tags": [
+        "esp",
+        "open-source"
+      ]
+    },
+    {
+      "id": "mjml-4",
+      "name": "MJML 4",
+      "url": "https://github.com/mjmlio/mjml",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "mjml-react",
+      "name": "Mjml react",
+      "url": "https://github.com/wix-incubator/mjml-react",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "mosaico-responsive-email-template-editor",
+      "name": "Mosaico - Responsive Email Template Editor",
+      "url": "https://github.com/voidlabs/mosaico",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "newsletter2go",
+      "name": "Newsletter2go",
+      "url": "https://docs.newsletter2go.com/",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/ecommerce",
+      "sourceFile": "tools/ecommerce.md",
+      "tags": [
+        "ecommerce",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "no-code-email-editor",
+      "name": "No-code Email Editor",
+      "url": "https://mailmeteor.com/email-editor",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/email-work-tools",
+      "sourceFile": "tools/email-work-tools.md",
+      "tags": [
+        "checker",
+        "utility"
+      ]
+    },
+    {
+      "id": "nocodeletters",
+      "name": "NoCodeLetters",
+      "url": "https://nocodeletters.com/",
+      "description": "Send your newsletters directly from Notion",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "omnisend",
+      "name": "Omnisend",
+      "url": "https://www.omnisend.com/",
+      "description": "is an omnichannel marketing automation platform for growth-focused ecommerce businesses",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "ecommerce",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "openemm",
+      "name": "OpenEMM",
+      "url": "https://www.openemm.org/doku.php",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/open-source-tools",
+      "sourceFile": "tools/open-source-tools.md",
+      "tags": [
+        "esp",
+        "open-source"
+      ]
+    },
+    {
+      "id": "overloop-cli",
+      "name": "Overloop CLI",
+      "url": "https://github.com/sortlist/overloop-cli",
+      "description": "AI-powered outbound engine available as a CLI. Source 450M+ contacts, run email and LinkedIn campaigns, manage conversations. JSON output, agent-native. Install via `npm i -g overloop-cli`.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation",
+        "cli",
+        "cold-email",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "palabra",
+      "name": "Palabra",
+      "url": "https://palabra.io/",
+      "description": "Automate your product-led growth",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "password-reset-email-design-best-practices-checklist-template",
+      "name": "Password reset email design: best practices, checklist & template",
+      "url": "https://postmarkapp.com/guides/password-reset-email-best-practices",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/email-work-tools",
+      "sourceFile": "tools/email-work-tools.md",
+      "tags": [
+        "checker",
+        "templates",
+        "utility"
+      ]
+    },
+    {
+      "id": "pechkin",
+      "name": "Pechkin",
+      "url": "https://github.com/sglazov/pechkin",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/cool-projects",
+      "sourceFile": "development/cool-projects.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "peopcampaigns",
+      "name": "Peopcampaigns",
+      "url": "https://pepocampaigns.com/",
+      "description": "the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter",
+        "ses"
+      ]
+    },
+    {
+      "id": "postcards",
+      "name": "Postcards",
+      "url": "https://designmodo.com/postcards/",
+      "description": "Create awesome emails with drag & drop simplicity",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "postmark-transactional-email-templates",
+      "name": "Postmark Transactional Email Templates",
+      "url": "https://github.com/ActiveCampaign/postmark-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates",
+        "transactional"
+      ]
+    },
+    {
+      "id": "premailer",
+      "name": "Premailer",
+      "url": "https://github.com/premailer/premailer",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/cool-projects",
+      "sourceFile": "development/cool-projects.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "premailer-readme",
+      "name": "Premailer README",
+      "url": "https://github.com/premailer/premailer",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "quickly-build-html-emails-with-utility-first-css",
+      "name": "Quickly build HTML emails with utility-first CSS",
+      "url": "https://maizzle.com/",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "development",
+        "github"
+      ]
+    },
+    {
+      "id": "react-confirm-email",
+      "name": "React Confirm Email",
+      "url": "https://github.com/funador/react-confirm-email",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/cool-projects",
+      "sourceFile": "development/cool-projects.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "react-html-email",
+      "name": "React html email",
+      "url": "https://github.com/chromakode/react-html-email",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "react-multi-email",
+      "name": "React multi email",
+      "url": "https://github.com/jsdevkr/react-multi-email",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/cool-projects",
+      "sourceFile": "development/cool-projects.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source"
+      ]
+    },
+    {
+      "id": "responsive-html-email-templates",
+      "name": "Responsive HTML email templates",
+      "url": "https://github.com/konsav/email-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "responsive-transactional-html-email-templates",
+      "name": "Responsive transactional HTML email templates",
+      "url": "https://github.com/mailgun/transactional-email-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates",
+        "transactional"
+      ]
+    },
+    {
+      "id": "revue",
+      "name": "Revue",
+      "url": "https://www.getrevue.co/",
+      "description": "Editorial newsletters tool for writers and publishers",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "saleslabel",
+      "name": "SalesLabel",
+      "url": "https://sales-label.com",
+      "description": "White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and built-in deliverability.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "cold-email",
+        "deliverability",
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "sender",
+      "name": "Sender",
+      "url": "https://www.sender.net/",
+      "description": "empowers to quickly and easily keep in touch with your customers and grow your business - while spending much less",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "id": "sendfox",
+      "name": "Sendfox",
+      "url": "https://sendfox.com/",
+      "description": "Start a newsletter without money",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "sendgrid",
+      "name": "Sendgrid",
+      "url": "https://sendgrid.com/",
+      "description": "Email delivery service",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "sendgrid",
+      "name": "SendGrid",
+      "url": "https://github.com/sendgrid/email-templates",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "sendinblue",
+      "name": "Sendinblue",
+      "url": "https://www.sendinblue.com",
+      "description": "is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "automation",
+        "ecommerce",
+        "esp",
+        "newsletter",
+        "transactional"
+      ]
+    },
+    {
+      "id": "sendportal",
+      "name": "SendPortal",
+      "url": "https://sendportal.io/",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/open-source-tools",
+      "sourceFile": "tools/open-source-tools.md",
+      "tags": [
+        "esp",
+        "open-source"
+      ]
+    },
+    {
+      "id": "sendpulse",
+      "name": "SendPulse",
+      "url": "https://sendpulse.com/",
+      "description": "is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "sendx",
+      "name": "SendX",
+      "url": "https://www.sendx.io/",
+      "description": "makes it easy to be a responsible email marketer",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "sendy",
+      "name": "Sendy",
+      "url": "https://sendy.co/",
+      "description": "Send newsletters, 100x cheaper",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter",
+        "open-source",
+        "self-hosted",
+        "ses"
+      ]
+    },
+    {
+      "id": "sequenzy",
+      "name": "Sequenzy",
+      "url": "https://sequenzy.com/",
+      "description": "lifecycle email marketing and transactional email workflows for SaaS and product teams, with an agent skill for campaign and sequence operations",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation",
+        "transactional"
+      ]
+    },
+    {
+      "id": "smtp-email-verification",
+      "name": "SMTP Email Verification",
+      "url": "https://github.com/EmailVerify/email-verify",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "spam-checker",
+      "name": "Spam Checker",
+      "url": "https://mailmeteor.com/spam-checker",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/email-work-tools",
+      "sourceFile": "tools/email-work-tools.md",
+      "tags": [
+        "checker",
+        "deliverability",
+        "utility"
+      ]
+    },
+    {
+      "id": "sparkpost",
+      "name": "Sparkpost",
+      "url": "https://www.sparkpost.com/",
+      "description": "is the world’s first and only predictive email intelligence platform",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "stripo",
+      "name": "Stripo",
+      "url": "https://stripo.email/fr/",
+      "description": "Free email template builder",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "free",
+        "newsletter",
+        "templates"
+      ]
+    },
+    {
+      "id": "substack",
+      "name": "Substack",
+      "url": "https://substack.com/",
+      "description": "Paid newsletters made simple",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "sympa",
+      "name": "Sympa",
+      "url": "https://www.sympa.org/",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/open-source-tools",
+      "sourceFile": "tools/open-source-tools.md",
+      "tags": [
+        "esp",
+        "open-source"
+      ]
+    },
+    {
+      "id": "tinyletter",
+      "name": "TinyLetter",
+      "url": "https://tinyletter.com",
+      "description": "Email for people with something to say",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "trade-show-email-templates",
+      "name": "Trade Show Email Templates",
+      "url": "https://github.com/LensmorOfficial/trade-show-email-templates",
+      "description": "Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "undersend",
+      "name": "UnderSend",
+      "url": "https://undersend.com/",
+      "description": "Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "upscribe",
+      "name": "Upscribe",
+      "url": "https://www.upscribe.net/",
+      "description": "Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing & Sequences Tool. No more battling with your email newsletter tool…",
+      "section": "tools",
+      "sourcePage": "/docs/tools/best-tools",
+      "sourceFile": "tools/best-tools.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "verymail",
+      "name": "Verymail",
+      "url": "https://www.npmjs.com/package/verymail",
+      "description": "",
+      "section": "development",
+      "sourcePage": "/docs/development/related-repositories",
+      "sourceFile": "development/related-repositories.md",
+      "tags": [
+        "development",
+        "github"
+      ]
+    },
+    {
+      "id": "woodpecker",
+      "name": "Woodpecker",
+      "url": "https://woodpecker.co",
+      "description": "uses to get emails delivered to main inbox & get more sales opportunities",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "id": "wraps",
+      "name": "Wraps",
+      "url": "https://wraps.dev",
+      "description": "Email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation",
+        "ses",
+        "templates"
+      ]
+    },
+    {
+      "id": "zoho-campaigns",
+      "name": "Zoho Campaigns",
+      "url": "https://www.zoho.com/campaigns/",
+      "description": "is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation"
+      ]
+    }
+  ]
+}

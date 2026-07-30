@@ -1,0 +1,39 @@
+[
+  {
+    "date": "2026-07-30",
+    "title": "Explore, API, glossary, and related links",
+    "items": [
+      "Added tag/filter Explore page for curated tools and repositories",
+      "Added live metrics strip on the homepage",
+      "Added related resources blocks on documentation pages",
+      "Added glossary of email marketing terms",
+      "Added public JSON API under /api/v1/",
+      "Added project changelog"
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Migrated open README contributions",
+    "items": [
+      "Imported tools and resources from community PRs into docs and README",
+      "Added Sequenzy, SalesLabel, Wraps, Overloop CLI, DNSai, Campaign Cleaner, EmailQo, and more"
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Deploy, search, and clearer navigation",
+    "items": [
+      "Enabled GitHub Pages deploy workflows",
+      "Added local search",
+      "Restructured sidebar into nested, scannable sections"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Docusaurus site launched",
+    "items": [
+      "Scaffolded the documentation website under website/",
+      "Split the awesome list README into focused docs pages"
+    ]
+  }
+]

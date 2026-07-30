@@ -9,6 +9,9 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   docsSidebar: [
     'intro',
+    'glossary',
+    'changelog',
+    'api',
     {
       type: 'category',
       label: 'Tools & Platforms',

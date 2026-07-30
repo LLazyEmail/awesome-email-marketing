@@ -53,3 +53,21 @@
 .navbar__title {
   font-size: 0.95rem;
 }
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Homepage secondary CTA contrast on primary hero */
+.hero--primary .button--outline.button--secondary {
+  --ifm-button-color: var(--ifm-hero-text-color);
+  --ifm-button-border-color: currentColor;
+}

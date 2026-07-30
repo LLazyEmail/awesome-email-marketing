@@ -1,0 +1,82 @@
+[
+  {
+    "term": "ESP",
+    "definition": "Email Service Provider — a platform used to send, manage, and measure marketing or transactional email campaigns."
+  },
+  {
+    "term": "CTR",
+    "definition": "Click-Through Rate — the percentage of email recipients who clicked one or more links in a message."
+  },
+  {
+    "term": "Open Rate",
+    "definition": "The percentage of delivered emails that were opened. Increasingly noisy due to Apple Mail Privacy Protection and similar features."
+  },
+  {
+    "term": "Deliverability",
+    "definition": "The ability for legitimate email to reach the inbox rather than spam or promotions folders."
+  },
+  {
+    "term": "SPF",
+    "definition": "Sender Policy Framework — a DNS record that lists which servers are allowed to send email for a domain."
+  },
+  {
+    "term": "DKIM",
+    "definition": "DomainKeys Identified Mail — a cryptographic signature that proves an email was authorized by the sending domain."
+  },
+  {
+    "term": "DMARC",
+    "definition": "Domain-based Message Authentication, Reporting, and Conformance — a policy that tells receivers how to handle SPF/DKIM failures and where to send reports."
+  },
+  {
+    "term": "BIMI",
+    "definition": "Brand Indicators for Message Identification — a standard that can display a brand logo in supporting inboxes when DMARC is enforced."
+  },
+  {
+    "term": "Warm-up",
+    "definition": "Gradually increasing send volume from a new domain or IP so mailbox providers learn to trust the sender."
+  },
+  {
+    "term": "Seed List",
+    "definition": "A set of test inboxes across providers used to monitor placement, rendering, and deliverability."
+  },
+  {
+    "term": "Double Opt-In",
+    "definition": "A subscription process where a user confirms their email address before being added to a mailing list."
+  },
+  {
+    "term": "Single Opt-In",
+    "definition": "A subscription process that adds an address immediately after form submission without a confirmation email."
+  },
+  {
+    "term": "Transactional Email",
+    "definition": "Message triggered by a user action — password resets, receipts, shipping updates — rather than a marketing broadcast."
+  },
+  {
+    "term": "Lifecycle Email",
+    "definition": "Automated messages tied to a customer journey stage such as welcome, onboarding, win-back, or renewal."
+  },
+  {
+    "term": "Segmentation",
+    "definition": "Splitting an audience into groups based on behavior, attributes, or preferences so messaging can be more relevant."
+  },
+  {
+    "term": "Personalization",
+    "definition": "Adapting content, offers, or send timing to an individual recipient using known data and behavior."
+  },
+  {
+    "term": "Lead Magnet",
+    "definition": "A free resource (ebook, checklist, template) offered in exchange for an email address."
+  },
+  {
+    "term": "MJML",
+    "definition": "A markup language and framework for building responsive HTML emails with a simplified component syntax."
+  },
+  {
+    "term": "Amazon SES",
+    "definition": "Amazon Simple Email Service — a cloud email-sending API often used for transactional mail and self-hosted ESPs."
+  },
+  {
+    "term": "List Hygiene",
+    "definition": "Ongoing cleanup of invalid, inactive, or risky addresses to protect sender reputation and improve engagement."
+  }
+]
