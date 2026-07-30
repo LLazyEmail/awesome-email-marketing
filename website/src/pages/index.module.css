@@ -4,15 +4,30 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 5rem 0 4rem;
   text-align: center;
   position: relative;
   overflow: hidden;
 }
 
+.heroBanner :global(.hero__title) {
+  max-width: 18ch;
+  margin-left: auto;
+  margin-right: auto;
+  padding-inline: 5.56vw;
+}
+
+.heroBanner :global(.hero__subtitle) {
+  margin-top: 1.25rem;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 3rem 1.25rem 2.5rem;
+  }
+
+  .heroBanner :global(.hero__title) {
+    padding-inline: 0;
   }
 }
 
