@@ -17,4 +17,5 @@ description: "Building an Email List resources from Awesome Email Marketing"
 - [5 Email Personalization Strategies to Skyrocket Your Sales in 2022](https://hyperise.com/blog/email-personalization-strategies-to-skyrocket-your-sales)
 - [Personalized email](https://www.campaignmonitor.com/resources/guides/personalized-email/)
 - [Personalization](https://www.campaignmonitor.com/resources/glossary/personalization/#:~:text=Personalization%20is%20when%20marketers%20use,tailor%2Dmade%20for%20the%20individual.&text=As%20a%20result%2C%20your%20subscribers,receiving%20emails%20from%20your%20brand)
+- [Email marketing 101 - A guide](https://www.dailystory.com/guides/email-marketing-beginners-guide/)
 

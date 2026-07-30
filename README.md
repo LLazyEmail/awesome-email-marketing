@@ -18,7 +18,7 @@
 - [Read and use later](#read-and-use-later)
 - [Newsletters lead generation](#newsletters-lead-generation)
 - [Blogs](#blogs)
-- [Resources wich giv answers about importance e-mail in your business](#resources-wich-giv-answers-about-importance-e-mail-in-your-business)
+- [Resources which give answers about importance e-mail in your business](#resources-which-give-answers-about-importance-e-mail-in-your-business)
 - [Demand Curve: Tested tactics for growing newsletters](#demand-curve-tested-tactics-for-growing-newsletters)
 - [Email templates](#email-templates)
 - [Email marketing insights from Vero](#email-marketing-insights-from-vero)
@@ -74,6 +74,7 @@
 * [Froged](https://froged.com/) - Optimize your Customer Experience with One Powerful Product
 * [Mailjet](https://www.mailjet.com/) - Create and send beautiful emails without touching a single line of code
 * [UnderSend](https://undersend.com/) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
+* [DailyStory](https://www.dailystory.com/) - Simple to use email marketing and more
 * [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
 * [Customer.io](https://customer.io/) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS < indiehacker)
 * [Flodesk](https://flodesk.com/) - Design emails people love to open
@@ -109,6 +110,7 @@
 * [Autopilot](https://www.autopilothq.com/) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 * [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
+* [SalesLabel](https://sales-label.com) - White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and built-in deliverability.
 
 ## Email Marketing For eCommerce
 
@@ -119,8 +121,10 @@
 
 ## Automation Email Marketing platform
 
+- [Sequenzy](https://sequenzy.com/) - lifecycle email marketing and transactional email workflows for SaaS and product teams, with an agent skill for campaign and sequence operations
 - [Aritic](https://aritic.com/) - is a full-stack automation platform. It includes marketing automation, communication automation, CRM application, service desk application and business automation stack designed for B2B companies
 - [ActiveCampaign](https://www.activecampaign.com/) - is a  software for customer experience automation (CXA), which combines the transactional email, email marketing, marketing automation, sales automation, and CRM categories
+- [DailyStory](https://www.dailystory.com/) - is a marketing automation platform built to help you create sales, build loyalty and grow your business. It includes email, SMS marketing, automation and more.
 - [Sendinblue](www.sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
 - [Drip](https://www.drip.com/) - the automated marketing tools, insights, and savvy to turn shopping experiences into useful data streams, emails into earnings, and popups into cha-chings
 - [GetResponse](https://www.getresponse.com/) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
@@ -129,7 +133,9 @@
 - [MailPoet](www.mailpoet.com) - is an one-stop email solution for wordPress and woocommerce website
 - [Elastic Email](https://elasticemail.com/) - is an email delivery service for transactional emailing
 - [Woodpecker](woodpecker.co) - uses to get emails delivered to main inbox & get more sales opportunities
+- [Wraps](https://wraps.dev) - Email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure.
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine available as a CLI. Source 450M+ contacts, run email and LinkedIn campaigns, manage conversations. JSON output, agent-native. Install via `npm i -g overloop-cli`.
 
 ## Tools for effective work with emails
 
@@ -137,6 +143,8 @@
 - [Email Checker](https://mailmeteor.com/email-checker)
 - [No-code Email Editor](https://mailmeteor.com/email-editor)
 - [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
+- [DNSai](https://dnsai.com/dns-tools/) - Free SPF, DKIM and DMARC checkers, plus DNS/WHOIS lookups and email-header analysis; no signup.
+- [Campaign Cleaner](https://campaigncleaner.com) - Spam checker, Font Color Adjuster, Blacklist Link Checker, Broken Link Checker, CSS Inliner, HTML Sanitizer, Non-ASCII replacement, Font-Size Adjuster, and more.
 
 ## Strategy
 
@@ -158,6 +166,7 @@
 - [5 Email Personalization Strategies to Skyrocket Your Sales in 2022](https://hyperise.com/blog/email-personalization-strategies-to-skyrocket-your-sales)
 - [Personalized email](https://www.campaignmonitor.com/resources/guides/personalized-email/) 
 - [Personalization](https://www.campaignmonitor.com/resources/glossary/personalization/#:~:text=Personalization%20is%20when%20marketers%20use,tailor%2Dmade%20for%20the%20individual.&text=As%20a%20result%2C%20your%20subscribers,receiving%20emails%20from%20your%20brand)
+- [Email marketing 101 - A guide](https://www.dailystory.com/guides/email-marketing-beginners-guide/)
 
 ## Data Driven Email Marketing
 
@@ -235,8 +244,9 @@ Order is :
 
 - [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) 
 - [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
+- [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
-## Resources wich giv answers about importance e-mail in your business
+## Resources which give answers about importance e-mail in your business
 
 - [Elastic-email. A Beginner’s Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
 - [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
@@ -370,6 +380,7 @@ Order is :
 - [Email-Boilerplate haw to use](https://github.com/seanpowell/Email-Boilerplate)
 - [SendGrid](https://github.com/sendgrid/email-templates)
 - [Email Templates](https://github.com/forwardemail/email-templates)
+- [Trade Show Email Templates](https://github.com/LensmorOfficial/trade-show-email-templates) - Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.
 - [Premailer README](https://github.com/premailer/premailer)
 - [Email Framework](https://github.com/g13nn/Email-Framework)
 - [Responsive HTML email templates](https://github.com/konsav/email-templates)
@@ -388,7 +399,8 @@ Order is :
 
 - [HTML email check](https://www.htmlemailcheck.com/check/)
 - [A ESLint plugin to lint and fix inline scripts contained in HTML files](https://www.npmjs.com/package/eslint-plugin-html)
-- [HTML Validator - Linter](https://www.freeformatter.com/html-validator.html) 
+- [HTML Validator - Linter](https://www.freeformatter.com/html-validator.html)
+- [EmailQo Email Infrastructure Grader](https://emailqo.com/email-grader) - Free tool to check SPF, DKIM, DMARC and mail server configuration. Scores any domain out of 100. No signup required.
 
 ### GitHub repositories related to email marketing
 
