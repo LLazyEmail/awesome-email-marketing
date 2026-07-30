@@ -1,6 +1,16 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Best Tools split, explicit sidebar, SEO frontmatter",
+    "items": [
+      "Split Best Tools into newsletter, self-hosted, builders, deliverability, growth automation, and ESP pages",
+      "Synced the same Best Tools structure into README.md and deduplicated entries",
+      "Kept the docs sidebar fully explicit/manual (no filesystem autogeneration)",
+      "Added advanced SEO frontmatter (description, keywords, topics, audience, canonical, robots, social cards) to all docs pages"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Explore, API, glossary, and related links",
     "items": [
       "Added tag/filter Explore page for curated tools and repositories",

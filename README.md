@@ -5,7 +5,13 @@
 
 ## Table of Contents
 
-- [Best Email Marketing Tools](#best-email-marketing-tools-for-2022)
+- [Best Email Marketing Tools](#best-email-marketing-tools)
+    - [Newsletter Platforms](#newsletter-platforms)
+    - [Self-Hosted ESPs](#self-hosted-esps)
+    - [Email Builders & Templates](#email-builders--templates)
+    - [Deliverability & Testing Tools](#deliverability--testing-tools)
+    - [Growth & Automation Tools](#growth--automation-tools)
+    - [Email Service Providers](#email-service-providers)
 - [Email Marketing For eCommerce](#email-marketing-for-ecommerce)
 - [Automation Email Marketing platform](#automation-email-marketing-platform)
 - [Tools for effective work with emails](#tools-for-effective-work-with-emails)
@@ -51,66 +57,80 @@
 - [Awesome lists](#awesome-lists)
 - [Additional content](#additional-content)
 
-## Best Email Marketing Tools for 2022
+## Best Email Marketing Tools
 
-* [Revue](https://www.getrevue.co/) - Editorial newsletters tool for writers and publishers
-* [Sendgrid](https://sendgrid.com/) - Email delivery service
-* [Postcards](https://designmodo.com/postcards/) - Create awesome emails with drag & drop simplicity
-* [BEE](https://beefree.io/) - Create beautiful emails, fast.
-* [Stripo](https://stripo.email/fr/) - Free email template builder
-* [Substack](https://substack.com/) - Paid newsletters made simple
-* [Mailchimp](https://mailchimp.com/) - Free emailing software
-* [Converkit](https://convertkit.com/) - Send automated emailing campaigns
-* [Sendy](https://sendy.co/) - Send newsletters, 100x cheaper
-* [MailWiz](https://www.mailwizz.com/) - Self-hosted Email Marketing Software
-* [Interspire](https://www.interspire.com/) - Self-hosted Email Marketing Software
-* [Sendfox](https://sendfox.com/) - Start a newsletter without money
-* [TinyLetter](tinyletter.com) - Email for people with something to say
-* [Mailerlite](https://www.mailerlite.com/pricing) - Pricing mailerlite
-* [Butondown](https://buttondown.email/) - The easiest way to write/grow/build/launch/share/run/ your newsletter
-* [Upscribe](https://www.upscribe.net/) - Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &amp; Sequences Tool. No more battling with your email newsletter tool…
-* [Palabra](https://palabra.io/) - Automate your product-led growth
-* [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software 
-* [Froged](https://froged.com/) - Optimize your Customer Experience with One Powerful Product
-* [Mailjet](https://www.mailjet.com/) - Create and send beautiful emails without touching a single line of code
-* [UnderSend](https://undersend.com/) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
-* [DailyStory](https://www.dailystory.com/) - Simple to use email marketing and more
-* [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
-* [Customer.io](https://customer.io/) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS < indiehacker)
-* [Flodesk](https://flodesk.com/) - Design emails people love to open
-* [Mailwarm](https://www.mailwarm.com/) - Don't land in spam anymore
-* [ConvertKit](https://convertkit.com) - How ConvertKit helps you as a creator
-* [SendX](https://www.sendx.io/) -  makes it easy to be a responsible email marketer
-* [Colorlib](https://colorlib.com) - is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month
-* [Mailtrap](https://mailtrap.io/) - is a testing tool and is not designed to deliver emails to real addresses
-* [Feedotter](https://www.feedotter.com) - Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools
-* [Stripo](https://stripo.email/fr/) - Plateforme de conception d'e-mails
-* [EmailOctopus](https://emailoctopus.com/) - Email marketing made easy
-* [NoCodeLetters](https://nocodeletters.com/) - Send your newsletters directly from Notion
-* [BirdSend](https://birdsend.co/) - Don't waste paying 3-5X more on an expensive email marketing tool
-* [ActiveCampaign](https://www.activecampaign.com/) - Drive growth with customer experience automation
-* [AWeber](www.aweber.com) - is an email marketing tool that allows you to: create a mailing list and capture data onto it; design newsletters that can be sent to the subscribers on your list; automate your email marketing via use of 'autoresponders' view and analyse statistics related to your email marketing campaigns.
-* [ConvertKit](convertkit.com) - is the go-to marketing hub for creators that helps you grow and monetize your audience with ease
-* [Constant Contact](www.constantcontact.com) - effective email marketing and other online marketing campaigns to meet business goals
-* [Omnisend](https://www.omnisend.com/) - is an omnichannel marketing automation platform for growth-focused ecommerce businesses
-* [Getresponse](https://www.getresponse.com/) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
-* [Sendinblue](www.sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
-* [Privy](https://www.privy.com/) marketing for ecommerce companies
-* [Campaign Monitor](www.campaignmonitor.com) - is a global technology company that provides an email marketing platform that's easy to use yet extremely powerful
-* [Sendy](sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
+A curated directory of email marketing tools, grouped for easier navigation. Full docs live in [`website/docs/tools/`](./website/docs/tools/).
+
+### Newsletter Platforms
+
+* [BirdSend](https://birdsend.co) - Don't waste paying 3-5X more on an expensive email marketing tool
+* [Butondown](https://buttondown.email) - The easiest way to write/grow/build/launch/share/run/ your newsletter
+* [ConvertKit](https://convertkit.com) - is the go-to marketing hub for creators that helps you grow and monetize your audience with ease
+* [EmailOctopus](https://emailoctopus.com) - Email marketing made easy
+* [Feedotter](https://feedotter.com) - Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools
+* [Flodesk](https://flodesk.com) - a new email marketing service provider that’s built for creators, by creators
+* [Mailerlite](https://mailerlite.com/pricing) - Pricing mailerlite
+* [NoCodeLetters](https://nocodeletters.com) - Send your newsletters directly from Notion
+* [Revue](https://getrevue.co) - Editorial newsletters tool for writers and publishers
+* [Sendfox](https://sendfox.com) - Start a newsletter without money
+* [Substack](https://substack.com) - Paid newsletters made simple
+* [TinyLetter](https://tinyletter.com) - Email for people with something to say
+* [Upscribe](https://upscribe.net) - Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing & Sequences Tool. No more battling with your email newsletter tool…
+
+### Self-Hosted ESPs
+
+* [Interspire](https://interspire.com) - Self-hosted Email Marketing Software
+* [Listmonk](https://listmonk.app) - is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.
+* [Mailster](https://mailster.co) - is an easy to use Email Newsletter Plugin for WordPress
 * [Mailtrain](https://github.com/Mailtrain-org/mailtrain) - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
-* [Listmonk](https://listmonk.app/) - is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.
-* [BenchMark](https://www.benchmarkemail.com/) - is a simple email marketing tool for anyone who needs to send personalized email at scale.
-* [SendPulse](https://sendpulse.com/) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
-* [Flodesk](https://flodesk.com/) - a new email marketing service provider that’s built for creators, by creators
-* [Peopcampaigns](https://pepocampaigns.com/) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
-* [Mailster](https://mailster.co/) - is an easy to use Email Newsletter Plugin for WordPress
-* [Sparkpost](https://www.sparkpost.com/) - is the world’s first and only predictive email intelligence platform
-* [Jilt](https://jilt.com/) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
-* [Autopilot](https://www.autopilothq.com/) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
-* [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
-* [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
+* [MailWiz](https://mailwizz.com) - Self-hosted Email Marketing Software
+* [Peopcampaigns](https://pepocampaigns.com) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
+* [Sendy](https://sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
+
+### Email Builders & Templates
+
+* [BEE](https://beefree.io) - Create beautiful emails, fast.
+* [Colorlib](https://colorlib.com) - is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month
+* [Mailbakery](https://mailbakery.com) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
+* [Postcards](https://designmodo.com/postcards) - Create awesome emails with drag & drop simplicity
+* [Stripo](https://stripo.email/fr) - Plateforme de conception d'e-mails
+
+### Deliverability & Testing Tools
+
+* [Mailtrap](https://mailtrap.io) - is a testing tool and is not designed to deliver emails to real addresses
+* [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
+* [Sendgrid](https://sendgrid.com) - Email delivery service
+* [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
+
+### Growth & Automation Tools
+
+* [ActiveCampaign](https://activecampaign.com) - Drive growth with customer experience automation
+* [Autopilot](https://autopilothq.com) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
+* [Customer.io](https://customer.io) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))
+* [DailyStory](https://dailystory.com) - Simple to use email marketing and more
+* [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software
+* [Froged](https://froged.com) - Optimize your Customer Experience with One Powerful Product
+* [Jilt](https://jilt.com) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
+* [Keap](https://keap.com) - the all-in-one sales and marketing automation platform designed to help you grow
+* [Omnisend](https://omnisend.com) - is an omnichannel marketing automation platform for growth-focused ecommerce businesses
+* [Palabra](https://palabra.io) - Automate your product-led growth
 * [SalesLabel](https://sales-label.com) - White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and built-in deliverability.
+* [UnderSend](https://undersend.com) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
+
+### Email Service Providers
+
+* [AWeber](https://aweber.com) - is an email marketing tool that allows you to: create a mailing list and capture data onto it; design newsletters that can be sent to the subscribers on your list; automate your email marketing via use of 'autoresponders' view and analyse statistics related to your email marketing campaigns.
+* [BenchMark](https://benchmarkemail.com) - is a simple email marketing tool for anyone who needs to send personalized email at scale.
+* [Campaign Monitor](https://campaignmonitor.com) - is a global technology company that provides an email marketing platform that's easy to use yet extremely powerful
+* [Constant Contact](https://constantcontact.com) - effective email marketing and other online marketing campaigns to meet business goals
+* [Getresponse](https://getresponse.com) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
+* [Mailchimp](https://mailchimp.com) - Free emailing software
+* [Mailjet](https://mailjet.com) - Create and send beautiful emails without touching a single line of code
+* [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
+* [Sendinblue](https://sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
+* [SendPulse](https://sendpulse.com) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
+* [SendX](https://sendx.io) - makes it easy to be a responsible email marketer
+
 
 ## Email Marketing For eCommerce
 

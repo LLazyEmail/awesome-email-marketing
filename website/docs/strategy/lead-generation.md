@@ -1,8 +1,35 @@
 ---
-sidebar_position: 6
-sidebar_label: "Lead Generation"
 title: "Lead Generation"
-description: "Lead Generation resources from Awesome Email Marketing"
+description: "Lead Generation — curated strategy resources from the Awesome Email Marketing library."
+keywords:
+  - email strategy
+  - list building
+  - strategy
+  - lead generation
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Lead Generation"
+sidebar_position: 6
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: strategy
+topics:
+  - strategy
+audience:
+  - marketers
+  - founders
+seo:
+  title: "Lead Generation | Awesome Email Marketing"
+  description: "Lead Generation — curated strategy resources from the Awesome Email Marketing library."
+  robots: index,follow
+  canonical_path: "/docs/strategy/lead-generation"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Lead Generation

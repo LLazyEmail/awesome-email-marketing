@@ -1,8 +1,34 @@
 ---
-sidebar_position: 3
-sidebar_label: "Why Email Matters"
 title: "Why Email Matters"
 description: "Resources which give answers about the importance of email in your business."
+keywords:
+  - email marketing guides
+  - articles
+  - guides
+  - why email matters
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Why Email Matters"
+sidebar_position: 3
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: guides
+topics:
+  - guides
+audience:
+  - marketers
+seo:
+  title: "Why Email Matters | Awesome Email Marketing"
+  description: "Resources which give answers about the importance of email in your business."
+  robots: index,follow
+  canonical_path: "/docs/guides/why-email-matters"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Why Email Matters

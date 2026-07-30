@@ -1,30 +1,31 @@
 {
-  "generatedAt": "2026-07-30T01:10:13.676Z",
-  "resources": 122,
-  "tags": 17,
-  "docsPages": 52,
+  "generatedAt": "2026-07-30T03:03:01.759Z",
+  "resources": 126,
+  "tags": 18,
+  "docsPages": 58,
   "sections": 2,
   "bySection": {
     "development": 44,
-    "tools": 78
+    "tools": 82
   },
   "byTag": {
-    "automation": 24,
-    "checker": 11,
+    "automation": 30,
+    "builders": 5,
+    "checker": 15,
     "cli": 1,
     "cold-email": 2,
-    "deliverability": 6,
+    "deliverability": 9,
     "development": 44,
-    "ecommerce": 8,
-    "esp": 61,
-    "free": 8,
+    "ecommerce": 9,
+    "esp": 40,
+    "free": 7,
     "github": 42,
-    "newsletter": 54,
-    "open-source": 45,
-    "self-hosted": 5,
+    "newsletter": 30,
+    "open-source": 47,
+    "self-hosted": 7,
     "ses": 3,
-    "templates": 30,
-    "transactional": 6,
+    "templates": 33,
+    "transactional": 7,
     "utility": 6
   }
 }

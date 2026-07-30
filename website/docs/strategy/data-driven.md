@@ -1,8 +1,35 @@
 ---
-sidebar_position: 3
-sidebar_label: "Data-Driven Email Marketing"
 title: "Data-Driven Email Marketing"
 description: "Guides and strategies for data-driven email marketing."
+keywords:
+  - email strategy
+  - list building
+  - strategy
+  - data-driven email marketing
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Data-Driven Email Marketing"
+sidebar_position: 3
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: strategy
+topics:
+  - strategy
+audience:
+  - marketers
+  - founders
+seo:
+  title: "Data-Driven Email Marketing | Awesome Email Marketing"
+  description: "Guides and strategies for data-driven email marketing."
+  robots: index,follow
+  canonical_path: "/docs/strategy/data-driven"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Data-Driven Email Marketing

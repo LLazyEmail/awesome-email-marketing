@@ -1,8 +1,35 @@
 ---
-sidebar_position: 4
-sidebar_label: "Email Work Tools"
 title: "Email Work Tools"
-description: "Email Work Tools resources from Awesome Email Marketing"
+description: "Email Work Tools — curated tools resources from the Awesome Email Marketing library."
+keywords:
+  - email marketing tools
+  - ESP
+  - tools
+  - email work tools
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Email Work Tools"
+sidebar_position: 4
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: tools
+topics:
+  - tools
+audience:
+  - marketers
+  - founders
+seo:
+  title: "Email Work Tools | Awesome Email Marketing"
+  description: "Email Work Tools — curated tools resources from the Awesome Email Marketing library."
+  robots: index,follow
+  canonical_path: "/docs/tools/email-work-tools"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Email Work Tools

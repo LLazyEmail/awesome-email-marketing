@@ -1,8 +1,34 @@
 ---
-sidebar_position: 1
-sidebar_label: "Frontend Development"
 title: "Frontend Development"
-description: "Frontend Development resources from Awesome Email Marketing"
+description: "Frontend Development — curated development resources from the Awesome Email Marketing library."
+keywords:
+  - html email
+  - email coding
+  - development
+  - frontend development
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Frontend Development"
+sidebar_position: 1
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: development
+topics:
+  - development
+audience:
+  - developers
+seo:
+  title: "Frontend Development | Awesome Email Marketing"
+  description: "Frontend Development — curated development resources from the Awesome Email Marketing library."
+  robots: index,follow
+  canonical_path: "/docs/development/frontend-development"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Frontend Development

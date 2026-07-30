@@ -1,8 +1,35 @@
 ---
-sidebar_position: 2
-sidebar_label: "Building an Email List"
 title: "Building an Email List"
-description: "Building an Email List resources from Awesome Email Marketing"
+description: "Building an Email List — curated strategy resources from the Awesome Email Marketing library."
+keywords:
+  - email strategy
+  - list building
+  - strategy
+  - building an email list
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Building an Email List"
+sidebar_position: 2
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: strategy
+topics:
+  - strategy
+audience:
+  - marketers
+  - founders
+seo:
+  title: "Building an Email List | Awesome Email Marketing"
+  description: "Building an Email List — curated strategy resources from the Awesome Email Marketing library."
+  robots: index,follow
+  canonical_path: "/docs/strategy/building-an-email-list"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Building an Email List

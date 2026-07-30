@@ -1,8 +1,35 @@
 ---
-sidebar_position: 8
-sidebar_label: "Reasons for Newsletters"
 title: "Reasons for Newsletters"
-description: "Reasons for Newsletters resources from Awesome Email Marketing"
+description: "Reasons for Newsletters — curated strategy resources from the Awesome Email Marketing library."
+keywords:
+  - email strategy
+  - list building
+  - strategy
+  - reasons for newsletters
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Reasons for Newsletters"
+sidebar_position: 8
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: strategy
+topics:
+  - strategy
+audience:
+  - marketers
+  - founders
+seo:
+  title: "Reasons for Newsletters | Awesome Email Marketing"
+  description: "Reasons for Newsletters — curated strategy resources from the Awesome Email Marketing library."
+  robots: index,follow
+  canonical_path: "/docs/strategy/reasons-for-newsletters"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Reasons for Newsletters
