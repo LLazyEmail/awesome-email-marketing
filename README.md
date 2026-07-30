@@ -677,12 +677,16 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 
 ## Website
 
-This repository includes a [Docusaurus](https://docusaurus.io/) site in the [`website/`](./website) directory.
+This repository includes a [Docusaurus](https://docusaurus.io/) site in [`website/`](./website), with local search and automatic GitHub Pages deploy via GitHub Actions.
 
 ```bash
 cd website
 npm install
 npm start
 ```
+
+Site URL after deploy: `https://llazyemail.github.io/awesome-email-marketing/`
+
+One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ## [Linkedin page of LLazyEmail](https://www.linkedin.com/company/llazyemail/)

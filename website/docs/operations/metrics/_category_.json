@@ -1,0 +1,9 @@
+{
+  "label": "Metrics & Measurement",
+  "position": 5,
+  "collapsed": true,
+  "link": {
+    "type": "doc",
+    "id": "operations/metrics/index"
+  }
+}

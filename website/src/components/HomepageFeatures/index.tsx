@@ -1,55 +1,55 @@
 import type {ReactNode} from 'react';
 import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  to: string;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
     title: 'Tools & Platforms',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    to: '/docs/tools/best-tools',
     description: (
       <>
-        Discover email marketing tools, ESPs, automation platforms, and builders
-        used by marketers and creators.
+        Compare ESPs, automation platforms, eCommerce tools, and open-source
+        newsletter software.
       </>
     ),
   },
   {
-    title: 'Strategy & Tactics',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Strategy & Growth',
+    to: '/docs/strategy/building-an-email-list',
     description: (
       <>
-        Learn list-building tactics, deliverability practices, lifecycle
-        campaigns, and proven growth experiments.
+        List-building playbooks, lifecycle campaigns, personalization, and
+        opt-in tactics that convert.
       </>
     ),
   },
   {
-    title: 'Open Source & Templates',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Build & Operate',
+    to: '/docs/development/frontend-development',
     description: (
       <>
-        Explore open-source projects, HTML email resources, templates, and
-        GitHub repositories related to email marketing.
+        HTML email coding resources, GitHub projects, deliverability guides, and
+        measurement basics.
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({title, to, description}: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
+        <Heading as="h3">
+          <Link to={to}>{title}</Link>
+        </Heading>
         <p>{description}</p>
       </div>
     </div>
