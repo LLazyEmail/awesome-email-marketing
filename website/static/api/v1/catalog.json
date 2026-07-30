@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-07-30T04:22:14.107Z",
+  "generatedAt": "2026-07-30T04:27:06.069Z",
   "name": "Awesome Email Marketing catalog",
   "homepage": "https://llazyemail.github.io/awesome-email-marketing/",
   "repository": "https://github.com/LLazyEmail/awesome-email-marketing",
@@ -1355,6 +1355,21 @@
       ]
     },
     {
+      "id": "responsive-html-email-template",
+      "name": "Responsive HTML Email Template",
+      "url": "https://github.com/charlesmudy/responsive-html-email-template",
+      "description": "Responsive HTML email template starter",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
       "id": "responsive-html-email-templates",
       "name": "Responsive HTML email templates",
       "url": "https://github.com/konsav/email-templates",
@@ -1662,6 +1677,21 @@
       "name": "Trade Show Email Templates",
       "url": "https://github.com/LensmorOfficial/trade-show-email-templates",
       "description": "Ready-to-use email templates for pre-show, onsite, and post-show B2B outreach.",
+      "section": "development",
+      "sourcePage": "/docs/development/github-repositories",
+      "sourceFile": "development/github-repositories.md",
+      "tags": [
+        "development",
+        "github",
+        "open-source",
+        "templates"
+      ]
+    },
+    {
+      "id": "tutanota",
+      "name": "Tutanota",
+      "url": "https://github.com/tutao/tutanota",
+      "description": "Privacy-focused encrypted email service for email, contacts, and calendar",
       "section": "development",
       "sourcePage": "/docs/development/github-repositories",
       "sourceFile": "development/github-repositories.md",
