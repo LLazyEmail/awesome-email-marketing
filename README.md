@@ -3,6 +3,8 @@
 
 #### A collection of articles, templates, tools, and many more to build and manage emails.
 
+Docs site: [`website/`](./website/). Project history: [`CHANGELOG.md`](./CHANGELOG.md) (auto-generated from merged PRs).
+
 ## Table of Contents
 
 - [Best Email Marketing Tools](#best-email-marketing-tools)

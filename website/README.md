@@ -26,7 +26,7 @@ Local search is enabled with [`@easyops-cn/docusaurus-search-local`](https://git
 
 - `/explore` — tag/filter UI over the curated catalog
 - `/docs/glossary` — email marketing glossary
-- `/docs/changelog` — site/library changelog
+- `/docs/changelog` — site/library changelog (auto-generated from merged PRs)
 - `/docs/api` — public JSON API docs
 - `/api/v1/catalog.json` — machine-readable catalog
 
@@ -36,12 +36,21 @@ Regenerate catalog exports:
 npm run generate:api
 ```
 
+Regenerate the changelog (root `CHANGELOG.md` + `src/data/changelog.json`):
+
+```bash
+npm run changelog
+```
+
+Uses the [`auto-changelog`](https://www.npmjs.com/package/auto-changelog) npm package. Config lives in [`.auto-changelog`](./.auto-changelog).
+
 ## Automatic deployment
 
 GitHub Actions workflows live in [`.github/workflows/`](../.github/workflows):
 
 - `test-deploy.yml` — builds the site on pull requests
 - `deploy.yml` — builds and deploys to GitHub Pages on pushes to `main`
+- `changelog.yml` — regenerates `CHANGELOG.md` and the docs changelog after each merged PR to `main`
 
 ### One-time GitHub Pages setup
 

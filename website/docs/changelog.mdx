@@ -36,6 +36,8 @@ import changelog from '@site/src/data/changelog.json';
 
 Notable updates to the documentation site and curated library.
 
+Entries are generated automatically from merged pull requests via [`auto-changelog`](https://www.npmjs.com/package/auto-changelog). Run `npm run changelog` in `website/` locally, or rely on the **Update changelog** GitHub Action after each merge to `main`.
+
 {changelog.map((entry) => (
   <section key={`${entry.date}-${entry.title}`}>
     <h2>

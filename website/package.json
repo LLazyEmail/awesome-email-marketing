@@ -5,6 +5,8 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "generate:api": "node ./scripts/generate-catalog.mjs",
+    "generate:changelog": "node ./scripts/generate-changelog.mjs",
+    "changelog": "npm run generate:changelog",
     "prestart": "npm run generate:api",
     "start": "docusaurus start",
     "prebuild": "npm run generate:api",
@@ -33,6 +35,7 @@
     "@docusaurus/tsconfig": "3.10.2",
     "@docusaurus/types": "3.10.2",
     "@types/react": "^19.0.0",
+    "auto-changelog": "^2.6.0",
     "typescript": "~6.0.2"
   },
   "browserslist": {
