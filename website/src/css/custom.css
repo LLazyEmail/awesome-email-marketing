@@ -1,30 +1,55 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Global theme tweaks for an easy-to-scan resource list.
  */
 
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #0f6e56;
+  --ifm-color-primary-dark: #0d634d;
+  --ifm-color-primary-darker: #0c5d48;
+  --ifm-color-primary-darkest: #0a4d3c;
+  --ifm-color-primary-light: #11795f;
+  --ifm-color-primary-lighter: #127f64;
+  --ifm-color-primary-lightest: #159372;
   --ifm-code-font-size: 95%;
+  --ifm-leading: 1.65;
+  --ifm-list-left-padding: 1.35rem;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #3ecf9a;
+  --ifm-color-primary-dark: #2fc48d;
+  --ifm-color-primary-darker: #2bba85;
+  --ifm-color-primary-darkest: #24996d;
+  --ifm-color-primary-light: #53d4a5;
+  --ifm-color-primary-lighter: #5ed7aa;
+  --ifm-color-primary-lightest: #7fdfbb;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Make long resource lists easier to scan */
+.theme-doc-markdown.markdown ul > li,
+.theme-doc-markdown.markdown ol > li {
+  margin-bottom: 0.55rem;
+  line-height: 1.55;
+}
+
+.theme-doc-markdown.markdown table {
+  display: table;
+  width: 100%;
+}
+
+.theme-doc-markdown.markdown table td:first-child {
+  white-space: nowrap;
+  font-weight: 600;
+}
+
+/* Slightly tighter sidebar nesting for deep categories */
+.menu__list .menu__list {
+  margin-top: 0.15rem;
+  margin-bottom: 0.35rem;
+}
+
+.navbar__title {
+  font-size: 0.95rem;
 }

@@ -14,11 +14,12 @@ const config: Config = {
 
   url: 'https://llazyemail.github.io',
   baseUrl: '/awesome-email-marketing/',
+  trailingSlash: false,
 
   organizationName: 'LLazyEmail',
   projectName: 'awesome-email-marketing',
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
 
   i18n: {
     defaultLocale: 'en',
@@ -31,6 +32,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          routeBasePath: 'docs',
+          showLastUpdateTime: false,
           editUrl:
             'https://github.com/LLazyEmail/awesome-email-marketing/tree/main/website/',
         },
@@ -53,10 +56,35 @@ const config: Config = {
     ],
   ],
 
+  themes: [
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        hashed: true,
+        language: ['en'],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        docsRouteBasePath: '/docs',
+        indexBlog: true,
+        searchBarShortcutHint: true,
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {
       respectPrefersColorScheme: true,
+    },
+    docs: {
+      sidebar: {
+        hideable: true,
+        autoCollapseCategories: true,
+      },
+    },
+    tableOfContents: {
+      minHeadingLevel: 2,
+      maxHeadingLevel: 3,
     },
     navbar: {
       title: 'Awesome Email Marketing',
@@ -71,6 +99,43 @@ const config: Config = {
           position: 'left',
           label: 'Resources',
         },
+        {
+          type: 'dropdown',
+          label: 'Browse',
+          position: 'left',
+          items: [
+            {
+              type: 'doc',
+              docId: 'tools/best-tools',
+              label: 'Tools & Platforms',
+            },
+            {
+              type: 'doc',
+              docId: 'strategy/building-an-email-list',
+              label: 'Strategy & Growth',
+            },
+            {
+              type: 'doc',
+              docId: 'guides/why-email-matters',
+              label: 'Guides & Articles',
+            },
+            {
+              type: 'doc',
+              docId: 'development/frontend-development',
+              label: 'Development',
+            },
+            {
+              type: 'doc',
+              docId: 'operations/dns-dkim',
+              label: 'Operations & Metrics',
+            },
+            {
+              type: 'doc',
+              docId: 'more/transactional-emails',
+              label: 'More',
+            },
+          ],
+        },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/LLazyEmail/awesome-email-marketing',
@@ -83,7 +148,7 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Resources',
+          title: 'Start here',
           items: [
             {
               label: 'Overview',
@@ -94,12 +159,33 @@ const config: Config = {
               to: '/docs/tools/best-tools',
             },
             {
-              label: 'Building an Email List',
+              label: 'Build an Email List',
               to: '/docs/strategy/building-an-email-list',
             },
             {
-              label: 'Opt-in Tactics',
-              to: '/docs/strategy/opt-in-tactics',
+              label: 'FAQ',
+              to: '/docs/guides/faq',
+            },
+          ],
+        },
+        {
+          title: 'Popular topics',
+          items: [
+            {
+              label: 'Lifecycle Emails',
+              to: '/docs/strategy/lifecycle-emails',
+            },
+            {
+              label: 'Frontend Development',
+              to: '/docs/development/frontend-development',
+            },
+            {
+              label: 'Amazon SES',
+              to: '/docs/operations/amazon-ses',
+            },
+            {
+              label: 'Transactional Emails',
+              to: '/docs/more/transactional-emails',
             },
           ],
         },
@@ -107,25 +193,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
+              label: 'GitHub',
+              href: 'https://github.com/LLazyEmail/awesome-email-marketing',
+            },
+            {
               label: 'LLazyEmail on LinkedIn',
               href: 'https://www.linkedin.com/company/llazyemail/',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/LLazyEmail/awesome-email-marketing',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
               label: 'Blog',
               to: '/blog',
-            },
-            {
-              label: 'Services',
-              to: '/docs/more/services',
             },
           ],
         },

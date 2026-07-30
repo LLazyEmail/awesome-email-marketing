@@ -1,26 +1,37 @@
 ---
 sidebar_position: 1
 slug: /
-title: Awesome Email Marketing
-description: "A collection of articles, templates, tools, and many more to build and manage emails."
+title: Overview
+description: Curated email marketing tools, strategy guides, templates, and development resources.
 ---
 
 # Awesome Email Marketing
 
-A collection of articles, templates, tools, and many more to build and manage emails.
+A curated collection of articles, templates, tools, and resources to build and manage emails.
 
-This site organizes the curated [Awesome Email Marketing](https://github.com/LLazyEmail/awesome-email-marketing) list into focused pages.
+Use the sidebar, the **Browse** menu, or search (`Ctrl/⌘ + K`) to find what you need.
+
+## Start here
+
+| If you want to… | Go to |
+| --- | --- |
+| Compare ESPs and platforms | [Best Tools](/docs/tools/best-tools) |
+| Grow a subscriber list | [Building an Email List](/docs/strategy/building-an-email-list) |
+| Improve campaigns | [Lifecycle Emails](/docs/strategy/lifecycle-emails) |
+| Learn HTML email | [Frontend Development](/docs/development/frontend-development) |
+| Fix deliverability | [DNS & DKIM](/docs/operations/dns-dkim) |
+| Measure results | [Newsletter Metrics](/docs/operations/metrics/) |
 
 ## Browse by category
 
-- [Tools & Platforms](/docs/category/tools--platforms) — ESPs, automation, eCommerce tools, open source
-- [Strategy & Growth](/docs/category/strategy--growth) — list building, lifecycle, personalization
-- [Guides & Articles](/docs/category/guides--articles) — blogs, templates, and learning resources
-- [Development](/docs/category/development) — HTML email coding and GitHub projects
-- [Operations & Metrics](/docs/category/operations--metrics) — deliverability, GDPR, SES, measurement
-- [More](/docs/category/more) — transactional email, related awesome lists, and extras
+1. **[Tools & Platforms](/docs/category/tools--platforms)** — ESPs, automation, eCommerce, open source
+2. **[Strategy & Growth](/docs/category/strategy--growth)** — list building, lifecycle, personalization
+3. **[Guides & Articles](/docs/category/guides--articles)** — reading lists, templates, vendor blogs
+4. **[Development](/docs/category/development)** — HTML email coding and GitHub projects
+5. **[Operations & Metrics](/docs/category/operations--metrics)** — GDPR, SES, deliverability, measurement
+6. **[More](/docs/category/more)** — transactional email, services, related lists
 
 ## Community
 
-- [LLazyEmail on LinkedIn](https://www.linkedin.com/company/llazyemail/)
 - [GitHub repository](https://github.com/LLazyEmail/awesome-email-marketing)
+- [LLazyEmail on LinkedIn](https://www.linkedin.com/company/llazyemail/)
