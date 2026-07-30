@@ -1,8 +1,34 @@
 ---
-sidebar_position: 6
-sidebar_label: "Vero Insights"
 title: "Vero Insights"
-description: "Vero Insights resources from Awesome Email Marketing"
+description: "Vero Insights — curated guides resources from the Awesome Email Marketing library."
+keywords:
+  - email marketing guides
+  - articles
+  - guides
+  - vero insights
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Vero Insights"
+sidebar_position: 6
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: guides
+topics:
+  - guides
+audience:
+  - marketers
+seo:
+  title: "Vero Insights | Awesome Email Marketing"
+  description: "Vero Insights — curated guides resources from the Awesome Email Marketing library."
+  robots: index,follow
+  canonical_path: "/docs/guides/vendor-blogs/vero-insights"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Vero Insights

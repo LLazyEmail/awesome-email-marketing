@@ -1,8 +1,34 @@
 ---
-sidebar_position: 11
-sidebar_label: "FAQ"
 title: "FAQ"
 description: "Frequently asked questions about newsletters and email marketing."
+keywords:
+  - email marketing guides
+  - articles
+  - guides
+  - faq
+  - awesome email marketing
+  - email marketing
+sidebar_label: "FAQ"
+sidebar_position: 11
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: guides
+topics:
+  - guides
+audience:
+  - marketers
+seo:
+  title: "FAQ | Awesome Email Marketing"
+  description: "Frequently asked questions about newsletters and email marketing."
+  robots: index,follow
+  canonical_path: "/docs/guides/faq"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Frequently Asked Questions

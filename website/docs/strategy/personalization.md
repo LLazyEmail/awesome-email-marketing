@@ -1,8 +1,35 @@
 ---
-sidebar_position: 5
-sidebar_label: "Personalization"
 title: "Personalization"
-description: "Personalization resources from Awesome Email Marketing"
+description: "Personalization — curated strategy resources from the Awesome Email Marketing library."
+keywords:
+  - email strategy
+  - list building
+  - strategy
+  - personalization
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Personalization"
+sidebar_position: 5
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: strategy
+topics:
+  - strategy
+audience:
+  - marketers
+  - founders
+seo:
+  title: "Personalization | Awesome Email Marketing"
+  description: "Personalization — curated strategy resources from the Awesome Email Marketing library."
+  robots: index,follow
+  canonical_path: "/docs/strategy/personalization"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Personalization

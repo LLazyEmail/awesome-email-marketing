@@ -1,8 +1,34 @@
 ---
-sidebar_position: 7
-sidebar_label: "Zapier Blog"
 title: "Zapier Blog"
-description: "Zapier Blog resources from Awesome Email Marketing"
+description: "Zapier Blog — curated guides resources from the Awesome Email Marketing library."
+keywords:
+  - email marketing guides
+  - articles
+  - guides
+  - zapier blog
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Zapier Blog"
+sidebar_position: 7
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: guides
+topics:
+  - guides
+audience:
+  - marketers
+seo:
+  title: "Zapier Blog | Awesome Email Marketing"
+  description: "Zapier Blog — curated guides resources from the Awesome Email Marketing library."
+  robots: index,follow
+  canonical_path: "/docs/guides/vendor-blogs/zapier"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Zapier Blog

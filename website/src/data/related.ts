@@ -14,10 +14,40 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
     {label: 'Changelog', to: '/docs/changelog'},
   ],
   'tools/best-tools': [
+    {label: 'Newsletter Platforms', to: '/docs/tools/newsletter-platforms'},
+    {label: 'Self-Hosted ESPs', to: '/docs/tools/self-hosted-esp'},
+    {label: 'Email Builders', to: '/docs/tools/email-builders'},
     {label: 'Filter all tools', to: '/explore'},
-    {label: 'Automation Platforms', to: '/docs/tools/automation-platforms'},
+  ],
+  'tools/newsletter-platforms': [
+    {label: 'Best Tools overview', to: '/docs/tools/best-tools'},
+    {label: 'Email Service Providers', to: '/docs/tools/email-service-providers'},
+    {label: 'Filter newsletters', to: '/explore?tag=newsletter'},
+  ],
+  'tools/self-hosted-esp': [
     {label: 'Open Source Tools', to: '/docs/tools/open-source-tools'},
+    {label: 'Amazon SES', to: '/docs/operations/amazon-ses'},
+    {label: 'Filter self-hosted', to: '/explore?tag=self-hosted'},
+  ],
+  'tools/email-builders': [
+    {label: 'Frontend Development', to: '/docs/development/frontend-development'},
+    {label: 'Email Templates guide', to: '/docs/guides/email-templates'},
+    {label: 'Filter templates', to: '/explore?tag=templates'},
+  ],
+  'tools/deliverability-tools': [
+    {label: 'DNS & DKIM', to: '/docs/operations/dns-dkim'},
     {label: 'Email Work Tools', to: '/docs/tools/email-work-tools'},
+    {label: 'Filter deliverability', to: '/explore?tag=deliverability'},
+  ],
+  'tools/growth-automation-tools': [
+    {label: 'Automation Platforms', to: '/docs/tools/automation-platforms'},
+    {label: 'Lifecycle Emails', to: '/docs/strategy/lifecycle-emails'},
+    {label: 'Filter automation', to: '/explore?tag=automation'},
+  ],
+  'tools/email-service-providers': [
+    {label: 'Best Tools overview', to: '/docs/tools/best-tools'},
+    {label: 'Newsletter Platforms', to: '/docs/tools/newsletter-platforms'},
+    {label: 'Filter ESPs', to: '/explore?tag=esp'},
   ],
   'tools/automation-platforms': [
     {label: 'Best Tools', to: '/docs/tools/best-tools'},

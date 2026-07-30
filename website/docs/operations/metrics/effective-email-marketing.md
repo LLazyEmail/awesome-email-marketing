@@ -1,8 +1,35 @@
 ---
-sidebar_position: 9
-sidebar_label: "Effective Email Marketing"
 title: "Effective Email Marketing"
-description: "Effective Email Marketing resources from Awesome Email Marketing"
+description: "Effective Email Marketing — curated operations resources from the Awesome Email Marketing library."
+keywords:
+  - deliverability
+  - email operations
+  - operations
+  - effective email marketing
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Effective Email Marketing"
+sidebar_position: 9
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: operations
+topics:
+  - operations
+audience:
+  - marketers
+  - developers
+seo:
+  title: "Effective Email Marketing | Awesome Email Marketing"
+  description: "Effective Email Marketing — curated operations resources from the Awesome Email Marketing library."
+  robots: index,follow
+  canonical_path: "/docs/operations/metrics/effective-email-marketing"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Effective Email Marketing

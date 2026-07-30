@@ -1,8 +1,35 @@
 ---
-sidebar_position: 10
-sidebar_label: "Cold Email Tips"
 title: "Cold Email Tips"
 description: "Best practices to avoid spam filters and improve cold email deliverability."
+keywords:
+  - email strategy
+  - list building
+  - strategy
+  - cold email tips
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Cold Email Tips"
+sidebar_position: 10
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: strategy
+topics:
+  - strategy
+audience:
+  - marketers
+  - founders
+seo:
+  title: "Cold Email Tips | Awesome Email Marketing"
+  description: "Best practices to avoid spam filters and improve cold email deliverability."
+  robots: index,follow
+  canonical_path: "/docs/strategy/cold-email-tips"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Cold Email Tips

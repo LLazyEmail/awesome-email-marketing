@@ -1,11 +1,12 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-07-30T01:10:13.676Z",
+  "generatedAt": "2026-07-30T03:03:01.759Z",
   "name": "Awesome Email Marketing catalog",
   "homepage": "https://llazyemail.github.io/awesome-email-marketing/",
   "repository": "https://github.com/LLazyEmail/awesome-email-marketing",
   "tags": [
     "automation",
+    "builders",
     "checker",
     "cli",
     "cold-email",
@@ -40,15 +41,25 @@
     {
       "id": "activecampaign",
       "name": "ActiveCampaign",
-      "url": "https://www.activecampaign.com/",
+      "url": "https://activecampaign.com",
       "description": "Drive growth with customer experience automation",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "id": "activecampaign",
+      "name": "ActiveCampaign",
+      "url": "https://www.activecampaign.com/",
+      "description": "is a  software for customer experience automation (CXA), which combines the transactional email, email marketing, marketing automation, sales automation, and CRM categories",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
       "tags": [
         "automation",
-        "esp",
-        "newsletter",
         "transactional"
       ]
     },
@@ -93,24 +104,23 @@
     {
       "id": "autopilot",
       "name": "Autopilot",
-      "url": "https://www.autopilothq.com/",
+      "url": "https://autopilothq.com",
       "description": "brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
-        "esp",
-        "newsletter"
+        "automation"
       ]
     },
     {
       "id": "aweber",
       "name": "AWeber",
-      "url": "https://www.aweber.com",
+      "url": "https://aweber.com",
       "description": "is an email marketing tool that allows you to: create a mailing list and capture data onto it; design newsletters that can be sent to the subscribers on your list; automate your email marketing via use of 'autoresponders' view and analyse statistics related to your email marketing campaigns.",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
         "automation",
         "esp",
@@ -120,24 +130,24 @@
     {
       "id": "bee",
       "name": "BEE",
-      "url": "https://beefree.io/",
+      "url": "https://beefree.io",
       "description": "Create beautiful emails, fast.",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-builders",
+      "sourceFile": "tools/email-builders.md",
       "tags": [
-        "esp",
-        "newsletter"
+        "builders",
+        "templates"
       ]
     },
     {
       "id": "benchmark",
       "name": "BenchMark",
-      "url": "https://www.benchmarkemail.com/",
+      "url": "https://benchmarkemail.com",
       "description": "is a simple email marketing tool for anyone who needs to send personalized email at scale.",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
         "esp",
         "newsletter"
@@ -146,11 +156,11 @@
     {
       "id": "birdsend",
       "name": "BirdSend",
-      "url": "https://birdsend.co/",
+      "url": "https://birdsend.co",
       "description": "Don't waste paying 3-5X more on an expensive email marketing tool",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -187,11 +197,11 @@
     {
       "id": "butondown",
       "name": "Butondown",
-      "url": "https://buttondown.email/",
+      "url": "https://buttondown.email",
       "description": "The easiest way to write/grow/build/launch/share/run/ your newsletter",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -214,15 +224,27 @@
     {
       "id": "campaign-monitor",
       "name": "Campaign Monitor",
-      "url": "https://www.campaignmonitor.com",
+      "url": "https://campaignmonitor.com",
       "description": "is a global technology company that provides an email marketing platform that's easy to use yet extremely powerful",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
-        "ecommerce",
         "esp",
         "newsletter"
+      ]
+    },
+    {
+      "id": "campaign-monitor",
+      "name": "Campaign Monitor",
+      "url": "https://www.campaignmonitor.com/",
+      "description": "",
+      "section": "tools",
+      "sourcePage": "/docs/tools/ecommerce",
+      "sourceFile": "tools/ecommerce.md",
+      "tags": [
+        "ecommerce",
+        "esp"
       ]
     },
     {
@@ -231,36 +253,22 @@
       "url": "https://colorlib.com",
       "description": "is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-builders",
+      "sourceFile": "tools/email-builders.md",
       "tags": [
-        "esp",
-        "newsletter"
+        "builders",
+        "templates"
       ]
     },
     {
       "id": "constant-contact",
       "name": "Constant Contact",
-      "url": "https://www.constantcontact.com",
+      "url": "https://constantcontact.com",
       "description": "effective email marketing and other online marketing campaigns to meet business goals",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
-        "esp",
-        "newsletter"
-      ]
-    },
-    {
-      "id": "converkit",
-      "name": "Converkit",
-      "url": "https://convertkit.com/",
-      "description": "Send automated emailing campaigns",
-      "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
-      "tags": [
-        "automation",
         "esp",
         "newsletter"
       ]
@@ -269,10 +277,10 @@
       "id": "convertkit",
       "name": "ConvertKit",
       "url": "https://convertkit.com",
-      "description": "How ConvertKit helps you as a creator",
+      "description": "is the go-to marketing hub for creators that helps you grow and monetize your audience with ease",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -281,29 +289,37 @@
     {
       "id": "customer-io",
       "name": "Customer.io",
-      "url": "https://customer.io/",
+      "url": "https://customer.io",
       "description": "Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
-        "automation",
-        "esp",
-        "newsletter"
+        "automation"
+      ]
+    },
+    {
+      "id": "dailystory",
+      "name": "DailyStory",
+      "url": "https://dailystory.com",
+      "description": "Simple to use email marketing and more",
+      "section": "tools",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
+      "tags": [
+        "automation"
       ]
     },
     {
       "id": "dailystory",
       "name": "DailyStory",
       "url": "https://www.dailystory.com/",
-      "description": "Simple to use email marketing and more",
+      "description": "is a marketing automation platform built to help you create sales, build loyalty and grow your business. It includes email, SMS marketing, automation and more.",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
       "tags": [
-        "automation",
-        "esp",
-        "newsletter"
+        "automation"
       ]
     },
     {
@@ -466,11 +482,11 @@
     {
       "id": "emailoctopus",
       "name": "EmailOctopus",
-      "url": "https://emailoctopus.com/",
+      "url": "https://emailoctopus.com",
       "description": "Email marketing made easy",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -507,11 +523,11 @@
     {
       "id": "feedotter",
       "name": "Feedotter",
-      "url": "https://www.feedotter.com",
+      "url": "https://feedotter.com",
       "description": "Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "automation",
         "esp",
@@ -521,11 +537,11 @@
     {
       "id": "flodesk",
       "name": "Flodesk",
-      "url": "https://flodesk.com/",
-      "description": "Design emails people love to open",
+      "url": "https://flodesk.com",
+      "description": "a new email marketing service provider that’s built for creators, by creators",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -615,25 +631,22 @@
       "url": "https://friendly.is/automate",
       "description": "The Privacy Friendly Marketing Automation Software",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
-        "automation",
-        "esp",
-        "newsletter"
+        "automation"
       ]
     },
     {
       "id": "froged",
       "name": "Froged",
-      "url": "https://froged.com/",
+      "url": "https://froged.com",
       "description": "Optimize your Customer Experience with One Powerful Product",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
-        "esp",
-        "newsletter"
+        "automation"
       ]
     },
     {
@@ -653,15 +666,26 @@
     {
       "id": "getresponse",
       "name": "Getresponse",
+      "url": "https://getresponse.com",
+      "description": "is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
+      "tags": [
+        "esp",
+        "newsletter"
+      ]
+    },
+    {
+      "id": "getresponse",
+      "name": "GetResponse",
       "url": "https://www.getresponse.com/",
       "description": "is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
       "tags": [
-        "automation",
-        "esp",
-        "newsletter"
+        "automation"
       ]
     },
     {
@@ -723,14 +747,13 @@
     {
       "id": "interspire",
       "name": "Interspire",
-      "url": "https://www.interspire.com/",
+      "url": "https://interspire.com",
       "description": "Self-hosted Email Marketing Software",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/self-hosted-esp",
+      "sourceFile": "tools/self-hosted-esp.md",
       "tags": [
         "esp",
-        "newsletter",
         "open-source",
         "self-hosted"
       ]
@@ -738,29 +761,26 @@
     {
       "id": "jilt",
       "name": "Jilt",
-      "url": "https://jilt.com/",
+      "url": "https://jilt.com",
       "description": "eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
-        "ecommerce",
-        "esp",
-        "newsletter"
+        "automation",
+        "ecommerce"
       ]
     },
     {
       "id": "keap",
       "name": "Keap",
-      "url": "https://keap.com/",
+      "url": "https://keap.com",
       "description": "the all-in-one sales and marketing automation platform designed to help you grow",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
-        "automation",
-        "esp",
-        "newsletter"
+        "automation"
       ]
     },
     {
@@ -807,11 +827,11 @@
     {
       "id": "listmonk",
       "name": "Listmonk",
-      "url": "https://listmonk.app/",
+      "url": "https://listmonk.app",
       "description": "is a standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary. It uses a PostgreSQL (⩾ v9. 4) database as its data store.",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/self-hosted-esp",
+      "sourceFile": "tools/self-hosted-esp.md",
       "tags": [
         "esp",
         "newsletter",
@@ -822,13 +842,13 @@
     {
       "id": "mailbakery",
       "name": "Mailbakery",
-      "url": "https://mailbakery.com/",
+      "url": "https://mailbakery.com",
       "description": "simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-builders",
+      "sourceFile": "tools/email-builders.md",
       "tags": [
-        "esp",
+        "builders",
         "newsletter",
         "templates"
       ]
@@ -836,11 +856,11 @@
     {
       "id": "mailchimp",
       "name": "Mailchimp",
-      "url": "https://mailchimp.com/",
+      "url": "https://mailchimp.com",
       "description": "Free emailing software",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
         "esp",
         "free",
@@ -850,11 +870,11 @@
     {
       "id": "mailerlite",
       "name": "Mailerlite",
-      "url": "https://www.mailerlite.com/pricing",
+      "url": "https://mailerlite.com/pricing",
       "description": "Pricing mailerlite",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -863,11 +883,11 @@
     {
       "id": "mailjet",
       "name": "Mailjet",
-      "url": "https://www.mailjet.com/",
+      "url": "https://mailjet.com",
       "description": "Create and send beautiful emails without touching a single line of code",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
         "esp",
         "newsletter"
@@ -879,8 +899,8 @@
       "url": "https://mailmeteor.com",
       "description": "Send personalized mass emails with the best mail merge in Gmail",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
         "esp",
         "newsletter"
@@ -902,14 +922,16 @@
     {
       "id": "mailster",
       "name": "Mailster",
-      "url": "https://mailster.co/",
+      "url": "https://mailster.co",
       "description": "is an easy to use Email Newsletter Plugin for WordPress",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/self-hosted-esp",
+      "sourceFile": "tools/self-hosted-esp.md",
       "tags": [
         "esp",
-        "newsletter"
+        "newsletter",
+        "open-source",
+        "self-hosted"
       ]
     },
     {
@@ -918,8 +940,8 @@
       "url": "https://github.com/Mailtrain-org/mailtrain",
       "description": "is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/self-hosted-esp",
+      "sourceFile": "tools/self-hosted-esp.md",
       "tags": [
         "esp",
         "github",
@@ -931,28 +953,27 @@
     {
       "id": "mailtrap",
       "name": "Mailtrap",
-      "url": "https://mailtrap.io/",
+      "url": "https://mailtrap.io",
       "description": "is a testing tool and is not designed to deliver emails to real addresses",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/deliverability-tools",
+      "sourceFile": "tools/deliverability-tools.md",
       "tags": [
-        "esp",
-        "newsletter"
+        "checker",
+        "deliverability"
       ]
     },
     {
       "id": "mailwarm",
       "name": "Mailwarm",
-      "url": "https://www.mailwarm.com/",
+      "url": "https://mailwarm.com",
       "description": "Don't land in spam anymore",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/deliverability-tools",
+      "sourceFile": "tools/deliverability-tools.md",
       "tags": [
-        "deliverability",
-        "esp",
-        "newsletter"
+        "checker",
+        "deliverability"
       ]
     },
     {
@@ -972,14 +993,13 @@
     {
       "id": "mailwiz",
       "name": "MailWiz",
-      "url": "https://www.mailwizz.com/",
+      "url": "https://mailwizz.com",
       "description": "Self-hosted Email Marketing Software",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/self-hosted-esp",
+      "sourceFile": "tools/self-hosted-esp.md",
       "tags": [
         "esp",
-        "newsletter",
         "open-source",
         "self-hosted"
       ]
@@ -1113,11 +1133,11 @@
     {
       "id": "nocodeletters",
       "name": "NoCodeLetters",
-      "url": "https://nocodeletters.com/",
+      "url": "https://nocodeletters.com",
       "description": "Send your newsletters directly from Notion",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -1126,16 +1146,14 @@
     {
       "id": "omnisend",
       "name": "Omnisend",
-      "url": "https://www.omnisend.com/",
+      "url": "https://omnisend.com",
       "description": "is an omnichannel marketing automation platform for growth-focused ecommerce businesses",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
         "automation",
-        "ecommerce",
-        "esp",
-        "newsletter"
+        "ecommerce"
       ]
     },
     {
@@ -1170,15 +1188,13 @@
     {
       "id": "palabra",
       "name": "Palabra",
-      "url": "https://palabra.io/",
+      "url": "https://palabra.io",
       "description": "Automate your product-led growth",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
-        "automation",
-        "esp",
-        "newsletter"
+        "automation"
       ]
     },
     {
@@ -1212,28 +1228,29 @@
     {
       "id": "peopcampaigns",
       "name": "Peopcampaigns",
-      "url": "https://pepocampaigns.com/",
+      "url": "https://pepocampaigns.com",
       "description": "the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/self-hosted-esp",
+      "sourceFile": "tools/self-hosted-esp.md",
       "tags": [
         "esp",
-        "newsletter",
+        "open-source",
+        "self-hosted",
         "ses"
       ]
     },
     {
       "id": "postcards",
       "name": "Postcards",
-      "url": "https://designmodo.com/postcards/",
+      "url": "https://designmodo.com/postcards",
       "description": "Create awesome emails with drag & drop simplicity",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-builders",
+      "sourceFile": "tools/email-builders.md",
       "tags": [
-        "esp",
-        "newsletter"
+        "builders",
+        "templates"
       ]
     },
     {
@@ -1371,11 +1388,11 @@
     {
       "id": "revue",
       "name": "Revue",
-      "url": "https://www.getrevue.co/",
+      "url": "https://getrevue.co",
       "description": "Editorial newsletters tool for writers and publishers",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -1387,14 +1404,12 @@
       "url": "https://sales-label.com",
       "description": "White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and built-in deliverability.",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
         "automation",
         "cold-email",
-        "deliverability",
-        "esp",
-        "newsletter"
+        "deliverability"
       ]
     },
     {
@@ -1412,11 +1427,11 @@
     {
       "id": "sendfox",
       "name": "Sendfox",
-      "url": "https://sendfox.com/",
+      "url": "https://sendfox.com",
       "description": "Start a newsletter without money",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -1425,14 +1440,14 @@
     {
       "id": "sendgrid",
       "name": "Sendgrid",
-      "url": "https://sendgrid.com/",
+      "url": "https://sendgrid.com",
       "description": "Email delivery service",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/deliverability-tools",
+      "sourceFile": "tools/deliverability-tools.md",
       "tags": [
-        "esp",
-        "newsletter"
+        "checker",
+        "deliverability"
       ]
     },
     {
@@ -1453,16 +1468,30 @@
     {
       "id": "sendinblue",
       "name": "Sendinblue",
-      "url": "https://www.sendinblue.com",
+      "url": "https://sendinblue.com",
       "description": "is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
         "automation",
         "ecommerce",
         "esp",
         "newsletter",
+        "transactional"
+      ]
+    },
+    {
+      "id": "sendinblue",
+      "name": "Sendinblue",
+      "url": "https://www.sendinblue.com",
+      "description": "is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.",
+      "section": "tools",
+      "sourcePage": "/docs/tools/automation-platforms",
+      "sourceFile": "tools/automation-platforms.md",
+      "tags": [
+        "automation",
+        "ecommerce",
         "transactional"
       ]
     },
@@ -1482,11 +1511,11 @@
     {
       "id": "sendpulse",
       "name": "SendPulse",
-      "url": "https://sendpulse.com/",
+      "url": "https://sendpulse.com",
       "description": "is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
         "esp",
         "newsletter"
@@ -1495,11 +1524,11 @@
     {
       "id": "sendx",
       "name": "SendX",
-      "url": "https://www.sendx.io/",
+      "url": "https://sendx.io",
       "description": "makes it easy to be a responsible email marketer",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-service-providers",
+      "sourceFile": "tools/email-service-providers.md",
       "tags": [
         "esp",
         "newsletter"
@@ -1508,11 +1537,11 @@
     {
       "id": "sendy",
       "name": "Sendy",
-      "url": "https://sendy.co/",
-      "description": "Send newsletters, 100x cheaper",
+      "url": "https://sendy.co",
+      "description": "is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/self-hosted-esp",
+      "sourceFile": "tools/self-hosted-esp.md",
       "tags": [
         "esp",
         "newsletter",
@@ -1566,39 +1595,37 @@
     {
       "id": "sparkpost",
       "name": "Sparkpost",
-      "url": "https://www.sparkpost.com/",
+      "url": "https://sparkpost.com",
       "description": "is the world’s first and only predictive email intelligence platform",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/deliverability-tools",
+      "sourceFile": "tools/deliverability-tools.md",
       "tags": [
-        "esp",
-        "newsletter"
+        "checker",
+        "deliverability"
       ]
     },
     {
       "id": "stripo",
       "name": "Stripo",
-      "url": "https://stripo.email/fr/",
-      "description": "Free email template builder",
+      "url": "https://stripo.email/fr",
+      "description": "Plateforme de conception d'e-mails",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/email-builders",
+      "sourceFile": "tools/email-builders.md",
       "tags": [
-        "esp",
-        "free",
-        "newsletter",
+        "builders",
         "templates"
       ]
     },
     {
       "id": "substack",
       "name": "Substack",
-      "url": "https://substack.com/",
+      "url": "https://substack.com",
       "description": "Paid newsletters made simple",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -1623,8 +1650,8 @@
       "url": "https://tinyletter.com",
       "description": "Email for people with something to say",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"
@@ -1648,24 +1675,23 @@
     {
       "id": "undersend",
       "name": "UnderSend",
-      "url": "https://undersend.com/",
+      "url": "https://undersend.com",
       "description": "Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/growth-automation-tools",
+      "sourceFile": "tools/growth-automation-tools.md",
       "tags": [
-        "esp",
-        "newsletter"
+        "automation"
       ]
     },
     {
       "id": "upscribe",
       "name": "Upscribe",
-      "url": "https://www.upscribe.net/",
+      "url": "https://upscribe.net",
       "description": "Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing & Sequences Tool. No more battling with your email newsletter tool…",
       "section": "tools",
-      "sourcePage": "/docs/tools/best-tools",
-      "sourceFile": "tools/best-tools.md",
+      "sourcePage": "/docs/tools/newsletter-platforms",
+      "sourceFile": "tools/newsletter-platforms.md",
       "tags": [
         "esp",
         "newsletter"

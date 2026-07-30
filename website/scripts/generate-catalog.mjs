@@ -12,9 +12,39 @@ const docsRoot = path.join(websiteRoot, 'docs');
 
 const SOURCES = [
   {
-    file: 'tools/best-tools.md',
+    file: 'tools/newsletter-platforms.md',
     section: 'tools',
-    page: '/docs/tools/best-tools',
+    page: '/docs/tools/newsletter-platforms',
+    baseTags: ['newsletter', 'esp'],
+  },
+  {
+    file: 'tools/self-hosted-esp.md',
+    section: 'tools',
+    page: '/docs/tools/self-hosted-esp',
+    baseTags: ['self-hosted', 'esp', 'open-source'],
+  },
+  {
+    file: 'tools/email-builders.md',
+    section: 'tools',
+    page: '/docs/tools/email-builders',
+    baseTags: ['templates', 'builders'],
+  },
+  {
+    file: 'tools/deliverability-tools.md',
+    section: 'tools',
+    page: '/docs/tools/deliverability-tools',
+    baseTags: ['deliverability', 'checker'],
+  },
+  {
+    file: 'tools/growth-automation-tools.md',
+    section: 'tools',
+    page: '/docs/tools/growth-automation-tools',
+    baseTags: ['automation'],
+  },
+  {
+    file: 'tools/email-service-providers.md',
+    section: 'tools',
+    page: '/docs/tools/email-service-providers',
     baseTags: ['esp', 'newsletter'],
   },
   {

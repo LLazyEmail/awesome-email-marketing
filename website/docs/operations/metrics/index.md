@@ -1,8 +1,35 @@
 ---
+title: "Newsletter Metrics"
+description: "How to measure newsletter and email marketing performance."
+keywords:
+  - deliverability
+  - email operations
+  - operations
+  - newsletter metrics
+  - awesome email marketing
+  - email marketing
+sidebar_label: "Overview"
 sidebar_position: 1
-sidebar_label: Overview
-title: Newsletter Metrics
-description: How to measure newsletter and email marketing performance.
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: operations
+topics:
+  - operations
+audience:
+  - marketers
+  - developers
+seo:
+  title: "Newsletter Metrics | Awesome Email Marketing"
+  description: "How to measure newsletter and email marketing performance."
+  robots: index,follow
+  canonical_path: "/docs/operations/metrics/index"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # Newsletter Metrics

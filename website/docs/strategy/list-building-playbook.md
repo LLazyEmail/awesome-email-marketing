@@ -1,8 +1,35 @@
 ---
-sidebar_position: 9
-sidebar_label: "List Building Playbook"
 title: "List Building Playbook"
 description: "Practical steps and features to consider when building and growing an email list."
+keywords:
+  - email strategy
+  - list building
+  - strategy
+  - list building playbook
+  - awesome email marketing
+  - email marketing
+sidebar_label: "List Building Playbook"
+sidebar_position: 9
+image: img/docusaurus-social-card.jpg
+hide_title: false
+hide_table_of_contents: false
+toc_min_heading_level: 2
+toc_max_heading_level: 3
+draft: false
+unlisted: false
+category: strategy
+topics:
+  - strategy
+audience:
+  - marketers
+  - founders
+seo:
+  title: "List Building Playbook | Awesome Email Marketing"
+  description: "Practical steps and features to consider when building and growing an email list."
+  robots: index,follow
+  canonical_path: "/docs/strategy/list-building-playbook"
+  og_type: article
+  twitter_card: summary_large_image
 ---
 
 # List Building Playbook
