@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Use Helvetica Neue with Eightshift-like typography",
+    "items": [
+      "Merged pull request #233",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/233"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Auto-generated All Docs Pages index + GitHub Action",
     "items": [
       "Merged pull request #232",

@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Use Helvetica Neue with Eightshift-like typography ([#233](https://github.com/LLazyEmail/awesome-email-marketing/pull/233))
 - Auto-generated All Docs Pages index + GitHub Action ([#232](https://github.com/LLazyEmail/awesome-email-marketing/pull/232))
 - Docs IA polish: H2s, Explore filters, nested sidebar, CI link check ([#231](https://github.com/LLazyEmail/awesome-email-marketing/pull/231))
 - Split GitHub Repos + refine Transactional Emails (#221) ([#230](https://github.com/LLazyEmail/awesome-email-marketing/pull/230))
