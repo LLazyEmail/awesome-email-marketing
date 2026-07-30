@@ -1,6 +1,22 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Split GitHub Repos + refine Transactional Emails (#221)",
+    "items": [
+      "Merged pull request #230",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/230"
+    ]
+  },
+  {
+    "date": "2026-07-30",
+    "title": "Split GitHub Repositories and refine Transactional Emails",
+    "items": [
+      "Merged pull request #221",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/221"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Apply #223: LLM/docs plugins for copy, llms.txt, and AgentReady",
     "items": [
       "Merged pull request #229",
