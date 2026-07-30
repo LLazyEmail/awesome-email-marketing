@@ -17,6 +17,7 @@ Useful commands:
 - `npm start` — local development server
 - `npm run build` — production build
 - `npm run serve` — serve the production build locally
+- `npm run lint:docs-links` — fail if a docs page has >20 links without ≥2 `##` sections
 
 ## Search
 
@@ -61,7 +62,7 @@ Uses the [`auto-changelog`](https://www.npmjs.com/package/auto-changelog) npm pa
 
 GitHub Actions workflows live in [`.github/workflows/`](../.github/workflows):
 
-- `test-deploy.yml` — builds the site on pull requests
+- `test-deploy.yml` — runs `lint:docs-links` then builds the site on pull requests
 - `deploy.yml` — builds and deploys to GitHub Pages on pushes to `main`
 - `changelog.yml` — regenerates `CHANGELOG.md` and the docs changelog after each merged PR to `main`
 

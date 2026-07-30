@@ -7,6 +7,7 @@
     "generate:api": "node ./scripts/generate-catalog.mjs",
     "generate:changelog": "node ./scripts/generate-changelog.mjs",
     "changelog": "npm run generate:changelog",
+    "lint:docs-links": "node ./scripts/check-docs-link-count.mjs",
     "prestart": "npm run generate:api",
     "start": "docusaurus start",
     "prebuild": "npm run generate:api",

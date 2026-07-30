@@ -50,4 +50,4 @@ Curated newsletter and creator email platforms for writers, publishers, and audi
 - [TinyLetter](https://tinyletter.com) - Email for people with something to say
 - [Upscribe](https://upscribe.net) - Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing & Sequences Tool. No more battling with your email newsletter tool…
 
-Browse with tags on [Explore](/explore).
+Browse with tags on [Explore → newsletter](/explore?tag=newsletter) or [esp](/explore?tag=esp).

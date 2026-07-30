@@ -50,7 +50,7 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
     {label: 'Filter ESPs', to: '/explore?tag=esp'},
   ],
   'tools/automation-platforms': [
-    {label: 'Best Tools', to: '/docs/tools/best-tools'},
+    {label: 'Growth & Automation Tools', to: '/docs/tools/growth-automation-tools'},
     {label: 'Lifecycle Emails', to: '/docs/strategy/lifecycle-emails'},
     {label: 'Transactional Emails', to: '/docs/more/transactional-emails'},
     {label: 'Filter by automation', to: '/explore?tag=automation'},
@@ -84,6 +84,19 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
     {label: 'Personalization', to: '/docs/strategy/personalization'},
     {label: 'Transactional Emails', to: '/docs/more/transactional-emails'},
     {label: 'Automation Platforms', to: '/docs/tools/automation-platforms'},
+    {label: 'Filter automation', to: '/explore?tag=automation'},
+  ],
+  'strategy/lead-generation': [
+    {label: 'Opt-in Tactics', to: '/docs/strategy/opt-in-tactics'},
+    {label: 'List Building Playbook', to: '/docs/strategy/list-building-playbook'},
+    {label: 'Demand Curve Tactics', to: '/docs/guides/demand-curve'},
+    {label: 'Filter newsletters', to: '/explore?tag=newsletter'},
+  ],
+  'guides/demand-curve': [
+    {label: 'Lead Generation', to: '/docs/strategy/lead-generation'},
+    {label: 'Building an Email List', to: '/docs/strategy/building-an-email-list'},
+    {label: 'Newsletter Platforms', to: '/docs/tools/newsletter-platforms'},
+    {label: 'Filter newsletters', to: '/explore?tag=newsletter'},
   ],
   'strategy/cold-email-tips': [
     {label: 'DNS & DKIM', to: '/docs/operations/dns-dkim'},

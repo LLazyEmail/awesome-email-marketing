@@ -51,13 +51,15 @@ A curated directory of email marketing tools. The old single list was hard to sc
 - [eCommerce email tools](./ecommerce)
 - [Automation platforms](./automation-platforms)
 - [Open source tools](./open-source-tools)
-- [Filter everything on Explore](/explore)
+- Explore filters: [esp](/explore?tag=esp) · [self-hosted](/explore?tag=self-hosted) · [templates](/explore?tag=templates) · [automation](/explore?tag=automation) · [newsletter](/explore?tag=newsletter)
 
 ## Popular starting points
 
-- [Substack](https://substack.com/) - Paid newsletters made simple
-- [Mailchimp](https://mailchimp.com/) - Free emailing software
-- [ConvertKit](https://convertkit.com) - Marketing hub for creators
-- [Listmonk](https://listmonk.app/) - Fast self-hosted newsletter manager
-- [BEE](https://beefree.io/) - Create beautiful emails, fast
-- [Customer.io](https://customer.io/) - Targeted messaging workflows
+Teasers only — full entries live on the category pages above (not a second catalog).
+
+- [Substack](https://substack.com/) - Paid newsletters made simple → [Newsletter Platforms](./newsletter-platforms)
+- [Mailchimp](https://mailchimp.com/) - Free emailing software → [Email Service Providers](./email-service-providers)
+- [ConvertKit](https://convertkit.com) - Marketing hub for creators → [Newsletter Platforms](./newsletter-platforms)
+- [Listmonk](https://listmonk.app/) - Fast self-hosted newsletter manager → [Self-Hosted ESPs](./self-hosted-esp)
+- [BEE](https://beefree.io/) - Create beautiful emails, fast → [Email Builders](./email-builders)
+- [Customer.io](https://customer.io/) - Targeted messaging workflows → [Growth & Automation](./growth-automation-tools)

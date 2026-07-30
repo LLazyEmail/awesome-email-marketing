@@ -22,9 +22,16 @@ Docs site: [`website/`](./website/). Project history: [`CHANGELOG.md`](./CHANGEL
 - [Building an email list](#building-an-email-list)
 - [Data Driven Email Marketing](#data-driven-email-marketing)
 - [Lifecycle of](#lifecycle-of)
+    - [Getting started & definitions](#getting-started--definitions)
+    - [Guides & best practices](#guides--best-practices-1)
+    - [Campaign playbooks & examples](#campaign-playbooks--examples)
+    - [Ecommerce & retail](#ecommerce--retail)
 - [Personalization and slides](#personalization-and-slides)
 - [Read and use later](#read-and-use-later)
 - [Newsletters lead generation](#newsletters-lead-generation)
+    - [Newsletter-led lead gen](#newsletter-led-lead-gen)
+    - [Opt-in & checklists](#opt-in--checklists)
+    - [Broader lead strategies](#broader-lead-strategies)
 - [Blogs](#blogs)
 - [Resources which give answers about importance e-mail in your business](#resources-which-give-answers-about-importance-e-mail-in-your-business)
 - [Demand Curve: Tested tactics for growing newsletters](#demand-curve-tested-tactics-for-growing-newsletters)
@@ -70,6 +77,8 @@ Docs site: [`website/`](./website/). Project history: [`CHANGELOG.md`](./CHANGEL
 ## Best Email Marketing Tools
 
 A curated directory of email marketing tools, grouped for easier navigation. Full docs live in [`website/docs/tools/`](./website/docs/tools/).
+
+Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/explore?tag=esp) · [self-hosted](https://llazyemail.github.io/awesome-email-marketing/explore?tag=self-hosted) · [templates](https://llazyemail.github.io/awesome-email-marketing/explore?tag=templates) · [automation](https://llazyemail.github.io/awesome-email-marketing/explore?tag=automation) · [newsletter](https://llazyemail.github.io/awesome-email-marketing/explore?tag=newsletter) · [transactional](https://llazyemail.github.io/awesome-email-marketing/explore?tag=transactional).
 
 ### Newsletter Platforms
 
@@ -151,21 +160,31 @@ A curated directory of email marketing tools, grouped for easier navigation. Ful
 
 ## Automation Email Marketing platform
 
-- [Sequenzy](https://sequenzy.com/) - lifecycle email marketing and transactional email workflows for SaaS and product teams, with an agent skill for campaign and sequence operations
-- [Aritic](https://aritic.com/) - is a full-stack automation platform. It includes marketing automation, communication automation, CRM application, service desk application and business automation stack designed for B2B companies
-- [ActiveCampaign](https://www.activecampaign.com/) - is a  software for customer experience automation (CXA), which combines the transactional email, email marketing, marketing automation, sales automation, and CRM categories
-- [DailyStory](https://www.dailystory.com/) - is a marketing automation platform built to help you create sales, build loyalty and grow your business. It includes email, SMS marketing, automation and more.
-- [Sendinblue](www.sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
-- [Drip](https://www.drip.com/) - the automated marketing tools, insights, and savvy to turn shopping experiences into useful data streams, emails into earnings, and popups into cha-chings
-- [GetResponse](https://www.getresponse.com/) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
-- [Automizy](https://automizy.com/) - is an email marketing software platform that helps marketers improve their open rate through its different features
-- [Sender](https://www.sender.net/) - empowers to quickly and easily keep in touch with your customers and grow your business - while spending much less
-- [MailPoet](www.mailpoet.com) - is an one-stop email solution for wordPress and woocommerce website
-- [Elastic Email](https://elasticemail.com/) - is an email delivery service for transactional emailing
-- [Woodpecker](woodpecker.co) - uses to get emails delivered to main inbox & get more sales opportunities
-- [Wraps](https://wraps.dev) - Email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure.
-- [Zoho Campaigns](https://www.zoho.com/campaigns/) - is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them
-- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine available as a CLI. Source 450M+ contacts, run email and LinkedIn campaigns, manage conversations. JSON output, agent-native. Install via `npm i -g overloop-cli`.
+Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automation-platforms.md). Explore: [/explore?tag=automation](https://llazyemail.github.io/awesome-email-marketing/explore?tag=automation).
+
+### All-in-one automation & CRM
+
+- [ActiveCampaign](https://www.activecampaign.com/) - customer experience automation combining transactional email, marketing automation, sales automation, and CRM
+- [Aritic](https://aritic.com/) - full-stack automation for B2B (marketing, CRM, service desk)
+- [DailyStory](https://www.dailystory.com/) - marketing automation with email, SMS, and loyalty workflows
+- [Sendinblue](https://www.sendinblue.com) - all-in-one digital marketing with transactional messaging and automation
+- [GetResponse](https://www.getresponse.com/) - email marketing platform for lists, relationships, and campaigns
+- [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing platform for leads and contacts
+
+### Ecommerce & product-led
+
+- [Sequenzy](https://sequenzy.com/) - lifecycle and transactional workflows for SaaS/product teams
+- [Drip](https://www.drip.com/) - ecommerce automation and personalized campaigns
+- [Automizy](https://automizy.com/) - email marketing software focused on improving open rates
+- [Sender](https://www.sender.net/) - keep in touch with customers and grow with less spend
+- [MailPoet](https://www.mailpoet.com) - email solution for WordPress and WooCommerce
+
+### Delivery, outbound & infrastructure-owned
+
+- [Elastic Email](https://elasticemail.com/) - email delivery for transactional sending
+- [Woodpecker](https://woodpecker.co) - outbound email deliverability and sales opportunities
+- [Wraps](https://wraps.dev) - automations/templates/broadcasts sending through your AWS
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine as a CLI (`npm i -g overloop-cli`)
 
 ## Tools for effective work with emails
 
@@ -214,22 +233,35 @@ Order is :
 
 ## Lifecycle of
 
-- [Lifecycle Emails: Getting Started](https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/#:~:text=Lifecycle%20emails%20are%20data%2Ddriven,at%20exactly%20the%20right%20time.&text=That's%20customer%20lifecycle%20email%20marketing%20in%20a%20nutshell). 
-- [Effective Lifecycle Email Marketing [Best Practices and Examples]](https://sendpulse.com/blog/lifecycle-email-marketing) 
-- [10 examples using email for lifecycle marketing](https://www.campaignmonitor.com/blog/email-marketing/10-examples-using-email-for-lifecycle-marketing/) 
-- [Why You Need to Get a Life(cycle) Email Marketing Program](https://contentmarketinginstitute.com/2019/10/lifecycle-email-marketing/) 
-- [Your Email Marketing Channel Should Be Driving 25-40% of Ecommerce Revenue: Learn How to Improve Your Strategy](https://www.bigcommerce.com/blog/effective-email-marketing/) 
-- [How to Implement Lifecycle Email Marketing Campaigns](https://www.benchmarkemail.com/blog/lifecycle-email-marketing-campaigns/) 
-- [Why savvy email marketers use lifecycle emails](https://jilt.com/blog/lifecycle-email-marketing/) 
-- [7 Must-Have Lifecycle Email Campaigns to Grow Your Business](https://customer.io/blog/product-lifecycle-email/) 
-- [The Ultimate Lifecycle Email Marketing Guide](https://www.getvero.com/resources/guides/lifecycle-marketing/) 
+Docs: [`website/docs/strategy/lifecycle-emails.md`](./website/docs/strategy/lifecycle-emails.md). Explore: [/explore?tag=automation](https://llazyemail.github.io/awesome-email-marketing/explore?tag=automation).
+
+### Getting started & definitions
+
+- [Lifecycle Emails: Getting Started](https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/)
+- [What is customer lifecycle marketing?](https://www.smartinsights.com/ecommerce/web-personalisation/what-is-lifecycle-marketing/)
+- [Why You Need to Get a Life(cycle) Email Marketing Program](https://contentmarketinginstitute.com/2019/10/lifecycle-email-marketing/)
+- [Why savvy email marketers use lifecycle emails](https://jilt.com/blog/lifecycle-email-marketing/)
+
+### Guides & best practices
+
+- [Effective Lifecycle Email Marketing [Best Practices and Examples]](https://sendpulse.com/blog/lifecycle-email-marketing)
+- [How to Implement Lifecycle Email Marketing Campaigns](https://www.benchmarkemail.com/blog/lifecycle-email-marketing-campaigns/)
+- [The Ultimate Lifecycle Email Marketing Guide](https://www.getvero.com/resources/guides/lifecycle-marketing/)
 - [Guide: All You Need to Know About Lifecycle Email Marketing](https://chamaileon.io/resources/lifecycle-email-marketing/)
 - [The Anatomy of a Perfect Lifecycle Email](https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/)
-- [Lifecycle Email Marketing for E-commerce and D2C Brands](https://www.mailmodo.com/guides/lifecycle-email-marketing/)
-- [What is customer lifecycle marketing?](https://www.smartinsights.com/ecommerce/web-personalisation/what-is-lifecycle-marketing/)
+- [LIFECYCLE EMAIL MARKETING: THE ULTIMATE GUIDE (WITH 250 EXAMPLES)](https://chainlinkmarketing.com/lifecycle-email-marketing/)
+
+### Campaign playbooks & examples
+
+- [10 examples using email for lifecycle marketing](https://www.campaignmonitor.com/blog/email-marketing/10-examples-using-email-for-lifecycle-marketing/)
+- [7 Must-Have Lifecycle Email Campaigns to Grow Your Business](https://customer.io/blog/product-lifecycle-email/)
 - [5 Must-Have Email Lifecycle Campaigns and How to Build Them](https://www.mailcharts.com/blog/lifecycle-campaigns)
 - [Customer Lifecycle Marketing](https://www.optimove.com/resources/learning-center/customer-lifecycle-marketing)
-- [LIFECYCLE EMAIL MARKETING: THE ULTIMATE GUIDE (WITH 250 EXAMPLES)](https://chainlinkmarketing.com/lifecycle-email-marketing/)
+
+### Ecommerce & retail
+
+- [Your Email Marketing Channel Should Be Driving 25-40% of Ecommerce Revenue](https://www.bigcommerce.com/blog/effective-email-marketing/)
+- [Lifecycle Email Marketing for E-commerce and D2C Brands](https://www.mailmodo.com/guides/lifecycle-email-marketing/)
 - [9 Must-Have Lifecycle Email Marketing Programs for Retailers](https://iterable.com/blog/9-must-have-lifecycle-email-marketing-programs-for-retailers/)
 
 ## Personalization and slides
@@ -256,17 +288,27 @@ Order is :
 
 ## Newsletters lead generation
 
-- [Lead generation – How to collect leads for the newsletter](https://marketingplatform.com/resources/lead-generation-how-to-collect-leads-for-the-newsletter/) 
-- [How to create a newsletter that generates leads](https://rachelandreago.com/newsletter-lead-generation/) 
-- [6 Tricks to Turn Your Email Newsletter into a Lead-Generation Machine](https://www.smartbugmedia.com/blog/newsletter-lead-generation) 
-- [Generate leads email newsletter](https://www.benchmarkone.com/blog/generate-leads-email-newsletter/) 
-- [Email Newsletter Checklist To Get Everything Right](https://moosend.com/resource/newsletter-checklist/) 
-- [Single Opt-In vs Double Opt-In: Which Is The Best Opt-in Process?](https://moosend.com/resource/email-optin-process/) 
-- [Lead generation strategies: What you need to know](https://www.getvero.com/resources/lead-generation-strategies/)
+Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-generation.md). Explore: [/explore?tag=newsletter](https://llazyemail.github.io/awesome-email-marketing/explore?tag=newsletter).
+
+### Newsletter-led lead gen
+
+- [Lead generation – How to collect leads for the newsletter](https://marketingplatform.com/resources/lead-generation-how-to-collect-leads-for-the-newsletter/)
+- [How to create a newsletter that generates leads](https://rachelandreago.com/newsletter-lead-generation/)
+- [6 Tricks to Turn Your Email Newsletter into a Lead-Generation Machine](https://www.smartbugmedia.com/blog/newsletter-lead-generation)
+- [Generate leads email newsletter](https://www.benchmarkone.com/blog/generate-leads-email-newsletter/)
 - [The best way to generate leads using email newsletter advertising](https://www.thedrum.com/industryinsights/2022/05/11/the-best-way-generate-leads-using-email-newsletter-advertising)
 - [How to generate more leads with a Monthly Newsletter](https://leadsbridge.com/blog/how-to-generate-more-leads-with-a-monthly-newsletter/)
-- [12 Creative Lead Generation Strategies for Your Business](https://www.wix.com/blog/amp/2019/10/lead-generation-strategies?utm_source=google&utm_medium=cpc&utm_campaign=13708482660^124757113592&experiment_id=^^530755701287^^_DSA&gclid=Cj0KCQjwxIOXBhCrARIsAL1QFCZGTXqgzInNLgx5J1JS54qmoWlhlzsdkdnlsVc3zmWnjgOp18MsqGkaAkBWEALw_wcB)
 - [4 ways to generate leads with newsletters](https://www.randallreilly.com/4-ways-to-generate-leads-with-newsletters/)
+
+### Opt-in & checklists
+
+- [Email Newsletter Checklist To Get Everything Right](https://moosend.com/resource/newsletter-checklist/)
+- [Single Opt-In vs Double Opt-In: Which Is The Best Opt-in Process?](https://moosend.com/resource/email-optin-process/)
+
+### Broader lead strategies
+
+- [Lead generation strategies: What you need to know](https://www.getvero.com/resources/lead-generation-strategies/)
+- [12 Creative Lead Generation Strategies for Your Business](https://www.wix.com/blog/amp/2019/10/lead-generation-strategies)
 - [How to Generate High-Quality Leads Using Automation](https://www.leadfeeder.com/blog/how-to-generate-leads-automation/)
 - [7 Lead Generation Strategies that Work for Startups](https://www.wordstream.com/blog/ws/2014/10/15/lead-generation-strategies)
 
@@ -292,20 +334,30 @@ Order is :
 
 ### Demand Curve: Tested tactics for growing newsletters
 
-- [How to Send Newsletters On Demand](https://blog.feedly.com/how-to-send-newsletters-on-demand/)
-- [Demand curve tested tactics for growing newsletters](https://techcrunch.com/2021/08/03/demand-curve-tested-tactics-for-growing-newsletters/) 
-- [On demand newsletters](http://www.tlehs.com/on-demand-newsletters) 
+Docs: [`website/docs/guides/demand-curve.md`](./website/docs/guides/demand-curve.md). Explore: [/explore?tag=newsletter](https://llazyemail.github.io/awesome-email-marketing/explore?tag=newsletter).
+
+#### Demand Curve & conversion tactics
+
+- [Demand curve tested tactics for growing newsletters](https://techcrunch.com/2021/08/03/demand-curve-tested-tactics-for-growing-newsletters/)
+- [Demand Curve: Email marketing tactics that convert subscribers into customers](https://techcrunch.com/2021/06/28/demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers/)
 - [Advanced marketing insights. By email](https://www.demandcurve.com/newsletter#oktgfxnrwma0uvcsjkaw)
-- [Deliver 100% personalized news and targeted newsletters to your partners – based on their preferences](https://www.impartner.com/news-on-demand/) 
-- [Top-Level Advice and Guidance from Experts in IT and Cyber Security—at no cost to you](https://www.it-on-demand.com/free-stuff/newsletters/) 
-- [Top 10 Supply Chain Newsletters](https://supplychaindigital.com/top10/top-10-supply-chain-newsletters) 
-- [Demand Curve: Email marketing tactics that convert subscribers into customers](https://techcrunch.com/2021/06/28/demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers/) 
-- [Creating Demand With Email Newsletters](https://ezinearticles.com/?Creating-Demand-With-Email-Newsletters&id=17354) 
-- [Email newsletters: start, improve, reap](https://www.zembr.co/blog-archive/email-newsletters-start-improve-reap) 
-- [94% Of Marketers Cite Email As Integral For Pandemic & Post-Pandemic Success](https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/) 
-- [The Future of Email in 2020 and Beyond: The Email Marketing Trends That Will Really Matter](https://www.litmus.com/blog/infographic-5-email-marketing-trends-2020/)
+- [Creating Demand With Email Newsletters](https://ezinearticles.com/?Creating-Demand-With-Email-Newsletters&id=17354)
+- [Email newsletters: start, improve, reap](https://www.zembr.co/blog-archive/email-newsletters-start-improve-reap)
+
+#### On-demand & partner newsletters
+
+- [How to Send Newsletters On Demand](https://blog.feedly.com/how-to-send-newsletters-on-demand/)
+- [On demand newsletters](http://www.tlehs.com/on-demand-newsletters)
+- [Deliver personalized news and targeted newsletters based on preferences](https://www.impartner.com/news-on-demand/)
 - [Partnerdemand newsletters](https://www.partnerdemand.com/hpi/newsletters)
-- [63% of Marketers to Use Email Newsletters to Enhance First-Party Data](https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/) 
+- [IT/Cyber security expert newsletters](https://www.it-on-demand.com/free-stuff/newsletters/)
+- [Top 10 Supply Chain Newsletters](https://supplychaindigital.com/top10/top-10-supply-chain-newsletters)
+
+#### Industry signals & trends
+
+- [94% Of Marketers Cite Email As Integral For Pandemic & Post-Pandemic Success](https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/)
+- [The Future of Email in 2020 and Beyond](https://www.litmus.com/blog/infographic-5-email-marketing-trends-2020/)
+- [63% of Marketers to Use Email Newsletters to Enhance First-Party Data](https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/)
 
 ### Email templates
 
@@ -370,7 +422,7 @@ Order is :
 
 ### Frontend Development
 
-Resources for building HTML emails — tutorials stay separate from template collections. Docs: [`website/docs/development/`](./website/docs/development/).
+Resources for building HTML emails — tutorials, templates, and coding references. Docs: [`website/docs/development/`](./website/docs/development/). Explore: [/explore?tag=templates](https://llazyemail.github.io/awesome-email-marketing/explore?tag=templates).
 
 #### Articles & Tutorials
 
@@ -392,6 +444,8 @@ Resources for building HTML emails — tutorials stay separate from template col
 
 #### HTML Email Templates
 
+##### Template collections & galleries
+
 - [Responsive Email Templates](https://zurb.com/playground/responsive-email-templates)
 - [Free HTML Email Templates](https://github.com/designmodo/html-email-templates)
 - [Responsive Email](https://github.com/derekpunsalan/responsive-email)
@@ -399,6 +453,9 @@ Resources for building HTML emails — tutorials stay separate from template col
 - [Really Good Emails](https://reallygoodemails.com/)
 - [Benchmark Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
 - [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
+
+##### Visual builders
+
 - [Unlayer](https://unlayer.com) — create beautiful emails easily
 - [Postcards](https://designmodo.com/postcards/) — intuitive email builder for teams and individuals
 
@@ -424,10 +481,7 @@ Canonical open-source repositories for building and running email. Docs: [`websi
 - [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates)
 - [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates)
 
-Tutorials (related):
-
-- [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
-- [Add CSS to the head section of an email template](https://knowledge.hubspot.com/email/can-i-add-css-to-the-head-section-of-my-email-templates)
+Coding tutorials live under [Frontend Development → Articles & Tutorials](#articles--tutorials) (not duplicated here).
 
 ### Frameworks & compilers
 
