@@ -7,21 +7,20 @@
   display: grid;
   gap: 0.85rem;
   padding: 1rem 1.15rem;
-  border: 1px solid var(--primary-neutral-200, var(--ifm-color-emphasis-200));
-  border-radius: 12px;
-  background: var(--sidebar-bg-color, var(--ifm-background-surface-color));
-  box-shadow: var(--soft-shadow, none);
+  border: 1px solid var(--color-gray-12, var(--ifm-color-emphasis-200));
+  border-radius: 0.5rem;
+  background: var(--color-gray-4, var(--ifm-background-surface-color));
+  box-shadow: var(--ifm-global-shadow-lw, none);
 }
 
 .searchInput {
   width: 100%;
   padding: 0.7rem 0.85rem;
-  border: 1px solid var(--primary-neutral-200, var(--ifm-color-emphasis-300));
-  border-radius: 999px;
+  border: 1px solid var(--color-gray-16, var(--ifm-color-emphasis-300));
+  border-radius: 0.25rem;
   font: inherit;
-  background: var(--base-neutral-0, var(--ifm-background-color));
+  background: var(--color-gray-0, var(--ifm-background-color));
   color: var(--ifm-font-color-base);
-  box-shadow: var(--soft-shadow, none);
 }
 
 .tagRow {
@@ -31,10 +30,10 @@
 }
 
 .tagButton {
-  border: 1px solid var(--ifm-color-emphasis-300);
+  border: 1px solid var(--color-gray-16, var(--ifm-color-emphasis-300));
   background: transparent;
   color: inherit;
-  border-radius: 999px;
+  border-radius: 0.25rem;
   padding: 0.28rem 0.7rem;
   font-size: 0.85rem;
   cursor: pointer;
@@ -75,9 +74,10 @@
   display: grid;
   gap: 0.45rem;
   padding: 1rem 1.1rem;
-  border: 1px solid var(--primary-neutral-200, var(--ifm-color-emphasis-200));
-  border-radius: 12px;
-  background: var(--main-bg-color, transparent);
+  border: 1px solid var(--color-gray-12, var(--ifm-color-emphasis-200));
+  border-radius: 0.5rem;
+  background: var(--color-gray-0, transparent);
+  box-shadow: var(--ifm-global-shadow-lw, none);
 }
 
 .cardHeader {

@@ -1,0 +1,24 @@
+/**
+ * Ported from hasura/graphql-engine docs/src/css/footer.scss
+ */
+
+.footer__links {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.footer__links .footer__title {
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+}
+
+.footer__links .footer__item {
+  padding: 0.625rem 0;
+}
+
+.footer__link-item {
+  text-transform: none;
+  font-weight: 400;
+  font-size: 0.9rem;
+}

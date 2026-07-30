@@ -1,0 +1,272 @@
+/**
+ * Ported from hasura/graphql-engine docs/src/css/doc.scss
+ */
+
+.theme-doc-breadcrumbs .breadcrumbs .breadcrumbs__item {
+  --ifm-breadcrumb-padding-horizontal: 0;
+}
+
+.theme-doc-breadcrumbs .breadcrumbs .breadcrumbs__item:first-child {
+  display: none;
+}
+
+.theme-doc-breadcrumbs .breadcrumbs .breadcrumbs__item .breadcrumbs__link {
+  background-color: transparent;
+}
+
+.markdown {
+  --ifm-h1-vertical-rhythm-top: 2.5;
+}
+
+.markdown h1 {
+  margin-top: 25px;
+}
+
+.markdown h1:first-child {
+  --ifm-h1-font-size: 2.5rem;
+  font-size: 2.5rem;
+  letter-spacing: -0.015em;
+}
+
+.markdown > h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+}
+
+.markdown > h3 {
+  font-size: 1.5rem;
+}
+
+.theme-doc-markdown.markdown p,
+.theme-doc-markdown.markdown li {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.theme-doc-markdown.markdown ul > li,
+.theme-doc-markdown.markdown ol > li {
+  margin-bottom: 0.55rem;
+}
+
+.theme-code-block {
+  box-shadow: none !important;
+}
+
+pre code {
+  background-color: var(--ifm-code-background);
+}
+
+.prism-code code {
+  background-color: var(--color-gray-4);
+}
+
+.prism-code code .theme-code-block-highlighted-line {
+  background-color: var(--color-gray-12);
+}
+
+html[data-theme='dark'] .prism-code code {
+  background-color: var(--color-gray-86);
+}
+
+html[data-theme='dark'] .prism-code code .theme-code-block-highlighted-line {
+  background-color: var(--color-gray-78);
+}
+
+html[data-theme='dark'] code {
+  background-color: var(--color-gray-78);
+}
+
+.theme-edit-this-page {
+  display: flex;
+  align-items: center;
+  height: 30px;
+  color: var(--ifm-color-gray-900);
+}
+
+.theme-edit-this-page svg {
+  display: none;
+}
+
+.theme-edit-this-page::before,
+.theme-edit-this-page::after {
+  content: '';
+  display: inline-block;
+  transform: translateX(0);
+  transition: transform var(--ifm-transition-fast) linear;
+}
+
+.theme-edit-this-page::before {
+  margin-right: 0.5rem;
+  background: url('./icons/github-dark.svg') no-repeat center / contain;
+  width: 24px;
+  height: 24px;
+}
+
+.theme-edit-this-page::after {
+  margin-left: 0.25rem;
+  background: url('./icons/arrow_right.svg') no-repeat center / contain;
+  width: 1rem;
+  height: 1rem;
+  margin-bottom: -0.25rem;
+}
+
+.theme-edit-this-page:hover {
+  text-decoration: none;
+  color: var(--ifm-color-gray-1000, var(--color-gray-90));
+}
+
+.theme-edit-this-page:hover::after {
+  transform: translateX(0.25rem);
+}
+
+.pagination-nav__link:not(:empty) {
+  background-color: var(--color-gray-4);
+  border-color: transparent;
+  box-shadow: var(--ifm-global-shadow-lw);
+  color: var(--color-gray-74);
+  border-radius: var(--ifm-global-radius);
+}
+
+.pagination-nav__link:not(:empty):hover {
+  background-color: var(--color-gray-8);
+}
+
+.pagination-nav__link:not(:empty) .pagination-nav__label {
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.pagination-nav__link:not(:empty) .pagination-nav__sublabel {
+  display: none;
+}
+
+.pagination-nav__link:first-child .pagination-nav__label::before,
+.pagination-nav__link--next .pagination-nav__label::after {
+  content: '';
+  display: inline-block;
+  background: url('./icons/arrow_right.svg') no-repeat center / contain;
+  width: 1rem;
+  height: 1rem;
+  margin-bottom: -0.2rem;
+  transition: transform var(--ifm-transition-fast) linear;
+}
+
+.pagination-nav__link:first-child .pagination-nav__label::before {
+  margin-right: 0.25rem;
+  transform: rotate(180deg);
+}
+
+.pagination-nav__link:first-child:hover .pagination-nav__label::before {
+  transform: rotate(180deg) translateX(0.25rem);
+}
+
+.pagination-nav__link--next .pagination-nav__label::after {
+  margin-left: 0.25rem;
+}
+
+.pagination-nav__link--next .pagination-nav__label::before {
+  opacity: 0;
+}
+
+.pagination-nav__link--next:hover .pagination-nav__label::after {
+  transform: translateX(0.25rem);
+}
+
+.pagination-nav__link--prev .pagination-nav__label::after {
+  opacity: 0;
+}
+
+.tabs-container {
+  padding: 0 1rem 1rem;
+  border-radius: 0.5rem;
+  box-shadow: var(--ifm-global-shadow-lw);
+  background: var(--color-gray-0);
+}
+
+html[data-theme='dark'] .pagination-nav__link:not(:empty) {
+  background-color: var(--color-gray-86);
+  color: var(--ifm-color-content-secondary);
+}
+
+html[data-theme='dark'] .pagination-nav__link:not(:empty):hover {
+  background-color: var(--color-gray-82);
+}
+
+html[data-theme='dark']
+  .pagination-nav__link:first-child
+  .pagination-nav__label::before,
+html[data-theme='dark']
+  .pagination-nav__link--next
+  .pagination-nav__label::after {
+  background: url('./icons/arrow_right-light.svg') no-repeat center / contain;
+}
+
+html[data-theme='dark'] .pagination-nav__link .pagination-nav__label {
+  color: white;
+}
+
+html[data-theme='dark'] .theme-edit-this-page::before,
+html[data-theme='dark'] .theme-edit-this-page::after {
+  filter: invert(1);
+}
+
+html[data-theme='dark'] .theme-edit-this-page {
+  color: var(--ifm-color-gray-2, var(--color-gray-12));
+}
+
+html[data-theme='dark'] .theme-edit-this-page:hover {
+  color: var(--ifm-color-gray-0, var(--color-gray-0));
+}
+
+html[data-theme='dark'] .tabs-container {
+  background: var(--color-gray-82);
+}
+
+html[data-theme='dark'] .tabs-container code {
+  background: var(--color-gray-74);
+}
+
+/* Markdown source plugin header layout */
+article .markdown header {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  overflow: visible;
+  margin-bottom: 1rem;
+}
+
+article .markdown header h1 {
+  flex: 1 1 auto;
+  margin: 0;
+}
+
+.markdown-actions-container {
+  flex-shrink: 0;
+  margin-left: auto;
+  position: relative;
+}
+
+.markdown-actions-container .dropdown {
+  position: relative;
+}
+
+.markdown-actions-container .dropdown__menu {
+  z-index: 1000;
+  min-width: 220px;
+  right: auto;
+  left: 0;
+}
+
+@media (max-width: 768px) {
+  .markdown-actions-container {
+    margin-bottom: 1rem;
+  }
+
+  .markdown-actions-container .dropdown__menu {
+    right: 0;
+    left: auto;
+    min-width: min(220px, calc(100vw - 2rem));
+    max-width: calc(100vw - 2rem);
+  }
+}

@@ -1,6 +1,6 @@
 .strip {
-  border-block: 1px solid var(--primary-neutral-200, var(--ifm-color-emphasis-200));
-  background: var(--sidebar-bg-color, var(--ifm-color-emphasis-100));
+  border-block: 1px solid var(--color-gray-12, var(--ifm-color-emphasis-200));
+  background: var(--color-gray-4, var(--ifm-color-emphasis-100));
   padding: 1.35rem 0;
 }
 
@@ -18,10 +18,10 @@
 .value {
   display: block;
   font-size: clamp(1.4rem, calc(1.2rem + 0.8vw), 1.85rem);
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  font-weight: 600;
+  letter-spacing: -0.015em;
   line-height: 1.1;
-  color: var(--accent-600, var(--ifm-color-primary));
+  color: var(--ifm-color-primary);
 }
 
 .label {
@@ -29,7 +29,7 @@
   margin-top: 0.35rem;
   font-size: 0.85rem;
   font-weight: 500;
-  color: var(--neutral-mid-500, var(--ifm-color-emphasis-700));
+  color: var(--ifm-color-content-secondary, var(--ifm-color-emphasis-700));
 }
 
 @media screen and (max-width: 768px) {

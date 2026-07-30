@@ -1,0 +1,131 @@
+/**
+ * Ported from hasura/graphql-engine docs/src/css/sidebar.scss
+ */
+
+.menu__link {
+  padding-right: 0;
+  min-height: 30px;
+}
+
+.theme-doc-sidebar-container {
+  background-color: var(--color-gray-4);
+  border-right: 1px solid var(--color-gray-12) !important;
+}
+
+.theme-doc-sidebar-container .menu {
+  padding: 0.5rem 0.5rem 0.5rem 0.8rem;
+}
+
+.theme-doc-sidebar-menu {
+  font-size: 14px;
+  font-weight: var(--ifm-font-weight-normal);
+}
+
+.theme-doc-sidebar-menu .menu__link.menu__link--active,
+.theme-doc-sidebar-menu .menu__link--active {
+  font-weight: var(--ifm-font-weight-bold);
+}
+
+.theme-doc-sidebar-menu .theme-doc-sidebar-item-category .theme-doc-sidebar-item-link {
+  margin-top: 2px;
+}
+
+.theme-doc-sidebar-menu
+  .theme-doc-sidebar-item-category
+  .theme-doc-sidebar-item-link
+  .menu__link {
+  border-radius: 0 0.25rem 0.25rem 0;
+}
+
+.theme-doc-sidebar-menu .menu__list-item .menu__caret {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  left: 0;
+  padding: 0;
+}
+
+.theme-doc-sidebar-menu .menu__list-item .menu__caret::before,
+.theme-doc-sidebar-menu .menu__list-item .menu__link--sublist::after {
+  min-width: 1.5rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  background: url('./icons/chevron-top.svg') no-repeat center center;
+  background-size: 1rem 1rem;
+  min-height: 29.5px;
+}
+
+.theme-doc-sidebar-menu .menu__list-item .menu__list-item-collapsible::before {
+  height: auto;
+  background-position: center center;
+  transform: rotate(90deg);
+  transition: all 0.3s ease-in-out;
+}
+
+.menu__list-item--collapsed .menu__list-item-collapsible::before {
+  transform: rotate(0deg) !important;
+  transition: all var(--ifm-transition-fast) ease-in-out;
+}
+
+.theme-doc-sidebar-menu
+  .menu__list-item
+  .menu__list-item-collapsible
+  .menu__link--active {
+  background: var(--ifm-menu-color-background-active) !important;
+}
+
+.theme-doc-sidebar-item-category-level-1 {
+  margin-top: 1px !important;
+}
+
+.theme-doc-sidebar-item-link {
+  font-size: 14px !important;
+}
+
+.theme-doc-sidebar-item-category > .menu__list-item-collapsible > .menu__link {
+  font-weight: 500;
+  color: var(--color-gray-74);
+}
+
+.menu__list .menu__list {
+  margin-top: 0.15rem;
+  margin-bottom: 0.25rem;
+  border-left: 1px solid var(--color-gray-16);
+  margin-left: 0.55rem;
+  padding-left: 0.25rem;
+}
+
+html[data-theme='dark'] .theme-doc-sidebar-container {
+  background-color: var(--color-gray-86);
+  border-right-color: var(--color-gray-78) !important;
+}
+
+html[data-theme='dark']
+  .theme-doc-sidebar-container
+  button[class*='collapseSidebarButton_']::before,
+html[data-theme='dark']
+  .theme-doc-sidebar-container
+  div[class*='collapsedDocSidebar_']::before {
+  background: url('./icons/collapse-arrow-left-light.svg') no-repeat;
+}
+
+html[data-theme='dark']
+  .theme-doc-sidebar-container
+  button[class*='collapseSidebarButton_']:hover,
+html[data-theme='dark']
+  .theme-doc-sidebar-container
+  div[class*='collapsedDocSidebar_']:hover {
+  background-color: var(--color-gray-82);
+}
+
+html[data-theme='dark']
+  .theme-doc-sidebar-menu
+  .menu__list-item
+  .menu__caret::before,
+html[data-theme='dark']
+  .theme-doc-sidebar-menu
+  .menu__list-item
+  .menu__link--sublist::after {
+  filter: invert(1);
+}
