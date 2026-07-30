@@ -162,6 +162,8 @@ const sidebars: SidebarsConfig = {
       },
       items: [
         'more/transactional-emails',
+        'more/transactional-articles',
+        'more/transactional-tools',
         'more/services',
         'more/arthur-tkachenko',
         'more/awesome-lists',
