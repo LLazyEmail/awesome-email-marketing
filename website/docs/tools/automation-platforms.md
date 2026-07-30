@@ -1,13 +1,11 @@
 ---
 title: "Automation Platforms"
-description: "Automation Platforms — curated tools resources from the Awesome Email Marketing library."
+description: "Marketing automation, CRM-adjacent, outbound, and SES-connected platforms for email-led growth."
 keywords:
-  - email marketing tools
-  - ESP
-  - tools
-  - automation platforms
-  - awesome email marketing
-  - email marketing
+  - email automation platforms
+  - marketing automation
+  - lifecycle automation
+  - outbound email
 sidebar_label: "Automation Platforms"
 sidebar_position: 3
 image: img/docusaurus-social-card.jpg
@@ -20,12 +18,13 @@ unlisted: false
 category: tools
 topics:
   - tools
+  - automation
 audience:
   - marketers
   - founders
 seo:
   title: "Automation Platforms | Awesome Email Marketing"
-  description: "Automation Platforms — curated tools resources from the Awesome Email Marketing library."
+  description: "Marketing automation, CRM-adjacent, outbound, and SES-connected platforms for email-led growth."
   robots: index,follow
   canonical_path: "/docs/tools/automation-platforms"
   og_type: article
@@ -34,19 +33,38 @@ seo:
 
 # Automation Platforms
 
-- [Sequenzy](https://sequenzy.com/) - lifecycle email marketing and transactional email workflows for SaaS and product teams, with an agent skill for campaign and sequence operations
-- [Aritic](https://aritic.com/) - is a full-stack automation platform. It includes marketing automation, communication automation, CRM application, service desk application and business automation stack designed for B2B companies
-- [ActiveCampaign](https://www.activecampaign.com/) - is a  software for customer experience automation (CXA), which combines the transactional email, email marketing, marketing automation, sales automation, and CRM categories
-- [DailyStory](https://www.dailystory.com/) - is a marketing automation platform built to help you create sales, build loyalty and grow your business. It includes email, SMS marketing, automation and more.
-- [Sendinblue](https://www.sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
-- [Drip](https://www.drip.com/) - the automated marketing tools, insights, and savvy to turn shopping experiences into useful data streams, emails into earnings, and popups into cha-chings
-- [GetResponse](https://www.getresponse.com/) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
-- [Automizy](https://automizy.com/) - is an email marketing software platform that helps marketers improve their open rate through its different features
-- [Sender](https://www.sender.net/) - empowers to quickly and easily keep in touch with your customers and grow your business - while spending much less
-- [MailPoet](https://www.mailpoet.com) - is an one-stop email solution for wordPress and woocommerce website
-- [Elastic Email](https://elasticemail.com/) - is an email delivery service for transactional emailing
-- [Woodpecker](https://woodpecker.co) - uses to get emails delivered to main inbox & get more sales opportunities
-- [Wraps](https://wraps.dev) - Email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure.
-- [Zoho Campaigns](https://www.zoho.com/campaigns/) - is a platform built exclusively for email marketing—you bring in and manage the email database of your leads and contacts and send marketing emails to them
-- [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine available as a CLI. Source 450M+ contacts, run email and LinkedIn campaigns, manage conversations. JSON output, agent-native. Install via `npm i -g overloop-cli`.
+Fuller list of automation-first email platforms. For a shorter growth-focused shortlist, see [Growth & Automation Tools](./growth-automation-tools).
 
+Filter on [Explore → automation](/explore?tag=automation), [esp](/explore?tag=esp), or [transactional](/explore?tag=transactional).
+
+## All-in-one automation & CRM
+
+- [ActiveCampaign](https://www.activecampaign.com/) — customer experience automation combining transactional email, marketing automation, sales automation, and CRM
+- [Aritic](https://aritic.com/) — full-stack automation for B2B (marketing, CRM, service desk)
+- [DailyStory](https://www.dailystory.com/) — marketing automation with email, SMS, and loyalty workflows
+- [Sendinblue](https://www.sendinblue.com) — all-in-one digital marketing with transactional messaging and automation
+- [GetResponse](https://www.getresponse.com/) — email marketing platform for lists, relationships, and campaigns
+- [Zoho Campaigns](https://www.zoho.com/campaigns/) — email marketing platform for leads and contacts
+
+## Ecommerce & product-led
+
+- [Sequenzy](https://sequenzy.com/) — lifecycle and transactional workflows for SaaS/product teams
+- [Drip](https://www.drip.com/) — ecommerce automation and personalized campaigns
+- [Automizy](https://automizy.com/) — email marketing software focused on improving open rates
+- [Sender](https://www.sender.net/) — keep in touch with customers and grow with less spend
+- [MailPoet](https://www.mailpoet.com) — email solution for WordPress and WooCommerce
+
+## Delivery, outbound & infrastructure-owned
+
+- [Elastic Email](https://elasticemail.com/) — email delivery for transactional sending
+- [Woodpecker](https://woodpecker.co) — outbound email deliverability and sales opportunities
+- [Wraps](https://wraps.dev) — automations/templates/broadcasts sending through your AWS
+- [Overloop CLI](https://github.com/sortlist/overloop-cli) — AI-powered outbound engine as a CLI (`npm i -g overloop-cli`)
+
+## Related
+
+- [Growth & Automation Tools](./growth-automation-tools)
+- [Transactional Emails](/docs/more/transactional-emails)
+- [Lifecycle Emails](/docs/strategy/lifecycle-emails)
+- [Self-Hosted ESPs](./self-hosted-esp)
+- [Filter on Explore](/explore?tag=automation)

@@ -48,16 +48,11 @@ Starter HTML, blueprints, and ready-to-customize email templates from GitHub (pl
 - [Responsive HTML email templates (konsav)](https://github.com/konsav/email-templates)
 - [Postmark Transactional Email Templates](https://github.com/ActiveCampaign/postmark-templates)
 
-## Tutorials (related reading)
-
-These are guides, not repositories — kept here as companion links. More tutorials live under [Articles & Tutorials](./html-email-tutorials).
-
-- [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
-- [Add CSS to the head section of an email template](https://knowledge.hubspot.com/email/can-i-add-css-to-the-head-section-of-my-email-templates)
-
 ## Related
 
+- [Articles & Tutorials](./html-email-tutorials) — coding guides (not duplicated here)
 - [GitHub Repositories overview](./github-repositories)
 - [Frameworks & compilers](./github-frameworks)
 - [Related Repositories](./related-repositories)
 - [Cool Projects](./cool-projects)
+- [Filter templates on Explore](/explore?tag=templates)

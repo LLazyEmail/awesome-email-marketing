@@ -33,14 +33,17 @@ seo:
 
 # Frontend Development
 
-Resources for building HTML emails — split so tutorials stay separate from template collections.
+Resources for building HTML emails — split so tutorials, templates, and coding references stay easy to scan.
+
+Filter template-related tools on [Explore → templates](/explore?tag=templates).
 
 ## Browse by section
 
 | Section | What you’ll find |
 | --- | --- |
-| [Articles & Tutorials](./html-email-tutorials) | Guides, coding lessons, and best practices |
-| [HTML Email Templates](./html-email-templates) | Template packs, galleries, and builders |
+| [Articles & Tutorials](./html-email-tutorials) | Learn HTML email — getting started, deep guides, coding vs web |
+| [HTML Email Templates](./html-email-templates) | Builders & inspiration — galleries, packs, Unlayer/Postcards |
+| Coding references | Guidelines and gists live under [Best practices & references](./html-email-tutorials#best-practices--references) |
 
 ## Related
 

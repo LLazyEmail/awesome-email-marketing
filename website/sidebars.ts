@@ -19,13 +19,24 @@ const sidebars: SidebarsConfig = {
         id: 'tools/best-tools',
       },
       items: [
-        'tools/best-tools',
-        'tools/newsletter-platforms',
-        'tools/self-hosted-esp',
-        'tools/email-builders',
-        'tools/deliverability-tools',
-        'tools/growth-automation-tools',
-        'tools/email-service-providers',
+        {
+          type: 'category',
+          label: 'Best Tools',
+          collapsed: false,
+          link: {
+            type: 'doc',
+            id: 'tools/best-tools',
+          },
+          items: [
+            'tools/best-tools',
+            'tools/newsletter-platforms',
+            'tools/self-hosted-esp',
+            'tools/email-builders',
+            'tools/deliverability-tools',
+            'tools/growth-automation-tools',
+            'tools/email-service-providers',
+          ],
+        },
         'tools/ecommerce',
         'tools/automation-platforms',
         'tools/email-work-tools',
@@ -113,9 +124,20 @@ const sidebars: SidebarsConfig = {
         id: 'development/frontend-development',
       },
       items: [
-        'development/frontend-development',
-        'development/html-email-tutorials',
-        'development/html-email-templates',
+        {
+          type: 'category',
+          label: 'Frontend Development',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'development/frontend-development',
+          },
+          items: [
+            'development/frontend-development',
+            'development/html-email-tutorials',
+            'development/html-email-templates',
+          ],
+        },
         {
           type: 'category',
           label: 'GitHub Repositories',
@@ -175,9 +197,20 @@ const sidebars: SidebarsConfig = {
         id: 'more/transactional-emails',
       },
       items: [
-        'more/transactional-emails',
-        'more/transactional-articles',
-        'more/transactional-tools',
+        {
+          type: 'category',
+          label: 'Transactional Emails',
+          collapsed: true,
+          link: {
+            type: 'doc',
+            id: 'more/transactional-emails',
+          },
+          items: [
+            'more/transactional-emails',
+            'more/transactional-articles',
+            'more/transactional-tools',
+          ],
+        },
         'more/services',
         'more/arthur-tkachenko',
         'more/awesome-lists',
