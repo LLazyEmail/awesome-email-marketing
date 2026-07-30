@@ -52,6 +52,11 @@ for (const file of walkMarkdown(docsRoot)) {
   const h2s = body.match(H2_RE) ?? [];
   const rel = path.relative(path.resolve(__dirname, '..'), file);
 
+  // Auto-generated full indexes are intentionally dense.
+  if (rel.endsWith(`${path.sep}pages-index.md`) || rel === 'docs/pages-index.md') {
+    continue;
+  }
+
   if (links.length > MAX_LINKS && h2s.length < MIN_H2) {
     failures.push(
       `${rel}: ${links.length} links, ${h2s.length} H2 section(s) (need ≥${MIN_H2} when links > ${MAX_LINKS})`,

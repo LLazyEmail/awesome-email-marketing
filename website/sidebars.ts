@@ -10,6 +10,7 @@ const sidebars: SidebarsConfig = {
     'glossary',
     'changelog',
     'api',
+    'pages-index',
     {
       type: 'category',
       label: 'Tools & Platforms',

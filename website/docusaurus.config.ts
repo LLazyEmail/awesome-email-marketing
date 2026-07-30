@@ -189,6 +189,12 @@ const config: Config = {
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           type: 'doc',
+          docId: 'pages-index',
+          label: 'All pages',
+          position: 'right',
+        },
+        {
+          type: 'doc',
           docId: 'changelog',
           label: 'Changelog',
           position: 'right',

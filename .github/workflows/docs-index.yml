@@ -1,0 +1,63 @@
+name: Update docs pages index
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'website/docs/**'
+      - '!website/docs/pages-index.md'
+      - 'website/scripts/generate-docs-index.mjs'
+      - '.github/workflows/docs-index.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: docs-index
+  cancel-in-progress: false
+
+jobs:
+  docs-index:
+    name: Regenerate docs pages index
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: website
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: website/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate docs pages index
+        run: npm run generate:docs-index
+
+      - name: Commit and push index
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add website/docs/pages-index.md website/static/api/v1/docs-pages.json
+
+          if git diff --staged --quiet; then
+            echo "Docs pages index already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore(docs-index): regenerate all-pages markdown list"
+          git push origin HEAD:main

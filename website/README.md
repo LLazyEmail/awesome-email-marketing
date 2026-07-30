@@ -18,6 +18,7 @@ Useful commands:
 - `npm run build` — production build
 - `npm run serve` — serve the production build locally
 - `npm run lint:docs-links` — fail if a docs page has >20 links without ≥2 `##` sections
+- `npm run generate:docs-index` — regenerate `/docs/pages-index` + `/api/v1/docs-pages.json`
 
 ## Search
 
@@ -39,8 +40,10 @@ Configured in `docusaurus.config.ts`:
 - `/explore` — tag/filter UI over the curated catalog
 - `/docs/glossary` — email marketing glossary
 - `/docs/changelog` — site/library changelog (auto-generated from merged PRs)
+- `/docs/pages-index` — full markdown list of every docs page (auto-generated)
 - `/docs/api` — public JSON API docs
 - `/api/v1/catalog.json` — machine-readable catalog
+- `/api/v1/docs-pages.json` — machine-readable docs page list
 - `/llms.txt` / `/llms-full.txt` — LLM-friendly docs index and full corpus ([llmstxt.org](https://llmstxt.org/))
 - Docs pages include a **Copy page** button (Markdown + AI tools) and raw `.md` source URLs
 
@@ -65,6 +68,7 @@ GitHub Actions workflows live in [`.github/workflows/`](../.github/workflows):
 - `test-deploy.yml` — runs `lint:docs-links` then builds the site on pull requests
 - `deploy.yml` — builds and deploys to GitHub Pages on pushes to `main`
 - `changelog.yml` — regenerates `CHANGELOG.md` and the docs changelog after each merged PR to `main`
+- `docs-index.yml` — regenerates `docs/pages-index.md` (+ JSON export) when docs pages change on `main`
 
 ### One-time GitHub Pages setup
 
