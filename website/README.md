@@ -22,6 +22,17 @@ Useful commands:
 
 Local search is enabled with [`@easyops-cn/docusaurus-search-local`](https://github.com/easyops-cn/docusaurus-search-local). Use the search box in the navbar or press `Ctrl/⌘ + K`.
 
+## LLM / agent addons (issue #223)
+
+Configured in `docusaurus.config.ts`:
+
+| Package | Role |
+| --- | --- |
+| [`docusaurus-plugin-copy-page-button`](https://www.npmjs.com/package/docusaurus-plugin-copy-page-button) | Copy page as Markdown; open in ChatGPT / Claude / Gemini / Perplexity; AgentReady MCP install links |
+| [`docusaurus-plugin-llms`](https://www.npmjs.com/package/docusaurus-plugin-llms) | Generates `llms.txt`, `llms-full.txt`, and per-page Markdown (covers the `docusaurus-plugin-llms-txt` use case) |
+| [`docusaurus-markdown-source-plugin`](https://www.npmjs.com/package/docusaurus-markdown-source-plugin) | Exposes docs as raw `.md` URLs |
+| [`@agentreadyweb/docusaurus-plugin`](https://www.npmjs.com/package/@agentreadyweb/docusaurus-plugin) | Re-indexes the site in [AgentReady](https://www.agentready.it.com/) after each build |
+
 ## Explore, API, glossary
 
 - `/explore` — tag/filter UI over the curated catalog
@@ -29,6 +40,8 @@ Local search is enabled with [`@easyops-cn/docusaurus-search-local`](https://git
 - `/docs/changelog` — site/library changelog (auto-generated from merged PRs)
 - `/docs/api` — public JSON API docs
 - `/api/v1/catalog.json` — machine-readable catalog
+- `/llms.txt` / `/llms-full.txt` — LLM-friendly docs index and full corpus ([llmstxt.org](https://llmstxt.org/))
+- Docs pages include a **Copy page** button (Markdown + AI tools) and raw `.md` source URLs
 
 Regenerate catalog exports:
 
