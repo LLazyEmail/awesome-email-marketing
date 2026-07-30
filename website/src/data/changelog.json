@@ -1,77 +1,74 @@
 [
   {
     "date": "2026-07-30",
-    "title": "GitHub repos and Miscellaneous from open issues",
+    "title": "Complete #226: GitHub repos and Miscellaneous entries",
     "items": [
-      "Added Responsive HTML Email Template (charlesmudy) and Tutanota to GitHub Repositories (issues #194, #188)",
-      "Confirmed Colorlib, konsav, and EmailEngine entries in GitHub Repositories (issues #195, #192, #190)",
-      "Added StampReady, Correlated, and email-team articles to Miscellaneous (issues #186, #189, #191)",
-      "Synced the same entries in README.md"
+      "Merged pull request #227",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/227"
     ]
   },
   {
     "date": "2026-07-30",
-    "title": "Transactional Emails: Articles and Tools",
+    "title": "Split Transactional Emails into Articles and Tools (#103)",
     "items": [
-      "Split Transactional Emails into Articles and Tools subsections (issue #103)",
-      "Mirrored the same structure in README.md",
-      "Updated sidebar and related-resources links"
+      "Merged pull request #225",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/225"
     ]
   },
   {
     "date": "2026-07-30",
-    "title": "Homepage search + Frontend Development split",
+    "title": "Add homepage search and split Frontend Development sections",
     "items": [
-      "Added a prominent homepage search bar that routes into Explore filters",
-      "Split Frontend Development into Articles & Tutorials and HTML Email Templates",
-      "Mirrored the Frontend Development structure in README.md"
+      "Merged pull request #224",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/224"
     ]
   },
   {
     "date": "2026-07-30",
-    "title": "Best Tools split, explicit sidebar, SEO frontmatter",
+    "title": "Split Best Tools, sync README, explicit sidebar, SEO frontmatter",
     "items": [
-      "Split Best Tools into newsletter, self-hosted, builders, deliverability, growth automation, and ESP pages",
-      "Synced the same Best Tools structure into README.md and deduplicated entries",
-      "Kept the docs sidebar fully explicit/manual (no filesystem autogeneration)",
-      "Added advanced SEO frontmatter (description, keywords, topics, audience, canonical, robots, social cards) to all docs pages"
+      "Merged pull request #222",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/222"
     ]
   },
   {
     "date": "2026-07-30",
-    "title": "Explore, API, glossary, and related links",
+    "title": "Add explore filters, metrics strip, related links, glossary, API, changelog",
     "items": [
-      "Added tag/filter Explore page for curated tools and repositories",
-      "Added live metrics strip on the homepage",
-      "Added related resources blocks on documentation pages",
-      "Added glossary of email marketing terms",
-      "Added public JSON API under /api/v1/",
-      "Added project changelog"
+      "Merged pull request #219",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/219"
     ]
   },
   {
     "date": "2026-07-30",
-    "title": "Migrated open README contributions",
+    "title": "Migrate open README PR contributions into Docusaurus",
     "items": [
-      "Imported tools and resources from community PRs into docs and README",
-      "Added Sequenzy, SalesLabel, Wraps, Overloop CLI, DNSai, Campaign Cleaner, EmailQo, and more"
+      "Merged pull request #218",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/218"
     ]
   },
   {
     "date": "2026-07-30",
-    "title": "Deploy, search, and clearer navigation",
+    "title": "Add GitHub Pages deploy, local search, and clearer docs navigation",
     "items": [
-      "Enabled GitHub Pages deploy workflows",
-      "Added local search",
-      "Restructured sidebar into nested, scannable sections"
+      "Merged pull request #217",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/217"
     ]
   },
   {
     "date": "2026-07-29",
-    "title": "Docusaurus site launched",
+    "title": "Split README into separate formatted Docusaurus pages",
     "items": [
-      "Scaffolded the documentation website under website/",
-      "Split the awesome list README into focused docs pages"
+      "Merged pull request #216",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/216"
+    ]
+  },
+  {
+    "date": "2026-07-29",
+    "title": "Add Docusaurus site for Awesome Email Marketing",
+    "items": [
+      "Merged pull request #215",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/215"
     ]
   }
 ]
