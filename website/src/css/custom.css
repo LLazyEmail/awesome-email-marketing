@@ -1,5 +1,6 @@
 /**
  * Global theme tweaks for an easy-to-scan resource list.
+ * Typography mirrors Eightshift-style grotesk scale with Helvetica Neue.
  */
 
 :root {
@@ -10,9 +11,37 @@
   --ifm-color-primary-light: #11795f;
   --ifm-color-primary-lighter: #127f64;
   --ifm-color-primary-lightest: #159372;
-  --ifm-code-font-size: 95%;
-  --ifm-leading: 1.65;
+
+  --aem-font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --ifm-font-family-base: var(--aem-font-sans);
+  --ifm-heading-font-family: var(--aem-font-sans);
+  --ifm-font-family-monospace: ui-monospace, SFMono-Regular, Menlo, Monaco,
+    Consolas, "Liberation Mono", "Courier New", monospace;
+
+  --ifm-font-size-base: 17px;
+  --ifm-line-height-base: 1.55;
+  --ifm-leading: 1.55;
   --ifm-list-left-padding: 1.35rem;
+
+  --ifm-heading-font-weight: 700;
+  --ifm-heading-line-height: 1.15;
+  --ifm-h1-font-size: clamp(2.25rem, calc(1.65rem + 2.4vw), 3.5rem);
+  --ifm-h2-font-size: clamp(1.65rem, calc(1.35rem + 1.1vw), 2.25rem);
+  --ifm-h3-font-size: clamp(1.3rem, calc(1.15rem + 0.55vw), 1.65rem);
+  --ifm-h4-font-size: 1.2rem;
+  --ifm-h5-font-size: 1.05rem;
+  --ifm-h6-font-size: 0.95rem;
+
+  /* Display / hero title — Eightshift .es-big-title scale */
+  --aem-display-size: clamp(
+    3.7074202030286756rem,
+    calc(2.59935rem + 5.54035vw),
+    7.9180844472589476rem
+  );
+  --aem-display-tracking: -0.0208em;
+  --aem-display-leading: 0.98;
+
+  --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -96,6 +125,68 @@ article .markdown header h1 {
 
 .navbar__title {
   font-size: 0.95rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+html {
+  font-family: var(--aem-font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.hero__title,
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  font-family: var(--aem-font-sans);
+  font-weight: var(--ifm-heading-font-weight);
+  letter-spacing: -0.02em;
+}
+
+h1,
+.markdown h1,
+article .markdown header h1 {
+  letter-spacing: var(--aem-display-tracking);
+  line-height: 1.05;
+}
+
+.hero__title,
+.aem-big-title {
+  font-family: var(--aem-font-sans);
+  font-size: var(--aem-display-size);
+  font-weight: 700;
+  letter-spacing: var(--aem-display-tracking);
+  line-height: var(--aem-display-leading);
+}
+
+.hero__subtitle {
+  font-family: var(--aem-font-sans);
+  font-size: clamp(1.05rem, calc(0.95rem + 0.45vw), 1.35rem);
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 1.45;
+  max-width: 40rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu__link,
+.navbar__link,
+.breadcrumbs__link,
+.pagination-nav__label,
+.table-of-contents__link,
+.button {
+  font-family: var(--aem-font-sans);
 }
 
 .sr-only {
