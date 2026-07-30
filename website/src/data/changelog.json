@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Apply #223: LLM/docs plugins for copy, llms.txt, and AgentReady",
+    "items": [
+      "Merged pull request #229",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/229"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Auto-generate changelog after each merged pull request",
     "items": [
       "Merged pull request #228",
