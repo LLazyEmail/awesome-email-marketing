@@ -75,8 +75,9 @@
   display: grid;
   gap: 0.45rem;
   padding: 1rem 1.1rem;
-  border: 1px solid var(--ifm-color-emphasis-200);
+  border: 1px solid var(--primary-neutral-200, var(--ifm-color-emphasis-200));
   border-radius: 12px;
+  background: var(--main-bg-color, transparent);
 }
 
 .cardHeader {
