@@ -71,6 +71,55 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      'docusaurus-plugin-copy-page-button',
+      {
+        placement: 'toc',
+        mcpServer: {
+          name: 'awesome-email-marketing',
+          url: 'https://www.agentready.it.com/api/mcp',
+        },
+      },
+    ],
+    [
+      'docusaurus-plugin-llms',
+      {
+        generateLLMsTxt: true,
+        generateLLMsFullTxt: true,
+        generateMarkdownFiles: true,
+        docsDir: 'docs',
+        title: 'Awesome Email Marketing',
+        description:
+          'Curated articles, templates, tools, and resources for building and managing email marketing.',
+        includeBlog: false,
+        excludeImports: true,
+        removeDuplicateHeadings: true,
+        includeUnmatchedLast: true,
+        includeOrder: [
+          'intro.md',
+          'tools/*',
+          'strategy/*',
+          'guides/*',
+          'development/*',
+          'operations/*',
+          'more/*',
+          'glossary.mdx',
+          'api.mdx',
+          'changelog.mdx',
+        ],
+      },
+    ],
+    'docusaurus-markdown-source-plugin',
+    [
+      '@agentreadyweb/docusaurus-plugin',
+      {
+        // GitHub Pages project site; AgentReady indexes this path after each build.
+        domain: 'llazyemail.github.io/awesome-email-marketing',
+      },
+    ],
+  ],
+
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     colorMode: {

@@ -72,6 +72,18 @@ curl -s https://llazyemail.github.io/awesome-email-marketing/api/v1/catalog.json
 
 Filter client-side by tag, or use the interactive [Explore](/explore) page.
 
+## LLM / agent exports
+
+Built automatically with each site build (see issue [#223](https://github.com/LLazyEmail/awesome-email-marketing/issues/223)):
+
+| Path | Description |
+| --- | --- |
+| [`/llms.txt`](pathname:///llms.txt) | [llmstxt.org](https://llmstxt.org/) index of documentation pages |
+| [`/llms-full.txt`](pathname:///llms-full.txt) | Full docs corpus concatenated for LLM context |
+| Doc `.md` URLs | Append `.md` to a docs URL (via markdown source plugin), or use per-page markdown files from the LLMs plugin |
+| Copy page button | On docs pages — copy clean Markdown or open in ChatGPT / Claude / Gemini / Perplexity |
+| [AgentReady MCP](https://www.agentready.it.com/api/mcp) | Docs are re-indexed after each production build for MCP clients |
+
 ## Regenerating locally
 
 ```bash
@@ -80,3 +92,4 @@ npm run generate:api
 ```
 
 The generator parses selected docs pages into `src/data/catalog.json` and `static/api/v1/*`.
+LLM files (`llms.txt`, `llms-full.txt`, per-page markdown) are produced during `npm run build`.

@@ -34,6 +34,50 @@
   line-height: 1.55;
 }
 
+/* Markdown source plugin: keep page actions aligned with the title */
+article .markdown header {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  overflow: visible;
+}
+
+article .markdown header h1 {
+  flex: 1 1 auto;
+  margin: 0;
+}
+
+.markdown-actions-container {
+  flex-shrink: 0;
+  margin-left: auto;
+  position: relative;
+}
+
+.markdown-actions-container .dropdown {
+  position: relative;
+}
+
+.markdown-actions-container .dropdown__menu {
+  z-index: 1000;
+  min-width: 220px;
+  right: auto;
+  left: 0;
+}
+
+@media (max-width: 768px) {
+  .markdown-actions-container {
+    margin-bottom: 1rem;
+  }
+
+  .markdown-actions-container .dropdown__menu {
+    right: 0;
+    left: auto;
+    min-width: min(220px, calc(100vw - 2rem));
+    max-width: calc(100vw - 2rem);
+  }
+}
+
 .theme-doc-markdown.markdown table {
   display: table;
   width: 100%;
