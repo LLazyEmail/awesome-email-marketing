@@ -13,13 +13,10 @@
   align-items: center;
   gap: 0.65rem;
   padding: 0.55rem 0.55rem 0.55rem 1rem;
-  border-radius: 999px;
+  border-radius: 0.25rem;
   background: #ffffff;
   border: 1px solid transparent;
-  box-shadow:
-    0 1px 2px 0 rgba(28, 38, 63, 0.06),
-    0 1px 3px 0 rgba(28, 38, 63, 0.1),
-    0 14px 32px rgba(7, 53, 40, 0.16);
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 .icon {
@@ -47,13 +44,12 @@
 .button {
   flex: 0 0 auto;
   border: 0;
-  border-radius: 999px;
+  border-radius: 0.25rem;
   padding: 0.7rem 1.15rem;
   background: #0f6e56;
   color: #fff;
   font: inherit;
-  font-weight: 650;
-  letter-spacing: -0.01em;
+  font-weight: 500;
   cursor: pointer;
   transition: transform 120ms ease, background-color 120ms ease;
 }
@@ -82,7 +78,7 @@
   border: 1px solid color-mix(in srgb, #ffffff 45%, transparent);
   background: color-mix(in srgb, #073528 18%, transparent);
   color: inherit;
-  border-radius: 999px;
+  border-radius: 0.25rem;
   padding: 0.28rem 0.7rem;
   font: inherit;
   font-size: 0.85rem;

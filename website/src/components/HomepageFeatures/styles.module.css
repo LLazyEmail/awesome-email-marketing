@@ -3,17 +3,17 @@
   align-items: center;
   padding: 3rem 0;
   width: 100%;
-  background: var(--main-bg-color, transparent);
+  background: var(--color-gray-0, transparent);
 }
 
 .features h3 {
   margin-bottom: 0.75rem;
-  color: var(--heading-color, inherit);
-  letter-spacing: -0.015em;
+  color: var(--ifm-heading-color, inherit);
+  font-weight: 600;
 }
 
 .features p {
-  color: var(--primary-neutral-800, inherit);
-  font-size: 0.9375rem;
-  line-height: 1.625;
+  color: var(--ifm-font-color-base, inherit);
+  font-size: 1rem;
+  line-height: 1.5;
 }

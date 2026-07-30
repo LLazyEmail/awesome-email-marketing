@@ -1,0 +1,53 @@
+/**
+ * Ported / adapted from hasura/graphql-engine docs/src/css/tables.scss
+ * + Hasura table chrome for general markdown tables.
+ */
+
+.theme-doc-markdown.markdown table {
+  display: table;
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--color-gray-12);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  font-size: 0.9375rem;
+}
+
+.theme-doc-markdown.markdown table thead {
+  background: var(--color-gray-4);
+}
+
+.theme-doc-markdown.markdown table thead th {
+  color: var(--ifm-heading-color);
+  font-weight: 600;
+  border: 0;
+  border-bottom: 1px solid var(--color-gray-12);
+  border-right: 1px solid var(--color-gray-12);
+  padding: 0.75rem 1rem;
+}
+
+.theme-doc-markdown.markdown table tbody td {
+  border: 0;
+  border-bottom: 1px solid var(--color-gray-12);
+  border-right: 1px solid var(--color-gray-12);
+  padding: 0.75rem 1rem;
+}
+
+.theme-doc-markdown.markdown table tr:nth-child(2n) {
+  background: var(--ifm-table-stripe-background);
+}
+
+.theme-doc-markdown.markdown table thead th:last-child,
+.theme-doc-markdown.markdown table tbody td:last-child {
+  border-right: 0;
+}
+
+.theme-doc-markdown.markdown table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.theme-doc-markdown.markdown table td:first-child {
+  white-space: nowrap;
+  font-weight: 600;
+}

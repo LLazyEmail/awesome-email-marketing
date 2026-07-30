@@ -26,6 +26,14 @@ const config: Config = {
     locales: ['en'],
   },
 
+  // IBM Plex — same family as Hasura graphql-engine docs
+  stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@300;400;600&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap',
+      type: 'text/css',
+    },
+  ],
+
   presets: [
     [
       'classic',
@@ -148,7 +156,12 @@ const config: Config = {
           position: 'left',
           label: 'Resources',
         },
-        {to: '/explore', label: 'Explore', position: 'left'},
+        {
+          to: '/explore',
+          label: 'Explore',
+          position: 'left',
+          className: 'nav-link_getting-started',
+        },
         {
           type: 'dropdown',
           label: 'Browse',
@@ -203,6 +216,7 @@ const config: Config = {
           href: 'https://github.com/LLazyEmail/awesome-email-marketing',
           label: 'GitHub',
           position: 'right',
+          className: 'header-github-link',
         },
       ],
     },

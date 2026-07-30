@@ -1,0 +1,12 @@
+/**
+ * Ported from hasura/graphql-engine docs/src/css/admonitions.scss
+ */
+
+.theme-admonition {
+  border-radius: 0.5rem;
+  box-shadow: none;
+}
+
+.theme-admonition [class*='admonitionHeading'] {
+  text-transform: none;
+}
