@@ -10,6 +10,7 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
   intro: [
     {label: 'Explore & filter tools', to: '/explore'},
     {label: 'Best Tools', to: '/docs/tools/best-tools'},
+    {label: 'All Docs Pages', to: '/docs/pages-index'},
     {label: 'Glossary', to: '/docs/glossary'},
     {label: 'Changelog', to: '/docs/changelog'},
   ],
@@ -200,13 +201,19 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
   ],
   changelog: [
     {label: 'Overview', to: '/docs/'},
-    {label: 'Explore tools', to: '/explore'},
+    {label: 'All Docs Pages', to: '/docs/pages-index'},
     {label: 'Public API', to: '/docs/api'},
   ],
   api: [
     {label: 'Explore & filter', to: '/explore'},
+    {label: 'All Docs Pages', to: '/docs/pages-index'},
     {label: 'Changelog', to: '/docs/changelog'},
-    {label: 'API docs', to: '/docs/api'},
+  ],
+  'pages-index': [
+    {label: 'Overview', to: '/docs/'},
+    {label: 'Public API', to: '/docs/api'},
+    {label: 'Changelog', to: '/docs/changelog'},
+    {label: 'Explore tools', to: '/explore'},
   ],
 };
 

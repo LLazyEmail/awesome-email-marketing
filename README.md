@@ -3,7 +3,7 @@
 
 #### A collection of articles, templates, tools, and many more to build and manage emails.
 
-Docs site: [`website/`](./website/). Project history: [`CHANGELOG.md`](./CHANGELOG.md) (auto-generated from merged PRs). LLM-friendly exports: `/llms.txt` and `/llms-full.txt` on the published site.
+Docs site: [`website/`](./website/). Full docs page list: [`website/docs/pages-index.md`](./website/docs/pages-index.md) (auto-generated). Project history: [`CHANGELOG.md`](./CHANGELOG.md). LLM-friendly exports: `/llms.txt` and `/llms-full.txt` on the published site.
 
 ## Table of Contents
 
