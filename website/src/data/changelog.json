@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Transactional Emails: Articles and Tools",
+    "items": [
+      "Split Transactional Emails into Articles and Tools subsections (issue #103)",
+      "Mirrored the same structure in README.md",
+      "Updated sidebar and related-resources links"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Homepage search + Frontend Development split",
     "items": [
       "Added a prominent homepage search bar that routes into Explore filters",

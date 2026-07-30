@@ -131,7 +131,18 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
     {label: 'Glossary', to: '/docs/glossary'},
   ],
   'more/transactional-emails': [
+    {label: 'Articles', to: '/docs/more/transactional-articles'},
+    {label: 'Tools', to: '/docs/more/transactional-tools'},
     {label: 'Lifecycle Emails', to: '/docs/strategy/lifecycle-emails'},
+    {label: 'Amazon SES', to: '/docs/operations/amazon-ses'},
+  ],
+  'more/transactional-articles': [
+    {label: 'Tools', to: '/docs/more/transactional-tools'},
+    {label: 'Transactional Emails overview', to: '/docs/more/transactional-emails'},
+    {label: 'Lifecycle Emails', to: '/docs/strategy/lifecycle-emails'},
+  ],
+  'more/transactional-tools': [
+    {label: 'Articles', to: '/docs/more/transactional-articles'},
     {label: 'Amazon SES', to: '/docs/operations/amazon-ses'},
     {label: 'Automation Platforms', to: '/docs/tools/automation-platforms'},
   ],
