@@ -28,6 +28,7 @@ description: "Best Tools resources from Awesome Email Marketing"
 - [Froged](https://froged.com/) - Optimize your Customer Experience with One Powerful Product
 - [Mailjet](https://www.mailjet.com/) - Create and send beautiful emails without touching a single line of code
 - [UnderSend](https://undersend.com/) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
+- [DailyStory](https://www.dailystory.com/) - Simple to use email marketing and more
 - [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
 - [Customer.io](https://customer.io/) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))
 - [Flodesk](https://flodesk.com/) - Design emails people love to open
@@ -63,4 +64,5 @@ description: "Best Tools resources from Awesome Email Marketing"
 - [Autopilot](https://www.autopilothq.com/) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 - [Keap](https://keap.com/) - the all-in-one sales and marketing automation platform designed to help you grow
 - [Mailbakery](https://mailbakery.com/) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
+- [SalesLabel](https://sales-label.com) - White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and built-in deliverability.
 

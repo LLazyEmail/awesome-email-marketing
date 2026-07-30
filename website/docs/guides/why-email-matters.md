@@ -2,7 +2,7 @@
 sidebar_position: 3
 sidebar_label: "Why Email Matters"
 title: "Why Email Matters"
-description: "Why Email Matters resources from Awesome Email Marketing"
+description: "Resources which give answers about the importance of email in your business."
 ---
 
 # Why Email Matters
