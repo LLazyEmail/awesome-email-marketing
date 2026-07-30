@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-07-30T01:10:13.676Z",
+  "resources": 122,
+  "tags": 17,
+  "docsPages": 52,
+  "sections": 2,
+  "bySection": {
+    "development": 44,
+    "tools": 78
+  },
+  "byTag": {
+    "automation": 24,
+    "checker": 11,
+    "cli": 1,
+    "cold-email": 2,
+    "deliverability": 6,
+    "development": 44,
+    "ecommerce": 8,
+    "esp": 61,
+    "free": 8,
+    "github": 42,
+    "newsletter": 54,
+    "open-source": 45,
+    "self-hosted": 5,
+    "ses": 3,
+    "templates": 30,
+    "transactional": 6,
+    "utility": 6
+  }
+}

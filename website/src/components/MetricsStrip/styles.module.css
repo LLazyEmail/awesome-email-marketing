@@ -1,0 +1,41 @@
+.strip {
+  border-block: 1px solid var(--ifm-color-emphasis-200);
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--ifm-color-primary) 8%, transparent),
+    transparent
+  );
+  padding: 1.25rem 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  text-align: center;
+}
+
+.metric {
+  padding: 0.5rem;
+}
+
+.value {
+  display: block;
+  font-size: 1.75rem;
+  font-weight: 750;
+  line-height: 1.1;
+  color: var(--ifm-color-primary);
+}
+
+.label {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.9rem;
+  color: var(--ifm-color-emphasis-700);
+}
+
+@media screen and (max-width: 768px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

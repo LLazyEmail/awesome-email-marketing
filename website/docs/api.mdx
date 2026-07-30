@@ -1,0 +1,55 @@
+---
+sidebar_position: 4
+sidebar_label: Public API
+title: Public API
+description: JSON exports for the Awesome Email Marketing catalog, metrics, and glossary.
+---
+
+# Public API
+
+Machine-readable exports of the curated library. All endpoints are static JSON files published with the site.
+
+Base URL:
+
+```text
+https://llazyemail.github.io/awesome-email-marketing/api/v1/
+```
+
+## Endpoints
+
+| Endpoint | Description |
+| --- | --- |
+| [`catalog.json`](pathname:///api/v1/catalog.json) | Full tagged resource catalog |
+| [`metrics.json`](pathname:///api/v1/metrics.json) | Counts by section and tag |
+| [`glossary.json`](pathname:///api/v1/glossary.json) | Glossary terms and definitions |
+
+## Catalog item shape
+
+```json
+{
+  "id": "mailchimp",
+  "name": "Mailchimp",
+  "url": "https://mailchimp.com/",
+  "description": "Free emailing software",
+  "section": "tools",
+  "sourcePage": "/docs/tools/best-tools",
+  "tags": ["esp", "free", "newsletter"]
+}
+```
+
+## Example
+
+```bash
+curl -s https://llazyemail.github.io/awesome-email-marketing/api/v1/catalog.json | jq '.items | length'
+```
+
+Filter client-side by tag, or use the interactive [Explore](/explore) page.
+
+## Regenerating locally
+
+```bash
+cd website
+npm run generate:api
+```
+
+The generator parses selected docs pages into `src/data/catalog.json` and `static/api/v1/*`.

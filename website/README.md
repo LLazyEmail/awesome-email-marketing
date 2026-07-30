@@ -22,6 +22,20 @@ Useful commands:
 
 Local search is enabled with [`@easyops-cn/docusaurus-search-local`](https://github.com/easyops-cn/docusaurus-search-local). Use the search box in the navbar or press `Ctrl/⌘ + K`.
 
+## Explore, API, glossary
+
+- `/explore` — tag/filter UI over the curated catalog
+- `/docs/glossary` — email marketing glossary
+- `/docs/changelog` — site/library changelog
+- `/docs/api` — public JSON API docs
+- `/api/v1/catalog.json` — machine-readable catalog
+
+Regenerate catalog exports:
+
+```bash
+npm run generate:api
+```
+
 ## Automatic deployment
 
 GitHub Actions workflows live in [`.github/workflows/`](../.github/workflows):

@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
+    "generate:api": "node ./scripts/generate-catalog.mjs",
+    "prestart": "npm run generate:api",
     "start": "docusaurus start",
+    "prebuild": "npm run generate:api",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",

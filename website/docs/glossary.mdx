@@ -1,0 +1,30 @@
+---
+sidebar_position: 2
+sidebar_label: Glossary
+title: Glossary
+description: Plain-English definitions for common email marketing terms.
+---
+
+import glossary from '@site/src/data/glossary.json';
+
+# Glossary
+
+Quick definitions for terms you’ll see across this library.
+
+export const sorted = [...glossary].sort((a, b) =>
+  a.term.localeCompare(b.term),
+);
+
+<ul>
+  {sorted.map((item) => (
+    <li key={item.term}>
+      <strong id={item.term.toLowerCase().replace(/[^a-z0-9]+/g, '-')}>
+        {item.term}
+      </strong>
+      {' — '}
+      {item.definition}
+    </li>
+  ))}
+</ul>
+
+Prefer machine-readable data? Use the [`/api/v1/glossary.json`](pathname:///api/v1/glossary.json) export.

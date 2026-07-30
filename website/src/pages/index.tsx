@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import MetricsStrip from '@site/src/components/MetricsStrip';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
@@ -18,10 +19,14 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
+          <Link className="button button--secondary button--lg" to="/explore">
+            Explore & filter
+          </Link>
           <Link
-            className="button button--secondary button--lg"
-            to="/docs/">
-            Browse resources
+            className="button button--outline button--secondary button--lg"
+            to="/docs/"
+            style={{marginLeft: '0.75rem'}}>
+            Browse docs
           </Link>
         </div>
       </div>
@@ -32,10 +37,9 @@ function HomepageHeader() {
 export default function Home(): ReactNode {
   const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={siteConfig.title}
-      description={siteConfig.tagline}>
+    <Layout title={siteConfig.title} description={siteConfig.tagline}>
       <HomepageHeader />
+      <MetricsStrip />
       <main>
         <HomepageFeatures />
       </main>

@@ -9,18 +9,20 @@ description: Curated email marketing tools, strategy guides, templates, and deve
 
 A curated collection of articles, templates, tools, and resources to build and manage emails.
 
-Use the sidebar, the **Browse** menu, or search (`Ctrl/⌘ + K`) to find what you need.
+Use the sidebar, **[Explore](/explore)** filters, the **Browse** menu, or search (`Ctrl/⌘ + K`) to find what you need.
 
 ## Start here
 
 | If you want to… | Go to |
 | --- | --- |
+| Filter tools by tag | [Explore](/explore) |
 | Compare ESPs and platforms | [Best Tools](/docs/tools/best-tools) |
 | Grow a subscriber list | [Building an Email List](/docs/strategy/building-an-email-list) |
 | Improve campaigns | [Lifecycle Emails](/docs/strategy/lifecycle-emails) |
 | Learn HTML email | [Frontend Development](/docs/development/frontend-development) |
 | Fix deliverability | [DNS & DKIM](/docs/operations/dns-dkim) |
-| Measure results | [Newsletter Metrics](/docs/operations/metrics/) |
+| Look up a term | [Glossary](/docs/glossary) |
+| Use the data in your app | [Public API](/docs/api) |
 
 ## Browse by category
 

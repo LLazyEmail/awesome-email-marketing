@@ -1,0 +1,21 @@
+.block {
+  margin: 2.5rem 0 1rem;
+  padding: 1.25rem 1.35rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--ifm-color-primary) 6%, var(--ifm-background-color));
+}
+
+.title {
+  margin: 0 0 0.85rem;
+  font-size: 1.05rem;
+}
+
+.list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.list li {
+  margin-bottom: 0.4rem;
+}

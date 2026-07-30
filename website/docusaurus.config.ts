@@ -99,6 +99,7 @@ const config: Config = {
           position: 'left',
           label: 'Resources',
         },
+        {to: '/explore', label: 'Explore', position: 'left'},
         {
           type: 'dropdown',
           label: 'Browse',
@@ -138,6 +139,12 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
+          type: 'doc',
+          docId: 'changelog',
+          label: 'Changelog',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/LLazyEmail/awesome-email-marketing',
           label: 'GitHub',
           position: 'right',
@@ -155,16 +162,16 @@ const config: Config = {
               to: '/docs/',
             },
             {
+              label: 'Explore & filter',
+              to: '/explore',
+            },
+            {
               label: 'Best Tools',
               to: '/docs/tools/best-tools',
             },
             {
-              label: 'Build an Email List',
-              to: '/docs/strategy/building-an-email-list',
-            },
-            {
-              label: 'FAQ',
-              to: '/docs/guides/faq',
+              label: 'Glossary',
+              to: '/docs/glossary',
             },
           ],
         },
@@ -184,8 +191,8 @@ const config: Config = {
               to: '/docs/operations/amazon-ses',
             },
             {
-              label: 'Transactional Emails',
-              to: '/docs/more/transactional-emails',
+              label: 'Changelog',
+              to: '/docs/changelog',
             },
           ],
         },
@@ -201,8 +208,12 @@ const config: Config = {
               href: 'https://www.linkedin.com/company/llazyemail/',
             },
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Public API',
+              to: '/docs/api',
+            },
+            {
+              label: 'Catalog JSON',
+              href: 'https://llazyemail.github.io/awesome-email-marketing/api/v1/catalog.json',
             },
           ],
         },

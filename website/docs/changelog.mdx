@@ -1,0 +1,25 @@
+---
+sidebar_position: 3
+sidebar_label: Changelog
+title: Changelog
+description: What changed in the Awesome Email Marketing website and library.
+---
+
+import changelog from '@site/src/data/changelog.json';
+
+# Changelog
+
+Notable updates to the documentation site and curated library.
+
+{changelog.map((entry) => (
+  <section key={`${entry.date}-${entry.title}`}>
+    <h2>
+      {entry.date} — {entry.title}
+    </h2>
+    <ul>
+      {entry.items.map((item) => (
+        <li key={item}>{item}</li>
+      ))}
+    </ul>
+  </section>
+))}
