@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Adopt Hasura-inspired professional docs theme",
+    "items": [
+      "Merged pull request #234",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/234"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Use Helvetica Neue with Eightshift-like typography",
     "items": [
       "Merged pull request #233",
