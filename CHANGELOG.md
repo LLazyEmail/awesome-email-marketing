@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Auto-generate changelog after each merged pull request ([#228](https://github.com/LLazyEmail/awesome-email-marketing/pull/228))
 - Complete #226: GitHub repos and Miscellaneous entries ([#227](https://github.com/LLazyEmail/awesome-email-marketing/pull/227))
 - Split Transactional Emails into Articles and Tools (#103) ([#225](https://github.com/LLazyEmail/awesome-email-marketing/pull/225))
 - Add homepage search and split Frontend Development sections ([#224](https://github.com/LLazyEmail/awesome-email-marketing/pull/224))

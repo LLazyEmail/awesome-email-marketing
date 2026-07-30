@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-07-30",
+    "title": "Auto-generate changelog after each merged pull request",
+    "items": [
+      "Merged pull request #228",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/228"
+    ]
+  },
+  {
+    "date": "2026-07-30",
     "title": "Complete #226: GitHub repos and Miscellaneous entries",
     "items": [
       "Merged pull request #227",
