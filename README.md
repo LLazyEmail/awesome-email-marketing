@@ -116,6 +116,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ### Deliverability & Testing Tools
 
+* [Email Subject Line Tester](https://alltoolsverse.com/tools/email-subject-line-tester/) - Analyzes subject-line length, spam triggers, capitalization, punctuation, and mobile and desktop inbox previews.
 * [Mailtrap](https://mailtrap.io) - is a testing tool and is not designed to deliver emails to real addresses
 * [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
 * [Sendgrid](https://sendgrid.com) - Email delivery service
