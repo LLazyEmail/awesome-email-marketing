@@ -463,6 +463,7 @@ Order is :
 - [Broken-link-checker](https://www.npmjs.com/package/broken-link-checker)
 - [Link-checker](https://www.npmjs.com/package/link-checker)
 - [Link-check](https://www.npmjs.com/package/link-check)
+- [ReviewMyDNS](https://reviewmydns.com/) - A simple, plain-English checker for SPF, DKIM, and DMARC records.
 
 ### Sending emails via Amazon SES
 
