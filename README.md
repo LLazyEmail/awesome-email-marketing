@@ -120,6 +120,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
 * [Sendgrid](https://sendgrid.com) - Email delivery service
 * [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
+* [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 
 ### Growth & Automation Tools
 
