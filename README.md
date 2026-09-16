@@ -588,6 +588,7 @@ Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 - [DomainKeys Identified Mail (DKIM) Signatures](https://tools.ietf.org/html/rfc6376)
 - [Sender Policy Framework (SPF) for Authorizing Use of Domains in Email, Version 1](https://tools.ietf.org/html/rfc7208)
 - [DomainKeys Identified Mail (DKIM) Service Overview](https://tools.ietf.org/html/rfc5585)
+- [SPF and DMARC Statistics 2026: What 173 Million Mail Domains Publish](https://www.stackscan.com/blog/spf-dmarc-statistics)
 - [I want to send HTML emails from my site, but Outlook is flagging them as spam](https://stackoverflow.com/questions/8269067/i-want-to-send-html-emails-from-my-site-but-outlook-is-flagging-them-as-spam)
 - [Broken-link-checker](https://www.npmjs.com/package/broken-link-checker)
 - [Link-checker](https://www.npmjs.com/package/link-checker)
