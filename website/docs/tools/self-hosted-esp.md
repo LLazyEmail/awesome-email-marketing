@@ -46,5 +46,6 @@ Related: [Open Source Tools](./open-source-tools).
 - [MailWiz](https://mailwizz.com) - Self-hosted Email Marketing Software
 - [Peopcampaigns](https://pepocampaigns.com) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
 - [Sendy](https://sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
+- [Xem](https://xem.email/) - Open-source email marketing with newsletters, templates, audience lists, and visual automations; supports custom SMTP and managed sending through Amazon SES.
 
 Browse with tags on [Explore → self-hosted](/explore?tag=self-hosted) or [esp](/explore?tag=esp).
