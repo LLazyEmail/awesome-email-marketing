@@ -2,6 +2,7 @@
   {
     "date": "2026-09-26",
     "title": "Add Xem to the self-hosted email platform lists",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/250",
     "items": [
       "Merged pull request #250",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/250"
@@ -10,6 +11,7 @@
   {
     "date": "2026-09-26",
     "title": "docs: copy open list PRs onto matching Docusaurus pages",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/252",
     "items": [
       "Merged pull request #252",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/252"
@@ -18,6 +20,7 @@
   {
     "date": "2026-09-26",
     "title": "Fix Stripo link",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/249",
     "items": [
       "Merged pull request #249",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/249"
@@ -26,6 +29,7 @@
   {
     "date": "2026-09-26",
     "title": "docs: fix Stripo English link on Email Builders page",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/249",
     "items": [
       "Merged pull request #249",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/249"
@@ -34,6 +38,7 @@
   {
     "date": "2026-09-26",
     "title": "Add Email Campaign Preflight to testing tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/245",
     "items": [
       "Merged pull request #245",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/245"
@@ -42,6 +47,7 @@
   {
     "date": "2026-09-26",
     "title": "Add SPF and DMARC Statistics 2026 to DNS DKIM Records",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/248",
     "items": [
       "Merged pull request #248",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/248"
@@ -50,6 +56,7 @@
   {
     "date": "2026-09-26",
     "title": "Add independent ESP comparison guide to Strategy",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/246",
     "items": [
       "Merged pull request #246",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/246"
@@ -58,6 +65,7 @@
   {
     "date": "2026-09-26",
     "title": "Add MailySend to Self-Hosted ESPs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/247",
     "items": [
       "Merged pull request #247",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/247"
@@ -66,6 +74,7 @@
   {
     "date": "2026-09-26",
     "title": "Add Inboxproof to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/244",
     "items": [
       "Merged pull request #244",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/244"
@@ -74,6 +83,7 @@
   {
     "date": "2026-09-26",
     "title": "Add JaxSuite AI to Growth & Automation Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/242",
     "items": [
       "Merged pull request #242",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/242"
@@ -82,6 +92,7 @@
   {
     "date": "2026-09-26",
     "title": "Add Canny Pigeon",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/241",
     "items": [
       "Merged pull request #241",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/241"
@@ -90,6 +101,7 @@
   {
     "date": "2026-09-26",
     "title": "docs(readme): add Cold Email Italy Observatory to Data Driven Email Marketing",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/239",
     "items": [
       "Merged pull request #239",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/239"
@@ -98,6 +110,7 @@
   {
     "date": "2026-09-26",
     "title": "Add Klinky",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/238",
     "items": [
       "Merged pull request #238",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/238"
@@ -106,6 +119,7 @@
   {
     "date": "2026-09-26",
     "title": "docs: add Cold Email Italy Observatory to Data-Driven page",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/239",
     "items": [
       "Merged pull request #239",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/239"
@@ -114,6 +128,7 @@
   {
     "date": "2026-09-26",
     "title": "docs: add Klinky to Growth & Automation Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/238",
     "items": [
       "Merged pull request #238",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/238"
@@ -122,6 +137,7 @@
   {
     "date": "2026-07-30",
     "title": "Port Hasura docs CSS modules for a closer visual match",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/236",
     "items": [
       "Merged pull request #236",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/236"
@@ -130,6 +146,7 @@
   {
     "date": "2026-07-30",
     "title": "Adopt Hasura-inspired professional docs theme",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/234",
     "items": [
       "Merged pull request #234",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/234"
@@ -138,6 +155,7 @@
   {
     "date": "2026-07-30",
     "title": "Use Helvetica Neue with Eightshift-like typography",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/233",
     "items": [
       "Merged pull request #233",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/233"
@@ -146,6 +164,7 @@
   {
     "date": "2026-07-30",
     "title": "Auto-generated All Docs Pages index + GitHub Action",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/232",
     "items": [
       "Merged pull request #232",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/232"
@@ -154,6 +173,7 @@
   {
     "date": "2026-07-30",
     "title": "Docs IA polish: H2s, Explore filters, nested sidebar, CI link check",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/231",
     "items": [
       "Merged pull request #231",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/231"
@@ -162,6 +182,7 @@
   {
     "date": "2026-07-30",
     "title": "Split GitHub Repos + refine Transactional Emails (#221)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/230",
     "items": [
       "Merged pull request #230",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/230"
@@ -170,6 +191,7 @@
   {
     "date": "2026-07-30",
     "title": "Split GitHub Repositories and refine Transactional Emails",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/221",
     "items": [
       "Merged pull request #221",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/221"
@@ -178,6 +200,7 @@
   {
     "date": "2026-07-30",
     "title": "Apply #223: LLM/docs plugins for copy, llms.txt, and AgentReady",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/229",
     "items": [
       "Merged pull request #229",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/229"
@@ -186,6 +209,7 @@
   {
     "date": "2026-07-30",
     "title": "Auto-generate changelog after each merged pull request",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/228",
     "items": [
       "Merged pull request #228",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/228"
@@ -194,6 +218,7 @@
   {
     "date": "2026-07-30",
     "title": "Complete #226: GitHub repos and Miscellaneous entries",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/227",
     "items": [
       "Merged pull request #227",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/227"
@@ -202,6 +227,7 @@
   {
     "date": "2026-07-30",
     "title": "Split Transactional Emails into Articles and Tools (#103)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/225",
     "items": [
       "Merged pull request #225",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/225"
@@ -210,6 +236,7 @@
   {
     "date": "2026-07-30",
     "title": "Add homepage search and split Frontend Development sections",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/224",
     "items": [
       "Merged pull request #224",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/224"
@@ -218,6 +245,7 @@
   {
     "date": "2026-07-30",
     "title": "Split Best Tools, sync README, explicit sidebar, SEO frontmatter",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/222",
     "items": [
       "Merged pull request #222",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/222"
@@ -226,6 +254,7 @@
   {
     "date": "2026-07-30",
     "title": "Add explore filters, metrics strip, related links, glossary, API, changelog",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/219",
     "items": [
       "Merged pull request #219",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/219"
@@ -234,6 +263,7 @@
   {
     "date": "2026-07-30",
     "title": "Migrate open README PR contributions into Docusaurus",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/218",
     "items": [
       "Merged pull request #218",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/218"
@@ -242,6 +272,7 @@
   {
     "date": "2026-07-30",
     "title": "Add GitHub Pages deploy, local search, and clearer docs navigation",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/217",
     "items": [
       "Merged pull request #217",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/217"
@@ -250,6 +281,7 @@
   {
     "date": "2026-07-29",
     "title": "Split README into separate formatted Docusaurus pages",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/216",
     "items": [
       "Merged pull request #216",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/216"
@@ -258,6 +290,7 @@
   {
     "date": "2026-07-29",
     "title": "Add Docusaurus site for Awesome Email Marketing",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/215",
     "items": [
       "Merged pull request #215",
       "https://github.com/LLazyEmail/awesome-email-marketing/pull/215"

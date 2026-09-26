@@ -97,6 +97,11 @@ function buildSiteChangelog(merges) {
     return {
       date: merge.date,
       title: merge.message,
+      href:
+        merge.href ||
+        (merge.id
+          ? `https://github.com/LLazyEmail/awesome-email-marketing/pull/${merge.id}`
+          : null),
       items,
     };
   });

@@ -46,44 +46,78 @@ function LinkifiedText({text}) {
   );
 }
 
+function pullRequestUrl(entry) {
+  if (typeof entry.href === 'string' && entry.href) {
+    return entry.href;
+  }
+
+  for (const item of entry.items ?? []) {
+    const urlMatch = String(item).match(
+      /https:\/\/github\.com\/[^/\s]+\/[^/\s]+\/pull\/\d+/,
+    );
+    if (urlMatch) {
+      return urlMatch[0];
+    }
+  }
+
+  for (const item of entry.items ?? []) {
+    const numMatch = String(item).match(/#(\d+)/);
+    if (numMatch) {
+      return `${repoUrl}/pull/${numMatch[1]}`;
+    }
+  }
+
+  return null;
+}
+
 export default function ChangelogList() {
   return (
     <div>
-      {changelog.map((entry) => (
-        <section key={`${entry.date}-${entry.title}`} style={{marginBottom: '1.5rem'}}>
-          <div
-            style={{
-              display: 'flex',
-              justifyContent: 'space-between',
-              alignItems: 'baseline',
-              gap: '1rem',
-            }}>
-            <h2 style={{margin: 0}}>
-              {entry.date} — {entry.title}
-            </h2>
-            <span style={{color: 'var(--ifm-color-muted)', fontSize: '0.9rem'}}>
-              {entry.items.length} change{entry.items.length !== 1 ? 's' : ''}
-            </span>
-          </div>
+      {changelog.map((entry) => {
+        const url = pullRequestUrl(entry);
+        return (
+          <section key={`${entry.date}-${entry.title}`} style={{marginBottom: '1.5rem'}}>
+            <div
+              style={{
+                display: 'flex',
+                justifyContent: 'space-between',
+                alignItems: 'baseline',
+                gap: '1rem',
+              }}>
+              <h2 style={{margin: 0}}>
+                {entry.date} —{' '}
+                {url ? (
+                  <a href={url} target="_blank" rel="noopener noreferrer">
+                    {entry.title}
+                  </a>
+                ) : (
+                  entry.title
+                )}
+              </h2>
+              <span style={{color: 'var(--ifm-color-muted)', fontSize: '0.9rem'}}>
+                {entry.items.length} change{entry.items.length !== 1 ? 's' : ''}
+              </span>
+            </div>
 
-          <div
-            style={{
-              marginTop: '0.6rem',
-              border: '1px solid rgba(15, 23, 42, 0.06)',
-              padding: '1rem',
-              borderRadius: 8,
-              background: 'var(--ifm-background-color)',
-            }}>
-            <ul style={{margin: 0, paddingLeft: '1.25rem'}}>
-              {entry.items.map((item, idx) => (
-                <li key={idx} style={{marginBottom: '0.5rem'}}>
-                  <LinkifiedText text={item} />
-                </li>
-              ))}
-            </ul>
-          </div>
-        </section>
-      ))}
+            <div
+              style={{
+                marginTop: '0.6rem',
+                border: '1px solid rgba(15, 23, 42, 0.06)',
+                padding: '1rem',
+                borderRadius: 8,
+                background: 'var(--ifm-background-color)',
+              }}>
+              <ul style={{margin: 0, paddingLeft: '1.25rem'}}>
+                {entry.items.map((item, idx) => (
+                  <li key={idx} style={{marginBottom: '0.5rem'}}>
+                    <LinkifiedText text={item} />
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </section>
+        );
+      })}
     </div>
   );
 }
