@@ -203,6 +203,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 ## Strategy
 
 [How Often Should You Send Your Subscription Newsletter?](https://bloggingguide.com/how-often-should-you-send-your-subscription-newsletter/)
+[Email Marketing Platform Comparison](https://gaugepick.com/email-marketing/comparison/) - independent feature, deliverability and pricing comparison of Mailchimp, Brevo, Klaviyo, ActiveCampaign, Constant Contact and GetResponse
 
 ## Similar companies
 
