@@ -52,6 +52,7 @@ Filter on [Explore → automation](/explore?tag=automation).
 
 ## Ecommerce & outbound
 
+- [JaxSuite AI](https://www.jaxsuite.com) - AI-native cold outreach and CRM platform with built-in warmup, spam testing, and smart sending limits.
 - [Jilt](https://jilt.com) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
 - [Klinky](https://klinky.io) - A/B testing link shortener: split one campaign link between two destinations and measure which one wins
 - [Omnisend](https://omnisend.com) - is an omnichannel marketing automation platform for growth-focused ecommerce businesses
