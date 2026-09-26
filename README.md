@@ -116,6 +116,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ### Deliverability & Testing Tools
 
+* [Canny Pigeons](https://cannypigeons.com) - DMARC monitoring that walks you to p=reject: DNS drift alerts, IP threat intel, and free first domain with hosted DMARC.
 * [Mailtrap](https://mailtrap.io) - is a testing tool and is not designed to deliver emails to real addresses
 * [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
 * [Sendgrid](https://sendgrid.com) - Email delivery service
