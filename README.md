@@ -130,6 +130,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [DailyStory](https://dailystory.com) - Simple to use email marketing and more
 * [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software
 * [Froged](https://froged.com) - Optimize your Customer Experience with One Powerful Product
+* [JaxSuite AI](https://www.jaxsuite.com) - AI-native cold outreach and CRM platform with built-in warmup, spam testing, and smart sending limits.
 * [Jilt](https://jilt.com) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
 * [Keap](https://keap.com) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Klinky](https://klinky.io) - A/B testing link shortener: split one campaign link between two destinations and measure which one wins
