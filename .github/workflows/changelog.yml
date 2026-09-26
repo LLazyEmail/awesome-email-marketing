@@ -1,10 +1,14 @@
 name: Update changelog
 
+# Push, not pull_request: a merged fork PR runs pull_request with a
+# read-only GITHUB_TOKEN, and github-actions[bot] is then denied on push.
 on:
-  pull_request:
-    types: [closed]
+  push:
     branches:
       - main
+    paths-ignore:
+      - 'CHANGELOG.md'
+      - 'website/src/data/changelog.json'
   workflow_dispatch:
 
 permissions:
@@ -17,7 +21,9 @@ concurrency:
 jobs:
   changelog:
     name: Regenerate changelog
-    if: github.event_name == 'workflow_dispatch' || github.event.pull_request.merged == true
+    # Skip the follow-up push this job creates, even if that commit touches
+    # files outside paths-ignore.
+    if: github.event_name == 'workflow_dispatch' || github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     defaults:
       run:

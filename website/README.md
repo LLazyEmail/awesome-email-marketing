@@ -67,7 +67,7 @@ GitHub Actions workflows live in [`.github/workflows/`](../.github/workflows):
 
 - `test-deploy.yml` — runs `lint:docs-links` then builds the site on pull requests
 - `deploy.yml` — builds and deploys to GitHub Pages on pushes to `main`
-- `changelog.yml` — regenerates `CHANGELOG.md` and the docs changelog after each merged PR to `main`
+- `changelog.yml` — regenerates `CHANGELOG.md` and the docs changelog on each push to `main`
 - `docs-index.yml` — regenerates `docs/pages-index.md` (+ JSON export) when docs pages change on `main`
 
 ### One-time GitHub Pages setup
