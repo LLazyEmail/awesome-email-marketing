@@ -113,7 +113,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Colorlib](https://colorlib.com) - is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month
 * [Mailbakery](https://mailbakery.com) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
 * [Postcards](https://designmodo.com/postcards) - Create awesome emails with drag & drop simplicity
-* [Stripo](https://stripo.email/fr) - Plateforme de conception d'e-mails
+* [Stripo](https://stripo.email) - Drag-n-drop and HTML email builder with 1,690+ responsive templates
 
 ### Deliverability & Testing Tools
 
