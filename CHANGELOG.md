@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add Xem to the self-hosted email platform lists ([#250](https://github.com/LLazyEmail/awesome-email-marketing/pull/250))
 - docs: copy open list PRs onto matching Docusaurus pages ([#252](https://github.com/LLazyEmail/awesome-email-marketing/pull/252))
 - Fix Stripo link ([#249](https://github.com/LLazyEmail/awesome-email-marketing/pull/249))
 - docs: fix Stripo English link on Email Builders page ([#249](https://github.com/LLazyEmail/awesome-email-marketing/pull/249))

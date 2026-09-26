@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-09-26",
+    "title": "Add Xem to the self-hosted email platform lists",
+    "items": [
+      "Merged pull request #250",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/250"
+    ]
+  },
+  {
+    "date": "2026-09-26",
     "title": "docs: copy open list PRs onto matching Docusaurus pages",
     "items": [
       "Merged pull request #252",
