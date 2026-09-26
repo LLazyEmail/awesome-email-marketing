@@ -8,6 +8,20 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: copy open list PRs onto matching Docusaurus pages ([#252](https://github.com/LLazyEmail/awesome-email-marketing/pull/252))
+- Fix Stripo link ([#249](https://github.com/LLazyEmail/awesome-email-marketing/pull/249))
+- docs: fix Stripo English link on Email Builders page ([#249](https://github.com/LLazyEmail/awesome-email-marketing/pull/249))
+- Add Email Campaign Preflight to testing tools ([#245](https://github.com/LLazyEmail/awesome-email-marketing/pull/245))
+- Add SPF and DMARC Statistics 2026 to DNS DKIM Records ([#248](https://github.com/LLazyEmail/awesome-email-marketing/pull/248))
+- Add independent ESP comparison guide to Strategy ([#246](https://github.com/LLazyEmail/awesome-email-marketing/pull/246))
+- Add MailySend to Self-Hosted ESPs ([#247](https://github.com/LLazyEmail/awesome-email-marketing/pull/247))
+- Add Inboxproof to Deliverability & Testing Tools ([#244](https://github.com/LLazyEmail/awesome-email-marketing/pull/244))
+- Add JaxSuite AI to Growth & Automation Tools ([#242](https://github.com/LLazyEmail/awesome-email-marketing/pull/242))
+- Add Canny Pigeon ([#241](https://github.com/LLazyEmail/awesome-email-marketing/pull/241))
+- docs(readme): add Cold Email Italy Observatory to Data Driven Email Marketing ([#239](https://github.com/LLazyEmail/awesome-email-marketing/pull/239))
+- Add Klinky ([#238](https://github.com/LLazyEmail/awesome-email-marketing/pull/238))
+- docs: add Cold Email Italy Observatory to Data-Driven page ([#239](https://github.com/LLazyEmail/awesome-email-marketing/pull/239))
+- docs: add Klinky to Growth & Automation Tools ([#238](https://github.com/LLazyEmail/awesome-email-marketing/pull/238))
 - Port Hasura docs CSS modules for a closer visual match ([#236](https://github.com/LLazyEmail/awesome-email-marketing/pull/236))
 - Adopt Hasura-inspired professional docs theme ([#234](https://github.com/LLazyEmail/awesome-email-marketing/pull/234))
 - Use Helvetica Neue with Eightshift-like typography ([#233](https://github.com/LLazyEmail/awesome-email-marketing/pull/233))

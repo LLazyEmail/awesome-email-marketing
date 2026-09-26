@@ -1,5 +1,117 @@
 [
   {
+    "date": "2026-09-26",
+    "title": "docs: copy open list PRs onto matching Docusaurus pages",
+    "items": [
+      "Merged pull request #252",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/252"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Fix Stripo link",
+    "items": [
+      "Merged pull request #249",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/249"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "docs: fix Stripo English link on Email Builders page",
+    "items": [
+      "Merged pull request #249",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/249"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Add Email Campaign Preflight to testing tools",
+    "items": [
+      "Merged pull request #245",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/245"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Add SPF and DMARC Statistics 2026 to DNS DKIM Records",
+    "items": [
+      "Merged pull request #248",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/248"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Add independent ESP comparison guide to Strategy",
+    "items": [
+      "Merged pull request #246",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/246"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Add MailySend to Self-Hosted ESPs",
+    "items": [
+      "Merged pull request #247",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/247"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Add Inboxproof to Deliverability & Testing Tools",
+    "items": [
+      "Merged pull request #244",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/244"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Add JaxSuite AI to Growth & Automation Tools",
+    "items": [
+      "Merged pull request #242",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/242"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Add Canny Pigeon",
+    "items": [
+      "Merged pull request #241",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/241"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "docs(readme): add Cold Email Italy Observatory to Data Driven Email Marketing",
+    "items": [
+      "Merged pull request #239",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/239"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "Add Klinky",
+    "items": [
+      "Merged pull request #238",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/238"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "docs: add Cold Email Italy Observatory to Data-Driven page",
+    "items": [
+      "Merged pull request #239",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/239"
+    ]
+  },
+  {
+    "date": "2026-09-26",
+    "title": "docs: add Klinky to Growth & Automation Tools",
+    "items": [
+      "Merged pull request #238",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/238"
+    ]
+  },
+  {
     "date": "2026-07-30",
     "title": "Port Hasura docs CSS modules for a closer visual match",
     "items": [
