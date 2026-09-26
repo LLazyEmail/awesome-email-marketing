@@ -61,6 +61,10 @@ Filter on [Explore → automation](/explore?tag=automation), [esp](/explore?tag=
 - [Wraps](https://wraps.dev) — automations/templates/broadcasts sending through your AWS
 - [Overloop CLI](https://github.com/sortlist/overloop-cli) — AI-powered outbound engine as a CLI (`npm i -g overloop-cli`)
 
+## Comparisons
+
+- [Email Marketing Platform Comparison](https://gaugepick.com/email-marketing/comparison/) - independent feature, deliverability and pricing comparison of Mailchimp, Brevo, Klaviyo, ActiveCampaign, Constant Contact and GetResponse
+
 ## Related
 
 - [Growth & Automation Tools](./growth-automation-tools)

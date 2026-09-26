@@ -44,7 +44,9 @@ Related: [Open Source Tools](./open-source-tools).
 - [Mailster](https://mailster.co) - is an easy to use Email Newsletter Plugin for WordPress
 - [Mailtrain](https://github.com/Mailtrain-org/mailtrain) - is a self-hosted newsletter app developed in Node. js. It allows you to manage large subscriber lists, generate a new campaign using entry data as message contents, send it to selected subscribers, and track individual click statistics for every link in the message.
 - [MailWiz](https://mailwizz.com) - Self-hosted Email Marketing Software
+- [MailySend](https://github.com/GagnDeep/mailysend) - is a self-hosted email platform with a Resend-compatible API: transactional sending, audiences and live segments, broadcasts with A/B testing, inbound mailboxes, and deliverability analytics. Runs on Cloudflare Workers in your own account or on a plain Node server, sending through Cloudflare Email Service, Amazon SES, Resend or SMTP.
 - [Peopcampaigns](https://pepocampaigns.com) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
 - [Sendy](https://sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
+- [Xem](https://xem.email/) - Open-source email marketing with newsletters, templates, audience lists, and visual automations; supports custom SMTP and managed sending through Amazon SES.
 
 Browse with tags on [Explore → self-hosted](/explore?tag=self-hosted) or [esp](/explore?tag=esp).
