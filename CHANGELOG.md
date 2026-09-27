@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: add Tech Newsletters page from newsletters db #95 ([#285](https://github.com/LLazyEmail/awesome-email-marketing/pull/285))
 - Update glossary.json ([#271](https://github.com/LLazyEmail/awesome-email-marketing/pull/271))
 - Update glossary.json ([#270](https://github.com/LLazyEmail/awesome-email-marketing/pull/270))
 - docs: add blank ecommerce Industry Leader source pages ([#269](https://github.com/LLazyEmail/awesome-email-marketing/pull/269))

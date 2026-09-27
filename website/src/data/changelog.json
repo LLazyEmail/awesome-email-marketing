@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-09-27",
+    "title": "docs: add Tech Newsletters page from newsletters db #95",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/285",
+    "items": [
+      "Merged pull request #285",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/285"
+    ]
+  },
+  {
+    "date": "2026-09-27",
     "title": "Update glossary.json",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/271",
     "items": [
