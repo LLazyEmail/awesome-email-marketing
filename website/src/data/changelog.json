@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-09-27",
+    "title": "docs: split services.md into a Services section of stub pages",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/290",
+    "items": [
+      "Merged pull request #290",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/290"
+    ]
+  },
+  {
+    "date": "2026-09-27",
     "title": "docs: add Mailchimp, ConvertKit, Litmus lists from issues #256 #258 #259",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/289",
     "items": [
