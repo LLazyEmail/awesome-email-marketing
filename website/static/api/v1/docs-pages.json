@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T01:22:03.553Z",
-  "count": 80,
+  "generatedAt": "2026-09-27T02:04:05.802Z",
+  "count": 83,
   "pages": [
     {
       "id": "api",
@@ -357,8 +357,8 @@
     {
       "id": "guides/vendor-blogs/automizy",
       "title": "Automizy Blog",
-      "sidebarLabel": "Automizy Blog",
-      "description": "Automizy Blog — curated guides resources from the Awesome Email Marketing library.",
+      "sidebarLabel": "Automizy Blog (moved)",
+      "description": "Automizy Blog moved to the Industry Leaders section.",
       "path": "guides/vendor-blogs/automizy.md",
       "url": "/docs/guides/vendor-blogs/automizy",
       "section": "guides",
@@ -368,8 +368,8 @@
     {
       "id": "guides/vendor-blogs/drip",
       "title": "Drip Blog",
-      "sidebarLabel": "Drip Blog",
-      "description": "Drip Blog — curated guides resources from the Awesome Email Marketing library.",
+      "sidebarLabel": "Drip Blog (moved)",
+      "description": "Drip Blog moved to the Industry Leaders section.",
       "path": "guides/vendor-blogs/drip.md",
       "url": "/docs/guides/vendor-blogs/drip",
       "section": "guides",
@@ -379,8 +379,8 @@
     {
       "id": "guides/vendor-blogs/revue",
       "title": "Revue",
-      "sidebarLabel": "Revue",
-      "description": "Revue — curated guides resources from the Awesome Email Marketing library.",
+      "sidebarLabel": "Revue (moved)",
+      "description": "Revue moved to the Industry Leaders section.",
       "path": "guides/vendor-blogs/revue.md",
       "url": "/docs/guides/vendor-blogs/revue",
       "section": "guides",
@@ -762,12 +762,34 @@
       "unlisted": false
     },
     {
+      "id": "industry-leaders/ecommerce/drip",
+      "title": "Drip Blog",
+      "sidebarLabel": "Drip",
+      "description": "Ecommerce email campaigns, drip examples, and popup tactics from the Drip blog.",
+      "path": "industry-leaders/ecommerce/drip.md",
+      "url": "/docs/industry-leaders/ecommerce/drip",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
       "id": "industry-leaders/ecommerce/klaviyo",
       "title": "Klaviyo articles",
       "sidebarLabel": "Klaviyo",
       "description": "Ecommerce email and SMS strategy articles from Klaviyo.",
       "path": "industry-leaders/ecommerce/klaviyo.md",
       "url": "/docs/industry-leaders/ecommerce/klaviyo",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/esp-blogs/automizy",
+      "title": "Automizy Blog",
+      "sidebarLabel": "Automizy",
+      "description": "SaaS marketing, CTAs, list management, and drip-campaign articles from the Automizy blog.",
+      "path": "industry-leaders/esp-blogs/automizy.md",
+      "url": "/docs/industry-leaders/esp-blogs/automizy",
       "section": "industry-leaders",
       "draft": false,
       "unlisted": false
@@ -878,6 +900,17 @@
       "description": "Curated inspiration and teardown writing from Really Good Emails.",
       "path": "industry-leaders/publications/really-good-emails.md",
       "url": "/docs/industry-leaders/publications/really-good-emails",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/publications/revue",
+      "title": "Revue",
+      "sidebarLabel": "Revue",
+      "description": "Paid-newsletter strategy articles from Revue (The Week in Newsletters).",
+      "path": "industry-leaders/publications/revue.md",
+      "url": "/docs/industry-leaders/publications/revue",
       "section": "industry-leaders",
       "draft": false,
       "unlisted": false
