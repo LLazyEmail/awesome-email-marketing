@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-09-27",
+    "title": "docs: add Mailchimp, ConvertKit, Litmus lists from issues #256 #258 #259",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/289",
+    "items": [
+      "Merged pull request #289",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/289"
+    ]
+  },
+  {
+    "date": "2026-09-27",
     "title": "docs: fill ecommerce Industry Leader pages from issues #274–#284",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/288",
     "items": [

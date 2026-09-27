@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: add Mailchimp, ConvertKit, Litmus lists from issues #256 #258 #259 ([#289](https://github.com/LLazyEmail/awesome-email-marketing/pull/289))
 - docs: fill ecommerce Industry Leader pages from issues #274–#284 ([#288](https://github.com/LLazyEmail/awesome-email-marketing/pull/288))
 - docs: split a.md growth hacks into a Growth Hacks docs section ([#287](https://github.com/LLazyEmail/awesome-email-marketing/pull/287))
 - docs: add Tech Newsletters page from newsletters db #95 ([#285](https://github.com/LLazyEmail/awesome-email-marketing/pull/285))
