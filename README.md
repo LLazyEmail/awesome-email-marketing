@@ -87,7 +87,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [ConvertKit](https://convertkit.com) - is the go-to marketing hub for creators that helps you grow and monetize your audience with ease
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy
 * [Feedotter](https://feedotter.com) - Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools
-* [Flodesk](https://flodesk.com) - a new email marketing service provider that’s built for creators, by creators
+* [Flodesk](https://flodesk.com) - a new email marketing service provider that's built for creators, by creators
 * [Mailerlite](https://mailerlite.com/pricing) - Pricing mailerlite
 * [NoCodeLetters](https://nocodeletters.com) - Send your newsletters directly from Notion
 * [Revue](https://getrevue.co) - Editorial newsletters tool for writers and publishers
@@ -123,7 +123,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
 * [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) - Offline HTML campaign QA with machine-readable JSON and client-readable Markdown reports.
 * [Sendgrid](https://sendgrid.com) - Email delivery service
-* [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
+* [Sparkpost](https://sparkpost.com) - is the world's first and only predictive email intelligence platform
 * [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 
 ### Growth & Automation Tools
@@ -164,6 +164,180 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 - Campaign Monitor (listed below)
 - [Encharge](https://encharge.io/)
 - [Newsletter2go](https://docs.newsletter2go.com/)
+
+### selzy
+
+Source: [Issue #274](https://github.com/LLazyEmail/awesome-email-marketing/issues/274)
+
+1. [A beginner's journey to managing a bi-weekly newsletter as a one-person team + Tips](https://selzy.com/en/blog/newsletter-beginners-experience/)
+2. [Most popular email marketing sequences and how to get the best of them](https://selzy.com/en/blog/email-sequence/)
+3. [Best practices for high-converting email signup forms](https://selzy.com/en/blog/email-sign-up-form-best-practices/)
+4. [Omnichannel email marketing: Strategies that work in 2025](https://selzy.com/en/blog/email-for-omnichannel-marketing/)
+5. [Boost customer engagement with email optimization!](https://selzy.com/en/blog/email-marketing-optimization/)
+6. [A foolproof guide to email list building](https://selzy.com/en/blog/guide-email-list-building/)
+7. [Recap of Email Camp MessageMania 2024 — the highlights and insights](https://selzy.com/en/blog/email-camp-messagemania-2024-recap/)
+8. [Best Email Marketing Lead Generation Techniques to Help You Gain Customers](https://selzy.com/en/blog/email-lead-generation/)
+9. [Top 12 email marketing blogs in 2026](https://selzy.com/en/blog/best-email-marketing-blogs/)
+
+### twilio segment
+
+Source: [Issue #275](https://github.com/LLazyEmail/awesome-email-marketing/issues/275)
+
+1. [Email vs. SMS: How to Choose the Right Channel (2025)](https://www.twilio.com/en-us/blog/insights/email-vs-sms-which-channel-should-you-choose)
+2. [The truth about SMTP commands and your email campaigns](https://www.twilio.com/en-us/blog/insights/best-practices/smtp-commands)
+3. [What is a plain text email (and how to use it)?](https://www.twilio.com/en-us/blog/insights/plain-text-email)
+4. [How Email Delivery Works: Understanding the Email Journey](https://www.twilio.com/en-us/blog/insights/how-email-delivery-works)
+5. [10+ best practices to improve your email deliverability](https://www.twilio.com/en-us/blog/insights/8-best-practices-to-improve-your-email-deliverability)
+6. [Outlook Announces New Sender Requirements](https://www.twilio.com/en-us/blog/insights/outlook-new-email-sender-requirements)
+7. [Liftoff and Learn Twilio Sendgrid Email](https://www.twilio.com/en-us/blog/developers/liftoff-and-learn-twilio-sendgrid-email)
+8. [How to Create an HTML Email (Tips & How-tos)](https://www.twilio.com/en-us/blog/insights/create-html-emails)
+9. [How to reply to an email: 8+ tips for responding to emails](https://www.twilio.com/en-us/blog/insights/6-tips-for-responding-to-your-email-recipients)
+10. [Email Testing Walkthrough and Examples: Send Flawless Emails Every Time](https://static1.twilio.com/en-us/blog/insights/email-testing-walkthrough)
+
+### omnisend
+
+Source: [Issue #276](https://github.com/LLazyEmail/awesome-email-marketing/issues/276)
+
+1. [Email Marketing Strategy: Data-Driven Tips for 2026](https://www.omnisend.com/blog/email-marketing-strategy/)
+2. [Mastering Email Deliverability: A Q&A with Jimmy Kim](https://www.omnisend.com/blog/jimmy-kim-interview-email-deliverability/)
+3. [Customer Lifecycle Automation: A Practical Guide](https://www.omnisend.com/blog/customer-lifecycle-automation/)
+4. [Using Emojis in Email Subject Lines [Guide + Examples]](https://www.omnisend.com/blog/emojis-for-email/)
+5. [Segmenting by Purchased Category in Omnisend: How We Made It Work](https://www.omnisend.com/blog/segmenting-by-purchased-category/)
+6. [Email Marketing Statistics 2026: Key Insights](https://www.omnisend.com/blog/email-marketing-statistics/)
+7. [How Gmail's latest changes impact your email marketing](https://www.omnisend.com/blog/gmail-changes-manage-subscriptions/)
+8. [Mastering Email Automation: An Interview with Ezra Firestone](https://www.omnisend.com/blog/ezra-firestone-interview-email-automation/)
+9. [Cyber Monday Emails: Examples, Subject Lines & Send Times](https://www.omnisend.com/blog/cyber-monday-emails/)
+10. [Email List Management: The Ecommerce Guide](https://www.omnisend.com/blog/email-list-management/)
+11. [Opt-In Email Marketing: 2026 Guide & Free Templates](https://www.omnisend.com/blog/opt-in-emails/)
+12. [Email Deliverability: Complete Ecommerce Guide [2026]](https://www.omnisend.com/blog/email-deliverability/)
+13. [Email Marketing Automation Strategy: Complete Guide (2026)](https://www.omnisend.com/blog/email-marketing-automation-strategy/)
+14. [Email introduction: how to write it (+ examples)](https://www.omnisend.com/blog/introduction-email/)
+15. [What Is a Mailing List? Definition, Types & Tips (2026)](https://www.omnisend.com/blog/what-is-a-mailing-list/)
+16. [Shopify Emails Going to Spam? Fix It Fast (2026)](https://www.omnisend.com/blog/shopify-emails-going-to-spam/)
+17. [Email Marketing ROI: Guide + Free Calculator](https://www.omnisend.com/blog/email-marketing-roi/)
+18. [A/B Testing on Shopify: Complete 2026 Guide For Growth](https://www.omnisend.com/blog/ab-testing-on-shopify/)
+19. [Customer Service Email Templates for Ecommerce Brands](https://www.omnisend.com/blog/customer-service-email/)
+20. [Order Confirmation Email: Templates & Examples [2026]](https://www.omnisend.com/blog/order-confirmation-email-automation-conversions/)
+21. [How to Customize Shopify Email Templates Effectively in 2026](https://www.omnisend.com/blog/shopify-email-templates/)
+22. [Give shoppers a way to say no (and most of them will take it)](https://www.omnisend.com/blog/no-thanks-button-recommendation/)
+
+### shopify
+
+Source: [Issue #277](https://github.com/LLazyEmail/awesome-email-marketing/issues/277)
+
+1. [How To Create an Email Marketing Funnel That Converts (2026)](https://www.shopify.com/blog/email-marketing-funnel)
+2. [How To Create Automated Drip Campaigns](https://www.shopify.com/blog/drip-campaign)
+3. [Boost Your Revenue with Smarter Email List Segmentation (2026)](https://www.shopify.com/enterprise/blog/email-list-segmentation-strategies-for-high-volume-ecommerce-stores)
+4. [Automated Email Campaigns: A Beginner's Guide (2025)](https://www.shopify.com/blog/automated-email-campaigns)
+5. [Email Marketing Strategy: Guide and Tips for Small Businesses](https://www.shopify.com/blog/email-marketing-strategy)
+6. [A/B Testing: What It Is and How to Do It (With Examples)](https://www.shopify.com/blog/ab-testing)
+7. [Inbound Email Marketing: Guide for Small Businesses (2026)](https://www.shopify.com/blog/inbound-email-marketing)
+8. [Marketing Automation: A Beginner's Guide (2025)](https://www.shopify.com/blog/what-is-marketing-automation)
+9. [How To Start a Substack To Promote Your Small Business (2025)](https://www.shopify.com/blog/how-to-start-a-substack)
+10. [Shopify Email Subject Lines: Formulas and Examples](https://www.shopify.com/blog/email-subject-lines)
+
+### magento
+
+Source: [Issue #278](https://github.com/LLazyEmail/awesome-email-marketing/issues/278)
+
+1. [Email marketing — a step-by-step guide to getting started](https://business.adobe.com/blog/basics/guide-to-email-marketing)
+2. [How to maximize email deliverability during peak season](https://business.adobe.com/blog/how-to-maximize-email-deliverability-during-peak-season)
+3. [Streamline email marketing: Automated approvals with Adobe Campaign](https://business.adobe.com/blog/how-to/streamlining-email-marketing-tasks-with-automated-approvals)
+4. [Email marketing personalization improves customer engagement](https://business.adobe.com/blog/basics/personalized-email)
+5. [Unleashing the power of AI in Adobe Journey Optimizer with AI Assistant Content Accelerator](https://business.adobe.com/blog/the-latest/unleashing-the-power-of-ai-in-ajo-with-ai-assistant-content-accelerator)
+6. [Boosting email deliverability in peak season](https://business.adobe.com/blog/the-latest/boosting-email-deliverability-in-peak-season)
+7. [Adobe Campaign Introduces New Email Capabilities Powered by Creativity and Data](https://business.adobe.com/blog/the-latest/adobe-campaign-introduces-new-email-capabilities-powered-creativity-data)
+8. [Learn about targeted email campaigns to deliver more personalized experiences](https://business.adobe.com/blog/basics/learn-about-targeted-email-campaigns-deliver-more-personalized-experiences)
+9. [Smarter AI email marketing with Adobe Journey Optimizer](https://business.adobe.com/blog/leading-ai-era-email-marketing-adobe-journey-optimizer)
+10. [Marketing propensity — marketing that thinks like your customer](https://business.adobe.com/blog/marketing-propensity-marketing-that-thinks-like-your-customer)
+11. [Create an exceptional email program with Adobe Journey Optimizer](https://business.adobe.com/blog/the-latest/create-an-exceptional-email-program-with-adobe-journey-optimizer)
+12. [Unleash the power of your email data](https://business.adobe.com/blog/perspectives/unleash-the-power-of-your-email-data)
+13. [The definitive guide to ecommerce email marketing](https://business.adobe.com/blog/basics/definitive-guide-to-ecommerce-email-marketing)
+14. [Everything you need to know about email marketing](https://business.adobe.com/blog/basics/learn-about-email-marketing)
+15. [Email Automation: Marketing + Strategy](https://business.adobe.com/blog/basics/email-automation-marketing)
+
+### sender
+
+Source: [Issue #279](https://github.com/LLazyEmail/awesome-email-marketing/issues/279)
+
+1. [Meet the All-New Email Builder: One Flexible Container for Every Layout](https://www.sender.net/blog/email-builder-flexible-container/)
+2. [MCP Email Marketing: What It Actually Does for Your Campaigns](https://www.sender.net/blog/mcp-email-marketing/)
+3. [Meet Your AI Marketing Co-Pilot: Sender MCP Server](https://www.sender.net/blog/sender-mcp-server/)
+4. [Product Update: August, 2026](https://www.sender.net/blog/product-update-august-2026/)
+5. [CRM Marketing: What It Is and How It Works (2026)](https://www.sender.net/blog/crm-marketing/)
+6. [SMTP Ports Explained: 25, 465, 587, or 2525 (2026)](https://www.sender.net/blog/smtp-ports/)
+7. [The Email Suppression List: Compliance, Architecture, and Operations Guide](https://www.sender.net/blog/email-suppression-list/)
+8. [Why Are My Emails Going to Spam? The Diagnostic Playbook](https://www.sender.net/blog/emails-going-to-spam/)
+9. [Email Infrastructure: 2026 Guide to Building, Buying, and Operating It](https://www.sender.net/blog/email-infrastructure/)
+10. [Spam Traps: The Guide to Detection, Removal, and Recovery](https://www.sender.net/blog/spam-traps/)
+11. [Spam Filter Triggers: Guide to Avoiding the Spam Folder](https://www.sender.net/blog/spam-filter-triggers/)
+12. [BIMI Implementation: How to Set Up Brand Logos in Inboxes](https://www.sender.net/blog/bimi-implementation/)
+
+### hustler marketing
+
+Source: [Issue #280](https://github.com/LLazyEmail/awesome-email-marketing/issues/280)
+
+1. [What Is UGC in Social Media Marketing?](https://www.hustlermarketing.com/blog/what-is-ugc-in-social-media-marketing/)
+2. [How to Use User-Generated Content to Build Consumer Trust in 2026](https://www.hustlermarketing.com/blog/how-to-use-user-generated-content-to-build-consumer-trust-in-2026/)
+3. [Targeted Email Marketing Services That Help You Reach the Right People](https://www.hustlermarketing.com/blog/targeted-email-marketing-services/)
+4. [What is Email Marketing Automation? How Modern Brands Send Smarter](https://www.hustlermarketing.com/blog/what-is-email-marketing-automation-how-modern-brands-send-smarter/)
+5. [How to Integrate Your Social Media and Email Marketing](https://www.hustlermarketing.com/blog/how-to-integrate-your-social-media-and-email-marketing/)
+6. [What Is Email Marketing and How to Do It in 2026](https://www.hustlermarketing.com/blog/what-is-email-marketing-and-how-to-do-it-in-2026/)
+7. [UGC Marketing Strategy: How to Turn Content Into Conversions](https://www.hustlermarketing.com/blog/ugc-marketing-strategy-how-to-turn-content-into-conversions/)
+8. [UGC Marketing for Ecommerce: How to Turn Content Into Conversions](https://www.hustlermarketing.com/blog/ugc-marketing-for-ecommerce/)
+9. [How to Build a High-Converting Email Marketing Strategy (Step-by-Step)](https://www.hustlermarketing.com/blog/build-a-high-converting-email-marketing-strategy/)
+10. [The January Email Reset: 5 Things to Audit This Month](https://www.hustlermarketing.com/blog/the-january-email-reset-5-things-to-audit-this-month/)
+
+### salesforce
+
+Source: [Issue #281](https://github.com/LLazyEmail/awesome-email-marketing/issues/281)
+
+1. [Asking for a Friend: What's the Difference Between Email Delivery and Email Deliverability?](https://www.salesforce.com/blog/email-delivery-versus-deliverability/)
+2. [What is an Email Sending Reputation and How Can You Improve It?](https://www.salesforce.com/blog/email-sending-reputation/)
+3. [Email Authentication Just Got More Crucial: Here's Why](https://www.salesforce.com/blog/email-authentication/)
+4. [Why Email Open Rates Are Still Relevant for Marketers](https://www.salesforce.com/blog/email-open-rates/)
+5. [What is Email Marketing? Definition & Tips (2026)](https://www.salesforce.com/eu/marketing/email/guide/)
+6. [Email Marketing Customer Journey Guide](https://www.salesforce.com/uk/marketing/email/customer-journeys/)
+7. [A Complete Guide to Ecommerce Email Marketing Strategies](https://www.salesforce.com/ap/marketing/email/ecommerce-email-marketing/)
+8. [What Is Email Segmentation?](https://www.salesforce.com/eu/marketing/email/segmentation/)
+9. [Email Marketing A/B Testing: A Complete Guide (2024)](https://www.salesforce.com/ap/marketing/email/a-b-testing/)
+10. [Email Personalization: A Marketing Guide](https://www.salesforce.com/marketing/email/personalization/)
+11. [Email Marketing & CRM: A Guide](https://www.salesforce.com/uk/marketing/email/crm/)
+12. [Maximise Engagement with EDM Marketing](https://www.salesforce.com/au/marketing/engagement/email-marketing/edm-marketing/)
+13. [Email Marketing Automation Guide - How to Build an Email List](https://www.salesforce.com/uk/marketing/email/list/)
+
+### ecomercefuel
+
+Source: [Issue #282](https://github.com/LLazyEmail/awesome-email-marketing/issues/282)
+
+1. [eCommerce Email Marketing: The Complete Guide With Examples](https://old.ecommercefuel.com/ecommerce-email-marketing/)
+2. [Re Engagement Campaign Magic: How We Improved Our Email Open Rate by 25%](https://old.ecommercefuel.com/email-re-engagement-campaign/)
+3. [Building an 80,000+ Person Email List in Under 8 Months](https://www.ecommercefuel.com/building-an-email-list/)
+4. [How to 5X Sales from Email Marketing in a Year](https://www.ecommercefuel.com/5x-email-marketing-revenue/)
+
+### wix
+
+Source: [Issue #283](https://github.com/LLazyEmail/awesome-email-marketing/issues/283)
+
+1. [How does email work on Wix? Your complete guide to connecting a mailbox](https://www.wix.com/blog/how-does-email-work-on-wix)
+2. [Does Wix have email marketing?](https://www.wix.com/blog/does-wix-have-email-marketing)
+3. [Wix Blog: Promoting Your Published Post](https://support.wix.com/en/article/wix-blog-promoting-your-published-post)
+4. [Wix Blog: Sending Blog Post Notifications to Your Subscribers](https://support.wix.com/en/article/wix-blog-sending-blog-post-notifications-to-your-subscribers)
+5. [Wix Blog: Customizing the Email Notification Sent to Your Site Visitors](https://support.wix.com/en/article/wix-blog-customizing-the-email-notification-sent-to-your-site-visitors)
+6. [Blog: Sample Use Cases & Flows (Email subscribers)](https://dev.wix.com/docs/api-reference/business-solutions/blog/sample-flows)
+
+### square
+
+Source: [Issue #284](https://github.com/LLazyEmail/awesome-email-marketing/issues/284)
+
+1. [Square Marketing: Email and Text Campaigns](https://squareup.com/us/en/marketing)
+2. [Get Started with Square Email Marketing](https://app.squareup.com/help/us/en/article/5346-get-started-with-square-marketing)
+3. [Create Marketing Campaigns](https://squareup.com/help/us/en/article/8412-create-marketing-campaigns)
+4. [Get Started with Customer Engagement](https://squareup.com/help/us/en/article/5499-get-started-with-customer-engagement)
+5. [Using Automated Campaigns](https://squareup.com/help/us/en/article/6266-using-automated-campaigns)
+6. [Build Your Customer Database with Square](https://squareup.com/us/en/square-university/marketing-customer)
+7. [Build Your Customer List & Send Email Campaigns](https://squareup.com/us/en/square-university/marketing-customer)
+8. [Create Simple Marketing Campaigns & Automations](https://squareup.com/us/en/square-university/marketing-customer)
 
 ## Automation Email Marketing platform
 
@@ -230,14 +404,14 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 - [6 Strategies to Make Your Email Campaign More Data-Driven](https://www.voilanorbert.com/blog/data-driven-email-campaigns/)
 - [Data-Driven Email Marketing](https://emailmastery.org/data-driven-email-marketing/) 
 - [Data-Driven Email Marketing Strategies](https://emailmastery.org/data-driven-email-marketing-strategies/) 
-- [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://www.tye.io/en/blog/data-driven-email-marketing/) 
+- [Better Emails With Data-Driven Marketing: A Beginner's Guide](https://www.tye.io/en/blog/data-driven-email-marketing/) 
 - [How to Get Started with Data-Driven Email Marketing](https://clevertap.com/blog/get-started-with-data-driven-email-marketing/) 
 - [Cold Email Italy Observatory](https://github.com/arnold222a/osservatorio-cold-email-italia) - Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by industry, CC BY 4.0
 
 Order is :
 
 - [Data-Driven Email Marketing](https://emailmastery.org/data-driven-email-marketing/)
-- [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://www.tye.io/en/blog/data-driven-email-marketing/)
+- [Better Emails With Data-Driven Marketing: A Beginner's Guide](https://www.tye.io/en/blog/data-driven-email-marketing/)
 - [[Slides](https://www.notion.so/Slides-a1b9bff869c348caa6b92264048e5f05)][How to Get Started with Data-Driven Email Marketing](https://clevertap.com/blog/get-started-with-data-driven-email-marketing/)
 
 ## Lifecycle of
@@ -284,7 +458,7 @@ Docs: [`website/docs/strategy/lifecycle-emails.md`](./website/docs/strategy/life
 - [What is a Personalized Email? Definition, Tactics & Examples](https://respona.com/blog/personalized-email/)
 - [What is a Personalized Email: Definition and Guide](https://sendpulse.com/support/glossary/personalized-email)
 - [The power of personalized emails: A guide for marketers](https://www.mailjet.com/blog/email-best-practices/personalized-emails/)
-- [10 Email Personalization Hacks: How to Grab a Prospect’s Attention](https://www.cience.com/blog/email-personalization-hacks)
+- [10 Email Personalization Hacks: How to Grab a Prospect's Attention](https://www.cience.com/blog/email-personalization-hacks)
 
 ## Read and use later
 
@@ -292,7 +466,7 @@ Docs: [`website/docs/strategy/lifecycle-emails.md`](./website/docs/strategy/life
 - [What is Spam? How to Avoid Spam Filters](https://mailchimp.com/resources/avoid-spam-filters/)
 - [Email Marketing Benchmarks and Statistics by Industry](https://mailchimp.com/resources/email-marketing-benchmarks/)
 - [What We Learned From A Week Of Prototyping A Newsletter In Public](https://www.buzzfeed.com/millietran/what-we-learned-from-a-week-of-prototyping-a-newsletter-in-p?utm_term=.buZREmGLv#.clEON14Zb)
-- [How The Skimm’s passionate readership helped its newsletter grow to 1.5 million subscribers](https://www.niemanlab.org/2015/08/how-the-skimms-passionate-readership-helped-its-newsletter-grow-to-1-5-million-subscribers/)
+- [How The Skimm's passionate readership helped its newsletter grow to 1.5 million subscribers](https://www.niemanlab.org/2015/08/how-the-skimms-passionate-readership-helped-its-newsletter-grow-to-1-5-million-subscribers/)
 - [25 Tips for Perfecting Your E-mail EtiquetteDo you have bad netiquette? In other words, are you appalling colleagues with your awful e-mail manners? Clean-up your act with these etiquette tips from the experts.](https://www.inc.com/guides/2010/06/email-etiquette.html)
 
 ## Newsletters lead generation
@@ -329,7 +503,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 
 ## Resources which give answers about importance e-mail in your business
 
-- [Elastic-email. A Beginner’s Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
+- [Elastic-email. A Beginner's Guide to Email Deliverability](https://elasticemail.com/blog/beginners-guide-to-email-deliverability)
 - [4 Innovative Email and Instant Messaging Platforms in 2022](https://hackernoon.com/4-innovative-email-and-instant-messaging-platforms-in-2022)
 - [How Bilety.fm Transitioned to Elastic Email](https://elasticemail.com/blog/bilety-fm-case-study)
 - [What Are The Advantages Of Mobile-First Email Design](https://elasticemail.com/blog/marketing_tips/mobile-first-email-design)
@@ -377,7 +551,7 @@ Docs: [`website/docs/guides/demand-curve.md`](./website/docs/guides/demand-curve
 - [How Email Marketing Increased Monthly Revenue Growth By 34%](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
 - [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
 - [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
-- [Making the most of your funnel: the ‘Hail Mary’ email](https://www.getvero.com/resources/making-the-most-of-your-funnel-the-hail-mary-email/) 
+- [Making the most of your funnel: the 'Hail Mary' email](https://www.getvero.com/resources/making-the-most-of-your-funnel-the-hail-mary-email/) 
 - [15 Campaigns to Give You Inspiration for Data-driven Email Marketing Campaigns](https://www.getvero.com/resources/15-data-driven-email-marketing-campaigns-to-help-you-kick-ass-in-2014/)
 - [How Email Marketing Increased Monthly Revenue Growth By 34%/](https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/)
 - [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/) 
@@ -398,9 +572,9 @@ Docs: [`website/docs/guides/demand-curve.md`](./website/docs/guides/demand-curve
 ### Drip blog
 
 - [11 Must-Have E-Commerce Email Marketing Campaigns](https://www.drip.com/blog/ecommerce/transactional-email-examples)
-- [The 7 Best Forward to a Friend Email Examples We’ve Seen](https://www.drip.com/blog/ecommerce/forward-to-a-friend-email-examples)
+- [The 7 Best Forward to a Friend Email Examples We've Seen](https://www.drip.com/blog/ecommerce/forward-to-a-friend-email-examples)
 - [Brand development](https://www.drip.com/blog/ecommerce-marketing/brand-development)
-- [9 of the Best Drip Campaign Examples We’ve Seen](https://www.drip.com/blog/email-marketing/drip-campaign-examples)
+- [9 of the Best Drip Campaign Examples We've Seen](https://www.drip.com/blog/email-marketing/drip-campaign-examples)
 - [How to Use Popups (The Right Way)](https://www.drip.com/blog/ecommerce/how-to-use-popups)
 
 ### Automizy Blog
@@ -436,7 +610,7 @@ Resources for building HTML emails — tutorials, templates, and coding referenc
 #### Articles & Tutorials
 
 - [HTML Email Basics](https://templates.mailchimp.com/getting-started/html-email-basics/)
-- [New to email coding? Here’s where to start](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4)
+- [New to email coding? Here's where to start](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4)
 - [How To Code An Email Newsletter in 6 Simple Steps](https://www.crazyegg.com/blog/how-to-code-an-email-newsletter/)
 - [The RIGHT WAY to create HTML emails | TUTORIAL [2021]](https://www.youtube.com/watch?v=sSNnixkKqcA)
 - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
@@ -448,7 +622,7 @@ Resources for building HTML emails — tutorials, templates, and coding referenc
 - [Coding HTML emails](https://www.campaignmonitor.com/dev-resources/guides/coding-html-emails/)
 - [HTML Email Development Best Practices: Rules to Code By](https://www.emailonacid.com/blog/article/email-development/email-development-best-practices-2/)
 - [The Most Common Email Coding Mistakes and How to Avoid Them](https://sendpulse.com/blog/email-coding-mistakes)
-- [Email Coding vs Web Coding: It’s Not The Same](https://smaily.com/email-coding-vs-web-coding-its-not-the-same/)
+- [Email Coding vs Web Coding: It's Not The Same](https://smaily.com/email-coding-vs-web-coding-its-not-the-same/)
 - [Email Coding Guidelines](https://gist.github.com/janogarcia/4977a2346cbc7e52334b)
 
 #### HTML Email Templates
@@ -645,7 +819,7 @@ Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 
 - [7 Effective Email Marketing Strategies to Generate More Sales](https://alite-international.com/7-effective-email-marketing-strategies-generat-sales/) 
 - [Email marketing strategy: a data-driven guide](https://www.superoffice.com/blog/email-marketing-strategy/) 
-- [A Beginner’s Guide to Email Marketing](https://neilpatel.com/blog/beginners-guide-email-marketing/) 
+- [A Beginner's Guide to Email Marketing](https://neilpatel.com/blog/beginners-guide-email-marketing/) 
 - [Email marketing strategy and tips for successful campaigns](https://mailchimp.com/email-marketing/) 
 - [10 Tried-And-True Email Marketing Tactics That Actually Work](https://www.forbes.com/sites/theyec/2020/09/11/10-tried-and-true-email-marketing-tactics-that-actually-work/?sh=3f5f54007a33) 
 - [What is an Email Marketing Strategy? - Guide](https://sendpulse.com/support/glossary/email-marketing-strategy) 
@@ -684,7 +858,7 @@ Concepts, guides, and providers for transactional email. Docs: [`website/docs/mo
 
 - [Transactional Emails: Types, Examples and Best Practices](https://www.getvero.com/resources/guides/lifecycle-marketing/transactional-emails/)
 - [Transactional Email Explained: Definition, Best Practices, & Setup](https://www.sendinblue.com/blog/transactional-emails-guide/)
-- [The Beginner’s Guide to Transactional Emails](https://encharge.io/what-are-transactional-emails/)
+- [The Beginner's Guide to Transactional Emails](https://encharge.io/what-are-transactional-emails/)
 - [Transactional Email: What It Is, Why You Need It [+Examples]](https://www.getresponse.com/blog/introducing-transactional-emails/)
 - [Intro to Transactional Emails](https://mailtrap.io/blog/transactional-emails/)
 - [Ultimate guide: Transactional email explained (what, why and how)](https://www.mailersend.com/blog/transactional-email-explained)
@@ -788,9 +962,9 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 - Switch to dedicated IP address
 - Set up and regularly monitor DNS settings (SPF, DKIM, DMARC, BIMI: you can do it manually or with record generator tools);
 - Respect sending limits (do not send 1000 emails per day per mailbox if your email service provider recommends 250);
-- Make the ‘from’ line trustful (name, surname, and company name must be real);
+- Make the 'from' line trustful (name, surname, and company name must be real);
 - No caps lock, spam words, or exclamation marks in the subject line;
-- Do not insert links or images with the first cold email (your prospects’ are not supposed to hear from you, any links will be considered suspicious);
+- Do not insert links or images with the first cold email (your prospects' are not supposed to hear from you, any links will be considered suspicious);
 - Check your email copy for spam triggers;
 - Keep email lists clean (regularly validate them and stay away from bounces);
 - Do the warmup properly (increase the limits gradually, interact with recipients with high sender scores).
@@ -801,11 +975,11 @@ A few tips for those who send cold emails. :handshake: Specifically, our best pr
 2. Email newsletters spark sales.
 3. Newsletters reconnect you to your customers.
 4. Newsletters build your credibility.
-5. It’s a cheap way to test marketing ideas.
-6. It’s a way to get people when they’re on their phones.
+5. It's a cheap way to test marketing ideas.
+6. It's a way to get people when they're on their phones.
 7. You can give your customers things of value and trigger their desire to reciprocate.
 8. You can segment your market as narrowly as you wish.
-9. It’s a warmup pen for your leads.
+9. It's a warmup pen for your leads.
 10. You can start two-way conversations.
 
 ## Frequently asked questions
