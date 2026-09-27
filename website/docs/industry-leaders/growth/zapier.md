@@ -1,0 +1,40 @@
+---
+title: "Zapier Blog"
+description: "Email marketing automation articles from Zapier — software guides, drip campaigns, and Mailchimp workflows."
+keywords:
+  - Zapier
+  - Zapier Blog
+  - email marketing automation
+  - drip campaigns
+  - newsletter software
+sidebar_label: "Zapier"
+slug: /industry-leaders/growth/zapier
+image: img/docusaurus-social-card.jpg
+category: industry-leaders
+source:
+  name: Zapier
+  homepage: https://zapier.com/blog
+  topic: growth
+seo:
+  title: "Zapier Blog | Awesome Email Marketing"
+  description: "Email marketing automation articles from Zapier."
+  robots: index,follow
+  canonical_path: "/docs/industry-leaders/growth/zapier"
+  og_type: article
+  twitter_card: summary_large_image
+---
+
+# Zapier Blog
+
+Homepage: [zapier.com/blog](https://zapier.com/blog)
+
+## Articles
+
+- [How to choose email marketing software](https://zapier.com/learn/email-marketing/)
+- [6 ways to automate your email marketing with Mailchimp](https://zapier.com/blog/mailchimp-integrations/)
+- [4 ways to automate your email marketing for better communication](https://zapier.com/blog/automate-email-marketing/)
+- [How to automate email marketing like a pro](https://zapier.com/learn/automation-for-small-businesses/email-marketing-automation/)
+- [The 6 best email marketing apps to send drip campaigns in 2022](https://zapier.com/learn/email-marketing/best-drip-email-marketing-apps/)
+- [Email marketing list automation](https://zapier.com/learn/email-marketing/email-marketing-list-automation/)
+- [Email by Zapier Integrations](https://zapier.com/apps/email/integrations)
+- [The best email newsletter software: 9 email marketing services for your business](https://zapier.com/learn/email-marketing/best-email-newsletter-software/)
