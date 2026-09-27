@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T20:23:27.445Z",
-  "count": 116,
+  "generatedAt": "2026-09-27T22:41:26.747Z",
+  "count": 117,
   "pages": [
     {
       "id": "api",
@@ -1164,6 +1164,17 @@
       "description": "Curated email, SMS, and CRM articles from the Brevo blog.",
       "path": "industry-leaders/esp-blogs/brevo.md",
       "url": "/docs/industry-leaders/esp-blogs/brevo",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/esp-blogs/convertkit",
+      "title": "ConvertKit articles",
+      "sidebarLabel": "ConvertKit",
+      "description": "Curated ConvertKit / Kit help articles on deliverability, automations, tags, and broadcasts.",
+      "path": "industry-leaders/esp-blogs/convertkit.md",
+      "url": "/docs/industry-leaders/esp-blogs/convertkit",
       "section": "industry-leaders",
       "draft": false,
       "unlisted": false
