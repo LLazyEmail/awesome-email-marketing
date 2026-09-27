@@ -78,5 +78,205 @@
   {
     "term": "List Hygiene",
     "definition": "Ongoing cleanup of invalid, inactive, or risky addresses to protect sender reputation and improve engagement."
+  },
+  {
+    "term": "A/B Testing",
+    "definition": "Comparing two versions of an email (subject line, content, send time) to see which performs better."
+  },
+  {
+    "term": "Above the Fold",
+    "definition": "The portion of an email visible without scrolling, in the preview pane or on open."
+  },
+  {
+    "term": "Autoresponder",
+    "definition": "An automated email triggered by a specific action or time delay."
+  },
+  {
+    "term": "Blocklist (Blacklist)",
+    "definition": "A list of IP addresses or domains flagged as spam sources by mailbox providers or blocklist operators."
+  },
+  {
+    "term": "Bounce Rate",
+    "definition": "The percentage of sent emails that were not delivered to the recipient's inbox."
+  },
+  {
+    "term": "Bulk Sender",
+    "definition": "A sender who dispatches a high volume of email, subject to added authentication requirements from Gmail and Yahoo."
+  },
+  {
+    "term": "CAN-SPAM Act",
+    "definition": "U.S. law setting rules for commercial email, including opt-out requirements and sender identification."
+  },
+  {
+    "term": "Click Map",
+    "definition": "A visual overlay showing where recipients clicked within an email."
+  },
+  {
+    "term": "Click-to-Open Rate (CTOR)",
+    "definition": "The percentage of opened emails that generated at least one click."
+  },
+  {
+    "term": "Cold Email",
+    "definition": "An unsolicited email sent to a recipient with no prior relationship, typically for outreach or sales."
+  },
+  {
+    "term": "Conversion Rate",
+    "definition": "The percentage of email recipients who completed a desired action, such as a purchase or signup."
+  },
+  {
+    "term": "Custom Field",
+    "definition": "A user-defined data point (e.g., first name, birthday) stored per subscriber and used for personalization."
+  },
+  {
+    "term": "Dedicated IP",
+    "definition": "An IP address used exclusively by one sender, giving them full control over their own sending reputation."
+  },
+  {
+    "term": "Deliverability Rate",
+    "definition": "The percentage of sent emails that successfully reach a recipient's inbox without bouncing."
+  },
+  {
+    "term": "Drip Campaign",
+    "definition": "A series of pre-scheduled emails sent automatically over time based on a trigger or schedule."
+  },
+  {
+    "term": "Dynamic Content",
+    "definition": "Email content that changes per recipient based on data, behavior, or segment."
+  },
+  {
+    "term": "Email Client",
+    "definition": "The software or app used to read email, such as Gmail, Outlook, or Apple Mail."
+  },
+  {
+    "term": "Email Engagement",
+    "definition": "A measure of how recipients interact with email, including opens, clicks, and replies."
+  },
+  {
+    "term": "Email Preview Text (Preheader)",
+    "definition": "The snippet of text shown after the subject line in an inbox preview."
+  },
+  {
+    "term": "Feedback Loop (FBL)",
+    "definition": "A system where mailbox providers notify senders when a recipient marks an email as spam."
+  },
+  {
+    "term": "Hard Bounce",
+    "definition": "A permanent delivery failure, often due to an invalid or non-existent email address."
+  },
+  {
+    "term": "Inbox Placement",
+    "definition": "Whether an email lands in the primary inbox versus a spam or promotions folder."
+  },
+  {
+    "term": "IP Reputation",
+    "definition": "A score mailbox providers assign to a sending IP based on its sending history and behavior."
+  },
+  {
+    "term": "List Churn",
+    "definition": "The rate at which subscribers unsubscribe, bounce, or become inactive over time."
+  },
+  {
+    "term": "List Growth Rate",
+    "definition": "The net rate at which an email list gains new subscribers over a period."
+  },
+  {
+    "term": "Mailbox Provider (MBP)",
+    "definition": "A company that operates email infrastructure for recipients, such as Gmail or Outlook."
+  },
+  {
+    "term": "Marketing Automation",
+    "definition": "Software that triggers and manages email sequences based on subscriber behavior or data."
+  },
+  {
+    "term": "Newsletter",
+    "definition": "A recurring email sent to subscribers containing curated content, updates, or news."
+  },
+  {
+    "term": "One-Click Unsubscribe",
+    "definition": "A mechanism, required by Gmail and Yahoo for bulk senders, letting recipients unsubscribe in a single action."
+  },
+  {
+    "term": "Postmaster Tools",
+    "definition": "Dashboards (e.g., Google Postmaster Tools) that let senders monitor domain reputation and delivery metrics."
+  },
+  {
+    "term": "Preference Center",
+    "definition": "A page where subscribers can manage the type and frequency of emails they receive."
+  },
+  {
+    "term": "Re-engagement Campaign",
+    "definition": "A series of emails targeting inactive subscribers to win back their attention or clean the list."
+  },
+  {
+    "term": "Responsive Email",
+    "definition": "An email designed to render correctly across different screen sizes and devices."
+  },
+  {
+    "term": "Send Time Optimization",
+    "definition": "Using data or algorithms to determine the best time to send email to each subscriber."
+  },
+  {
+    "term": "Sender Reputation",
+    "definition": "A score reflecting how trustworthy a sending domain or IP appears to mailbox providers."
+  },
+  {
+    "term": "Soft Bounce",
+    "definition": "A temporary delivery failure, such as a full inbox or a server timeout."
+  },
+  {
+    "term": "Spam Trap",
+    "definition": "An email address used to identify senders with poor list hygiene, often set up by mailbox providers or blocklists."
+  },
+  {
+    "term": "Subject Line",
+    "definition": "The line of text that summarizes an email's content and appears first in an inbox."
+  },
+  {
+    "term": "Subscriber",
+    "definition": "An individual who has opted in to receive email from a sender."
+  },
+  {
+    "term": "Suppression List",
+    "definition": "A list of email addresses excluded from future sends, such as unsubscribes or bounces."
+  },
+  {
+    "term": "Throttling",
+    "definition": "Deliberately limiting the rate of email sends to protect sender reputation."
+  },
+  {
+    "term": "Time Zone Send",
+    "definition": "Sending an email based on each recipient's local time zone rather than a single send time."
+  },
+  {
+    "term": "Triggered Email",
+    "definition": "An email automatically sent in response to a specific subscriber action or event."
+  },
+  {
+    "term": "Unsubscribe Rate",
+    "definition": "The percentage of recipients who opt out of a mailing list after receiving a campaign."
+  },
+  {
+    "term": "UTM Parameters",
+    "definition": "Tags appended to links to track campaign performance in analytics tools."
+  },
+  {
+    "term": "Welcome Email",
+    "definition": "The first automated email sent to a new subscriber after signup."
+  },
+  {
+    "term": "Whitelist (Allowlist)",
+    "definition": "A list of trusted senders that mailbox providers or filters treat favorably."
+  },
+  {
+    "term": "Win-back Campaign",
+    "definition": "An email sequence aimed at re-engaging subscribers who have gone inactive."
+  },
+  {
+    "term": "XML Feed",
+    "definition": "A structured data file, sometimes used to power dynamic or catalog-based email content."
+  },
+  {
+    "term": "Zero-Party Data",
+    "definition": "Information a customer proactively and intentionally shares with a brand, such as stated preferences."
   }
 ]
