@@ -278,5 +278,205 @@
   {
     "term": "Zero-Party Data",
     "definition": "Information a customer proactively and intentionally shares with a brand, such as stated preferences."
+  },
+  {
+    "term": "Abandoned Cart Email",
+    "definition": "An automated message reminding a shopper to complete a purchase they left in their cart."
+  },
+  {
+    "term": "Alt Text",
+    "definition": "Descriptive text attached to an image that displays when images are blocked or read aloud by screen readers."
+  },
+  {
+    "term": "API Key",
+    "definition": "A unique credential used to authenticate requests to an email service provider's API."
+  },
+  {
+    "term": "Authentication (Email Authentication)",
+    "definition": "Technical standards like SPF, DKIM, and DMARC that verify a sender's identity to mailbox providers."
+  },
+  {
+    "term": "Broadcast Email",
+    "definition": "A one-time email sent to an entire list or segment, as opposed to an automated or triggered message."
+  },
+  {
+    "term": "Cohort Analysis",
+    "definition": "Grouping subscribers by a shared starting point, such as signup date, to compare their behavior over time."
+  },
+  {
+    "term": "Complaint Rate",
+    "definition": "The percentage of delivered emails that recipients mark as spam or junk."
+  },
+  {
+    "term": "Confirmation Email",
+    "definition": "A message verifying a subscriber's email address or a completed action, such as a signup or purchase."
+  },
+  {
+    "term": "Contact List",
+    "definition": "A stored collection of subscriber email addresses and associated data used for sending campaigns."
+  },
+  {
+    "term": "CRM (Customer Relationship Management)",
+    "definition": "Software that tracks customer interactions and data, often integrated with email marketing platforms."
+  },
+  {
+    "term": "Cross-Channel Marketing",
+    "definition": "Coordinating messaging across email, SMS, push, and other channels for a consistent customer experience."
+  },
+  {
+    "term": "CSS Inlining",
+    "definition": "Converting stylesheet rules into inline HTML attributes so styles render consistently across email clients."
+  },
+  {
+    "term": "Dark Mode Email",
+    "definition": "Email content designed to remain readable and on-brand when viewed in a device's dark color scheme."
+  },
+  {
+    "term": "Data Enrichment",
+    "definition": "Supplementing subscriber records with additional information from third-party or internal sources."
+  },
+  {
+    "term": "Deliverability Audit",
+    "definition": "A review of sending practices, authentication, and reputation to diagnose and fix inbox placement issues."
+  },
+  {
+    "term": "Domain Reputation",
+    "definition": "A score mailbox providers assign to a sending domain based on its historical sending behavior."
+  },
+  {
+    "term": "Email Append",
+    "definition": "Adding email addresses to existing customer records using a third-party matching service."
+  },
+  {
+    "term": "Email Cadence",
+    "definition": "The frequency and timing pattern at which emails are sent to subscribers."
+  },
+  {
+    "term": "Email Copywriting",
+    "definition": "Writing persuasive, concise text for email subject lines, preview text, and body content."
+  },
+  {
+    "term": "Email Fatigue",
+    "definition": "Subscriber disengagement caused by receiving too many emails too often."
+  },
+  {
+    "term": "Email Frequency Cap",
+    "definition": "A limit on how many emails a subscriber can receive within a given time period."
+  },
+  {
+    "term": "Email Gateway",
+    "definition": "A server or service that handles the sending and receiving of email between networks."
+  },
+  {
+    "term": "Email Header",
+    "definition": "The metadata portion of an email containing routing, authentication, and sender information."
+  },
+  {
+    "term": "Email List Rental",
+    "definition": "Paying to send a campaign to a third party's opted-in list, distinct from purchasing addresses outright."
+  },
+  {
+    "term": "Email Marketing Funnel",
+    "definition": "The stages a subscriber moves through, from signup to purchase to retention, driven by email."
+  },
+  {
+    "term": "Email Rendering",
+    "definition": "How an email's layout, fonts, and images actually display across different clients and devices."
+  },
+  {
+    "term": "Email Template",
+    "definition": "A reusable, pre-designed email layout that can be populated with new content for each send."
+  },
+  {
+    "term": "Email Verification",
+    "definition": "Checking that an email address is valid and deliverable before adding it to a list or sending to it."
+  },
+  {
+    "term": "Engagement Score",
+    "definition": "A composite metric ranking subscribers by how actively they open, click, and interact with email."
+  },
+  {
+    "term": "Exit-Intent Popup",
+    "definition": "A signup form triggered when a visitor's cursor behavior suggests they're about to leave a page."
+  },
+  {
+    "term": "First-Party Data",
+    "definition": "Information a company collects directly from its own audience, such as purchase or browsing history."
+  },
+  {
+    "term": "Funnel Stage",
+    "definition": "The point a subscriber occupies in a marketing funnel, such as awareness, consideration, or decision."
+  },
+  {
+    "term": "Gmail Tabs",
+    "definition": "Gmail's inbox categorization feature that sorts incoming mail into Primary, Promotions, Social, and other tabs."
+  },
+  {
+    "term": "HTML Email",
+    "definition": "An email formatted with HTML markup to include styling, images, and layout, as opposed to plain text."
+  },
+  {
+    "term": "Image Blocking",
+    "definition": "A mail client setting that prevents images from loading automatically until the recipient allows it."
+  },
+  {
+    "term": "Inactive Subscriber",
+    "definition": "A contact who has not opened or clicked an email within a defined recent period."
+  },
+  {
+    "term": "Interactive Email (AMP for Email)",
+    "definition": "Email that supports in-message actions like carousels, forms, or live content without leaving the inbox."
+  },
+  {
+    "term": "ISP (Internet Service Provider)",
+    "definition": "A company providing internet access, sometimes also operating its own mail servers and spam filters."
+  },
+  {
+    "term": "Junk Folder",
+    "definition": "A mail client folder where suspected spam or unwanted email is automatically routed."
+  },
+  {
+    "term": "KPI (Key Performance Indicator)",
+    "definition": "A specific, measurable metric used to evaluate the success of an email program or campaign."
+  },
+  {
+    "term": "Landing Page",
+    "definition": "The web page a subscriber arrives at after clicking a link in an email."
+  },
+  {
+    "term": "Lapsed Subscriber",
+    "definition": "A contact who was previously engaged but has stopped opening or clicking over an extended period."
+  },
+  {
+    "term": "Mail Merge",
+    "definition": "Automatically inserting personalized data, such as a name, into a template to generate individual emails."
+  },
+  {
+    "term": "Mailing List",
+    "definition": "A collection of email addresses that have opted in to receive communications from a sender."
+  },
+  {
+    "term": "Marketing Qualified Lead (MQL)",
+    "definition": "A contact whose engagement signals, often including email activity, indicate readiness for further marketing."
+  },
+  {
+    "term": "Message-ID",
+    "definition": "A unique identifier assigned to each email, used for tracking and troubleshooting delivery."
+  },
+  {
+    "term": "Multivariate Testing",
+    "definition": "Testing multiple email elements at once, such as subject line and image, to see which combination performs best."
+  },
+  {
+    "term": "Onboarding Sequence",
+    "definition": "A series of emails introducing a new user or customer to a product or service."
+  },
+  {
+    "term": "Opt-Out",
+    "definition": "The action a recipient takes to stop receiving future email communications."
+  },
+  {
+    "term": "Permission Marketing",
+    "definition": "An approach to marketing that relies on explicit subscriber consent before sending communications."
   }
 ]
