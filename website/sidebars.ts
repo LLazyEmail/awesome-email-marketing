@@ -109,7 +109,6 @@ const sidebars: SidebarsConfig = {
           collapsed: true,
           items: [
             'guides/vendor-blogs/zapier',
-            'guides/vendor-blogs/drip',
             'guides/vendor-blogs/automizy',
             'guides/vendor-blogs/revue',
           ],
