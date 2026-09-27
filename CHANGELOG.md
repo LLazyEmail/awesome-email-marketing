@@ -8,6 +8,9 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Update glossary.json ([#270](https://github.com/LLazyEmail/awesome-email-marketing/pull/270))
+- docs: add blank ecommerce Industry Leader source pages ([#269](https://github.com/LLazyEmail/awesome-email-marketing/pull/269))
+- docs: make glossary terms link to site search ([#268](https://github.com/LLazyEmail/awesome-email-marketing/pull/268))
 - docs: move Revue into Industry Leaders and hide Vendor blogs ([#267](https://github.com/LLazyEmail/awesome-email-marketing/pull/267))
 - docs: move Automizy Blog into Industry Leaders ([#266](https://github.com/LLazyEmail/awesome-email-marketing/pull/266))
 - docs: move Drip Blog into Industry Leaders ([#265](https://github.com/LLazyEmail/awesome-email-marketing/pull/265))

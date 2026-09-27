@@ -1,6 +1,33 @@
 [
   {
     "date": "2026-09-27",
+    "title": "Update glossary.json",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/270",
+    "items": [
+      "Merged pull request #270",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/270"
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "title": "docs: add blank ecommerce Industry Leader source pages",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/269",
+    "items": [
+      "Merged pull request #269",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/269"
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "title": "docs: make glossary terms link to site search",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/268",
+    "items": [
+      "Merged pull request #268",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/268"
+    ]
+  },
+  {
+    "date": "2026-09-27",
     "title": "docs: move Revue into Industry Leaders and hide Vendor blogs",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/267",
     "items": [
