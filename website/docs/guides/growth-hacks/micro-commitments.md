@@ -48,6 +48,6 @@ Source: [Crazy Egg — science of micro-commitments](https://www.crazyegg.com/bl
 
 ## More growth hacks
 
-- [Growth Hacks overview](./index)
-- [Email-only form](./email-only-form)
-- [Product-page pop-up](./product-page-popup)
+- [Growth Hacks overview](/docs/guides/growth-hacks)
+- [Email-only form](/docs/guides/growth-hacks/email-only-form)
+- [Product-page pop-up](/docs/guides/growth-hacks/product-page-popup)

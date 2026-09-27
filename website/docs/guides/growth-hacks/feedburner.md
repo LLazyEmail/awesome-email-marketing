@@ -40,5 +40,5 @@ Feedburner is a legacy Google product. Confirm it still fits the use case before
 
 ## More growth hacks
 
-- [Growth Hacks overview](./index)
-- [Republishing](./republishing-subscribers)
+- [Growth Hacks overview](/docs/guides/growth-hacks)
+- [Republishing](/docs/guides/growth-hacks/republishing-subscribers)

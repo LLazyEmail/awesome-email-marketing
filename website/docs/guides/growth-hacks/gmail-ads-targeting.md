@@ -43,5 +43,5 @@ Source: [Neil Patel — beginner's guide to Gmail ads](https://neilpatel.com/blo
 
 ## More growth hacks
 
-- [Growth Hacks overview](./index)
-- [Weather-triggered emails](./weather-triggered-emails)
+- [Growth Hacks overview](/docs/guides/growth-hacks)
+- [Weather-triggered emails](/docs/guides/growth-hacks/weather-triggered-emails)

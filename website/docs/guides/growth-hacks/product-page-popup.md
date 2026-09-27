@@ -37,6 +37,6 @@ Source: [Sumo — pop-up statistics](https://sumo.com/stories/pop-up-statistics)
 
 ## More growth hacks
 
-- [Growth Hacks overview](./index)
-- [Micro-commitments](./micro-commitments)
-- [Scroll pop-up depth](./scroll-popup-depth)
+- [Growth Hacks overview](/docs/guides/growth-hacks)
+- [Micro-commitments](/docs/guides/growth-hacks/micro-commitments)
+- [Scroll pop-up depth](/docs/guides/growth-hacks/scroll-popup-depth)

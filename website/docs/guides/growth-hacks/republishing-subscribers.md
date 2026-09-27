@@ -52,5 +52,5 @@ Source: [Sumo — traffic from republishing](https://sumo.com/stories/traffic-fr
 
 ## More growth hacks
 
-- [Growth Hacks overview](./index)
-- [Feedburner](./feedburner)
+- [Growth Hacks overview](/docs/guides/growth-hacks)
+- [Feedburner](/docs/guides/growth-hacks/feedburner)

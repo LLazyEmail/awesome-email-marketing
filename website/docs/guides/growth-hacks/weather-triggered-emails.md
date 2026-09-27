@@ -32,5 +32,5 @@ Source: [Neil Patel — optimize ecommerce for mobile](https://neilpatel.com/blo
 
 ## More growth hacks
 
-- [Growth Hacks overview](./index)
-- [Gmail Ads targeting](./gmail-ads-targeting)
+- [Growth Hacks overview](/docs/guides/growth-hacks)
+- [Gmail Ads targeting](/docs/guides/growth-hacks/gmail-ads-targeting)

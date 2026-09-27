@@ -30,6 +30,6 @@ Source: [Sumo — attention-grabbing popups](https://sumo.com/stories/attention-
 
 ## More growth hacks
 
-- [Growth Hacks overview](./index)
-- [Product-page pop-up](./product-page-popup)
-- [Email-only form](./email-only-form)
+- [Growth Hacks overview](/docs/guides/growth-hacks)
+- [Product-page pop-up](/docs/guides/growth-hacks/product-page-popup)
+- [Email-only form](/docs/guides/growth-hacks/email-only-form)

@@ -28,6 +28,6 @@ Source: [Leadpages — how many fields on an opt-in form](https://www.leadpages.
 
 ## More growth hacks
 
-- [Growth Hacks overview](./index)
-- [Micro-commitments](./micro-commitments)
-- [Product-page pop-up](./product-page-popup)
+- [Growth Hacks overview](/docs/guides/growth-hacks)
+- [Micro-commitments](/docs/guides/growth-hacks/micro-commitments)
+- [Product-page pop-up](/docs/guides/growth-hacks/product-page-popup)
