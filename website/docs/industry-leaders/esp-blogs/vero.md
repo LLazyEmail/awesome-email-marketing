@@ -1,28 +1,34 @@
 ---
-title: "Vero articles"
-description: "Behavior-driven email guides from Vero Insights."
+title: "Vero Insights"
+description: "Behavior-driven email guides from Vero Insights — curated article links from the Awesome Email Marketing library."
 keywords:
   - Vero
+  - Vero Insights
   - behavior-driven email
   - lifecycle email
-sidebar_label: "Vero"
+  - email marketing guides
+sidebar_label: "Vero Insights"
 slug: /industry-leaders/esp-blogs/vero
+image: img/docusaurus-social-card.jpg
 category: industry-leaders
 source:
   name: Vero
   homepage: https://www.getvero.com/resources/
   topic: esp-blogs
 seo:
-  title: "Vero articles | Awesome Email Marketing"
+  title: "Vero Insights | Awesome Email Marketing"
   description: "Behavior-driven email guides from Vero Insights."
   robots: index,follow
   canonical_path: "/docs/industry-leaders/esp-blogs/vero"
   og_type: article
+  twitter_card: summary_large_image
 ---
 
-# Vero
+# Vero Insights
 
 Homepage: [getvero.com/resources](https://www.getvero.com/resources/)
+
+Moved from [Guides › Vendor blogs](/docs/guides/vendor-blogs/vero-insights).
 
 ## Articles
 
@@ -30,5 +36,5 @@ Homepage: [getvero.com/resources](https://www.getvero.com/resources/)
 - [The Fastest and Easiest Way to Grow Your Email List](https://www.getvero.com/resources/grow-your-email-list/)
 - [25 Ways to Get Better at Email Marketing](https://www.getvero.com/resources/master-email-marketing/)
 - [Making the most of your funnel: the Hail Mary email](https://www.getvero.com/resources/making-the-most-of-your-funnel-the-hail-mary-email/)
-- [15 Data-driven Email Marketing Campaigns](https://www.getvero.com/resources/15-data-driven-email-marketing-campaigns-to-help-you-kick-ass-in-2014/)
+- [15 Campaigns to Give You Inspiration for Data-driven Email Marketing Campaigns](https://www.getvero.com/resources/15-data-driven-email-marketing-campaigns-to-help-you-kick-ass-in-2014/)
 - [HTML Email Templates: A guide to getting started](https://www.getvero.com/resources/html-email-templates/)

@@ -57,7 +57,7 @@ Adding a **new topic** is one folder + `_category_.json`. Adding a **new source*
 
 The page template lives outside `docs/` so it is not published and does not create a broken internal link.
 
-See also the existing [Vendor blogs](/docs/guides/vendor-blogs/vero-insights) pages — those stay as legacy guides. New sources belong here.
+Vero Insights already moved here: [Vero Insights](/docs/industry-leaders/esp-blogs/vero). Remaining [vendor blogs](/docs/guides/vendor-blogs/zapier) will follow the same pattern.
 
 ## Topics
 
