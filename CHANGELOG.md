@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: move Revue into Industry Leaders and hide Vendor blogs ([#267](https://github.com/LLazyEmail/awesome-email-marketing/pull/267))
 - docs: move Automizy Blog into Industry Leaders ([#266](https://github.com/LLazyEmail/awesome-email-marketing/pull/266))
 - docs: move Drip Blog into Industry Leaders ([#265](https://github.com/LLazyEmail/awesome-email-marketing/pull/265))
 - docs: move Zapier Blog into Industry Leaders ([#263](https://github.com/LLazyEmail/awesome-email-marketing/pull/263))

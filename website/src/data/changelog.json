@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-09-27",
+    "title": "docs: move Revue into Industry Leaders and hide Vendor blogs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/267",
+    "items": [
+      "Merged pull request #267",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/267"
+    ]
+  },
+  {
+    "date": "2026-09-27",
     "title": "docs: move Automizy Blog into Industry Leaders",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/266",
     "items": [
