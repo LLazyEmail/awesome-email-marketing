@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T02:30:40.807Z",
-  "count": 105,
+  "generatedAt": "2026-09-27T20:23:27.445Z",
+  "count": 116,
   "pages": [
     {
       "id": "api",
@@ -339,6 +339,105 @@
       "description": "Frequently asked questions about newsletters and email marketing.",
       "path": "guides/faq.md",
       "url": "/docs/guides/faq",
+      "section": "guides",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "guides/growth-hacks/email-only-form",
+      "title": "+12% more subscribers with email-only forms",
+      "sidebarLabel": "Email-only form",
+      "description": "An A/B test reported a 12.44% conversion lift when the opt-in form asked for email only instead of name and email.",
+      "path": "guides/growth-hacks/email-only-form.md",
+      "url": "/docs/guides/growth-hacks/email-only-form",
+      "section": "guides",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "guides/growth-hacks/feedburner",
+      "title": "Free email marketing tool by Google",
+      "sidebarLabel": "Feedburner",
+      "description": "Feedburner notes: free post-notification emails, on-site subscribe, list export.",
+      "path": "guides/growth-hacks/feedburner.md",
+      "url": "/docs/guides/growth-hacks/feedburner",
+      "section": "guides",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "guides/growth-hacks/gmail-ads-targeting",
+      "title": "+181% opt-in rate with Gmail Ads",
+      "sidebarLabel": "Gmail Ads targeting",
+      "description": "Periscopix used Gmail inbox placements and reported a 181% lift in opt-in rate.",
+      "path": "guides/growth-hacks/gmail-ads-targeting.md",
+      "url": "/docs/guides/growth-hacks/gmail-ads-targeting",
+      "section": "guides",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "guides/growth-hacks/index",
+      "title": "Growth Hacks",
+      "sidebarLabel": "Overview",
+      "description": "Opt-in, targeting, and list-growth case studies split from the a.md dump — one page per experiment.",
+      "path": "guides/growth-hacks/index.md",
+      "url": "/docs/guides/growth-hacks/",
+      "section": "guides",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "guides/growth-hacks/micro-commitments",
+      "title": "+271% more opt-ins with micro-commitments",
+      "sidebarLabel": "Micro-commitments",
+      "description": "RocketMemory increased opt-ins 271% by splitting one long form into four micro-commitment steps.",
+      "path": "guides/growth-hacks/micro-commitments.md",
+      "url": "/docs/guides/growth-hacks/micro-commitments",
+      "section": "guides",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "guides/growth-hacks/product-page-popup",
+      "title": "38% opt-in from a product page",
+      "sidebarLabel": "Product-page pop-up",
+      "description": "A product-page pop-up offering the first chapter of a book converted at 38.4%.",
+      "path": "guides/growth-hacks/product-page-popup.md",
+      "url": "/docs/guides/growth-hacks/product-page-popup",
+      "section": "guides",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "guides/growth-hacks/republishing-subscribers",
+      "title": "1,000 new subscribers in 60 hours via republishing",
+      "sidebarLabel": "Republishing",
+      "description": "Sarah Peterson used republishing to add 1,000 subscribers in 60 hours with $0 ad spend.",
+      "path": "guides/growth-hacks/republishing-subscribers.md",
+      "url": "/docs/guides/growth-hacks/republishing-subscribers",
+      "section": "guides",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "guides/growth-hacks/scroll-popup-depth",
+      "title": "Scroll pop-up at 47.7% page depth",
+      "sidebarLabel": "Scroll pop-up depth",
+      "description": "Sumo analyzed 3.5 million scroll-popup opt-ins and found the best trigger depth at 47.7%.",
+      "path": "guides/growth-hacks/scroll-popup-depth.md",
+      "url": "/docs/guides/growth-hacks/scroll-popup-depth",
+      "section": "guides",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "guides/growth-hacks/weather-triggered-emails",
+      "title": "60% open rate on weather-triggered sales emails",
+      "sidebarLabel": "Weather-triggered emails",
+      "description": "An air-conditioner seller sent sales mail only when temperature crossed 75°F and reported a 60% open rate.",
+      "path": "guides/growth-hacks/weather-triggered-emails.md",
+      "url": "/docs/guides/growth-hacks/weather-triggered-emails",
       "section": "guides",
       "draft": false,
       "unlisted": false
@@ -696,6 +795,17 @@
       "unlisted": false
     },
     {
+      "id": "more/tech-newsletters",
+      "title": "Tech Newsletters",
+      "sidebarLabel": "Tech Newsletters",
+      "description": "Curated tech, devops, cloud, AI, security, and startup newsletters originally collected in newsletters db #95 (28.07.2022).",
+      "path": "more/tech-newsletters.md",
+      "url": "/docs/more/tech-newsletters",
+      "section": "more",
+      "draft": false,
+      "unlisted": false
+    },
+    {
       "id": "more/transactional-articles",
       "title": "Transactional Email Concepts & Guides",
       "sidebarLabel": "Concepts & Guides",
@@ -922,6 +1032,17 @@
       "description": "Curated ecommerce and email marketing articles from Selzy.",
       "path": "industry-leaders/ecommerce/selzy.md",
       "url": "/docs/industry-leaders/ecommerce/selzy",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/sender",
+      "title": "Sender articles",
+      "sidebarLabel": "Sender",
+      "description": "Curated ecommerce and email marketing articles from Sender.",
+      "path": "industry-leaders/ecommerce/sender.md",
+      "url": "/docs/industry-leaders/ecommerce/sender",
       "section": "industry-leaders",
       "draft": false,
       "unlisted": false
