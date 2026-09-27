@@ -8,6 +8,7 @@ keywords: [miscellaneous, email newsletters, email tools, community]
 
 ## Newsletters & reading
 
+- [Tech Newsletters](/docs/more/tech-newsletters) — Curated devops, cloud, AI, security, and startup newsletters (from newsletters db #95).
 - [200+ newsletters: a crowdsourced list of must-read emails](https://www.luminary-labs.com/insight/200-newsletters-a-crowdsourced-list-of-must-read-emails/)
 - [The 80 best single-operator newsletters](https://www.insidehook.com/feature/internet/best-single-operator-email-newsletters-internet)
 - [25 newsletters worth inviting into your inbox](https://medium.com/an-idea-for-you/25-newsletters-worth-inviting-into-your-inbox-62046f871a63)
