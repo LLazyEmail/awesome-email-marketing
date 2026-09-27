@@ -44,16 +44,18 @@ Every source lives under a topic folder. The public path is always:
 | `deliverability` | Inbox placement, authentication, anti-spam labs | `/docs/industry-leaders/deliverability/validity` |
 | `growth` | Growth, lifecycle, and product-led content | `/docs/industry-leaders/growth/hubspot` |
 | `ecommerce` | Commerce and retention publishers | `/docs/industry-leaders/ecommerce/klaviyo` |
-| `developers` | HTML-email engineering and infrastructure | `/docs/industry-leaders/developers/really-good-emails` |
+| `developers` | HTML-email engineering and infrastructure | `/docs/industry-leaders/developers/mjml` |
 
 Adding a **new topic** is one folder + `_category_.json`. Adding a **new source** is one markdown file. Docusaurus autogenerates the sidebar from the filesystem, so you never edit `sidebars.ts` for this section.
 
 ## How to add a source
 
 1. Pick the closest topic folder (or create one).
-2. Copy [`_SOURCE_TEMPLATE.md`](./_SOURCE_TEMPLATE.md) to `{topic}/{source-slug}.md`.
+2. Copy `website/templates/industry-leader-source.md` to `website/docs/industry-leaders/{topic}/{source-slug}.md`.
 3. Fill title, description, keywords, homepage, and 10–20 article links.
 4. Keep slugs lowercase, hyphenated, matching the brand (`getvero` → `vero`).
+
+The page template lives outside `docs/` so it is not published and does not create a broken internal link.
 
 See also the existing [Vendor blogs](/docs/guides/vendor-blogs/vero-insights) pages — those stay as legacy guides. New sources belong here.
 
