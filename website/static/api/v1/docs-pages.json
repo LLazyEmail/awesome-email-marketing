@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-26T23:55:59.386Z",
-  "count": 66,
+  "generatedAt": "2026-09-27T01:13:53.665Z",
+  "count": 79,
   "pages": [
     {
       "id": "api",
@@ -390,8 +390,8 @@
     {
       "id": "guides/vendor-blogs/vero-insights",
       "title": "Vero Insights",
-      "sidebarLabel": "Vero Insights",
-      "description": "Vero Insights — curated guides resources from the Awesome Email Marketing library.",
+      "sidebarLabel": "Vero Insights (moved)",
+      "description": "Vero Insights moved to the Industry Leaders section.",
       "path": "guides/vendor-blogs/vero-insights.md",
       "url": "/docs/guides/vendor-blogs/vero-insights",
       "section": "guides",
@@ -725,6 +725,149 @@
       "path": "more/transactional-tools.md",
       "url": "/docs/more/transactional-tools",
       "section": "more",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/deliverability/sparkpost",
+      "title": "SparkPost articles",
+      "sidebarLabel": "SparkPost",
+      "description": "Deliverability and developer email writing from SparkPost / Bird.",
+      "path": "industry-leaders/deliverability/sparkpost.md",
+      "url": "/docs/industry-leaders/deliverability/sparkpost",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/deliverability/validity",
+      "title": "Validity articles",
+      "sidebarLabel": "Validity",
+      "description": "Deliverability research and Everest / Return Path writing from Validity.",
+      "path": "industry-leaders/deliverability/validity.md",
+      "url": "/docs/industry-leaders/deliverability/validity",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/developers/mjml",
+      "title": "MJML articles",
+      "sidebarLabel": "MJML",
+      "description": "Responsive HTML-email framework docs and guides from MJML.",
+      "path": "industry-leaders/developers/mjml.md",
+      "url": "/docs/industry-leaders/developers/mjml",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/klaviyo",
+      "title": "Klaviyo articles",
+      "sidebarLabel": "Klaviyo",
+      "description": "Ecommerce email and SMS strategy articles from Klaviyo.",
+      "path": "industry-leaders/ecommerce/klaviyo.md",
+      "url": "/docs/industry-leaders/ecommerce/klaviyo",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/esp-blogs/brevo",
+      "title": "Brevo articles",
+      "sidebarLabel": "Brevo",
+      "description": "Curated email, SMS, and CRM articles from the Brevo blog.",
+      "path": "industry-leaders/esp-blogs/brevo.md",
+      "url": "/docs/industry-leaders/esp-blogs/brevo",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/esp-blogs/mailchimp",
+      "title": "Mailchimp articles",
+      "sidebarLabel": "Mailchimp",
+      "description": "Curated marketing and email guides from the Mailchimp resources library.",
+      "path": "industry-leaders/esp-blogs/mailchimp.md",
+      "url": "/docs/industry-leaders/esp-blogs/mailchimp",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/esp-blogs/vero",
+      "title": "Vero Insights",
+      "sidebarLabel": "Vero Insights",
+      "description": "Behavior-driven email guides from Vero Insights — curated article links from the Awesome Email Marketing library.",
+      "path": "industry-leaders/esp-blogs/vero.md",
+      "url": "/docs/industry-leaders/esp-blogs/vero",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/growth/customer-io",
+      "title": "Customer.io articles",
+      "sidebarLabel": "Customer.io",
+      "description": "Lifecycle messaging and automation writing from Customer.io.",
+      "path": "industry-leaders/growth/customer-io.md",
+      "url": "/docs/industry-leaders/growth/customer-io",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/growth/hubspot",
+      "title": "HubSpot articles",
+      "sidebarLabel": "HubSpot",
+      "description": "Inbound, lifecycle, and email strategy articles from HubSpot.",
+      "path": "industry-leaders/growth/hubspot.md",
+      "url": "/docs/industry-leaders/growth/hubspot",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/index",
+      "title": "Industry Leaders",
+      "sidebarLabel": "Overview",
+      "description": "Curated articles from marketing-tech publishers, ESP blogs, deliverability labs, and industry analysts — one page per source.",
+      "path": "industry-leaders/index.md",
+      "url": "/docs/industry-leaders/",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/publications/litmus",
+      "title": "Litmus articles",
+      "sidebarLabel": "Litmus",
+      "description": "Curated email design, testing, and deliverability articles from Litmus.",
+      "path": "industry-leaders/publications/litmus.md",
+      "url": "/docs/industry-leaders/publications/litmus",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/publications/only-influencers",
+      "title": "Only Influencers articles",
+      "sidebarLabel": "Only Influencers",
+      "description": "Industry commentary and deliverability discussion from Only Influencers.",
+      "path": "industry-leaders/publications/only-influencers.md",
+      "url": "/docs/industry-leaders/publications/only-influencers",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/publications/really-good-emails",
+      "title": "Really Good Emails articles",
+      "sidebarLabel": "Really Good Emails",
+      "description": "Curated inspiration and teardown writing from Really Good Emails.",
+      "path": "industry-leaders/publications/really-good-emails.md",
+      "url": "/docs/industry-leaders/publications/really-good-emails",
+      "section": "industry-leaders",
       "draft": false,
       "unlisted": false
     }
