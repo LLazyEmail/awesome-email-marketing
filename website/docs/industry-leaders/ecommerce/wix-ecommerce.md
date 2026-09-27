@@ -27,4 +27,9 @@ Homepage: [wix.com/blog/ecommerce](https://www.wix.com/blog/ecommerce)
 
 ## Articles
 
-_No articles curated yet._
+- [How does email work on Wix? Your complete guide to connecting a mailbox](https://www.wix.com/blog/how-does-email-work-on-wix)
+- [Does Wix have email marketing?](https://www.wix.com/blog/does-wix-have-email-marketing)
+- [Wix Blog: Promoting Your Published Post](https://support.wix.com/en/article/wix-blog-promoting-your-published-post)
+- [Wix Blog: Sending Blog Post Notifications to Your Subscribers](https://support.wix.com/en/article/wix-blog-sending-blog-post-notifications-to-your-subscribers)
+- [Wix Blog: Customizing the Email Notification Sent to Your Site Visitors](https://support.wix.com/en/article/wix-blog-customizing-the-email-notification-sent-to-your-site-visitors)
+- [Blog: Sample Use Cases & Flows (Email subscribers)](https://dev.wix.com/docs/api-reference/business-solutions/blog/sample-flows)
