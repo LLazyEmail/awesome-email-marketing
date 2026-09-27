@@ -32,21 +32,30 @@ seo:
   twitter_card: summary_large_image
 ---
 
+import Link from '@docusaurus/Link';
 import glossary from '@site/src/data/glossary.json';
 
 # Glossary
 
-Quick definitions for terms you’ll see across this library.
+Quick definitions for terms you’ll see across this library. Each term opens site search for that word.
 
 export const sorted = [...glossary].sort((a, b) =>
   a.term.localeCompare(b.term),
 );
 
+export function termSlug(term) {
+  return term.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+}
+
+export function searchHref(term) {
+  return `/search/?q=${encodeURIComponent(term.toLowerCase())}`;
+}
+
 <ul>
   {sorted.map((item) => (
     <li key={item.term}>
-      <strong id={item.term.toLowerCase().replace(/[^a-z0-9]+/g, '-')}>
-        {item.term}
+      <strong id={termSlug(item.term)}>
+        <Link to={searchHref(item.term)}>{item.term}</Link>
       </strong>
       {' — '}
       {item.definition}
