@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-09-27",
+    "title": "docs: fill ecommerce Industry Leader pages from issues #274–#284",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/288",
+    "items": [
+      "Merged pull request #288",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/288"
+    ]
+  },
+  {
+    "date": "2026-09-27",
     "title": "docs: split a.md growth hacks into a Growth Hacks docs section",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/287",
     "items": [
