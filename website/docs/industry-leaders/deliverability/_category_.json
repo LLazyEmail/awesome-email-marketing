@@ -1,0 +1,11 @@
+{
+  "label": "Deliverability",
+  "position": 4,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Deliverability labs",
+    "description": "Inbox placement, authentication, and anti-spam research from industry labs.",
+    "slug": "/industry-leaders/deliverability"
+  }
+}
