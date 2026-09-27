@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: move Automizy Blog into Industry Leaders ([#266](https://github.com/LLazyEmail/awesome-email-marketing/pull/266))
 - docs: move Drip Blog into Industry Leaders ([#265](https://github.com/LLazyEmail/awesome-email-marketing/pull/265))
 - docs: move Zapier Blog into Industry Leaders ([#263](https://github.com/LLazyEmail/awesome-email-marketing/pull/263))
 - docs: move Vero Insights from vendor-blogs into industry-leaders ([#262](https://github.com/LLazyEmail/awesome-email-marketing/pull/262))
