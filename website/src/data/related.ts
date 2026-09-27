@@ -23,6 +23,7 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
   'tools/newsletter-platforms': [
     {label: 'Best Tools overview', to: '/docs/tools/best-tools'},
     {label: 'Email Service Providers', to: '/docs/tools/email-service-providers'},
+    {label: 'Tech Newsletters', to: '/docs/more/tech-newsletters'},
     {label: 'Filter newsletters', to: '/explore?tag=newsletter'},
   ],
   'tools/self-hosted-esp': [
@@ -91,6 +92,7 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
     {label: 'Opt-in Tactics', to: '/docs/strategy/opt-in-tactics'},
     {label: 'List Building Playbook', to: '/docs/strategy/list-building-playbook'},
     {label: 'Demand Curve Tactics', to: '/docs/guides/demand-curve'},
+    {label: 'Tech Newsletters', to: '/docs/more/tech-newsletters'},
     {label: 'Filter newsletters', to: '/explore?tag=newsletter'},
   ],
   'guides/demand-curve': [
@@ -188,6 +190,15 @@ export const relatedByDocId: Record<string, RelatedLink[]> = {
     {label: 'Concepts & Guides', to: '/docs/more/transactional-articles'},
     {label: 'Amazon SES', to: '/docs/operations/amazon-ses'},
     {label: 'Automation Platforms', to: '/docs/tools/automation-platforms'},
+  ],
+  'more/tech-newsletters': [
+    {label: 'Miscellaneous', to: '/docs/more/miscellaneous'},
+    {label: 'Newsletter Platforms', to: '/docs/tools/newsletter-platforms'},
+    {label: 'Lead Generation', to: '/docs/strategy/lead-generation'},
+  ],
+  'more/miscellaneous': [
+    {label: 'Tech Newsletters', to: '/docs/more/tech-newsletters'},
+    {label: 'Awesome Lists', to: '/docs/more/awesome-lists'},
   ],
   'strategy/email-marketing-strategy': [
     {label: 'Lifecycle Emails', to: '/docs/strategy/lifecycle-emails'},
