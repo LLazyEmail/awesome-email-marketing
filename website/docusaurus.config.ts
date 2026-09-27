@@ -109,6 +109,7 @@ const config: Config = {
           'tools/*',
           'strategy/*',
           'guides/*',
+          'industry-leaders/*',
           'development/*',
           'operations/*',
           'more/*',
@@ -184,6 +185,11 @@ const config: Config = {
             },
             {
               type: 'doc',
+              docId: 'industry-leaders/index',
+              label: 'Industry Leaders',
+            },
+            {
+              type: 'doc',
               docId: 'development/frontend-development',
               label: 'Development',
             },
@@ -239,8 +245,8 @@ const config: Config = {
               to: '/docs/tools/best-tools',
             },
             {
-              label: 'Glossary',
-              to: '/docs/glossary',
+              label: 'Industry Leaders',
+              to: '/docs/industry-leaders',
             },
           ],
         },
