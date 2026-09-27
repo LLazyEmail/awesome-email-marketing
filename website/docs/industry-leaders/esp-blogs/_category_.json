@@ -1,0 +1,11 @@
+{
+  "label": "ESP blogs",
+  "position": 3,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "ESP blogs",
+    "description": "Official blogs from email service providers and newsletter platforms. One page per vendor.",
+    "slug": "/industry-leaders/esp-blogs"
+  }
+}

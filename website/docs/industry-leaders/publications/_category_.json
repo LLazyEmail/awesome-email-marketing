@@ -1,0 +1,11 @@
+{
+  "label": "Publications",
+  "position": 2,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Publications",
+    "description": "Independent marketing-tech magazines, research sites, and industry journals. One page per publication.",
+    "slug": "/industry-leaders/publications"
+  }
+}

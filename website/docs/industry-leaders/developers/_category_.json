@@ -1,0 +1,11 @@
+{
+  "label": "Developers",
+  "position": 7,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Developer resources",
+    "description": "HTML-email engineering, galleries, and infrastructure writing.",
+    "slug": "/industry-leaders/developers"
+  }
+}

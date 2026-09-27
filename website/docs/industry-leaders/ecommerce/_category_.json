@@ -1,0 +1,11 @@
+{
+  "label": "Ecommerce",
+  "position": 6,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Ecommerce & retention",
+    "description": "Commerce and retention publishers in the email stack.",
+    "slug": "/industry-leaders/ecommerce"
+  }
+}
