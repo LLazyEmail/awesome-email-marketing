@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Update glossary.json ([#271](https://github.com/LLazyEmail/awesome-email-marketing/pull/271))
 - Update glossary.json ([#270](https://github.com/LLazyEmail/awesome-email-marketing/pull/270))
 - docs: add blank ecommerce Industry Leader source pages ([#269](https://github.com/LLazyEmail/awesome-email-marketing/pull/269))
 - docs: make glossary terms link to site search ([#268](https://github.com/LLazyEmail/awesome-email-marketing/pull/268))
