@@ -36,3 +36,24 @@ Homepage: [mailchimp.com/resources](https://mailchimp.com/resources/)
 - [GDPR and email](https://mailchimp.com/help/about-the-general-data-protection-regulation/)
 - [Email deliverability](https://mailchimp.com/resources/email-deliverability/)
 - [Marketing glossary](https://mailchimp.com/marketing-glossary/)
+
+## Blog design and promotion
+
+- [How to Promote Your Blog: Search, Social Media, Email](https://mailchimp.com/resources/how-to-promote-your-small-business-blog/)
+
+## Related Mailchimp resources
+
+- [Ecommerce Email Marketing](https://mailchimp.com/resources/ecommerce-email-marketing/)
+- [Advanced Segmentation](https://mailchimp.com/solutions/advanced-segmentation/)
+- [SMS Marketing](https://mailchimp.com/resources/sms-segmentation/)
+- [Marketing Automation](https://mailchimp.com/resources/how-to-automate-omnichannel-customer-journeys/)
+- [Promotional Strategy](https://mailchimp.com/resources/create-a-successful-promotional-strategy/)
+- [AI in Marketing](https://mailchimp.com/resources/ai-agents-for-marketing/)
+
+## Additional Mailchimp articles
+
+- [Email Personalization Tips to Improve Open Rates](https://mailchimp.com/resources/email-personalization-tips/)
+- [Next-Gen Email Marketing for Higher Education](https://mailchimp.com/resources/email-marketing-for-higher-education/)
+- [Get More Clicks With a Visually Appealing Email Design](https://mailchimp.com/resources/how-do-i-create-a-visually-appealing-email-design/)
+- [Exploring the Factors of Production](https://mailchimp.com/resources/factors-of-production/)
+- [How to Create an Exclusive Early-Access Email Campaign](https://mailchimp.com/resources/create-early-access-email-campaign/)
