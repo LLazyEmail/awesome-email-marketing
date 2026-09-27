@@ -8,6 +8,9 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: move Drip Blog into Industry Leaders ([#265](https://github.com/LLazyEmail/awesome-email-marketing/pull/265))
+- docs: move Zapier Blog into Industry Leaders ([#263](https://github.com/LLazyEmail/awesome-email-marketing/pull/263))
+- docs: move Vero Insights from vendor-blogs into industry-leaders ([#262](https://github.com/LLazyEmail/awesome-email-marketing/pull/262))
 - docs: Industry Leaders section (one page per source, SEO URL tree) ([#261](https://github.com/LLazyEmail/awesome-email-marketing/pull/261))
 - Add Xem to the self-hosted email platform lists ([#250](https://github.com/LLazyEmail/awesome-email-marketing/pull/250))
 - docs: copy open list PRs onto matching Docusaurus pages ([#252](https://github.com/LLazyEmail/awesome-email-marketing/pull/252))

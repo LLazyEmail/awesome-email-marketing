@@ -1,6 +1,33 @@
 [
   {
     "date": "2026-09-27",
+    "title": "docs: move Drip Blog into Industry Leaders",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/265",
+    "items": [
+      "Merged pull request #265",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/265"
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "title": "docs: move Zapier Blog into Industry Leaders",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/263",
+    "items": [
+      "Merged pull request #263",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/263"
+    ]
+  },
+  {
+    "date": "2026-09-27",
+    "title": "docs: move Vero Insights from vendor-blogs into industry-leaders",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/262",
+    "items": [
+      "Merged pull request #262",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/262"
+    ]
+  },
+  {
+    "date": "2026-09-27",
     "title": "docs: Industry Leaders section (one page per source, SEO URL tree)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/261",
     "items": [
