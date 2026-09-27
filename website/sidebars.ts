@@ -103,14 +103,6 @@ const sidebars: SidebarsConfig = {
         'guides/demand-curve',
         'guides/blogs',
         'guides/faq',
-        {
-          type: 'category',
-          label: 'Vendor blogs',
-          collapsed: true,
-          items: [
-            'guides/vendor-blogs/revue',
-          ],
-        },
       ],
     },
     {
