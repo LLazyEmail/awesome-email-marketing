@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: split a.md growth hacks into a Growth Hacks docs section ([#287](https://github.com/LLazyEmail/awesome-email-marketing/pull/287))
 - docs: add Tech Newsletters page from newsletters db #95 ([#285](https://github.com/LLazyEmail/awesome-email-marketing/pull/285))
 - Update glossary.json ([#271](https://github.com/LLazyEmail/awesome-email-marketing/pull/271))
 - Update glossary.json ([#270](https://github.com/LLazyEmail/awesome-email-marketing/pull/270))

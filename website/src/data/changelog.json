@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-09-27",
+    "title": "docs: split a.md growth hacks into a Growth Hacks docs section",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/287",
+    "items": [
+      "Merged pull request #287",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/287"
+    ]
+  },
+  {
+    "date": "2026-09-27",
     "title": "docs: add Tech Newsletters page from newsletters db #95",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/285",
     "items": [
