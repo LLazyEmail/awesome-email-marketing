@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T02:04:05.802Z",
-  "count": 83,
+  "generatedAt": "2026-09-27T02:30:40.807Z",
+  "count": 105,
   "pages": [
     {
       "id": "api",
@@ -762,6 +762,28 @@
       "unlisted": false
     },
     {
+      "id": "industry-leaders/ecommerce/bigcommerce",
+      "title": "BigCommerce articles",
+      "sidebarLabel": "BigCommerce",
+      "description": "Curated ecommerce and email marketing articles from BigCommerce.",
+      "path": "industry-leaders/ecommerce/bigcommerce.md",
+      "url": "/docs/industry-leaders/ecommerce/bigcommerce",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/chargebee",
+      "title": "Chargebee articles",
+      "sidebarLabel": "Chargebee",
+      "description": "Curated ecommerce and email marketing articles from Chargebee.",
+      "path": "industry-leaders/ecommerce/chargebee.md",
+      "url": "/docs/industry-leaders/ecommerce/chargebee",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
       "id": "industry-leaders/ecommerce/drip",
       "title": "Drip Blog",
       "sidebarLabel": "Drip",
@@ -773,12 +795,232 @@
       "unlisted": false
     },
     {
+      "id": "industry-leaders/ecommerce/ecommercefuel",
+      "title": "EcommerceFuel articles",
+      "sidebarLabel": "EcommerceFuel",
+      "description": "Curated ecommerce and email marketing articles from EcommerceFuel.",
+      "path": "industry-leaders/ecommerce/ecommercefuel.md",
+      "url": "/docs/industry-leaders/ecommerce/ecommercefuel",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/emailmonday",
+      "title": "EmailMonday articles",
+      "sidebarLabel": "EmailMonday",
+      "description": "Curated ecommerce and email marketing articles from EmailMonday.",
+      "path": "industry-leaders/ecommerce/emailmonday.md",
+      "url": "/docs/industry-leaders/ecommerce/emailmonday",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/emailtooltester",
+      "title": "EmailToolTester articles",
+      "sidebarLabel": "EmailToolTester",
+      "description": "Curated ecommerce and email marketing articles from EmailToolTester.",
+      "path": "industry-leaders/ecommerce/emailtooltester.md",
+      "url": "/docs/industry-leaders/ecommerce/emailtooltester",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/hustler-marketing",
+      "title": "Hustler Marketing articles",
+      "sidebarLabel": "Hustler Marketing",
+      "description": "Curated ecommerce and email marketing articles from Hustler Marketing.",
+      "path": "industry-leaders/ecommerce/hustler-marketing.md",
+      "url": "/docs/industry-leaders/ecommerce/hustler-marketing",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/kenshoo-skai",
+      "title": "Kenshoo Skai articles",
+      "sidebarLabel": "Kenshoo Skai",
+      "description": "Curated ecommerce and email marketing articles from Kenshoo (Skai).",
+      "path": "industry-leaders/ecommerce/kenshoo-skai.md",
+      "url": "/docs/industry-leaders/ecommerce/kenshoo-skai",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
       "id": "industry-leaders/ecommerce/klaviyo",
       "title": "Klaviyo articles",
       "sidebarLabel": "Klaviyo",
       "description": "Ecommerce email and SMS strategy articles from Klaviyo.",
       "path": "industry-leaders/ecommerce/klaviyo.md",
       "url": "/docs/industry-leaders/ecommerce/klaviyo",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/magento-adobe",
+      "title": "Magento Adobe articles",
+      "sidebarLabel": "Magento Adobe",
+      "description": "Curated ecommerce and email marketing articles from Magento (Adobe).",
+      "path": "industry-leaders/ecommerce/magento-adobe.md",
+      "url": "/docs/industry-leaders/ecommerce/magento-adobe",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/omnisend",
+      "title": "Omnisend articles",
+      "sidebarLabel": "Omnisend",
+      "description": "Curated ecommerce and email marketing articles from Omnisend.",
+      "path": "industry-leaders/ecommerce/omnisend.md",
+      "url": "/docs/industry-leaders/ecommerce/omnisend",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/practical-ecommerce",
+      "title": "Practical Ecommerce articles",
+      "sidebarLabel": "Practical Ecommerce",
+      "description": "Curated ecommerce and email marketing articles from Practical Ecommerce.",
+      "path": "industry-leaders/ecommerce/practical-ecommerce.md",
+      "url": "/docs/industry-leaders/ecommerce/practical-ecommerce",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/privy",
+      "title": "Privy articles",
+      "sidebarLabel": "Privy",
+      "description": "Curated ecommerce and email marketing articles from Privy.",
+      "path": "industry-leaders/ecommerce/privy.md",
+      "url": "/docs/industry-leaders/ecommerce/privy",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/salesforce",
+      "title": "Salesforce articles",
+      "sidebarLabel": "Salesforce",
+      "description": "Curated ecommerce and email marketing articles from Salesforce.",
+      "path": "industry-leaders/ecommerce/salesforce.md",
+      "url": "/docs/industry-leaders/ecommerce/salesforce",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/selzy",
+      "title": "Selzy articles",
+      "sidebarLabel": "Selzy",
+      "description": "Curated ecommerce and email marketing articles from Selzy.",
+      "path": "industry-leaders/ecommerce/selzy.md",
+      "url": "/docs/industry-leaders/ecommerce/selzy",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/shopify",
+      "title": "Shopify articles",
+      "sidebarLabel": "Shopify",
+      "description": "Curated ecommerce and email marketing articles from Shopify.",
+      "path": "industry-leaders/ecommerce/shopify.md",
+      "url": "/docs/industry-leaders/ecommerce/shopify",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/square",
+      "title": "Square articles",
+      "sidebarLabel": "Square",
+      "description": "Curated ecommerce and email marketing articles from Square.",
+      "path": "industry-leaders/ecommerce/square.md",
+      "url": "/docs/industry-leaders/ecommerce/square",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/twilio-segment",
+      "title": "Twilio Segment articles",
+      "sidebarLabel": "Twilio Segment",
+      "description": "Curated ecommerce and email marketing articles from Twilio Segment.",
+      "path": "industry-leaders/ecommerce/twilio-segment.md",
+      "url": "/docs/industry-leaders/ecommerce/twilio-segment",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/twilio-sendgrid",
+      "title": "Twilio SendGrid articles",
+      "sidebarLabel": "Twilio SendGrid",
+      "description": "Curated ecommerce and email marketing articles from Twilio SendGrid.",
+      "path": "industry-leaders/ecommerce/twilio-sendgrid.md",
+      "url": "/docs/industry-leaders/ecommerce/twilio-sendgrid",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/unbounce",
+      "title": "Unbounce articles",
+      "sidebarLabel": "Unbounce",
+      "description": "Curated ecommerce and email marketing articles from Unbounce.",
+      "path": "industry-leaders/ecommerce/unbounce.md",
+      "url": "/docs/industry-leaders/ecommerce/unbounce",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/webretailer",
+      "title": "WebRetailer articles",
+      "sidebarLabel": "WebRetailer",
+      "description": "Curated ecommerce and email marketing articles from WebRetailer.",
+      "path": "industry-leaders/ecommerce/webretailer.md",
+      "url": "/docs/industry-leaders/ecommerce/webretailer",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/wix-ecommerce",
+      "title": "Wix eCommerce articles",
+      "sidebarLabel": "Wix eCommerce",
+      "description": "Curated ecommerce and email marketing articles from Wix eCommerce.",
+      "path": "industry-leaders/ecommerce/wix-ecommerce.md",
+      "url": "/docs/industry-leaders/ecommerce/wix-ecommerce",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/woocommerce",
+      "title": "WooCommerce articles",
+      "sidebarLabel": "WooCommerce",
+      "description": "Curated ecommerce and email marketing articles from WooCommerce.",
+      "path": "industry-leaders/ecommerce/woocommerce.md",
+      "url": "/docs/industry-leaders/ecommerce/woocommerce",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/ecommerce/yotpo",
+      "title": "Yotpo articles",
+      "sidebarLabel": "Yotpo",
+      "description": "Curated ecommerce and email marketing articles from Yotpo.",
+      "path": "industry-leaders/ecommerce/yotpo.md",
+      "url": "/docs/industry-leaders/ecommerce/yotpo",
       "section": "industry-leaders",
       "draft": false,
       "unlisted": false
