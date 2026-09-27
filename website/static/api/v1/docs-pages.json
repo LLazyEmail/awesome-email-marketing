@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T01:13:53.665Z",
-  "count": 79,
+  "generatedAt": "2026-09-27T01:22:03.553Z",
+  "count": 80,
   "pages": [
     {
       "id": "api",
@@ -401,8 +401,8 @@
     {
       "id": "guides/vendor-blogs/zapier",
       "title": "Zapier Blog",
-      "sidebarLabel": "Zapier Blog",
-      "description": "Zapier Blog — curated guides resources from the Awesome Email Marketing library.",
+      "sidebarLabel": "Zapier Blog (moved)",
+      "description": "Zapier Blog moved to the Industry Leaders section.",
       "path": "guides/vendor-blogs/zapier.md",
       "url": "/docs/guides/vendor-blogs/zapier",
       "section": "guides",
@@ -823,6 +823,17 @@
       "description": "Inbound, lifecycle, and email strategy articles from HubSpot.",
       "path": "industry-leaders/growth/hubspot.md",
       "url": "/docs/industry-leaders/growth/hubspot",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/growth/zapier",
+      "title": "Zapier Blog",
+      "sidebarLabel": "Zapier",
+      "description": "Email marketing automation articles from Zapier — software guides, drip campaigns, and Mailchimp workflows.",
+      "path": "industry-leaders/growth/zapier.md",
+      "url": "/docs/industry-leaders/growth/zapier",
       "section": "industry-leaders",
       "draft": false,
       "unlisted": false
