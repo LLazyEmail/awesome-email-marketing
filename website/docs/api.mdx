@@ -1,6 +1,6 @@
 ---
 title: "Public API"
-description: "JSON exports for the Awesome Email Marketing catalog, metrics, and glossary."
+description: "JSON exports for the Awesome Email Marketing catalog, metrics, glossary, and Industry Leaders articles."
 keywords:
   - api
   - json export
@@ -25,7 +25,7 @@ audience:
   - developers
 seo:
   title: "Public API | Awesome Email Marketing"
-  description: "JSON exports for the Awesome Email Marketing catalog, metrics, and glossary."
+  description: "JSON exports for the Awesome Email Marketing catalog, metrics, glossary, and Industry Leaders articles."
   robots: index,follow
   canonical_path: "/docs/api"
   og_type: article
@@ -50,6 +50,7 @@ https://llazyemail.github.io/awesome-email-marketing/api/v1/
 | [`metrics.json`](pathname:///api/v1/metrics.json) | Counts by section and tag |
 | [`glossary.json`](pathname:///api/v1/glossary.json) | Glossary terms and definitions |
 | [`docs-pages.json`](pathname:///api/v1/docs-pages.json) | Auto-generated list of every docs markdown page |
+| [`industry-leaders.json`](pathname:///api/v1/industry-leaders.json) | Articles scraped from every Industry Leaders source page |
 
 ## Catalog item shape
 
@@ -65,10 +66,27 @@ https://llazyemail.github.io/awesome-email-marketing/api/v1/
 }
 ```
 
+## Industry Leaders article shape
+
+Regenerated from `website/docs/industry-leaders/**` by `npm run generate:industry-leaders` (and the **Update industry-leaders articles API** workflow on `main`).
+
+```json
+{
+  "title": "Email marketing guide",
+  "url": "https://mailchimp.com/resources/email-marketing-guide/",
+  "heading": "Articles",
+  "source": "mailchimp",
+  "topic": "esp-blogs",
+  "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+}
+```
+
 ## Example
 
 ```bash
 curl -s https://llazyemail.github.io/awesome-email-marketing/api/v1/catalog.json | jq '.items | length'
+
+curl -s https://llazyemail.github.io/awesome-email-marketing/api/v1/industry-leaders.json | jq '.articleCount'
 ```
 
 Filter client-side by tag, or use the interactive [Explore](/explore) page.
@@ -90,7 +108,10 @@ Built automatically with each site build (see issue [#223](https://github.com/LL
 ```bash
 cd website
 npm run generate:api
+npm run generate:docs-index
+npm run generate:industry-leaders
 ```
 
-The generator parses selected docs pages into `src/data/catalog.json` and `static/api/v1/*`.
+The catalog generator parses selected docs pages into `src/data/catalog.json` and `static/api/v1/*`.
+The Industry Leaders generator writes `static/api/v1/industry-leaders.json`.
 LLM files (`llms.txt`, `llms-full.txt`, per-page markdown) are produced during `npm run build`.

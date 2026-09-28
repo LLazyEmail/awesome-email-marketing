@@ -1,0 +1,59 @@
+name: Update industry-leaders articles API
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'website/docs/industry-leaders/**'
+      - 'website/scripts/generate-industry-leaders.mjs'
+      - '.github/workflows/industry-leaders-api.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: industry-leaders-api
+  cancel-in-progress: false
+
+jobs:
+  industry-leaders-api:
+    name: Regenerate industry-leaders.json
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: website
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: main
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+          cache-dependency-path: website/package-lock.json
+
+      - name: Generate industry-leaders articles JSON
+        run: npm run generate:industry-leaders
+
+      - name: Commit and push JSON
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add website/static/api/v1/industry-leaders.json
+
+          if git diff --staged --quiet; then
+            echo "industry-leaders.json already up to date."
+            exit 0
+          fi
+
+          git commit -m "chore(api): regenerate industry-leaders articles JSON"
+          git push origin HEAD:main
