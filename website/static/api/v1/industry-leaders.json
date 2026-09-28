@@ -1,12 +1,2509 @@
 {
   "version": "1.0.0",
-  "generatedAt": "1970-01-01T00:00:00.000Z",
+  "generatedAt": "2026-09-28T00:42:55.594Z",
   "name": "Industry Leaders articles",
   "homepage": "https://llazyemail.github.io/awesome-email-marketing/docs/industry-leaders",
   "repository": "https://github.com/LLazyEmail/awesome-email-marketing",
-  "sourceCount": 0,
-  "articleCount": 0,
-  "byTopic": {},
-  "sources": [],
-  "articles": []
+  "sourceCount": 40,
+  "articleCount": 266,
+  "byTopic": {
+    "esp-blogs": 58,
+    "ecommerce": 127,
+    "growth": 20,
+    "publications": 48,
+    "developers": 5,
+    "deliverability": 8
+  },
+  "sources": [
+    {
+      "id": "automizy",
+      "name": "Automizy",
+      "topic": "esp-blogs",
+      "homepage": "https://automizy.com/blog/",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/automizy",
+      "path": "industry-leaders/esp-blogs/automizy.md",
+      "articleCount": 5
+    },
+    {
+      "id": "bigcommerce",
+      "name": "BigCommerce",
+      "topic": "ecommerce",
+      "homepage": "https://www.bigcommerce.com/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/bigcommerce",
+      "path": "industry-leaders/ecommerce/bigcommerce.md",
+      "articleCount": 0
+    },
+    {
+      "id": "brevo",
+      "name": "Brevo",
+      "topic": "esp-blogs",
+      "homepage": "https://www.brevo.com/blog/",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/brevo",
+      "path": "industry-leaders/esp-blogs/brevo.md",
+      "articleCount": 5
+    },
+    {
+      "id": "chargebee",
+      "name": "Chargebee",
+      "topic": "ecommerce",
+      "homepage": "https://www.chargebee.com/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/chargebee",
+      "path": "industry-leaders/ecommerce/chargebee.md",
+      "articleCount": 0
+    },
+    {
+      "id": "convertkit",
+      "name": "ConvertKit",
+      "topic": "esp-blogs",
+      "homepage": "https://help.convertkit.com/",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit",
+      "path": "industry-leaders/esp-blogs/convertkit.md",
+      "articleCount": 20
+    },
+    {
+      "id": "customer-io",
+      "name": "Customer.io",
+      "topic": "growth",
+      "homepage": "https://customer.io/blog",
+      "sourcePage": "/docs/industry-leaders/growth/customer-io",
+      "path": "industry-leaders/growth/customer-io.md",
+      "articleCount": 4
+    },
+    {
+      "id": "drip",
+      "name": "Drip",
+      "topic": "ecommerce",
+      "homepage": "https://www.drip.com/blog",
+      "sourcePage": "/docs/industry-leaders/ecommerce/drip",
+      "path": "industry-leaders/ecommerce/drip.md",
+      "articleCount": 5
+    },
+    {
+      "id": "ecommercefuel",
+      "name": "EcommerceFuel",
+      "topic": "ecommerce",
+      "homepage": "https://www.ecommercefuel.com/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/ecommercefuel",
+      "path": "industry-leaders/ecommerce/ecommercefuel.md",
+      "articleCount": 4
+    },
+    {
+      "id": "emailmonday",
+      "name": "EmailMonday",
+      "topic": "ecommerce",
+      "homepage": "https://www.emailmonday.com/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/emailmonday",
+      "path": "industry-leaders/ecommerce/emailmonday.md",
+      "articleCount": 0
+    },
+    {
+      "id": "emailtooltester",
+      "name": "EmailToolTester",
+      "topic": "ecommerce",
+      "homepage": "https://www.emailtooltester.com/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/emailtooltester",
+      "path": "industry-leaders/ecommerce/emailtooltester.md",
+      "articleCount": 0
+    },
+    {
+      "id": "hubspot",
+      "name": "HubSpot",
+      "topic": "growth",
+      "homepage": "https://blog.hubspot.com/marketing",
+      "sourcePage": "/docs/industry-leaders/growth/hubspot",
+      "path": "industry-leaders/growth/hubspot.md",
+      "articleCount": 8
+    },
+    {
+      "id": "hustler-marketing",
+      "name": "Hustler Marketing",
+      "topic": "ecommerce",
+      "homepage": "https://www.hustlermarketing.com/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing",
+      "path": "industry-leaders/ecommerce/hustler-marketing.md",
+      "articleCount": 10
+    },
+    {
+      "id": "kenshoo-skai",
+      "name": "Kenshoo Skai",
+      "topic": "ecommerce",
+      "homepage": "https://skai.io/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/kenshoo-skai",
+      "path": "industry-leaders/ecommerce/kenshoo-skai.md",
+      "articleCount": 0
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "topic": "ecommerce",
+      "homepage": "https://www.klaviyo.com/blog",
+      "sourcePage": "/docs/industry-leaders/ecommerce/klaviyo",
+      "path": "industry-leaders/ecommerce/klaviyo.md",
+      "articleCount": 6
+    },
+    {
+      "id": "litmus",
+      "name": "Litmus",
+      "topic": "publications",
+      "homepage": "https://www.litmus.com/blog",
+      "sourcePage": "/docs/industry-leaders/publications/litmus",
+      "path": "industry-leaders/publications/litmus.md",
+      "articleCount": 29
+    },
+    {
+      "id": "magento-adobe",
+      "name": "Magento Adobe",
+      "topic": "ecommerce",
+      "homepage": "https://business.adobe.com/blog/topics/commerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe",
+      "path": "industry-leaders/ecommerce/magento-adobe.md",
+      "articleCount": 15
+    },
+    {
+      "id": "mailchimp",
+      "name": "Mailchimp",
+      "topic": "esp-blogs",
+      "homepage": "https://mailchimp.com/resources/",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp",
+      "path": "industry-leaders/esp-blogs/mailchimp.md",
+      "articleCount": 22
+    },
+    {
+      "id": "mjml",
+      "name": "MJML",
+      "topic": "developers",
+      "homepage": "https://mjml.io",
+      "sourcePage": "/docs/industry-leaders/developers/mjml",
+      "path": "industry-leaders/developers/mjml.md",
+      "articleCount": 5
+    },
+    {
+      "id": "omnisend",
+      "name": "Omnisend",
+      "topic": "ecommerce",
+      "homepage": "https://www.omnisend.com/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend",
+      "path": "industry-leaders/ecommerce/omnisend.md",
+      "articleCount": 19
+    },
+    {
+      "id": "only-influencers",
+      "name": "Only Influencers",
+      "topic": "publications",
+      "homepage": "https://www.onlyinfluencers.com",
+      "sourcePage": "/docs/industry-leaders/publications/only-influencers",
+      "path": "industry-leaders/publications/only-influencers.md",
+      "articleCount": 4
+    },
+    {
+      "id": "practical-ecommerce",
+      "name": "Practical Ecommerce",
+      "topic": "ecommerce",
+      "homepage": "https://www.practicalecommerce.com/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/practical-ecommerce",
+      "path": "industry-leaders/ecommerce/practical-ecommerce.md",
+      "articleCount": 0
+    },
+    {
+      "id": "privy",
+      "name": "Privy",
+      "topic": "ecommerce",
+      "homepage": "https://www.privy.com/blog",
+      "sourcePage": "/docs/industry-leaders/ecommerce/privy",
+      "path": "industry-leaders/ecommerce/privy.md",
+      "articleCount": 0
+    },
+    {
+      "id": "really-good-emails",
+      "name": "Really Good Emails",
+      "topic": "publications",
+      "homepage": "https://reallygoodemails.com",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails",
+      "path": "industry-leaders/publications/really-good-emails.md",
+      "articleCount": 10
+    },
+    {
+      "id": "revue",
+      "name": "Revue",
+      "topic": "publications",
+      "homepage": "https://www.getrevue.co",
+      "sourcePage": "/docs/industry-leaders/publications/revue",
+      "path": "industry-leaders/publications/revue.md",
+      "articleCount": 5
+    },
+    {
+      "id": "salesforce",
+      "name": "Salesforce",
+      "topic": "ecommerce",
+      "homepage": "https://www.salesforce.com/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce",
+      "path": "industry-leaders/ecommerce/salesforce.md",
+      "articleCount": 13
+    },
+    {
+      "id": "selzy",
+      "name": "Selzy",
+      "topic": "ecommerce",
+      "homepage": "https://selzy.com/en/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy",
+      "path": "industry-leaders/ecommerce/selzy.md",
+      "articleCount": 9
+    },
+    {
+      "id": "sender",
+      "name": "Sender",
+      "topic": "ecommerce",
+      "homepage": "https://www.sender.net/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender",
+      "path": "industry-leaders/ecommerce/sender.md",
+      "articleCount": 12
+    },
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "topic": "ecommerce",
+      "homepage": "https://www.shopify.com/blog",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify",
+      "path": "industry-leaders/ecommerce/shopify.md",
+      "articleCount": 10
+    },
+    {
+      "id": "sparkpost",
+      "name": "SparkPost",
+      "topic": "deliverability",
+      "homepage": "https://www.sparkpost.com/blog/",
+      "sourcePage": "/docs/industry-leaders/deliverability/sparkpost",
+      "path": "industry-leaders/deliverability/sparkpost.md",
+      "articleCount": 4
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "topic": "ecommerce",
+      "homepage": "https://squareup.com/us/en/townsquare",
+      "sourcePage": "/docs/industry-leaders/ecommerce/square",
+      "path": "industry-leaders/ecommerce/square.md",
+      "articleCount": 8
+    },
+    {
+      "id": "twilio-segment",
+      "name": "Twilio Segment",
+      "topic": "ecommerce",
+      "homepage": "https://segment.com/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment",
+      "path": "industry-leaders/ecommerce/twilio-segment.md",
+      "articleCount": 10
+    },
+    {
+      "id": "twilio-sendgrid",
+      "name": "Twilio SendGrid",
+      "topic": "ecommerce",
+      "homepage": "https://www.twilio.com/en-us/blog/tag/sendgrid",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-sendgrid",
+      "path": "industry-leaders/ecommerce/twilio-sendgrid.md",
+      "articleCount": 0
+    },
+    {
+      "id": "unbounce",
+      "name": "Unbounce",
+      "topic": "ecommerce",
+      "homepage": "https://unbounce.com/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/unbounce",
+      "path": "industry-leaders/ecommerce/unbounce.md",
+      "articleCount": 0
+    },
+    {
+      "id": "validity",
+      "name": "Validity",
+      "topic": "deliverability",
+      "homepage": "https://www.validity.com/blog/",
+      "sourcePage": "/docs/industry-leaders/deliverability/validity",
+      "path": "industry-leaders/deliverability/validity.md",
+      "articleCount": 4
+    },
+    {
+      "id": "vero",
+      "name": "Vero",
+      "topic": "esp-blogs",
+      "homepage": "https://www.getvero.com/resources/",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/vero",
+      "path": "industry-leaders/esp-blogs/vero.md",
+      "articleCount": 6
+    },
+    {
+      "id": "webretailer",
+      "name": "WebRetailer",
+      "topic": "ecommerce",
+      "homepage": "https://www.webretailer.com/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/webretailer",
+      "path": "industry-leaders/ecommerce/webretailer.md",
+      "articleCount": 0
+    },
+    {
+      "id": "wix-ecommerce",
+      "name": "Wix eCommerce",
+      "topic": "ecommerce",
+      "homepage": "https://www.wix.com/blog/ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/wix-ecommerce",
+      "path": "industry-leaders/ecommerce/wix-ecommerce.md",
+      "articleCount": 6
+    },
+    {
+      "id": "woocommerce",
+      "name": "WooCommerce",
+      "topic": "ecommerce",
+      "homepage": "https://woocommerce.com/posts/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/woocommerce",
+      "path": "industry-leaders/ecommerce/woocommerce.md",
+      "articleCount": 0
+    },
+    {
+      "id": "yotpo",
+      "name": "Yotpo",
+      "topic": "ecommerce",
+      "homepage": "https://www.yotpo.com/blog/",
+      "sourcePage": "/docs/industry-leaders/ecommerce/yotpo",
+      "path": "industry-leaders/ecommerce/yotpo.md",
+      "articleCount": 0
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "topic": "growth",
+      "homepage": "https://zapier.com/blog",
+      "sourcePage": "/docs/industry-leaders/growth/zapier",
+      "path": "industry-leaders/growth/zapier.md",
+      "articleCount": 8
+    }
+  ],
+  "articles": [
+    {
+      "title": "10+ best practices to improve your email deliverability",
+      "url": "https://www.twilio.com/en-us/blog/insights/8-best-practices-to-improve-your-email-deliverability",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "11 Must-Have E-Commerce Email Marketing Campaigns",
+      "url": "https://www.drip.com/blog/ecommerce/transactional-email-examples",
+      "heading": "Articles",
+      "source": "drip",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/drip"
+    },
+    {
+      "title": "15 Campaigns to Give You Inspiration for Data-driven Email Marketing Campaigns",
+      "url": "https://www.getvero.com/resources/15-data-driven-email-marketing-campaigns-to-help-you-kick-ass-in-2014/",
+      "heading": "Articles",
+      "source": "vero",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/vero"
+    },
+    {
+      "title": "18 SaaS Marketing Best Practices To Boost Your Business",
+      "url": "https://automizy.com/blog/18-saas-marketing-best-practices/",
+      "heading": "Articles",
+      "source": "automizy",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/automizy"
+    },
+    {
+      "title": "2017 State of Email Report",
+      "url": "https://www.litmus.com/wp-content/uploads/pdf/2017-State-of-email-report.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "2019 State of Email",
+      "url": "https://files.reallygoodemails.com/litmusScreenReaderTranscripts/these-email-resources-are-a-must-read",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "2020 Future of Email Report",
+      "url": "https://www.litmus.com/wp-content/uploads/2020/04/2020_Future_of_Email_Report.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "25 Ways to Get Better at Email Marketing",
+      "url": "https://www.getvero.com/resources/master-email-marketing/",
+      "heading": "Articles",
+      "source": "vero",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/vero"
+    },
+    {
+      "title": "4 ways to automate your email marketing for better communication",
+      "url": "https://zapier.com/blog/automate-email-marketing/",
+      "heading": "Articles",
+      "source": "zapier",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/zapier"
+    },
+    {
+      "title": "6 ways to automate your email marketing with Mailchimp",
+      "url": "https://zapier.com/blog/mailchimp-integrations/",
+      "heading": "Articles",
+      "source": "zapier",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/zapier"
+    },
+    {
+      "title": "79 Email Call To Action Examples & How To Use Them",
+      "url": "https://automizy.com/blog/email-call-to-action/",
+      "heading": "Articles",
+      "source": "automizy",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/automizy"
+    },
+    {
+      "title": "8 Email Marketing Skills You Need To Know In 2021",
+      "url": "https://automizy.com/blog/email-marketing-skills/",
+      "heading": "Articles",
+      "source": "automizy",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/automizy"
+    },
+    {
+      "title": "9 of the Best Drip Campaign Examples We’ve Seen",
+      "url": "https://www.drip.com/blog/email-marketing/drip-campaign-examples",
+      "heading": "Articles",
+      "source": "drip",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/drip"
+    },
+    {
+      "title": "A beginner's journey to managing a bi-weekly newsletter as a one-person team + Tips",
+      "url": "https://selzy.com/en/blog/newsletter-beginners-experience/",
+      "heading": "Articles",
+      "source": "selzy",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
+    },
+    {
+      "title": "A Complete Guide to Ecommerce Email Marketing Strategies",
+      "url": "https://www.salesforce.com/ap/marketing/email/ecommerce-email-marketing/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "A foolproof guide to email list building",
+      "url": "https://selzy.com/en/blog/guide-email-list-building/",
+      "heading": "Articles",
+      "source": "selzy",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
+    },
+    {
+      "title": "A newsletter for readers and writers on Twitter.",
+      "url": "https://www.getrevue.co/profile/the_week_in_newsletters",
+      "heading": "Articles",
+      "source": "revue",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/revue"
+    },
+    {
+      "title": "A/B testing emails",
+      "url": "https://mailchimp.com/resources/ab-testing-emails/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "A/B Testing on Shopify: Complete 2026 Guide For Growth",
+      "url": "https://www.omnisend.com/blog/ab-testing-on-shopify/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "A/B Testing: What It Is and How to Do It (With Examples)",
+      "url": "https://www.shopify.com/blog/ab-testing",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "Abandoned cart",
+      "url": "https://www.klaviyo.com/blog/abandoned-cart-email",
+      "heading": "Articles",
+      "source": "klaviyo",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/klaviyo"
+    },
+    {
+      "title": "Abandoned cart emails",
+      "url": "https://reallygoodemails.com/categories/ecommerce",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Adobe Campaign Introduces New Email Capabilities Powered by Creativity and Data",
+      "url": "https://business.adobe.com/blog/the-latest/adobe-campaign-introduces-new-email-capabilities-powered-creativity-data",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Advanced Segmentation",
+      "url": "https://mailchimp.com/solutions/advanced-segmentation/",
+      "heading": "Related Mailchimp resources",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "AI in Marketing",
+      "url": "https://mailchimp.com/resources/ai-agents-for-marketing/",
+      "heading": "Related Mailchimp resources",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Are your emails accessible? (Checklist)",
+      "url": "https://www.litmus.com/wp-content/uploads/pdf/email-accessibility-checklist-2025.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Asking for a Friend: What's the Difference Between Email Delivery and Email Deliverability?",
+      "url": "https://www.salesforce.com/blog/email-delivery-versus-deliverability/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "Authentication",
+      "url": "https://www.validity.com/blog/what-is-dmarc/",
+      "heading": "Articles",
+      "source": "validity",
+      "topic": "deliverability",
+      "sourcePage": "/docs/industry-leaders/deliverability/validity"
+    },
+    {
+      "title": "Automated Email Campaigns: A Beginner's Guide (2025)",
+      "url": "https://www.shopify.com/blog/automated-email-campaigns",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "Behavioral messaging",
+      "url": "https://customer.io/blog/behavioral-emails",
+      "heading": "Articles",
+      "source": "customer-io",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/customer-io"
+    },
+    {
+      "title": "Benchmark reports",
+      "url": "https://www.klaviyo.com/blog/benchmarks",
+      "heading": "Articles",
+      "source": "klaviyo",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/klaviyo"
+    },
+    {
+      "title": "Benchmark reports",
+      "url": "https://www.validity.com/everest/",
+      "heading": "Articles",
+      "source": "validity",
+      "topic": "deliverability",
+      "sourcePage": "/docs/industry-leaders/deliverability/validity"
+    },
+    {
+      "title": "Best Email Marketing Lead Generation Techniques to Help You Gain Customers",
+      "url": "https://selzy.com/en/blog/email-lead-generation/",
+      "heading": "Articles",
+      "source": "selzy",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
+    },
+    {
+      "title": "Best practices for high-converting email signup forms",
+      "url": "https://selzy.com/en/blog/email-sign-up-form-best-practices/",
+      "heading": "Articles",
+      "source": "selzy",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
+    },
+    {
+      "title": "BIMI",
+      "url": "https://www.sparkpost.com/blog/bimi/",
+      "heading": "Articles",
+      "source": "sparkpost",
+      "topic": "deliverability",
+      "sourcePage": "/docs/industry-leaders/deliverability/sparkpost"
+    },
+    {
+      "title": "BIMI Implementation: How to Set Up Brand Logos in Inboxes",
+      "url": "https://www.sender.net/blog/bimi-implementation/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Blog",
+      "url": "https://reallygoodemails.com/blog",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Blog: Sample Use Cases & Flows (Email subscribers)",
+      "url": "https://dev.wix.com/docs/api-reference/business-solutions/blog/sample-flows",
+      "heading": "Articles",
+      "source": "wix-ecommerce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/wix-ecommerce"
+    },
+    {
+      "title": "Boost customer engagement with email optimization!",
+      "url": "https://selzy.com/en/blog/email-marketing-optimization/",
+      "heading": "Articles",
+      "source": "selzy",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
+    },
+    {
+      "title": "Boost Your Revenue with Smarter Email List Segmentation (2026)",
+      "url": "https://www.shopify.com/enterprise/blog/email-list-segmentation-strategies-for-high-volume-ecommerce-stores",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "Boosting email deliverability in peak season",
+      "url": "https://business.adobe.com/blog/the-latest/boosting-email-deliverability-in-peak-season",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Brand development",
+      "url": "https://www.drip.com/blog/ecommerce-marketing/brand-development",
+      "heading": "Articles",
+      "source": "drip",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/drip"
+    },
+    {
+      "title": "Broadcasts",
+      "url": "https://help.kit.com/en/collections/2961614-broadcasts",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "Build Your Customer Database with Square",
+      "url": "https://squareup.com/us/en/square-university/marketing-customer",
+      "heading": "Articles",
+      "source": "square",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/square"
+    },
+    {
+      "title": "Build Your Customer List & Send Email Campaigns",
+      "url": "https://squareup.com/us/en/square-university/marketing-customer",
+      "heading": "Articles",
+      "source": "square",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/square"
+    },
+    {
+      "title": "Building an 80,000+ Person Email List in Under 8 Months",
+      "url": "https://www.ecommercefuel.com/building-an-email-list/",
+      "heading": "Articles",
+      "source": "ecommercefuel",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/ecommercefuel"
+    },
+    {
+      "title": "Building an Email Design System",
+      "url": "https://www.litmus.com/blog/email-design-systems",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Components",
+      "url": "https://documentation.mjml.io/#standard-body-components",
+      "heading": "Articles",
+      "source": "mjml",
+      "topic": "developers",
+      "sourcePage": "/docs/industry-leaders/developers/mjml"
+    },
+    {
+      "title": "Create an exceptional email program with Adobe Journey Optimizer",
+      "url": "https://business.adobe.com/blog/the-latest/create-an-exceptional-email-program-with-adobe-journey-optimizer",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Create Marketing Campaigns",
+      "url": "https://squareup.com/help/us/en/article/8412-create-marketing-campaigns",
+      "heading": "Articles",
+      "source": "square",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/square"
+    },
+    {
+      "title": "Create Simple Marketing Campaigns & Automations",
+      "url": "https://squareup.com/us/en/square-university/marketing-customer",
+      "heading": "Articles",
+      "source": "square",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/square"
+    },
+    {
+      "title": "CRM",
+      "url": "https://www.brevo.com/blog/category/crm/",
+      "heading": "Articles",
+      "source": "brevo",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/brevo"
+    },
+    {
+      "title": "CRM Marketing: What It Is and How It Works (2026)",
+      "url": "https://www.sender.net/blog/crm-marketing/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Customer Lifecycle Automation: A Practical Guide",
+      "url": "https://www.omnisend.com/blog/customer-lifecycle-automation/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Customer Service Email Templates for Ecommerce Brands",
+      "url": "https://www.omnisend.com/blog/customer-service-email/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Cyber Monday Emails: Examples, Subject Lines & Send Times",
+      "url": "https://www.omnisend.com/blog/cyber-monday-emails/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Deliverability",
+      "url": "https://www.brevo.com/blog/category/deliverability/",
+      "heading": "Articles",
+      "source": "brevo",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/brevo"
+    },
+    {
+      "title": "Deliverability",
+      "url": "https://www.onlyinfluencers.com/category/deliverability",
+      "heading": "Articles",
+      "source": "only-influencers",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/only-influencers"
+    },
+    {
+      "title": "Deliverability guides",
+      "url": "https://www.sparkpost.com/resources/",
+      "heading": "Articles",
+      "source": "sparkpost",
+      "topic": "deliverability",
+      "sourcePage": "/docs/industry-leaders/deliverability/sparkpost"
+    },
+    {
+      "title": "Documentation",
+      "url": "https://documentation.mjml.io/",
+      "heading": "Articles",
+      "source": "mjml",
+      "topic": "developers",
+      "sourcePage": "/docs/industry-leaders/developers/mjml"
+    },
+    {
+      "title": "Does Wix have email marketing?",
+      "url": "https://www.wix.com/blog/does-wix-have-email-marketing",
+      "heading": "Articles",
+      "source": "wix-ecommerce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/wix-ecommerce"
+    },
+    {
+      "title": "Ecommerce Email Marketing",
+      "url": "https://mailchimp.com/resources/ecommerce-email-marketing/",
+      "heading": "Related Mailchimp resources",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "eCommerce Email Marketing: The Complete Guide With Examples",
+      "url": "https://old.ecommercefuel.com/ecommerce-email-marketing/",
+      "heading": "Articles",
+      "source": "ecommercefuel",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/ecommercefuel"
+    },
+    {
+      "title": "Email Accessibility",
+      "url": "https://www.litmus.com/blog/ultimate-guide-accessible-emails",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Email Analytics That Matter",
+      "url": "https://www.litmus.com/blog/email-analytics",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Email anatomy",
+      "url": "https://www.sparkpost.com/blog/email-anatomy/",
+      "heading": "Articles",
+      "source": "sparkpost",
+      "topic": "deliverability",
+      "sourcePage": "/docs/industry-leaders/deliverability/sparkpost"
+    },
+    {
+      "title": "Email Authentication Just Got More Crucial: Here's Why",
+      "url": "https://www.salesforce.com/blog/email-authentication/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "Email automation",
+      "url": "https://mailchimp.com/resources/email-automation/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Email Automation: Marketing + Strategy",
+      "url": "https://business.adobe.com/blog/basics/email-automation-marketing",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Email awards",
+      "url": "https://reallygoodemails.com/awards",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Email by Zapier Integrations",
+      "url": "https://zapier.com/apps/email/integrations",
+      "heading": "Articles",
+      "source": "zapier",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/zapier"
+    },
+    {
+      "title": "Email Client Market Share",
+      "url": "https://www.litmus.com/email-client-market-share",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Email deliverability",
+      "url": "https://mailchimp.com/resources/email-deliverability/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Email deliverability",
+      "url": "https://www.validity.com/resource-center/",
+      "heading": "Articles",
+      "source": "validity",
+      "topic": "deliverability",
+      "sourcePage": "/docs/industry-leaders/deliverability/validity"
+    },
+    {
+      "title": "Email Deliverability: What It Is and How to Improve It",
+      "url": "https://www.litmus.com/blog/why-email-deliverability-matters",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Email gallery",
+      "url": "https://reallygoodemails.com/emails",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Email industry news",
+      "url": "https://www.onlyinfluencers.com/category/email-marketing",
+      "heading": "Articles",
+      "source": "only-influencers",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/only-influencers"
+    },
+    {
+      "title": "Email Infrastructure: 2026 Guide to Building, Buying, and Operating It",
+      "url": "https://www.sender.net/blog/email-infrastructure/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Email introduction: how to write it (+ examples)",
+      "url": "https://www.omnisend.com/blog/introduction-email/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Email List Management Best Practices (The Complete Guide)",
+      "url": "https://automizy.com/blog/email-list-management/",
+      "heading": "Articles",
+      "source": "automizy",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/automizy"
+    },
+    {
+      "title": "Email List Management: The Ecommerce Guide",
+      "url": "https://www.omnisend.com/blog/email-list-management/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Email marketing",
+      "url": "https://blog.hubspot.com/marketing/email",
+      "heading": "Articles",
+      "source": "hubspot",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/hubspot"
+    },
+    {
+      "title": "Email marketing",
+      "url": "https://www.brevo.com/blog/category/email-marketing/",
+      "heading": "Articles",
+      "source": "brevo",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/brevo"
+    },
+    {
+      "title": "Email marketing — a step-by-step guide to getting started",
+      "url": "https://business.adobe.com/blog/basics/guide-to-email-marketing",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Email Marketing & CRM: A Guide",
+      "url": "https://www.salesforce.com/uk/marketing/email/crm/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "Email Marketing A/B Testing: A Complete Guide (2024)",
+      "url": "https://www.salesforce.com/ap/marketing/email/a-b-testing/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "Email Marketing Automation Guide - How to Build an Email List",
+      "url": "https://www.salesforce.com/uk/marketing/email/list/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "Email Marketing Automation Strategy: Complete Guide (2026)",
+      "url": "https://www.omnisend.com/blog/email-marketing-automation-strategy/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Email marketing checklist",
+      "url": "https://www.litmus.com/wp-content/uploads/2021/08/ultimate-email-marketing-checklist.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Email Marketing Customer Journey Guide",
+      "url": "https://www.salesforce.com/uk/marketing/email/customer-journeys/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "Email marketing guide",
+      "url": "https://mailchimp.com/resources/email-marketing-guide/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Email marketing list automation",
+      "url": "https://zapier.com/learn/email-marketing/email-marketing-list-automation/",
+      "heading": "Articles",
+      "source": "zapier",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/zapier"
+    },
+    {
+      "title": "Email marketing personalization improves customer engagement",
+      "url": "https://business.adobe.com/blog/basics/personalized-email",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Email Marketing ROI: Guide + Free Calculator",
+      "url": "https://www.omnisend.com/blog/email-marketing-roi/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Email marketing statistics",
+      "url": "https://blog.hubspot.com/marketing/email-marketing-stats",
+      "heading": "Articles",
+      "source": "hubspot",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/hubspot"
+    },
+    {
+      "title": "Email Marketing Statistics 2026: Key Insights",
+      "url": "https://www.omnisend.com/blog/email-marketing-statistics/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Email Marketing Strategy: Data-Driven Tips for 2026",
+      "url": "https://www.omnisend.com/blog/email-marketing-strategy/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Email Marketing Strategy: Guide and Tips for Small Businesses",
+      "url": "https://www.shopify.com/blog/email-marketing-strategy",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "Email Personalization Tips to Improve Open Rates",
+      "url": "https://mailchimp.com/resources/email-personalization-tips/",
+      "heading": "Additional Mailchimp articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Email Personalization: A Marketing Guide",
+      "url": "https://www.salesforce.com/marketing/email/personalization/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "Email Preheader Text",
+      "url": "https://www.litmus.com/blog/the-ultimate-guide-to-preview-text-support",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Email subject line guide",
+      "url": "https://mailchimp.com/resources/email-subject-line-guide/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Email Testing Walkthrough and Examples: Send Flawless Emails Every Time",
+      "url": "https://static1.twilio.com/en-us/blog/insights/email-testing-walkthrough",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "Email vs. SMS: How to Choose the Right Channel (2025)",
+      "url": "https://www.twilio.com/en-us/blog/insights/email-vs-sms-which-channel-should-you-choose",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "Engagement tracking",
+      "url": "https://www.sparkpost.com/blog/email-engagement/",
+      "heading": "Articles",
+      "source": "sparkpost",
+      "topic": "deliverability",
+      "sourcePage": "/docs/industry-leaders/deliverability/sparkpost"
+    },
+    {
+      "title": "Everything you need to know about email marketing",
+      "url": "https://business.adobe.com/blog/basics/learn-about-email-marketing",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Exploring the Factors of Production",
+      "url": "https://mailchimp.com/resources/factors-of-production/",
+      "heading": "Additional Mailchimp articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Filter subscribers by location",
+      "url": "https://help.convertkit.com/en/articles/2502691-filter-subscribers-by-location",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "Flows",
+      "url": "https://www.klaviyo.com/blog/email-flows",
+      "heading": "Articles",
+      "source": "klaviyo",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/klaviyo"
+    },
+    {
+      "title": "Foundations of Email Deliverability",
+      "url": "https://www.litmus.com/wp-content/uploads/pdf/Foundations_of_Email_Deliverability.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Foundations of Email Design",
+      "url": "https://www.litmus.com/wp-content/uploads/pdf/Foundations-of-Email-Design.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "GDPR and email",
+      "url": "https://mailchimp.com/help/about-the-general-data-protection-regulation/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Get More Clicks With a Visually Appealing Email Design",
+      "url": "https://mailchimp.com/resources/how-do-i-create-a-visually-appealing-email-design/",
+      "heading": "Additional Mailchimp articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Get Started with Customer Engagement",
+      "url": "https://squareup.com/help/us/en/article/5499-get-started-with-customer-engagement",
+      "heading": "Articles",
+      "source": "square",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/square"
+    },
+    {
+      "title": "Get Started with Square Email Marketing",
+      "url": "https://app.squareup.com/help/us/en/article/5346-get-started-with-square-marketing",
+      "heading": "Articles",
+      "source": "square",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/square"
+    },
+    {
+      "title": "Getting started",
+      "url": "https://mjml.io/getting-started",
+      "heading": "Articles",
+      "source": "mjml",
+      "topic": "developers",
+      "sourcePage": "/docs/industry-leaders/developers/mjml"
+    },
+    {
+      "title": "Getting Started with Deliverability Success",
+      "url": "https://help.convertkit.com/en/articles/3215993-getting-started-with-deliverability-success",
+      "heading": "Getting started and deliverability",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/mjmlio/mjml",
+      "heading": "Articles",
+      "source": "mjml",
+      "topic": "developers",
+      "sourcePage": "/docs/industry-leaders/developers/mjml"
+    },
+    {
+      "title": "Give shoppers a way to say no (and most of them will take it)",
+      "url": "https://www.omnisend.com/blog/no-thanks-button-recommendation/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Going Agile: The New Email Workflow",
+      "url": "https://www.litmus.com/wp-content/uploads/2020/09/Going-Agile_The-New-Email-Workflow.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "How does email work on Wix? Your complete guide to connecting a mailbox",
+      "url": "https://www.wix.com/blog/how-does-email-work-on-wix",
+      "heading": "Articles",
+      "source": "wix-ecommerce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/wix-ecommerce"
+    },
+    {
+      "title": "How Email Delivery Works: Understanding the Email Journey",
+      "url": "https://www.twilio.com/en-us/blog/insights/how-email-delivery-works",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "How Email Marketing Increased Monthly Revenue Growth By 34%",
+      "url": "https://www.getvero.com/resources/email-marketing-increase-revenue-34-percent/",
+      "heading": "Articles",
+      "source": "vero",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/vero"
+    },
+    {
+      "title": "How Gmail's latest changes impact your email marketing",
+      "url": "https://www.omnisend.com/blog/gmail-changes-manage-subscriptions/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "How much can you earn from your newsletter?",
+      "url": "https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-can-you-earn-from-your-newsletter-557696",
+      "heading": "Articles",
+      "source": "revue",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/revue"
+    },
+    {
+      "title": "How much is your newsletter worth?",
+      "url": "https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-is-your-newsletter-worth-285518",
+      "heading": "Articles",
+      "source": "revue",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/revue"
+    },
+    {
+      "title": "How to 5X Sales from Email Marketing in a Year",
+      "url": "https://www.ecommercefuel.com/5x-email-marketing-revenue/",
+      "heading": "Articles",
+      "source": "ecommercefuel",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/ecommercefuel"
+    },
+    {
+      "title": "How to A/B test subject lines",
+      "url": "https://help.kit.com/en/collections/2961614-broadcasts",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "How to add a new sending email address",
+      "url": "https://help.convertkit.com/en/articles/8711248-how-to-add-a-new-sending-email-address",
+      "heading": "Getting started and deliverability",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "How to Add Emojis & GIFs to Emails",
+      "url": "https://help.kit.com/en/collections/2961614-broadcasts",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "How to automate email marketing like a pro",
+      "url": "https://zapier.com/learn/automation-for-small-businesses/email-marketing-automation/",
+      "heading": "Articles",
+      "source": "zapier",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/zapier"
+    },
+    {
+      "title": "How to Build a High-Converting Email Marketing Strategy (Step-by-Step)",
+      "url": "https://www.hustlermarketing.com/blog/build-a-high-converting-email-marketing-strategy/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "How to build an email list",
+      "url": "https://mailchimp.com/resources/how-to-build-an-email-list/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "How to choose email marketing software",
+      "url": "https://zapier.com/learn/email-marketing/",
+      "heading": "Articles",
+      "source": "zapier",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/zapier"
+    },
+    {
+      "title": "How to Code Emails for Dark Mode",
+      "url": "https://www.litmus.com/blog/the-ultimate-guide-to-dark-mode-for-email-marketers",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "How To Create an Email Marketing Funnel That Converts (2026)",
+      "url": "https://www.shopify.com/blog/email-marketing-funnel",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "How to create an email newsletter",
+      "url": "https://blog.hubspot.com/marketing/how-to-create-an-email-newsletter",
+      "heading": "Articles",
+      "source": "hubspot",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/hubspot"
+    },
+    {
+      "title": "How to Create an Exclusive Early-Access Email Campaign",
+      "url": "https://mailchimp.com/resources/create-early-access-email-campaign/",
+      "heading": "Additional Mailchimp articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "How to Create an HTML Email (Tips & How-tos)",
+      "url": "https://www.twilio.com/en-us/blog/insights/create-html-emails",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "How To Create Automated Drip Campaigns",
+      "url": "https://www.shopify.com/blog/drip-campaign",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "How to Customize Shopify Email Templates Effectively in 2026",
+      "url": "https://www.omnisend.com/blog/shopify-email-templates/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "How to Integrate Your Social Media and Email Marketing",
+      "url": "https://www.hustlermarketing.com/blog/how-to-integrate-your-social-media-and-email-marketing/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "How to manually add or remove subscribers from a ConvertKit sequence",
+      "url": "https://help.convertkit.com/en/articles/6211448-how-to-manually-add-or-remove-subscribers-from-a-convertkit-sequence",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "How to Manually Add Subscribers to an Automation",
+      "url": "https://help.convertkit.com/en/articles/3746701-how-to-manually-add-subscribers-to-an-automation",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "How to maximize email deliverability during peak season",
+      "url": "https://business.adobe.com/blog/how-to-maximize-email-deliverability-during-peak-season",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "How to Promote Your Blog: Search, Social Media, Email",
+      "url": "https://mailchimp.com/resources/how-to-promote-your-small-business-blog/",
+      "heading": "Blog design and promotion",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "How to reply to an email: 8+ tips for responding to emails",
+      "url": "https://www.twilio.com/en-us/blog/insights/6-tips-for-responding-to-your-email-recipients",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "How to Segment Your Audience for Successful Lifecycle Marketing",
+      "url": "https://www.litmus.com/blog/customer-lifecycle-segmentation",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "How To Start a Substack To Promote Your Small Business (2025)",
+      "url": "https://www.shopify.com/blog/how-to-start-a-substack",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "How to survey your subscribers based on their interests using Tags",
+      "url": "https://help.convertkit.com/en/articles/2502540-how-to-survey-your-subscribers-based-on-their-interests-using-tags",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "How to switch your Mailchimp classic automations to ConvertKit Visual Automations",
+      "url": "https://help.convertkit.com/en/articles/6128090-how-to-switch-your-mailchimp-classic-automations-to-convertkit-visual-automations",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "How to switch your Mailchimp customer journeys to ConvertKit visual automations",
+      "url": "https://help.convertkit.com/en/articles/6014141-how-to-switch-your-mailchimp-customer-journeys-to-convertkit-visual-automations",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "How to Test Emails",
+      "url": "https://www.litmus.com/blog/how-to-test-emails",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "How to Use Popups (The Right Way)",
+      "url": "https://www.drip.com/blog/ecommerce/how-to-use-popups",
+      "heading": "Articles",
+      "source": "drip",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/drip"
+    },
+    {
+      "title": "How to Use User-Generated Content to Build Consumer Trust in 2026",
+      "url": "https://www.hustlermarketing.com/blog/how-to-use-user-generated-content-to-build-consumer-trust-in-2026/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "HTML Email Templates: A guide to getting started",
+      "url": "https://www.getvero.com/resources/html-email-templates/",
+      "heading": "Articles",
+      "source": "vero",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/vero"
+    },
+    {
+      "title": "Inbound Email Marketing: Guide for Small Businesses (2026)",
+      "url": "https://www.shopify.com/blog/inbound-email-marketing",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "Interactive Email",
+      "url": "https://www.litmus.com/blog/the-ultimate-guide-to-interactive-email",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Landing Page & Form Signups Graph",
+      "url": "https://help.convertkit.com/en/articles/2502531-landing-page-form-signups-graph",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "Lead nurturing",
+      "url": "https://blog.hubspot.com/marketing/lead-nurturing-guide",
+      "heading": "Articles",
+      "source": "hubspot",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/hubspot"
+    },
+    {
+      "title": "Learn about targeted email campaigns to deliver more personalized experiences",
+      "url": "https://business.adobe.com/blog/basics/learn-about-targeted-email-campaigns-deliver-more-personalized-experiences",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Lifecycle marketing",
+      "url": "https://blog.hubspot.com/marketing/lifecycle-marketing",
+      "heading": "Articles",
+      "source": "hubspot",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/hubspot"
+    },
+    {
+      "title": "Lifecycle marketing",
+      "url": "https://customer.io/blog/lifecycle-marketing",
+      "heading": "Articles",
+      "source": "customer-io",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/customer-io"
+    },
+    {
+      "title": "Liftoff and Learn Twilio Sendgrid Email",
+      "url": "https://www.twilio.com/en-us/blog/developers/liftoff-and-learn-twilio-sendgrid-email",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "List hygiene",
+      "url": "https://www.validity.com/blog/email-list-hygiene/",
+      "heading": "Articles",
+      "source": "validity",
+      "topic": "deliverability",
+      "sourcePage": "/docs/industry-leaders/deliverability/validity"
+    },
+    {
+      "title": "Making the most of your funnel: the Hail Mary email",
+      "url": "https://www.getvero.com/resources/making-the-most-of-your-funnel-the-hail-mary-email/",
+      "heading": "Articles",
+      "source": "vero",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/vero"
+    },
+    {
+      "title": "Marketing automation",
+      "url": "https://blog.hubspot.com/marketing/marketing-automation",
+      "heading": "Articles",
+      "source": "hubspot",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/hubspot"
+    },
+    {
+      "title": "Marketing automation",
+      "url": "https://www.brevo.com/blog/category/marketing-automation/",
+      "heading": "Articles",
+      "source": "brevo",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/brevo"
+    },
+    {
+      "title": "Marketing Automation",
+      "url": "https://mailchimp.com/resources/how-to-automate-omnichannel-customer-journeys/",
+      "heading": "Related Mailchimp resources",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Marketing Automation: A Beginner's Guide (2025)",
+      "url": "https://www.shopify.com/blog/what-is-marketing-automation",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "Marketing glossary",
+      "url": "https://mailchimp.com/marketing-glossary/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Marketing propensity — marketing that thinks like your customer",
+      "url": "https://business.adobe.com/blog/marketing-propensity-marketing-that-thinks-like-your-customer",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Mastering Email Automation: An Interview with Ezra Firestone",
+      "url": "https://www.omnisend.com/blog/ezra-firestone-interview-email-automation/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Mastering Email Deliverability: A Q&A with Jimmy Kim",
+      "url": "https://www.omnisend.com/blog/jimmy-kim-interview-email-deliverability/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Maximise Engagement with EDM Marketing",
+      "url": "https://www.salesforce.com/au/marketing/engagement/email-marketing/edm-marketing/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "MCP Email Marketing: What It Actually Does for Your Campaigns",
+      "url": "https://www.sender.net/blog/mcp-email-marketing/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Meet the All-New Email Builder: One Flexible Container for Every Layout",
+      "url": "https://www.sender.net/blog/email-builder-flexible-container/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Meet Your AI Marketing Co-Pilot: Sender MCP Server",
+      "url": "https://www.sender.net/blog/sender-mcp-server/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Migrating from FloDesk to ConvertKit",
+      "url": "https://help.convertkit.com/en/articles/7045690-migrating-from-flodesk-to-convertkit",
+      "heading": "Getting started and deliverability",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "Most popular email marketing sequences and how to get the best of them",
+      "url": "https://selzy.com/en/blog/email-sequence/",
+      "heading": "Articles",
+      "source": "selzy",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
+    },
+    {
+      "title": "Newsletter design",
+      "url": "https://mailchimp.com/resources/newsletter-design/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Newsletters",
+      "url": "https://reallygoodemails.com/categories/newsletters",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Next-Gen Email Marketing for Higher Education",
+      "url": "https://mailchimp.com/resources/email-marketing-for-higher-education/",
+      "heading": "Additional Mailchimp articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Omnichannel email marketing: Strategies that work in 2025",
+      "url": "https://selzy.com/en/blog/email-for-omnichannel-marketing/",
+      "heading": "Articles",
+      "source": "selzy",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
+    },
+    {
+      "title": "Onboarding emails",
+      "url": "https://customer.io/blog/onboarding-emails",
+      "heading": "Articles",
+      "source": "customer-io",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/customer-io"
+    },
+    {
+      "title": "Onboarding emails",
+      "url": "https://reallygoodemails.com/categories/onboarding",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Onboarding the Newsletter Plan",
+      "url": "https://help.convertkit.com/en/articles/9053606-onboarding-the-newsletter-plan",
+      "heading": "Getting started and deliverability",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "Opt-In Email Marketing: 2026 Guide & Free Templates",
+      "url": "https://www.omnisend.com/blog/opt-in-emails/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Options to start a paid newsletter",
+      "url": "https://www.getrevue.co/profile/the_week_in_newsletters/issues/options-to-start-a-paid-newsletter-292557",
+      "heading": "Articles",
+      "source": "revue",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/revue"
+    },
+    {
+      "title": "Outlook Announces New Sender Requirements",
+      "url": "https://www.twilio.com/en-us/blog/insights/outlook-new-email-sender-requirements",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "Privacy and compliance",
+      "url": "https://www.onlyinfluencers.com/category/privacy",
+      "heading": "Articles",
+      "source": "only-influencers",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/only-influencers"
+    },
+    {
+      "title": "Product Update: August, 2026",
+      "url": "https://www.sender.net/blog/product-update-august-2026/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Product updates",
+      "url": "https://reallygoodemails.com/categories/product-update",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Promotional Strategy",
+      "url": "https://mailchimp.com/resources/create-a-successful-promotional-strategy/",
+      "heading": "Related Mailchimp resources",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Re Engagement Campaign Magic: How We Improved Our Email Open Rate by 25%",
+      "url": "https://old.ecommercefuel.com/email-re-engagement-campaign/",
+      "heading": "Articles",
+      "source": "ecommercefuel",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/ecommercefuel"
+    },
+    {
+      "title": "Re-engagement emails",
+      "url": "https://reallygoodemails.com/categories/re-engagement",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Recap of Email Camp MessageMania 2024 — the highlights and insights",
+      "url": "https://selzy.com/en/blog/email-camp-messagemania-2024-recap/",
+      "heading": "Articles",
+      "source": "selzy",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
+    },
+    {
+      "title": "Responsive Email Design",
+      "url": "https://www.litmus.com/blog/responsive-email-support",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Risks and rewards of a paid newsletter",
+      "url": "https://www.getrevue.co/profile/the_week_in_newsletters/issues/risks-and-rewards-of-a-paid-newsletter-280186",
+      "heading": "Articles",
+      "source": "revue",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/revue"
+    },
+    {
+      "title": "SaaS Marketing 101: How To Acquire & Retain Customers",
+      "url": "https://automizy.com/blog/saas-marketing/",
+      "heading": "Articles",
+      "source": "automizy",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/automizy"
+    },
+    {
+      "title": "Segmentation",
+      "url": "https://customer.io/blog/segmentation",
+      "heading": "Articles",
+      "source": "customer-io",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/customer-io"
+    },
+    {
+      "title": "Segmentation",
+      "url": "https://www.klaviyo.com/blog/email-segmentation",
+      "heading": "Articles",
+      "source": "klaviyo",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/klaviyo"
+    },
+    {
+      "title": "Segmenting by Purchased Category in Omnisend: How We Made It Work",
+      "url": "https://www.omnisend.com/blog/segmenting-by-purchased-category/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Shopify Email Subject Lines: Formulas and Examples",
+      "url": "https://www.shopify.com/blog/email-subject-lines",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
+      "title": "Shopify Emails Going to Spam? Fix It Fast (2026)",
+      "url": "https://www.omnisend.com/blog/shopify-emails-going-to-spam/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "Smarter AI email marketing with Adobe Journey Optimizer",
+      "url": "https://business.adobe.com/blog/leading-ai-era-email-marketing-adobe-journey-optimizer",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "SMS marketing",
+      "url": "https://www.klaviyo.com/blog/sms-marketing",
+      "heading": "Articles",
+      "source": "klaviyo",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/klaviyo"
+    },
+    {
+      "title": "SMS Marketing",
+      "url": "https://mailchimp.com/resources/sms-segmentation/",
+      "heading": "Related Mailchimp resources",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "SMTP Ports Explained: 25, 465, 587, or 2525 (2026)",
+      "url": "https://www.sender.net/blog/smtp-ports/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Spam Filter Triggers: Guide to Avoiding the Spam Folder",
+      "url": "https://www.sender.net/blog/spam-filter-triggers/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Spam Traps: The Guide to Detection, Removal, and Recovery",
+      "url": "https://www.sender.net/blog/spam-traps/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Square Marketing: Email and Text Campaigns",
+      "url": "https://squareup.com/us/en/marketing",
+      "heading": "Articles",
+      "source": "square",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/square"
+    },
+    {
+      "title": "Start and Grow Email Newsletters",
+      "url": "https://www.litmus.com/wp-content/uploads/pdf/Start-and-grow-email-newsletters.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Strategy",
+      "url": "https://www.onlyinfluencers.com/category/strategy",
+      "heading": "Articles",
+      "source": "only-influencers",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/only-influencers"
+    },
+    {
+      "title": "Streamline email marketing: Automated approvals with Adobe Campaign",
+      "url": "https://business.adobe.com/blog/how-to/streamlining-email-marketing-tasks-with-automated-approvals",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Subject lines",
+      "url": "https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-subject-line-templates.aspx",
+      "heading": "Articles",
+      "source": "hubspot",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/hubspot"
+    },
+    {
+      "title": "Support",
+      "url": "https://convertkit.com/support",
+      "heading": "Getting started and deliverability",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "Tags and segments in ConvertKit (and when to use which)",
+      "url": "https://help.convertkit.com/en/articles/4257108-tags-and-segments-in-convertkit-and-when-to-use-which",
+      "heading": "Automations, tags, and broadcasts",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "Targeted Email Marketing Services That Help You Reach the Right People",
+      "url": "https://www.hustlermarketing.com/blog/targeted-email-marketing-services/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "The 2023 State of Email Workflows Report",
+      "url": "https://www.litmus.com/wp-content/uploads/pdf/The-2023-State-of-Email-Workflows-Report.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "The 2024 State of Email in Lifecycle Marketing Report",
+      "url": "https://www.litmus.com/wp-content/uploads/pdf/The-2024-State-of-Email-in-Lifecycle-Marketing-Report.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "The 6 best email marketing apps to send drip campaigns in 2022",
+      "url": "https://zapier.com/learn/email-marketing/best-drip-email-marketing-apps/",
+      "heading": "Articles",
+      "source": "zapier",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/zapier"
+    },
+    {
+      "title": "The 7 Best Forward to a Friend Email Examples We’ve Seen",
+      "url": "https://www.drip.com/blog/ecommerce/forward-to-a-friend-email-examples",
+      "heading": "Articles",
+      "source": "drip",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/drip"
+    },
+    {
+      "title": "The best email newsletter software: 9 email marketing services for your business",
+      "url": "https://zapier.com/learn/email-marketing/best-email-newsletter-software/",
+      "heading": "Articles",
+      "source": "zapier",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/zapier"
+    },
+    {
+      "title": "The definitive guide to ecommerce email marketing",
+      "url": "https://business.adobe.com/blog/basics/definitive-guide-to-ecommerce-email-marketing",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "The Email Personalization Guide",
+      "url": "https://www.litmus.com/wp-content/uploads/pdf/Email_Personalization_Guide.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "The Email Suppression List: Compliance, Architecture, and Operations Guide",
+      "url": "https://www.sender.net/blog/email-suppression-list/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "The Fastest and Easiest Way to Grow Your Email List",
+      "url": "https://www.getvero.com/resources/grow-your-email-list/",
+      "heading": "Articles",
+      "source": "vero",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/vero"
+    },
+    {
+      "title": "The January Email Reset: 5 Things to Audit This Month",
+      "url": "https://www.hustlermarketing.com/blog/the-january-email-reset-5-things-to-audit-this-month/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "The State of Email 2025",
+      "url": "https://www.litmus.com/wp-content/uploads/pdf/2025-state-of-email-litmus.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "The State of Email Analytics",
+      "url": "https://files.reallygoodemails.com/litmusScreenReaderTranscripts/these-email-resources-are-a-must-read",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "The State of Email Engagement",
+      "url": "https://files.reallygoodemails.com/litmusScreenReaderTranscripts/these-email-resources-are-a-must-read",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "The truth about SMTP commands and your email campaigns",
+      "url": "https://www.twilio.com/en-us/blog/insights/best-practices/smtp-commands",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "The Ultimate Guide to Email Accessibility",
+      "url": "https://www.litmus.com/wp-content/uploads/2020/04/Ultimate_Guide_to_Email_Accessibility.pdf",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "The Ultimate Guide to Email Design",
+      "url": "https://www.litmus.com/blog/the-ultimate-guide-to-email-design",
+      "heading": "Articles",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Top 12 email marketing blogs in 2026",
+      "url": "https://selzy.com/en/blog/best-email-marketing-blogs/",
+      "heading": "Articles",
+      "source": "selzy",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
+    },
+    {
+      "title": "Transactional email",
+      "url": "https://www.brevo.com/blog/category/transactional-email/",
+      "heading": "Articles",
+      "source": "brevo",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/brevo"
+    },
+    {
+      "title": "Transactional emails",
+      "url": "https://reallygoodemails.com/categories/transactional",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Troubleshooting",
+      "url": "https://help.convertkit.com/en/collections/1635305-troubleshooting",
+      "heading": "Getting started and deliverability",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "Try it live",
+      "url": "https://mjml.io/try-it-live",
+      "heading": "Articles",
+      "source": "mjml",
+      "topic": "developers",
+      "sourcePage": "/docs/industry-leaders/developers/mjml"
+    },
+    {
+      "title": "UGC Marketing for Ecommerce: How to Turn Content Into Conversions",
+      "url": "https://www.hustlermarketing.com/blog/ugc-marketing-for-ecommerce/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "UGC Marketing Strategy: How to Turn Content Into Conversions",
+      "url": "https://www.hustlermarketing.com/blog/ugc-marketing-strategy-how-to-turn-content-into-conversions/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "Unleash the power of your email data",
+      "url": "https://business.adobe.com/blog/perspectives/unleash-the-power-of-your-email-data",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Unleashing the power of AI in Adobe Journey Optimizer with AI Assistant Content Accelerator",
+      "url": "https://business.adobe.com/blog/the-latest/unleashing-the-power-of-ai-in-ajo-with-ai-assistant-content-accelerator",
+      "heading": "Articles",
+      "source": "magento-adobe",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/magento-adobe"
+    },
+    {
+      "title": "Using Automated Campaigns",
+      "url": "https://squareup.com/help/us/en/article/6266-using-automated-campaigns",
+      "heading": "Articles",
+      "source": "square",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/square"
+    },
+    {
+      "title": "Welcome email examples",
+      "url": "https://mailchimp.com/resources/welcome-email-examples/",
+      "heading": "Articles",
+      "source": "mailchimp",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Welcome emails",
+      "url": "https://blog.hubspot.com/marketing/welcome-email-examples",
+      "heading": "Articles",
+      "source": "hubspot",
+      "topic": "growth",
+      "sourcePage": "/docs/industry-leaders/growth/hubspot"
+    },
+    {
+      "title": "Welcome emails",
+      "url": "https://reallygoodemails.com/categories/welcome",
+      "heading": "Articles",
+      "source": "really-good-emails",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
+    },
+    {
+      "title": "Welcome series",
+      "url": "https://www.klaviyo.com/blog/welcome-series",
+      "heading": "Articles",
+      "source": "klaviyo",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/klaviyo"
+    },
+    {
+      "title": "What does the \"Precedence: Bulk\" header mean?",
+      "url": "https://help.convertkit.com/en/articles/3639576-what-does-the-precedence-bulk-header-mean",
+      "heading": "Getting started and deliverability",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "What Is a Mailing List? Definition, Types & Tips (2026)",
+      "url": "https://www.omnisend.com/blog/what-is-a-mailing-list/",
+      "heading": "Articles",
+      "source": "omnisend",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
+    },
+    {
+      "title": "What is a plain text email (and how to use it)?",
+      "url": "https://www.twilio.com/en-us/blog/insights/plain-text-email",
+      "heading": "Articles",
+      "source": "twilio-segment",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "What is an Email Sending Reputation and How Can You Improve It?",
+      "url": "https://www.salesforce.com/blog/email-sending-reputation/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "What Is Email Marketing and How to Do It in 2026",
+      "url": "https://www.hustlermarketing.com/blog/what-is-email-marketing-and-how-to-do-it-in-2026/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "What is Email Marketing Automation? How Modern Brands Send Smarter",
+      "url": "https://www.hustlermarketing.com/blog/what-is-email-marketing-automation-how-modern-brands-send-smarter/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "What is Email Marketing? Definition & Tips (2026)",
+      "url": "https://www.salesforce.com/eu/marketing/email/guide/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "What Is Email Segmentation?",
+      "url": "https://www.salesforce.com/eu/marketing/email/segmentation/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "What Is UGC in Social Media Marketing?",
+      "url": "https://www.hustlermarketing.com/blog/what-is-ugc-in-social-media-marketing/",
+      "heading": "Articles",
+      "source": "hustler-marketing",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
+    },
+    {
+      "title": "What you should know about Google Postmaster Tools and how to set it up",
+      "url": "https://help.convertkit.com/en/articles/9161410-what-you-should-know-about-google-postmaster-tools-and-how-to-set-it-up",
+      "heading": "Getting started and deliverability",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "What you should know before setting up a Verified Sending Domain",
+      "url": "https://help.convertkit.com/en/articles/9176509-what-you-should-know-before-setting-up-a-verified-sending-domain",
+      "heading": "Getting started and deliverability",
+      "source": "convertkit",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
+    },
+    {
+      "title": "What's the Occasion? 5 Types of Milestone Emails To Try",
+      "url": "https://www.litmus.com/blog/milestone-birthday-emails",
+      "heading": "From issue #259",
+      "source": "litmus",
+      "topic": "publications",
+      "sourcePage": "/docs/industry-leaders/publications/litmus"
+    },
+    {
+      "title": "Why Are My Emails Going to Spam? The Diagnostic Playbook",
+      "url": "https://www.sender.net/blog/emails-going-to-spam/",
+      "heading": "Articles",
+      "source": "sender",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/sender"
+    },
+    {
+      "title": "Why Email Open Rates Are Still Relevant for Marketers",
+      "url": "https://www.salesforce.com/blog/email-open-rates/",
+      "heading": "Articles",
+      "source": "salesforce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "Wix Blog: Customizing the Email Notification Sent to Your Site Visitors",
+      "url": "https://support.wix.com/en/article/wix-blog-customizing-the-email-notification-sent-to-your-site-visitors",
+      "heading": "Articles",
+      "source": "wix-ecommerce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/wix-ecommerce"
+    },
+    {
+      "title": "Wix Blog: Promoting Your Published Post",
+      "url": "https://support.wix.com/en/article/wix-blog-promoting-your-published-post",
+      "heading": "Articles",
+      "source": "wix-ecommerce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/wix-ecommerce"
+    },
+    {
+      "title": "Wix Blog: Sending Blog Post Notifications to Your Subscribers",
+      "url": "https://support.wix.com/en/article/wix-blog-sending-blog-post-notifications-to-your-subscribers",
+      "heading": "Articles",
+      "source": "wix-ecommerce",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/wix-ecommerce"
+    }
+  ]
 }
