@@ -132,6 +132,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Autopilot](https://autopilothq.com) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 * [Customer.io](https://customer.io) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))
 * [DailyStory](https://dailystory.com) - Simple to use email marketing and more
+* [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
 * [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software
 * [Froged](https://froged.com) - Optimize your Customer Experience with One Powerful Product
 * [JaxSuite AI](https://www.jaxsuite.com) - AI-native cold outreach and CRM platform with built-in warmup, spam testing, and smart sending limits.
