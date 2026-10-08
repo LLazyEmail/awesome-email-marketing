@@ -125,6 +125,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Sendgrid](https://sendgrid.com) - Email delivery service
 * [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
 * [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
+* [Email List Cleaner](https://apify.com/tidytools/bulk-email-validator) - Bulk list cleaning before a send: syntax, MX, disposable, role and free-provider checks with typo suggestions; no SMTP probing. Pay per use ($0.50 per 1,000 addresses).
 
 ### Growth & Automation Tools
 
