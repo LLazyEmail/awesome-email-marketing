@@ -460,6 +460,7 @@ Resources for building HTML emails — tutorials, templates, and coding referenc
 - [Responsive Email](https://github.com/derekpunsalan/responsive-email)
 - [CodePen Email Templates](https://codepen.io/collection/AyVBJr)
 - [Really Good Emails](https://reallygoodemails.com/)
+- [Campaign Buzz](https://campaignbuzz.io/) - Searchable library of millions of real marketing emails from top brands, with filters, competitor tracking and the original HTML.
 - [Benchmark Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
 - [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
 
