@@ -8,6 +8,10 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add Scribase Mail Studio to Self-Hosted ESPs ([#310](https://github.com/LLazyEmail/awesome-email-marketing/pull/310))
+- Add MisarReach ([#308](https://github.com/LLazyEmail/awesome-email-marketing/pull/308))
+- Add Email Marketing Bible to Growth & Automation Tools ([#307](https://github.com/LLazyEmail/awesome-email-marketing/pull/307))
+- feat: Industry Leaders articles JSON API + regenerate workflow ([#306](https://github.com/LLazyEmail/awesome-email-marketing/pull/306))
 - docs: split services.md into a Services section of stub pages ([#290](https://github.com/LLazyEmail/awesome-email-marketing/pull/290))
 - docs: add Mailchimp, ConvertKit, Litmus lists from issues #256 #258 #259 ([#289](https://github.com/LLazyEmail/awesome-email-marketing/pull/289))
 - docs: fill ecommerce Industry Leader pages from issues #274–#284 ([#288](https://github.com/LLazyEmail/awesome-email-marketing/pull/288))

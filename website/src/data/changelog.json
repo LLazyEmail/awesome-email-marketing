@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-10-10",
+    "title": "Add Scribase Mail Studio to Self-Hosted ESPs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/310",
+    "items": [
+      "Merged pull request #310",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/310"
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Add MisarReach",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/308",
+    "items": [
+      "Merged pull request #308",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/308"
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "title": "Add Email Marketing Bible to Growth & Automation Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/307",
+    "items": [
+      "Merged pull request #307",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/307"
+    ]
+  },
+  {
+    "date": "2026-09-28",
+    "title": "feat: Industry Leaders articles JSON API + regenerate workflow",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/306",
+    "items": [
+      "Merged pull request #306",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/306"
+    ]
+  },
+  {
     "date": "2026-09-27",
     "title": "docs: split services.md into a Services section of stub pages",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/290",
