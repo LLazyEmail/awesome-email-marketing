@@ -193,6 +193,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 - [Woodpecker](https://woodpecker.co) - outbound email deliverability and sales opportunities
 - [Wraps](https://wraps.dev) - automations/templates/broadcasts sending through your AWS
 - [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine as a CLI (`npm i -g overloop-cli`)
+- [MisarReach](https://misarreach.com) - AI lead finder with email, LinkedIn, WhatsApp and SMS outreach sequences and a built-in CRM
 
 ## Tools for effective work with emails
 
