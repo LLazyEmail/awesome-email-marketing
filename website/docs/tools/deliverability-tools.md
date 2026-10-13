@@ -45,5 +45,6 @@ Email delivery, warm-up, and testing tools that help messages reach the inbox.
 - [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
 - [Sendgrid](https://sendgrid.com) - Email delivery service
 - [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
+- [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
 
 Browse with tags on [Explore](/explore).
