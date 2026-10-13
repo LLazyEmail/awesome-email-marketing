@@ -37,6 +37,7 @@ seo:
 
 Email delivery, warm-up, and testing tools that help messages reach the inbox.
 
+- [Bulk Email Verifier](https://apify.com/wintersworks/bulk-email-verifier-dns) - Clean a list before sending: syntax, MX lookup, disposable/role/typo flags and a 0-100 score, DNS only (no SMTP pings). $0.70 per 1,000 emails.
 - [Canny Pigeons](https://cannypigeons.com) - DMARC monitoring that walks you to p=reject: DNS drift alerts, IP threat intel, and free first domain with hosted DMARC.
 - [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) - Offline HTML campaign QA with machine-readable JSON and client-readable Markdown reports.
 - [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
