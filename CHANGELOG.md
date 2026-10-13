@@ -8,6 +8,11 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add looot to Growth & Automation Tools ([#315](https://github.com/LLazyEmail/awesome-email-marketing/pull/315))
+- Add day3 to Newsletter Platforms ([#314](https://github.com/LLazyEmail/awesome-email-marketing/pull/314))
+- Add Bulk Email Verifier to Deliverability & Testing Tools ([#313](https://github.com/LLazyEmail/awesome-email-marketing/pull/313))
+- docs: sync entries from open PRs #307 #308 #310 #311 into Docusaurus website ([#312](https://github.com/LLazyEmail/awesome-email-marketing/pull/312))
+- Add Campaign Buzz to Template collections & galleries ([#311](https://github.com/LLazyEmail/awesome-email-marketing/pull/311))
 - Add Scribase Mail Studio to Self-Hosted ESPs ([#310](https://github.com/LLazyEmail/awesome-email-marketing/pull/310))
 - Add MisarReach ([#308](https://github.com/LLazyEmail/awesome-email-marketing/pull/308))
 - Add Email Marketing Bible to Growth & Automation Tools ([#307](https://github.com/LLazyEmail/awesome-email-marketing/pull/307))
