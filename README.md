@@ -128,6 +128,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
 * [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 * [Bulk Email Verifier](https://apify.com/wintersworks/bulk-email-verifier-dns) - Clean a list before sending: syntax, MX lookup, disposable/role/typo flags and a 0-100 score, DNS only (no SMTP pings). $0.70 per 1,000 emails.
+* [oneclick-check](https://github.com/dimonch-byte/oneclick-check) - Free, offline check of one sent message's raw headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rule): https List-Unsubscribe, List-Unsubscribe-Post, and DKIM h= coverage. Stdlib Python, MIT.
 
 ### Growth & Automation Tools
 
