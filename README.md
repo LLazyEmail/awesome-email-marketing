@@ -142,6 +142,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Jilt](https://jilt.com) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
 * [Keap](https://keap.com) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Klinky](https://klinky.io) - A/B testing link shortener: split one campaign link between two destinations and measure which one wins
+* [looot](https://looot.ai) - Pay-per-call data API for outbound lists: find and verify work emails and phones, enrich companies and people, and search companies from one key and one prepaid balance. Remote MCP server and CLI included; a failed call costs nothing, no subscription.
 * [Omnisend](https://omnisend.com) - is an omnichannel marketing automation platform for growth-focused ecommerce businesses
 * [Palabra](https://palabra.io) - Automate your product-led growth
 * [SalesLabel](https://sales-label.com) - White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and built-in deliverability.
