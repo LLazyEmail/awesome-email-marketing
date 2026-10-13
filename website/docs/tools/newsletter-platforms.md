@@ -39,6 +39,7 @@ Curated newsletter and creator email platforms for writers, publishers, and audi
 - [BirdSend](https://birdsend.co) - Don't waste paying 3-5X more on an expensive email marketing tool
 - [Butondown](https://buttondown.email) - The easiest way to write/grow/build/launch/share/run/ your newsletter
 - [ConvertKit](https://convertkit.com) - is the go-to marketing hub for creators that helps you grow and monetize your audience with ease
+- [day3](https://day3.app) - Newsletters and transactional email for small software teams, billed by emails sent with unlimited subscribers
 - [EmailOctopus](https://emailoctopus.com) - Email marketing made easy
 - [Feedotter](https://feedotter.com) - Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools
 - [Flodesk](https://flodesk.com) - a new email marketing service provider that’s built for creators, by creators
