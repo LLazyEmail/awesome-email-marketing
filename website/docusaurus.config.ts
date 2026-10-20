@@ -79,6 +79,10 @@ const config: Config = {
     ],
   ],
 
+  clientModules: [
+    require.resolve('./src/clientModules/copyPageOnAllPages.js'),
+  ],
+
   plugins: [
     [
       'docusaurus-plugin-copy-page-button',
