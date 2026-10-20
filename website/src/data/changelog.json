@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-10-20",
+    "title": "feat: Copy page / Open in AI button on all pages (in breadcrumbs section)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/327",
+    "items": [
+      "Merged pull request #327",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/327"
+    ]
+  },
+  {
+    "date": "2026-10-20",
     "title": "feat: add Copy page / Open in AI button to all Docusaurus pages",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/326",
     "items": [

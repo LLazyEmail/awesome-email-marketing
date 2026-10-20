@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- feat: Copy page / Open in AI button on all pages (in breadcrumbs section) ([#327](https://github.com/LLazyEmail/awesome-email-marketing/pull/327))
 - feat: add Copy page / Open in AI button to all Docusaurus pages ([#326](https://github.com/LLazyEmail/awesome-email-marketing/pull/326))
 - docs(website): sync Docusaurus docs with tools from PRs #313–316 ([#317](https://github.com/LLazyEmail/awesome-email-marketing/pull/317))
 - Add looot to Growth & Automation Tools ([#315](https://github.com/LLazyEmail/awesome-email-marketing/pull/315))
