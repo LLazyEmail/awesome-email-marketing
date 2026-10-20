@@ -1,9 +1,10 @@
 /**
- * Extends the docusaurus-plugin-copy-page-button so the "Copy page / Open in AI" 
- * functionality appears on every Docusaurus page (docs, blog, custom pages, homepage).
- * 
- * The official plugin only injects on docs pages (article / .theme-doc-markdown).
- * This client module fills the gap for everything else.
+ * Extends the docusaurus-plugin-copy-page-button so the "Copy page / Open in AI"
+ * functionality appears on every Docusaurus page.
+ *
+ * Placement preference:
+ * 1. Inside / next to the breadcrumbs section (docs pages)
+ * 2. A clean top header row that mimics the breadcrumbs area (other pages)
  */
 import React from 'react';
 import { createRoot } from 'react-dom/client';
@@ -18,46 +19,83 @@ if (ExecutionEnvironment.canUseDOM) {
     return (typeof window !== 'undefined' && window.__COPY_PAGE_BUTTON_OPTIONS__) || {};
   };
 
-  const findContentContainer = () => {
-    // Prefer specific content areas, fall back to main
-    return (
-      document.querySelector('article') ||
-      document.querySelector('.markdown') ||
-      document.querySelector('.theme-doc-markdown') ||
-      document.querySelector('[class*="docItemContainer"]') ||
-      document.querySelector('main') ||
-      document.querySelector('.container')
-    );
+  const findBreadcrumbs = () =>
+    document.querySelector('.theme-doc-breadcrumbs') ||
+    document.querySelector('nav[aria-label="Breadcrumbs"]') ||
+    document.querySelector('.breadcrumbs__link')?.closest('nav');
+
+  const findContentContainer = () =>
+    document.querySelector('article') ||
+    document.querySelector('.markdown') ||
+    document.querySelector('.theme-doc-markdown') ||
+    document.querySelector('[class*="docItemContainer"]') ||
+    document.querySelector('main') ||
+    document.querySelector('.container');
+
+  const createButtonWrapper = () => {
+    const wrapper = document.createElement('div');
+    wrapper.id = 'copy-page-button-container';
+    wrapper.style.display = 'flex';
+    wrapper.style.alignItems = 'center';
+    wrapper.style.justifyContent = 'flex-end';
+    wrapper.style.flexShrink = '0';
+    wrapper.style.marginLeft = 'auto';
+    return wrapper;
   };
 
   const injectButton = () => {
-    // Skip if the official plugin already injected one
-    if (document.getElementById('copy-page-button-container')) {
-      return;
-    }
-
-    const container = findContentContainer();
-    if (!container) {
-      return;
-    }
-
-    // Avoid injecting on pure listing / empty pages if desired, but user asked for all
-    const buttonWrapper = document.createElement('div');
-    buttonWrapper.id = 'copy-page-button-container';
-    buttonWrapper.style.display = 'flex';
-    buttonWrapper.style.justifyContent = 'flex-end';
-    buttonWrapper.style.margin = '0 0 16px 0';
-    buttonWrapper.style.padding = '8px 0';
-
-    // Place at the top of the content
-    container.insertBefore(buttonWrapper, container.firstChild);
-
-    if (root) {
-      try {
-        root.unmount();
-      } catch (e) {
-        // ignore
+    // Remove any previous injection from this module
+    const existing = document.getElementById('copy-page-button-container');
+    if (existing) {
+      if (root) {
+        try { root.unmount(); } catch (e) {}
+        root = null;
       }
+      existing.remove();
+    }
+
+    const breadcrumbs = findBreadcrumbs();
+    const content = findContentContainer();
+
+    let targetParent = null;
+    let insertBefore = null;
+
+    if (breadcrumbs) {
+      // Place the button in the same section as breadcrumbs
+      // Make the breadcrumbs container a flex row so the button sits on the right
+      const nav = breadcrumbs.closest('nav') || breadcrumbs;
+      if (nav && nav.parentElement) {
+        nav.parentElement.style.display = 'flex';
+        nav.parentElement.style.alignItems = 'center';
+        nav.parentElement.style.justifyContent = 'space-between';
+        nav.parentElement.style.flexWrap = 'wrap';
+        nav.parentElement.style.gap = '12px';
+        targetParent = nav.parentElement;
+        insertBefore = nav.nextSibling;
+      }
+    }
+
+    if (!targetParent && content) {
+      // Fallback: create a breadcrumbs-like header row at the top of content
+      const headerRow = document.createElement('div');
+      headerRow.className = 'copy-page-header-row';
+      headerRow.style.display = 'flex';
+      headerRow.style.alignItems = 'center';
+      headerRow.style.justifyContent = 'flex-end';
+      headerRow.style.marginBottom = '16px';
+      headerRow.style.minHeight = '32px';
+
+      content.insertBefore(headerRow, content.firstChild);
+      targetParent = headerRow;
+    }
+
+    if (!targetParent) return;
+
+    const buttonWrapper = createButtonWrapper();
+    if (insertBefore) {
+      targetParent.insertBefore(buttonWrapper, insertBefore);
+    } else {
+      targetParent.appendChild(buttonWrapper);
     }
 
     root = createRoot(buttonWrapper);
@@ -75,36 +113,23 @@ if (ExecutionEnvironment.canUseDOM) {
   };
 
   const scheduleInject = () => {
-    // Give Docusaurus a moment to render the page
-    setTimeout(injectButton, 300);
-    setTimeout(injectButton, 1000);
+    setTimeout(injectButton, 200);
+    setTimeout(injectButton, 800);
   };
 
-  // Initial load
   if (document.readyState === 'complete') {
     scheduleInject();
   } else {
     window.addEventListener('load', scheduleInject);
   }
 
-  // Client-side navigation
   const observer = new MutationObserver(() => {
     if (location.pathname !== lastPath) {
       lastPath = location.pathname;
-      // Clean previous if any
-      const existing = document.getElementById('copy-page-button-container');
-      if (existing && root) {
-        try {
-          root.unmount();
-        } catch (e) {}
-        existing.remove();
-        root = null;
-      }
       scheduleInject();
     }
   });
   observer.observe(document.body, { childList: true, subtree: true });
 
-  // Also listen to popstate
   window.addEventListener('popstate', scheduleInject);
 }
