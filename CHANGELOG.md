@@ -8,6 +8,8 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- feat: add Copy page / Open in AI button to all Docusaurus pages ([#326](https://github.com/LLazyEmail/awesome-email-marketing/pull/326))
+- docs(website): sync Docusaurus docs with tools from PRs #313–316 ([#317](https://github.com/LLazyEmail/awesome-email-marketing/pull/317))
 - Add looot to Growth & Automation Tools ([#315](https://github.com/LLazyEmail/awesome-email-marketing/pull/315))
 - Add day3 to Newsletter Platforms ([#314](https://github.com/LLazyEmail/awesome-email-marketing/pull/314))
 - Add Bulk Email Verifier to Deliverability & Testing Tools ([#313](https://github.com/LLazyEmail/awesome-email-marketing/pull/313))

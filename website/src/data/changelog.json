@@ -1,5 +1,23 @@
 [
   {
+    "date": "2026-10-20",
+    "title": "feat: add Copy page / Open in AI button to all Docusaurus pages",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/326",
+    "items": [
+      "Merged pull request #326",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/326"
+    ]
+  },
+  {
+    "date": "2026-10-13",
+    "title": "docs(website): sync Docusaurus docs with tools from PRs #313–316",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/317",
+    "items": [
+      "Merged pull request #317",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/317"
+    ]
+  },
+  {
     "date": "2026-10-13",
     "title": "Add looot to Growth & Automation Tools",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/315",
