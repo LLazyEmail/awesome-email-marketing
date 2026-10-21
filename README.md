@@ -129,6 +129,8 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 * [Bulk Email Verifier](https://apify.com/wintersworks/bulk-email-verifier-dns) - Clean a list before sending: syntax, MX lookup, disposable/role/typo flags and a 0-100 score, DNS only (no SMTP pings). $0.70 per 1,000 emails.
 
+* [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
+
 ### Growth & Automation Tools
 
 * [ActiveCampaign](https://activecampaign.com) - Drive growth with customer experience automation
