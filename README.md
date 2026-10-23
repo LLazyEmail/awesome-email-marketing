@@ -122,6 +122,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 * [Canny Pigeons](https://cannypigeons.com) - DMARC monitoring that walks you to p=reject: DNS drift alerts, IP threat intel, and free first domain with hosted DMARC.
 * [Mailtrap](https://mailtrap.io) - is a testing tool and is not designed to deliver emails to real addresses
+* [Emailens](https://emailens.dev) - Lints HTML email against 21 clients (Outlook Classic, Gmail, Apple Mail and more) with per-client CSS support, dark mode simulation and copy-paste fixes. Free tier, plus a CLI, GitHub Action and MCP server.
 * [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
 * [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) - Offline HTML campaign QA with machine-readable JSON and client-readable Markdown reports.
 * [Sendgrid](https://sendgrid.com) - Email delivery service
