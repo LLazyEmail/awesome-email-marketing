@@ -43,6 +43,7 @@ Email delivery, warm-up, and testing tools that help messages reach the inbox.
 - [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 - [Mailtrap](https://mailtrap.io) - is a testing tool and is not designed to deliver emails to real addresses
 - [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
+- [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
 - [Sendgrid](https://sendgrid.com) - Email delivery service
 - [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
 - [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
