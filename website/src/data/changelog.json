@@ -1,6 +1,24 @@
 [
   {
     "date": "2026-10-24",
+    "title": "Rebase of #320: Add Email Forgery Check to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/344",
+    "items": [
+      "Merged pull request #344",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/344"
+    ]
+  },
+  {
+    "date": "2026-10-24",
+    "title": "Rebase of #319: Add Nitrosend to Email Service Providers",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/343",
+    "items": [
+      "Merged pull request #343",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/343"
+    ]
+  },
+  {
+    "date": "2026-10-24",
     "title": "Rebase of #318: Add oneclick-check to Deliverability & Testing Tools",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/342",
     "items": [
