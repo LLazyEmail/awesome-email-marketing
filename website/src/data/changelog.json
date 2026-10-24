@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-10-24",
+    "title": "Rebase of #309: Add Email List Cleaner to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/341",
+    "items": [
+      "Merged pull request #341",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/341"
+    ]
+  },
+  {
     "date": "2026-10-20",
     "title": "feat: Copy page / Open in AI button on all pages (in breadcrumbs section)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/327",

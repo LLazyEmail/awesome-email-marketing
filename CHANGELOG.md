@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Rebase of #309: Add Email List Cleaner to Deliverability & Testing Tools ([#341](https://github.com/LLazyEmail/awesome-email-marketing/pull/341))
 - feat: Copy page / Open in AI button on all pages (in breadcrumbs section) ([#327](https://github.com/LLazyEmail/awesome-email-marketing/pull/327))
 - feat: add Copy page / Open in AI button to all Docusaurus pages ([#326](https://github.com/LLazyEmail/awesome-email-marketing/pull/326))
 - docs(website): sync Docusaurus docs with tools from PRs #313–316 ([#317](https://github.com/LLazyEmail/awesome-email-marketing/pull/317))
