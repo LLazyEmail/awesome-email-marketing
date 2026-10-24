@@ -160,6 +160,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Mailchimp](https://mailchimp.com) - Free emailing software
 * [Mailjet](https://mailjet.com) - Create and send beautiful emails without touching a single line of code
 * [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
+* [Nitrosend](https://nitrosend.com) - Create branded campaigns, automated flows, and transactional email from the dashboard or through MCP, CLI, and API
 * [Sendinblue](https://sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
 * [SendPulse](https://sendpulse.com) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
 * [SendX](https://sendx.io) - makes it easy to be a responsible email marketer
