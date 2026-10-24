@@ -45,6 +45,7 @@ Email delivery, warm-up, and testing tools that help messages reach the inbox.
 - [Mailtrap](https://mailtrap.io) - is a testing tool and is not designed to deliver emails to real addresses
 - [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
 - [oneclick-check](https://github.com/dimonch-byte/oneclick-check) - Free, offline check of one sent message's raw headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rule): https List-Unsubscribe, List-Unsubscribe-Post, and DKIM h= coverage. Stdlib Python, MIT.
+- [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
 - [Sendgrid](https://sendgrid.com) - Email delivery service
 - [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
 - [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
