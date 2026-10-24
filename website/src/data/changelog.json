@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-10-24",
+    "title": "Rebase of #318: Add oneclick-check to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/342",
+    "items": [
+      "Merged pull request #342",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/342"
+    ]
+  },
+  {
+    "date": "2026-10-24",
     "title": "Rebase of #309: Add Email List Cleaner to Deliverability & Testing Tools",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/341",
     "items": [
