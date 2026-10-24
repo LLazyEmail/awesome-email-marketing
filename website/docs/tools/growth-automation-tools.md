@@ -43,6 +43,7 @@ Filter on [Explore → automation](/explore?tag=automation).
 ## Journey & CRM-adjacent
 
 - [Autopilot](https://autopilothq.com) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
+- [BacklinkGenie](https://backlinkgenie.com) - AI outreach agent for link building: finds blog posts where your product fits, writes one plain-text pitch per post and sends it from a separate warmed-up mailbox, with follow-ups that stop on reply
 - [Customer.io](https://customer.io) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))
 - [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
 - [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software
