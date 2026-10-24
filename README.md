@@ -128,6 +128,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
 * [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 * [Bulk Email Verifier](https://apify.com/wintersworks/bulk-email-verifier-dns) - Clean a list before sending: syntax, MX lookup, disposable/role/typo flags and a 0-100 score, DNS only (no SMTP pings). $0.70 per 1,000 emails.
+* [Email Verifier & Validator](https://apify.com/pennydata/bulk-email-validator-no-smtp) - Bulk list check: syntax, DNS/MX, disposable, role and free-provider flags; no SMTP probing. Pay per event on Apify: $0.0008 per email ($0.80 per 1,000).
 
 ### Growth & Automation Tools
 
