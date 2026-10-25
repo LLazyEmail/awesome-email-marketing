@@ -447,7 +447,7 @@ Resources for building HTML emails — tutorials, templates, and coding referenc
 - [How To Code An Email Newsletter in 6 Simple Steps](https://www.crazyegg.com/blog/how-to-code-an-email-newsletter/)
 - [The RIGHT WAY to create HTML emails | TUTORIAL [2021]](https://www.youtube.com/watch?v=sSNnixkKqcA)
 - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
-- [How to Code a Responsive Email from Scratch](https://litmus.com/community/learning/24-how-to-code-a-responsive-email-from-scratch)
+- [How to Code a Responsive Email from Scratch](https://web.archive.org/web/2023/https://litmus.com/community/learning/24-how-to-code-a-responsive-email-from-scratch) (archived)
 - [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
 - [A Complete Guide To Create Your Own HTML Email](https://email.uplers.com/blog/step-step-guide-create-html-email/)
 - [How to HTML: Your Guide to Designing and Coding Emails That Deliver](https://customer.io/blog/how-to-html-your-guide-to-designing-and-coding-emails-that-deliver/)
