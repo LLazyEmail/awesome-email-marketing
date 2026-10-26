@@ -106,7 +106,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [MailWiz](https://mailwizz.com) - Self-hosted Email Marketing Software
 * [MailySend](https://github.com/GagnDeep/mailysend) - is a self-hosted email platform with a Resend-compatible API: transactional sending, audiences and live segments, broadcasts with A/B testing, inbound mailboxes, and deliverability analytics. Runs on Cloudflare Workers in your own account or on a plain Node server, sending through Cloudflare Email Service, Amazon SES, Resend or SMTP.
 * [Peopcampaigns](https://pepocampaigns.com) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
-* [Scribase Mail Studio](https://github.com/caelum0x/scribase-mail-studio) - is an open-source (AGPL-3.0), self-hostable transactional email platform with a Resend-compatible API: keep the Resend SDK and change the base URL. One-command Docker Compose self-host, domain verification with local DKIM signing, API keys, webhooks and a dashboard; sends through any SMTP provider.
+* [Scribase Mail Studio](https://github.com/caelum0x/scribase-mail-studio) - is a self-hosted, Resend-compatible email API and dashboard (AGPL fork of useSend): domains, webhooks, broadcasts and inbound, with a one-line SDK switch from Resend.
 * [Sendy](https://sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
 * [Xem](https://xem.email/) - Open-source email marketing with newsletters, templates, audience lists, and visual automations; supports custom SMTP and managed sending through Amazon SES.
 
