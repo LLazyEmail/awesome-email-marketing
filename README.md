@@ -563,6 +563,7 @@ Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 * [React multi email](https://github.com/jsdevkr/react-multi-email)
 * [Generating Emails with React](https://github.com/lang-ai/react-emails)
 * [React Confirm Email](https://github.com/funador/react-confirm-email)
+* [Express Email OTP Login](https://github.com/manishgupta412/express-email-otp-login)
 
 ## Miscellaneous
 
