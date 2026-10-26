@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-10-26",
+    "title": "Add auto-rebase workflow for open PRs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/347",
+    "items": [
+      "Merged pull request #347",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/347"
+    ]
+  },
+  {
     "date": "2026-10-24",
     "title": "Rebase of #320: Add Email Forgery Check to Deliverability & Testing Tools",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/344",

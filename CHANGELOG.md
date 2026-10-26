@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add auto-rebase workflow for open PRs ([#347](https://github.com/LLazyEmail/awesome-email-marketing/pull/347))
 - Rebase of #320: Add Email Forgery Check to Deliverability & Testing Tools ([#344](https://github.com/LLazyEmail/awesome-email-marketing/pull/344))
 - Rebase of #319: Add Nitrosend to Email Service Providers ([#343](https://github.com/LLazyEmail/awesome-email-marketing/pull/343))
 - Rebase of #318: Add oneclick-check to Deliverability & Testing Tools ([#342](https://github.com/LLazyEmail/awesome-email-marketing/pull/342))
