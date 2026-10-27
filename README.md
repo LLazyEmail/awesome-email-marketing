@@ -131,6 +131,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Email Forgery Check](https://stephen-psaradellis.github.io/demos/email-forgery-check.html) - Free, no-signup check of whether anyone can send mail as your domain: reads SPF, DMARC, common DKIM selectors and MX from public DNS in your browser and explains each gap in plain words. MIT, open source. ([source](https://github.com/Stephen-Psaradellis/email-forgery-check))
 * [oneclick-check](https://github.com/dimonch-byte/oneclick-check) - Free, offline check of one sent message's raw headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rule): https List-Unsubscribe, List-Unsubscribe-Post, and DKIM h= coverage. Stdlib Python, MIT.
 * [Email List Cleaner](https://apify.com/tidytools/bulk-email-validator) - Bulk list cleaning before a send: syntax, MX, disposable, role and free-provider checks with typo suggestions; no SMTP probing. Pay per use ($0.50 per 1,000 addresses).
+* [APIVerve](https://apiverve.com/) - Email validation and sender-authentication APIs: address validation (format, MX, disposable, role and free-provider flags), a disposable email checker, MX lookup, and SPF, DKIM, DMARC and BIMI record validators. Free plan of 200 credits a month, no card required.
 
 ### Growth & Automation Tools
 
