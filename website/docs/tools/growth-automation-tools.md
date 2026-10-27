@@ -47,6 +47,7 @@ Filter on [Explore → automation](/explore?tag=automation).
 - [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
 - [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software
 - [Froged](https://froged.com) - Optimize your Customer Experience with One Powerful Product
+- [ImagineYourBook](https://www.imagineyourbook.com/book-generators/lead-magnet-ebook) - AI book drafting app that turns your notes or an outline into a full lead-magnet ebook for opt-ins and nurture sequences, with a cover and Word, EPUB or Markdown download. Paid, 7-day trial (card required); drafts need author review.
 - [Keap](https://keap.com) - the all-in-one sales and marketing automation platform designed to help you grow
 - [Palabra](https://palabra.io) - Automate your product-led growth
 - [UnderSend](https://undersend.com) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
