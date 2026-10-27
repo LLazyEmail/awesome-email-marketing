@@ -40,4 +40,5 @@ seo:
 - [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
 - [DNSai](https://dnsai.com/dns-tools/) - Free SPF, DKIM and DMARC checkers, plus DNS/WHOIS lookups and email-header analysis; no signup.
 - [Campaign Cleaner](https://campaigncleaner.com) - Spam checker, Font Color Adjuster, Blacklist Link Checker, Broken Link Checker, CSS Inliner, HTML Sanitizer, Non-ASCII replacement, Font-Size Adjuster, and more.
+- [Cold Email Checker](https://ignura.com/tools/cold-email-checker) - Free, no-signup check of a cold email's length, reading level, spam words, links, questions and ask; runs in the browser, open source (MIT).
 
