@@ -190,6 +190,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 ### Ecommerce & product-led
 
 - [Sequenzy](https://sequenzy.com/) - lifecycle and transactional workflows for SaaS/product teams
+- [Kicklace](https://kicklace.com) - lifecycle emails for SaaS, written from your website and sent when customers act; free up to 1,000 contacts
 - [Drip](https://www.drip.com/) - ecommerce automation and personalized campaigns
 - [Automizy](https://automizy.com/) - email marketing software focused on improving open rates
 - [Sender](https://www.sender.net/) - keep in touch with customers and grow with less spend
@@ -211,6 +212,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 - [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
 - [DNSai](https://dnsai.com/dns-tools/) - Free SPF, DKIM and DMARC checkers, plus DNS/WHOIS lookups and email-header analysis; no signup.
 - [Campaign Cleaner](https://campaigncleaner.com) - Spam checker, Font Color Adjuster, Blacklist Link Checker, Broken Link Checker, CSS Inliner, HTML Sanitizer, Non-ASCII replacement, Font-Size Adjuster, and more.
+- [Welcome email generator](https://kicklace.com/welcome-email-generator) - Type a SaaS's address and get the emails it should send, free and with no sign-up.
 
 ## Strategy
 
