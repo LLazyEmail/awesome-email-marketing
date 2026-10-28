@@ -542,6 +542,7 @@ Adjacent packages and sites (not the core catalog above).
 * [Email templates](https://github.com/mjmlio/email-templates)
 * [Email Lab](https://github.com/sparkbox/email-lab)
 * [Generating Emails with React](https://github.com/lang-ai/react-emails)
+* [express-email-otp-login](https://github.com/parv15/express-email-otp-login)
 
 ### HTML stuff
 
