@@ -14,53 +14,11 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: changelog
-  cancel-in-progress: false
-
 jobs:
   changelog:
-    name: Regenerate changelog
-    # Skip the follow-up push this job creates, even if that commit touches
-    # files outside paths-ignore.
-    if: github.event_name == 'workflow_dispatch' || github.actor != 'github-actions[bot]'
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: website
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          # Checkout the default branch so we commit onto main after a merge.
-          ref: main
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          cache: npm
-          cache-dependency-path: website/package-lock.json
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Generate changelog
-        run: npm run changelog
-
-      - name: Commit and push changelog
-        working-directory: .
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add CHANGELOG.md website/src/data/changelog.json
-
-          if git diff --staged --quiet; then
-            echo "Changelog already up to date."
-            exit 0
-          fi
-
-          git commit -m "chore(changelog): regenerate after merged pull request"
-          git push origin HEAD:main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-changelog.yml@main
+    with:
+      working-directory: website
+      cache-dependency-path: website/package-lock.json
+      commit-paths: CHANGELOG.md website/src/data/changelog.json
+    secrets: inherit
