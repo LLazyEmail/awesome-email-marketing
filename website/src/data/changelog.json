@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-10-29",
+    "title": "Update PR template to request starring the repo for listing",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/340",
+    "items": [
+      "Merged pull request #340",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/340"
+    ]
+  },
+  {
+    "date": "2026-10-29",
     "title": "Rebase of #321: Update Scribase Mail Studio entry in Self-Hosted ESPs",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/348",
     "items": [
