@@ -1,0 +1,35 @@
+name: Markdown lint
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'CHANGELOG.md'
+      - 'website/docs/**'
+      - '.markdownlint.json'
+      - '.github/workflows/markdown-lint.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+      - 'CHANGELOG.md'
+      - 'website/docs/**'
+      - '.markdownlint.json'
+
+jobs:
+  markdownlint:
+    name: markdownlint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Lint README, CHANGELOG, and docs markdown
+        uses: DavidAnson/markdownlint-cli2-action@v19
+        with:
+          globs: |
+            README.md
+            CHANGELOG.md
+            website/docs/**/*.md
+            !website/node_modules/**
+            !website/build/**
