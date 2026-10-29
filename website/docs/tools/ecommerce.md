@@ -38,3 +38,4 @@ seo:
 - [Campaign Monitor](https://www.campaignmonitor.com/)
 - [Encharge](https://encharge.io/)
 - [Newsletter2go](https://docs.newsletter2go.com/)
+- [Signal by StackEnhance](https://chromewebstore.google.com/detail/mpfjcjihiidnighpfhmpoodigeedehkk) - Free Chrome extension: on any online store, see when it last sent a marketing email, how often it sends and its latest subject lines; covers 1,000+ stores, mostly in the Nordics and Germany.
