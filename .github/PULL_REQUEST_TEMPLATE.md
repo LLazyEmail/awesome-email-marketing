@@ -2,6 +2,8 @@
 
 <!-- Provide a clear summary of what this PR does and why. -->
 
+**If you want your project to be listed, make me happy and hit the star button! ⭐**
+
 ## Type of Change
 
 - [ ] New feature
@@ -35,6 +37,7 @@
 - [ ] Existing tests pass locally
 - [ ] Updated documentation if needed
 - [ ] No new warnings or console errors introduced
+- [ ] Starred the repository (required for listing)
 
 ## Related Issues
 
