@@ -1,0 +1,71 @@
+name: Link check
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'CHANGELOG.md'
+      - 'website/docs/**'
+      - '.github/workflows/link-check.yml'
+      - '.lychee.toml'
+  schedule:
+    - cron: '0 9 * * 1'  # Mondays 09:00 UTC
+  workflow_dispatch:
+
+jobs:
+  lychee:
+    name: lychee
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Link check
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # Soft: do not fail the job on flaky external links.
+          # Accept common bot soft-blocks; write a job summary always.
+          # Scheduled runs may open/update an issue from the summary.
+          args: >-
+            --verbose
+            --no-progress
+            --max-concurrency 8
+            --accept 200,204,206,403,429
+            --timeout 20
+            --exclude-path node_modules
+            --exclude-path website/node_modules
+            --exclude-path website/build
+            --exclude-path .git
+            README.md
+            CHANGELOG.md
+            'website/docs/**/*.md'
+            'website/docs/**/*.mdx'
+          fail: false
+          format: markdown
+          output: lychee-out.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Write job summary
+        if: always()
+        run: |
+          {
+            echo "## Lychee link check"
+            echo
+            if [ -f lychee-out.md ]; then
+              cat lychee-out.md
+            else
+              echo "_No lychee output file produced._"
+            fi
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Create or update issue from scheduled run
+        if: always() && (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: 'Link check report (lychee)'
+          content-filepath: lychee-out.md
+          labels: maintenance, links
+          issue-number: ''
+        continue-on-error: true

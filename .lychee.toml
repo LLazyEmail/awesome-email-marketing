@@ -1,0 +1,22 @@
+# Lychee config for awesome-email-marketing
+# CI workflow keeps fail:false so flaky external links never hard-fail PRs.
+# Scheduled Monday runs publish a job summary (+ best-effort issue).
+
+timeout = 20
+max_concurrency = 8
+accept = [200, 204, 206, 403, 429]
+
+exclude_path = [
+  "node_modules",
+  "website/node_modules",
+  "website/build",
+  ".git",
+]
+
+# Common noise / auth walls
+exclude = [
+  '^https://twitter\\.com/',
+  '^https://x\\.com/',
+  '^https://www\\.linkedin\\.com/',
+  '^https://linkedin\\.com/',
+]
