@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-10-29",
+    "title": "ci: add lychee link-check with soft fail and summary",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/361",
+    "items": [
+      "Merged pull request #361",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/361"
+    ]
+  },
+  {
+    "date": "2026-10-29",
     "title": "ci: add markdownlint for README and website docs",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/360",
     "items": [
