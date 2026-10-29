@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-10-29",
+    "title": "ci: ask new contributors to star the repo",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/359",
+    "items": [
+      "Merged pull request #359",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/359"
+    ]
+  },
+  {
     "date": "2026-10-26",
     "title": "Add auto-rebase workflow for open PRs",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/347",
