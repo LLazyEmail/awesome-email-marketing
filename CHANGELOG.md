@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- ci: add markdownlint for README and website docs ([#360](https://github.com/LLazyEmail/awesome-email-marketing/pull/360))
 - ci: ask new contributors to star the repo ([#359](https://github.com/LLazyEmail/awesome-email-marketing/pull/359))
 - Add auto-rebase workflow for open PRs ([#347](https://github.com/LLazyEmail/awesome-email-marketing/pull/347))
 - Rebase of #320: Add Email Forgery Check to Deliverability & Testing Tools ([#344](https://github.com/LLazyEmail/awesome-email-marketing/pull/344))

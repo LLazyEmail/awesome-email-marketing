@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-10-29",
+    "title": "ci: add markdownlint for README and website docs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/360",
+    "items": [
+      "Merged pull request #360",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/360"
+    ]
+  },
+  {
+    "date": "2026-10-29",
     "title": "ci: ask new contributors to star the repo",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/359",
     "items": [
