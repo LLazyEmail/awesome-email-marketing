@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Rebase of #321: Update Scribase Mail Studio entry in Self-Hosted ESPs ([#348](https://github.com/LLazyEmail/awesome-email-marketing/pull/348))
 - ci: add lychee link-check with soft fail and summary ([#361](https://github.com/LLazyEmail/awesome-email-marketing/pull/361))
 - ci: add markdownlint for README and website docs ([#360](https://github.com/LLazyEmail/awesome-email-marketing/pull/360))
 - ci: ask new contributors to star the repo ([#359](https://github.com/LLazyEmail/awesome-email-marketing/pull/359))

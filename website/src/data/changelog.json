@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-10-29",
+    "title": "Rebase of #321: Update Scribase Mail Studio entry in Self-Hosted ESPs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/348",
+    "items": [
+      "Merged pull request #348",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/348"
+    ]
+  },
+  {
+    "date": "2026-10-29",
     "title": "ci: add lychee link-check with soft fail and summary",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/361",
     "items": [
