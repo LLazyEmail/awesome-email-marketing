@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   docs-index:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docs-index.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docs-index.yml@v1
     with:
       working-directory: website
       cache-dependency-path: website/package-lock.json
