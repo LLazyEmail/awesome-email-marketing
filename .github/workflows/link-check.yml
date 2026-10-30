@@ -14,7 +14,7 @@ on:
 
 jobs:
   lychee:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-link-check.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-link-check.yml@v1
     with:
       args: >-
         --verbose
