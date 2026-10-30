@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   changelog:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-changelog.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-changelog.yml@v1
     with:
       working-directory: website
       cache-dependency-path: website/package-lock.json
