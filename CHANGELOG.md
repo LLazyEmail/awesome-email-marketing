@@ -8,6 +8,9 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- ci: adopt documentation-actions changelog ([#368](https://github.com/LLazyEmail/awesome-email-marketing/pull/368))
+- ci: adopt documentation-actions docs-index ([#369](https://github.com/LLazyEmail/awesome-email-marketing/pull/369))
+- ci: adopt documentation-actions industry-leaders API ([#370](https://github.com/LLazyEmail/awesome-email-marketing/pull/370))
 - Add Email List Cleaner to Deliverability & Testing Tools docs page ([#331](https://github.com/LLazyEmail/awesome-email-marketing/pull/331))
 - Update PR template to request starring the repo for listing ([#340](https://github.com/LLazyEmail/awesome-email-marketing/pull/340))
 - Rebase of #321: Update Scribase Mail Studio entry in Self-Hosted ESPs ([#348](https://github.com/LLazyEmail/awesome-email-marketing/pull/348))
