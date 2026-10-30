@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add Email List Cleaner to Deliverability & Testing Tools docs page ([#331](https://github.com/LLazyEmail/awesome-email-marketing/pull/331))
 - Update PR template to request starring the repo for listing ([#340](https://github.com/LLazyEmail/awesome-email-marketing/pull/340))
 - Rebase of #321: Update Scribase Mail Studio entry in Self-Hosted ESPs ([#348](https://github.com/LLazyEmail/awesome-email-marketing/pull/348))
 - ci: add lychee link-check with soft fail and summary ([#361](https://github.com/LLazyEmail/awesome-email-marketing/pull/361))

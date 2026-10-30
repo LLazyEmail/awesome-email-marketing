@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-10-30",
+    "title": "Add Email List Cleaner to Deliverability & Testing Tools docs page",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/331",
+    "items": [
+      "Merged pull request #331",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/331"
+    ]
+  },
+  {
     "date": "2026-10-29",
     "title": "Update PR template to request starring the repo for listing",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/340",
