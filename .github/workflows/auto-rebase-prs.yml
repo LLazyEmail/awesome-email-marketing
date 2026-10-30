@@ -11,5 +11,5 @@ permissions:
 
 jobs:
   rebase:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-auto-rebase-prs.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-auto-rebase-prs.yml@v1
     secrets: inherit
