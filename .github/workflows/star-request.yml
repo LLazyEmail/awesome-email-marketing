@@ -9,5 +9,5 @@ permissions:
 
 jobs:
   comment:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-star-request.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-star-request.yml@v1
     secrets: inherit
