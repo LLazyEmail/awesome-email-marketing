@@ -15,7 +15,7 @@ permissions:
 
 jobs:
   industry-leaders-api:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-catalog-api.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-catalog-api.yml@v1
     with:
       working-directory: website
       node-version: '20'
