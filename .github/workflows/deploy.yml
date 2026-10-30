@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   deploy:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-pages-deploy.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-docusaurus-pages-deploy.yml@v1
     with:
       working-directory: website
       cache-dependency-path: website/package-lock.json
