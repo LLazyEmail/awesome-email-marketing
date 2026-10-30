@@ -122,6 +122,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 * [Canny Pigeons](https://cannypigeons.com) - DMARC monitoring that walks you to p=reject: DNS drift alerts, IP threat intel, and free first domain with hosted DMARC.
 * [Mailtrap](https://mailtrap.io) - is a testing tool and is not designed to deliver emails to real addresses
+* [Emailens](https://emailens.dev) - Lints HTML email against 21 clients (Outlook Classic, Gmail, Apple Mail and more) with per-client CSS support, dark mode simulation and copy-paste fixes. Free tier, plus a CLI, GitHub Action and MCP server.
 * [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
 * [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) - Offline HTML campaign QA with machine-readable JSON and client-readable Markdown reports.
 * [Sendgrid](https://sendgrid.com) - Email delivery service
@@ -450,7 +451,7 @@ Resources for building HTML emails — tutorials, templates, and coding referenc
 - [How To Code An Email Newsletter in 6 Simple Steps](https://www.crazyegg.com/blog/how-to-code-an-email-newsletter/)
 - [The RIGHT WAY to create HTML emails | TUTORIAL [2021]](https://www.youtube.com/watch?v=sSNnixkKqcA)
 - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
-- [How to Code a Responsive Email from Scratch](https://litmus.com/community/learning/24-how-to-code-a-responsive-email-from-scratch)
+- [How to Code a Responsive Email from Scratch](https://web.archive.org/web/2023/https://litmus.com/community/learning/24-how-to-code-a-responsive-email-from-scratch) (archived)
 - [Build an HTML Email Template From Scratch](https://webdesign.tutsplus.com/articles/build-an-html-email-template-from-scratch--webdesign-12770)
 - [A Complete Guide To Create Your Own HTML Email](https://email.uplers.com/blog/step-step-guide-create-html-email/)
 - [How to HTML: Your Guide to Designing and Coding Emails That Deliver](https://customer.io/blog/how-to-html-your-guide-to-designing-and-coding-emails-that-deliver/)
