@@ -473,6 +473,7 @@ Resources for building HTML emails — tutorials, templates, and coding referenc
 - [Campaign Buzz](https://campaignbuzz.io/) - Searchable library of millions of real marketing emails from top brands, with filters, competitor tracking and the original HTML.
 - [Benchmark Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
 - [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
+- [Groundmail Email Templates](https://github.com/Groundmail/email-templates) - 12 free, MIT-licensed transactional email templates (auth, account, billing) in React Email, MJML, HTML and plain text, with dark mode.
 
 ##### Visual builders
 
