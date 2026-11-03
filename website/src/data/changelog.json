@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-03",
+    "title": "ci: adopt documentation-actions star-request",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/362",
+    "items": [
+      "Merged pull request #362",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/362"
+    ]
+  },
+  {
     "date": "2026-10-30",
     "title": "ci: adopt documentation-actions changelog",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/368",
