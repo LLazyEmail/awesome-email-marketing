@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-03",
+    "title": "ci: adopt documentation-actions lychee link-check",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/365",
+    "items": [
+      "Merged pull request #365",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/365"
+    ]
+  },
+  {
+    "date": "2026-11-03",
     "title": "ci: adopt documentation-actions test-deploy",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/366",
     "items": [
