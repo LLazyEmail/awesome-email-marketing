@@ -211,6 +211,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 - [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
 - [DNSai](https://dnsai.com/dns-tools/) - Free SPF, DKIM and DMARC checkers, plus DNS/WHOIS lookups and email-header analysis; no signup.
 - [Campaign Cleaner](https://campaigncleaner.com) - Spam checker, Font Color Adjuster, Blacklist Link Checker, Broken Link Checker, CSS Inliner, HTML Sanitizer, Non-ASCII replacement, Font-Size Adjuster, and more.
+- [express-email-otp-login](https://github.com/parv15/express-email-otp-login) - Open-source passwordless login for Express: email one-time codes and magic links, sent via the Mailtrap Email API.
 
 ## Strategy
 
