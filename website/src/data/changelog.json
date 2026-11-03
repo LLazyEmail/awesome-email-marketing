@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-03",
+    "title": "ci: adopt documentation-actions test-deploy",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/366",
+    "items": [
+      "Merged pull request #366",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/366"
+    ]
+  },
+  {
+    "date": "2026-11-03",
     "title": "ci: adopt documentation-actions markdownlint",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/364",
     "items": [
