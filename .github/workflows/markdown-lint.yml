@@ -18,18 +18,11 @@ on:
 
 jobs:
   markdownlint:
-    name: markdownlint
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Lint README, CHANGELOG, and docs markdown
-        uses: DavidAnson/markdownlint-cli2-action@v19
-        with:
-          globs: |
-            README.md
-            CHANGELOG.md
-            website/docs/**/*.md
-            !website/node_modules/**
-            !website/build/**
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-markdownlint.yml@v1
+    with:
+      globs: |
+        README.md
+        CHANGELOG.md
+        website/docs/**/*.md
+        !website/node_modules/**
+        !website/build/**
