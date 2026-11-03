@@ -8,6 +8,8 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- ci: adopt documentation-actions markdownlint ([#364](https://github.com/LLazyEmail/awesome-email-marketing/pull/364))
+- ci: adopt documentation-actions auto-rebase ([#363](https://github.com/LLazyEmail/awesome-email-marketing/pull/363))
 - ci: adopt documentation-actions star-request ([#362](https://github.com/LLazyEmail/awesome-email-marketing/pull/362))
 - ci: adopt documentation-actions changelog ([#368](https://github.com/LLazyEmail/awesome-email-marketing/pull/368))
 - ci: adopt documentation-actions docs-index ([#369](https://github.com/LLazyEmail/awesome-email-marketing/pull/369))

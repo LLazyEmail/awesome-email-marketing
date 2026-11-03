@@ -1,6 +1,24 @@
 [
   {
     "date": "2026-11-03",
+    "title": "ci: adopt documentation-actions markdownlint",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/364",
+    "items": [
+      "Merged pull request #364",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/364"
+    ]
+  },
+  {
+    "date": "2026-11-03",
+    "title": "ci: adopt documentation-actions auto-rebase",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/363",
+    "items": [
+      "Merged pull request #363",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/363"
+    ]
+  },
+  {
+    "date": "2026-11-03",
     "title": "ci: adopt documentation-actions star-request",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/362",
     "items": [
