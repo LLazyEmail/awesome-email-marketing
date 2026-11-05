@@ -130,8 +130,8 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Bulk Email Verifier](https://apify.com/wintersworks/bulk-email-verifier-dns) - Clean a list before sending: syntax, MX lookup, disposable/role/typo flags and a 0-100 score, DNS only (no SMTP pings). $0.70 per 1,000 emails.
 * [Email Forgery Check](https://stephen-psaradellis.github.io/demos/email-forgery-check.html) - Free, no-signup check of whether anyone can send mail as your domain: reads SPF, DMARC, common DKIM selectors and MX from public DNS in your browser and explains each gap in plain words. MIT, open source. ([source](https://github.com/Stephen-Psaradellis/email-forgery-check))
 * [oneclick-check](https://github.com/dimonch-byte/oneclick-check) - Free, offline check of one sent message's raw headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rule): https List-Unsubscribe, List-Unsubscribe-Post, and DKIM h= coverage. Stdlib Python, MIT.
-* [Email List Cleaner](https://apify.com/tidytools/bulk-email-validator) - Bulk list cleaning before a send: syntax, MX, disposable, role and free-provider checks with typo suggestions; no SMTP probing. Pay per use ($0.50 per 1,000 addresses)
-* [MailVeri](https://mailveri.com) - Bulk and real-time email verification API and MCP server: SMTP, catch-all, disposable and role detection; pay-as-you-go credits that never expire, 1,000 free..
+* [Email List Cleaner](https://apify.com/tidytools/bulk-email-validator) - Bulk list cleaning before a send: syntax, MX, disposable, role and free-provider checks with typo suggestions; no SMTP probing. Pay per use ($0.50 per 1,000 addresses).
+* [MailVeri](https://mailveri.com) - Bulk and real-time email verification API and MCP server: SMTP, catch-all, disposable and role detection; pay-as-you-go credits that never expire, 1,000 free.
 
 ### Growth & Automation Tools
 
