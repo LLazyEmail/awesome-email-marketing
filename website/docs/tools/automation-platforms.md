@@ -49,6 +49,7 @@ Filter on [Explore → automation](/explore?tag=automation), [esp](/explore?tag=
 ## Ecommerce & product-led
 
 - [Sequenzy](https://sequenzy.com/) — lifecycle and transactional workflows for SaaS/product teams
+- [Kicklace](https://kicklace.com) — lifecycle emails for SaaS, written from your website and sent when customers act; free up to 1,000 contacts
 - [Drip](https://www.drip.com/) — ecommerce automation and personalized campaigns
 - [Automizy](https://automizy.com/) — email marketing software focused on improving open rates
 - [Sender](https://www.sender.net/) — keep in touch with customers and grow with less spend
