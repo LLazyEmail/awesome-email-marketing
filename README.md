@@ -114,6 +114,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 * [BEE](https://beefree.io) - Create beautiful emails, fast.
 * [Colorlib](https://colorlib.com) - is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month
+* [EMAIL.md](https://github.com/kingadow/email-design-md) - A free design system for email that AI can follow, with a Figma checklist, Claude skills and a full demo brand
 * [Mailbakery](https://mailbakery.com) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
 * [Postcards](https://designmodo.com/postcards) - Create awesome emails with drag & drop simplicity
 * [Stripo](https://stripo.email) - Drag-n-drop and HTML email builder with 1,690+ responsive templates
