@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-06",
+    "title": "Add Signal by StackEnhance to Email Marketing for eCommerce",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/358",
+    "items": [
+      "Merged pull request #358",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/358"
+    ]
+  },
+  {
+    "date": "2026-11-06",
     "title": "Add Email Verifier & Validator to README and Docusaurus docs (rebase of #325)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/380",
     "items": [
