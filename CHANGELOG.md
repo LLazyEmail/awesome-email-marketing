@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add cold email checker readme and docs ([#382](https://github.com/LLazyEmail/awesome-email-marketing/pull/382))
 - Add Signal by StackEnhance to Email Marketing for eCommerce ([#358](https://github.com/LLazyEmail/awesome-email-marketing/pull/358))
 - Add Email Verifier & Validator to README and Docusaurus docs (rebase of #325) ([#380](https://github.com/LLazyEmail/awesome-email-marketing/pull/380))
 - Add AGENTS.md for AI coding agents ([#379](https://github.com/LLazyEmail/awesome-email-marketing/pull/379))
