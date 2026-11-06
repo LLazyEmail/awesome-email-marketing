@@ -219,6 +219,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 - [Password reset email design: best practices, checklist & template](https://postmarkapp.com/guides/password-reset-email-best-practices)
 - [DNSai](https://dnsai.com/dns-tools/) - Free SPF, DKIM and DMARC checkers, plus DNS/WHOIS lookups and email-header analysis; no signup.
 - [Campaign Cleaner](https://campaigncleaner.com) - Spam checker, Font Color Adjuster, Blacklist Link Checker, Broken Link Checker, CSS Inliner, HTML Sanitizer, Non-ASCII replacement, Font-Size Adjuster, and more.
+- [Signal by StackEnhance](https://chromewebstore.google.com/detail/mpfjcjihiidnighpfhmpoodigeedehkk) - Free Chrome extension: on any online store, see when it last sent a marketing email, how often it sends and its latest subject lines; covers 1,000+ stores, mostly in the Nordics and Germany.
 - [Welcome email generator](https://kicklace.com/welcome-email-generator) - Type a SaaS's address and get the emails it should send, free and with no sign-up.
 
 ## Strategy
