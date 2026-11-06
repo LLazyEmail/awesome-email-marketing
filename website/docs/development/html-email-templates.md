@@ -44,6 +44,7 @@ Template collections, galleries, and builders — separate from coding tutorials
 - [CodePen Email Templates](https://codepen.io/collection/AyVBJr)
 - [Really Good Emails](https://reallygoodemails.com/)
 - [Campaign Buzz](https://campaignbuzz.io/) - Searchable library of millions of real marketing emails from top brands, with filters, competitor tracking and the original HTML.
+- [They Sent It](https://theysentit.com/) - Free archive of nearly 2 million marketing emails from 50,000 brands, with how often each brand sends and the platform it uses.
 - [Benchmark Email Marketing Templates](https://www.benchmarkemail.com/email-templates/)
 - [1210+ Free HTML Professional Email Templates](https://beefree.io/templates/)
 - [Groundmail Email Templates](https://github.com/Groundmail/email-templates) - 12 free, MIT-licensed transactional email templates (auth, account, billing) in React Email, MJML, HTML and plain text, with dark mode.
