@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-06",
+    "title": "Add They Sent It to README and Docusaurus docs (from #375)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/389",
+    "items": [
+      "Merged pull request #389",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/389"
+    ]
+  },
+  {
+    "date": "2026-11-06",
     "title": "Add MailVeri to README and Docusaurus docs (from #376)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/388",
     "items": [
