@@ -8,6 +8,8 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add add-to-calendar to README and Docusaurus docs (from #356) ([#386](https://github.com/LLazyEmail/awesome-email-marketing/pull/386))
+- Add Datacircle to README and Docusaurus docs (from #377) ([#390](https://github.com/LLazyEmail/awesome-email-marketing/pull/390))
 - Add They Sent It to README and Docusaurus docs (from #375) ([#389](https://github.com/LLazyEmail/awesome-email-marketing/pull/389))
 - Add MailVeri to README and Docusaurus docs (from #376) ([#388](https://github.com/LLazyEmail/awesome-email-marketing/pull/388))
 - Add cold email checker readme and docs ([#382](https://github.com/LLazyEmail/awesome-email-marketing/pull/382))
