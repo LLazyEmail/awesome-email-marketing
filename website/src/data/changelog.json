@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-06",
+    "title": "Add MailVeri to README and Docusaurus docs (from #376)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/388",
+    "items": [
+      "Merged pull request #388",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/388"
+    ]
+  },
+  {
+    "date": "2026-11-06",
     "title": "Add cold email checker readme and docs",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/382",
     "items": [
