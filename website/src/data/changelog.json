@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-06",
+    "title": "Add AGENTS.md for AI coding agents",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/379",
+    "items": [
+      "Merged pull request #379",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/379"
+    ]
+  },
+  {
+    "date": "2026-11-06",
     "title": "Add Email Subject Line Tester to README and Docusaurus docs",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/378",
     "items": [
