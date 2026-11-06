@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-06",
+    "title": "Add Email Verifier & Validator to README and Docusaurus docs (rebase of #325)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/380",
+    "items": [
+      "Merged pull request #380",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/380"
+    ]
+  },
+  {
+    "date": "2026-11-06",
     "title": "Add AGENTS.md for AI coding agents",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/379",
     "items": [

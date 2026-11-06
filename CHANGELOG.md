@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add Email Verifier & Validator to README and Docusaurus docs (rebase of #325) ([#380](https://github.com/LLazyEmail/awesome-email-marketing/pull/380))
 - Add AGENTS.md for AI coding agents ([#379](https://github.com/LLazyEmail/awesome-email-marketing/pull/379))
 - Add Email Subject Line Tester to README and Docusaurus docs ([#378](https://github.com/LLazyEmail/awesome-email-marketing/pull/378))
 - ci: adopt documentation-actions Pages deploy ([#367](https://github.com/LLazyEmail/awesome-email-marketing/pull/367))
