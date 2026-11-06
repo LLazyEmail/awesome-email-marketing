@@ -1,0 +1,58 @@
+name: Label conflicted PRs
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # every 4 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Label dirty / conflicted open PRs
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: prs } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              per_page: 100
+            });
+
+            for (const pr of prs) {
+              // Force GitHub to recompute mergeable state
+              const { data: full } = await github.rest.pulls.get({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number
+              });
+
+              const state = full.mergeable_state;
+              const labels = full.labels.map(l => l.name);
+              const hasConflictLabel = labels.includes('has-conflicts');
+
+              if (state === 'dirty' && !hasConflictLabel) {
+                await github.rest.issues.addLabels({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: pr.number,
+                  labels: ['has-conflicts']
+                });
+                console.log(`Labeled #${pr.number} has-conflicts`);
+              } else if (state === 'clean' && hasConflictLabel) {
+                await github.rest.issues.removeLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: pr.number,
+                  name: 'has-conflicts'
+                });
+                console.log(`Removed has-conflicts from #${pr.number}`);
+              }
+            }
