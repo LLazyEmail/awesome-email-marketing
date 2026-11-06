@@ -46,6 +46,7 @@ Browse with tags on [Explore](/explore).
 - [Email List Cleaner](https://apify.com/tidytools/bulk-email-validator) - Bulk list cleaning before a send: syntax, MX, disposable, role and free-provider checks with typo suggestions; no SMTP probing. Pay per use ($0.50 per 1,000 addresses).
 - [MailVeri](https://mailveri.com) - Bulk and real-time email verification API and MCP server: SMTP, catch-all, disposable and role detection; pay-as-you-go credits that never expire, 1,000 free.
 - [SimpleVerifier](https://simpleverifier.com) - Email list verification with a live SMTP mailbox check: each address comes back valid, risky or invalid with a reason, and catch-all or unconfirmed mailboxes stay risky. Free checks to start, then monthly plans; API and MCP server on paid plans.
+- [APIVerve](https://apiverve.com/) - Email validation and sender-authentication APIs: address validation (format, MX, disposable, role and free-provider flags), a disposable email checker, MX lookup, and SPF, DKIM, DMARC and BIMI record validators. Free plan of 200 credits a month, no card required.
 
 ## Auth, DNS & monitoring
 
