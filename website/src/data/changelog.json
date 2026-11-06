@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-06",
+    "title": "Add Email Subject Line Tester to README and Docusaurus docs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/378",
+    "items": [
+      "Merged pull request #378",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/378"
+    ]
+  },
+  {
     "date": "2026-11-03",
     "title": "ci: adopt documentation-actions Pages deploy",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/367",

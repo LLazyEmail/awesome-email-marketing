@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add Email Subject Line Tester to README and Docusaurus docs ([#378](https://github.com/LLazyEmail/awesome-email-marketing/pull/378))
 - ci: adopt documentation-actions Pages deploy ([#367](https://github.com/LLazyEmail/awesome-email-marketing/pull/367))
 - ci: adopt documentation-actions lychee link-check ([#365](https://github.com/LLazyEmail/awesome-email-marketing/pull/365))
 - ci: adopt documentation-actions test-deploy ([#366](https://github.com/LLazyEmail/awesome-email-marketing/pull/366))
