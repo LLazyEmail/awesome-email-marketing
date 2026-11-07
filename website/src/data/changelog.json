@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-07",
+    "title": "Add SimpleVerifier to README and Docusaurus docs (from #346)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/381",
+    "items": [
+      "Merged pull request #381",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/381"
+    ]
+  },
+  {
+    "date": "2026-11-07",
     "title": "fix(docs): section deliverability-tools for link-count CI",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/392",
     "items": [

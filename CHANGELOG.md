@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add SimpleVerifier to README and Docusaurus docs (from #346) ([#381](https://github.com/LLazyEmail/awesome-email-marketing/pull/381))
 - fix(docs): section deliverability-tools for link-count CI ([#392](https://github.com/LLazyEmail/awesome-email-marketing/pull/392))
 - Add 5 PR hygiene workflows to reduce README conflict cascades ([#391](https://github.com/LLazyEmail/awesome-email-marketing/pull/391))
 - Add add-to-calendar to README and Docusaurus docs (from #356) ([#386](https://github.com/LLazyEmail/awesome-email-marketing/pull/386))
