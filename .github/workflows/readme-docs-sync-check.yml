@@ -13,22 +13,5 @@ permissions:
 
 jobs:
   check-sync:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-readme-docs-sync-check.yml@v1
-    with:
-      docs-glob: website/docs/**/*.md
-      fail-on-missing: true
-      comment-body: |
-        ### Docs sync check
-
-        This PR updates `README.md` but does not touch any file under `website/docs/`.
-
-        For awesome-list entries please also update the matching Docusaurus page so the published site stays in sync.
-
-        Common mappings:
-        - Deliverability & Testing Tools → `website/docs/tools/deliverability-tools.md`
-        - Growth & Automation Tools → `website/docs/tools/growth-automation-tools.md`
-        - HTML email templates → `website/docs/development/html-email-templates.md`
-        - Email work tools → `website/docs/tools/email-work-tools.md`
-        - Ecommerce → `website/docs/tools/ecommerce.md`
-
-        After adding the docs change, this check will pass.
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-readme-docs-sync-check.yml@main
+    secrets: inherit
