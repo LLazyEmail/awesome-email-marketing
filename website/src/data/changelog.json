@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-07",
+    "title": "fix(docs): section deliverability-tools for link-count CI",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/392",
+    "items": [
+      "Merged pull request #392",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/392"
+    ]
+  },
+  {
     "date": "2026-11-06",
     "title": "Add 5 PR hygiene workflows to reduce README conflict cascades",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/391",
