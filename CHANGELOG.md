@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- chore: grouped weekly Dependabot + PR hygiene rules in AGENTS.md ([#397](https://github.com/LLazyEmail/awesome-email-marketing/pull/397))
 - ci: restore inline GitHub Pages deployment ([#396](https://github.com/LLazyEmail/awesome-email-marketing/pull/396))
 - Add They Sent It ([#375](https://github.com/LLazyEmail/awesome-email-marketing/pull/375))
 - Add Datacircle to Growth & Automation Tools ([#377](https://github.com/LLazyEmail/awesome-email-marketing/pull/377))

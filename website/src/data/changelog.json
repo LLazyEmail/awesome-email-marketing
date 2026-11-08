@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-08",
+    "title": "chore: grouped weekly Dependabot + PR hygiene rules in AGENTS.md",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/397",
+    "items": [
+      "Merged pull request #397",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/397"
+    ]
+  },
+  {
+    "date": "2026-11-08",
     "title": "ci: restore inline GitHub Pages deployment",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/396",
     "items": [
