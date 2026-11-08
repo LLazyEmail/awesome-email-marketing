@@ -1,0 +1,13 @@
+name: Build images
+on: [pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  images:
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-build-image-check.yml@v1
+    with:
+      working-directory: website
+      build-dir: website/build
+      cache-dependency-path: website/package-lock.json
+      base-url: /awesome-email-marketing/
+      prebuild-command: npm run lint:docs-links
