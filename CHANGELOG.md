@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: consolidate APIVerve and CheckMail1 contributions ([#395](https://github.com/LLazyEmail/awesome-email-marketing/pull/395))
 - ci: expose targeted shared rebase workflow inputs ([#394](https://github.com/LLazyEmail/awesome-email-marketing/pull/394))
 - Add apiverve to README and Docusaurus docs (from #351) ([#385](https://github.com/LLazyEmail/awesome-email-marketing/pull/385))
 - ci: adopt shared built-image verification ([#393](https://github.com/LLazyEmail/awesome-email-marketing/pull/393))

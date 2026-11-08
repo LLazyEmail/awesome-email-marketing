@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-08",
+    "title": "docs: consolidate APIVerve and CheckMail1 contributions",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/395",
+    "items": [
+      "Merged pull request #395",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/395"
+    ]
+  },
+  {
+    "date": "2026-11-08",
     "title": "ci: expose targeted shared rebase workflow inputs",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/394",
     "items": [
