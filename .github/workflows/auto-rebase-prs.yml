@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 */6 * * *'  # every 6 hours
   workflow_dispatch:
+    inputs:
+      pr-numbers:
+        description: Comma-separated PR numbers; empty selects all open PRs
+        type: string
+        default: ''
+      rebase-conflicts:
+        description: Allow git rebase and force-push with lease for conflicts
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -12,4 +21,7 @@ permissions:
 jobs:
   rebase:
     uses: LLazyEmail/documentation-actions/.github/workflows/reusable-auto-rebase-prs.yml@v1
+    with:
+      pr-numbers: ${{ inputs.pr-numbers || '' }}
+      rebase-conflicts: ${{ inputs.rebase-conflicts || false }}
     secrets: inherit
