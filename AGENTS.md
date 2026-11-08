@@ -20,6 +20,28 @@ Sister projects: [awesome-newsletters](https://github.com/LLazyEmail/awesome-new
 - Don’t run destructive git history rewrites on `main`.
 - Don’t add duplicate copies of shared workflows; those live in [documentation-actions](https://github.com/LLazyEmail/documentation-actions).
 
+## PR hygiene
+
+These rules keep PRs from conflicting and mean nobody has to ask for rebases or cleanup. Full checklist: [documentation-actions `skills/pr-hygiene`](https://github.com/LLazyEmail/documentation-actions/blob/main/skills/pr-hygiene/SKILL.md).
+
+1. **Same file → same PR.** Most PRs here touch `README.md` and a `website/docs/` page. Do not open a second PR that edits a file another open PR already edits. Add to that PR, or wait until it merges.
+2. **`Merge after #X` first.** A PR that depends on another starts its body with `Merge after #X`.
+3. **`Closes #N` on combined PRs.** When several PRs are folded into one, list each replaced PR as `Closes #N` so GitHub closes them on merge. Keep the original authors' `Co-authored-by` (GitHub noreply) trailers.
+4. **Don't push to `main`, merge, or create tags or releases by hand.** Ask the owner before force-pushing any PR branch.
+5. **No fake secrets.** If automation needs a token, name the secret the owner must add.
+
+## Rebases
+
+1. First use [`auto-rebase-prs.yml`](.github/workflows/auto-rebase-prs.yml). Dispatch it with `pr-numbers` (and `rebase-conflicts: true` only with the owner's approval).
+2. Fall back to a manual rebase only if the workflow cannot resolve the conflicts.
+3. Never push a rebase that makes a branch identical to `main`; GitHub auto-closes the PR.
+
+## Dependencies and CI
+
+- Dependabot opens one grouped PR per week per group (see [`.github/dependabot.yml`](.github/dependabot.yml)).
+- A PR is ready only when its checks are green. Fix red checks in the same PR, or explain them in the PR body. Never disable a check to get green.
+- An optional AI-fix step (only when a rebase conflicts or a check goes red) is a design note in [documentation-actions `docs/ai-fix-step.md`](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/ai-fix-step.md). It is not enabled here.
+
 ## Layout
 
 - `README.md` — the canonical awesome list
