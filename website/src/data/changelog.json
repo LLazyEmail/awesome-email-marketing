@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-08",
+    "title": "chore: adopt shared comment-readme-only workflow",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/404",
+    "items": [
+      "Merged pull request #404",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/404"
+    ]
+  },
+  {
+    "date": "2026-11-08",
     "title": "chore: adopt shared readme-docs-sync-check workflow",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/403",
     "items": [
