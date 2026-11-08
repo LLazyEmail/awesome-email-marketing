@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-08",
+    "title": "ci: expose targeted shared rebase workflow inputs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/394",
+    "items": [
+      "Merged pull request #394",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/394"
+    ]
+  },
+  {
+    "date": "2026-11-08",
     "title": "Add apiverve to README and Docusaurus docs (from #351)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/385",
     "items": [
