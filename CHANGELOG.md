@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Bump the github-actions group with 5 updates ([#398](https://github.com/LLazyEmail/awesome-email-marketing/pull/398))
 - chore: grouped weekly Dependabot + PR hygiene rules in AGENTS.md ([#397](https://github.com/LLazyEmail/awesome-email-marketing/pull/397))
 - ci: restore inline GitHub Pages deployment ([#396](https://github.com/LLazyEmail/awesome-email-marketing/pull/396))
 - Add They Sent It ([#375](https://github.com/LLazyEmail/awesome-email-marketing/pull/375))
