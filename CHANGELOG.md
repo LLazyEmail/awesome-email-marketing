@@ -8,6 +8,9 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- ci: restore inline GitHub Pages deployment ([#396](https://github.com/LLazyEmail/awesome-email-marketing/pull/396))
+- Add They Sent It ([#375](https://github.com/LLazyEmail/awesome-email-marketing/pull/375))
+- Add Datacircle to Growth & Automation Tools ([#377](https://github.com/LLazyEmail/awesome-email-marketing/pull/377))
 - docs: consolidate APIVerve and CheckMail1 contributions ([#395](https://github.com/LLazyEmail/awesome-email-marketing/pull/395))
 - ci: expose targeted shared rebase workflow inputs ([#394](https://github.com/LLazyEmail/awesome-email-marketing/pull/394))
 - Add apiverve to README and Docusaurus docs (from #351) ([#385](https://github.com/LLazyEmail/awesome-email-marketing/pull/385))

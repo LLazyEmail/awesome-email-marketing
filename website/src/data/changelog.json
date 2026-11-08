@@ -1,6 +1,33 @@
 [
   {
     "date": "2026-11-08",
+    "title": "ci: restore inline GitHub Pages deployment",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/396",
+    "items": [
+      "Merged pull request #396",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/396"
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Add They Sent It",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/375",
+    "items": [
+      "Merged pull request #375",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/375"
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "title": "Add Datacircle to Growth & Automation Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/377",
+    "items": [
+      "Merged pull request #377",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/377"
+    ]
+  },
+  {
+    "date": "2026-11-08",
     "title": "docs: consolidate APIVerve and CheckMail1 contributions",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/395",
     "items": [
