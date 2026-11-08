@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- chore: adopt shared readme-docs-sync-check workflow ([#403](https://github.com/LLazyEmail/awesome-email-marketing/pull/403))
 - chore: adopt shared label-conflicted-prs workflow ([#401](https://github.com/LLazyEmail/awesome-email-marketing/pull/401))
 - chore: adopt shared open-prs-status-report workflow ([#402](https://github.com/LLazyEmail/awesome-email-marketing/pull/402))
 - Bump the github-actions group with 5 updates ([#398](https://github.com/LLazyEmail/awesome-email-marketing/pull/398))

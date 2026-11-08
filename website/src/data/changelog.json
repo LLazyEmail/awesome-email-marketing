@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-08",
+    "title": "chore: adopt shared readme-docs-sync-check workflow",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/403",
+    "items": [
+      "Merged pull request #403",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/403"
+    ]
+  },
+  {
+    "date": "2026-11-08",
     "title": "chore: adopt shared label-conflicted-prs workflow",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/401",
     "items": [
