@@ -10,53 +10,14 @@ permissions:
 
 jobs:
   comment:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-        with:
-          fetch-depth: 0
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-comment-readme-only.yml@v1
+    with:
+      docs-prefix: website/docs/
+      comment-body: |
+        ### Dual-update reminder
 
-      - name: Check changed files
-        id: files
-        run: |
-          set -euo pipefail
-          BASE="${{ github.event.pull_request.base.sha }}"
-          HEAD="${{ github.event.pull_request.head.sha }}"
-          CHANGED=$(git diff --name-only "$BASE" "$HEAD" || true)
-          echo "$CHANGED"
-          if echo "$CHANGED" | grep -q '^README.md$' && ! echo "$CHANGED" | grep -q '^website/docs/'; then
-            echo "readme_only=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "readme_only=false" >> "$GITHUB_OUTPUT"
-          fi
+        This PR currently only changes `README.md`.
 
-      - name: Post guidance comment
-        if: steps.files.outputs.readme_only == 'true'
-        uses: actions/github-script@v9
-        with:
-          script: |
-            const marker = '<!-- readme-only-guidance -->';
-            const body = `${marker}
-            ### Dual-update reminder
+        Please also add the same entry to the matching page under `website/docs/` so the Docusaurus site stays in sync with the list.
 
-            This PR currently only changes \`README.md\`.
-
-            Please also add the same entry to the matching page under \`website/docs/\` so the Docusaurus site stays in sync with the list.
-
-            Once the docs file is updated, this reminder can be ignored.`;
-
-            const { data: comments } = await github.rest.issues.listComments({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: context.issue.number
-            });
-
-            const existing = comments.find(c => c.body && c.body.includes(marker));
-            if (!existing) {
-              await github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: context.issue.number,
-                body
-              });
-            }
+        Once the docs file is updated, this reminder can be ignored.
