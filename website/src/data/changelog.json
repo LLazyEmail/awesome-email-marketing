@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-08",
+    "title": "Add apiverve to README and Docusaurus docs (from #351)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/385",
+    "items": [
+      "Merged pull request #385",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/385"
+    ]
+  },
+  {
+    "date": "2026-11-08",
     "title": "ci: adopt shared built-image verification",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/393",
     "items": [
