@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-08",
+    "title": "ci: adopt shared built-image verification",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/393",
+    "items": [
+      "Merged pull request #393",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/393"
+    ]
+  },
+  {
+    "date": "2026-11-08",
     "title": "Add email validation readme and docs",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/383",
     "items": [

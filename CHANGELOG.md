@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- ci: adopt shared built-image verification ([#393](https://github.com/LLazyEmail/awesome-email-marketing/pull/393))
 - Add email validation readme and docs ([#383](https://github.com/LLazyEmail/awesome-email-marketing/pull/383))
 - Add SimpleVerifier to README and Docusaurus docs (from #346) ([#381](https://github.com/LLazyEmail/awesome-email-marketing/pull/381))
 - fix(docs): section deliverability-tools for link-count CI ([#392](https://github.com/LLazyEmail/awesome-email-marketing/pull/392))
