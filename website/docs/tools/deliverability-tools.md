@@ -48,6 +48,7 @@ Browse with tags on [Explore](/explore).
 - [SimpleVerifier](https://simpleverifier.com) - Email list verification with a live SMTP mailbox check: each address comes back valid, risky or invalid with a reason, and catch-all or unconfirmed mailboxes stay risky. Free checks to start, then monthly plans; API and MCP server on paid plans.
 - [Email Validation](https://email-validation.org/) - Validate email addresses in bulk or via API/MCP, pay-as-you-go from $35/10k credits, up to 500 free credits.
 - [APIVerve](https://apiverve.com/) - Email validation and sender-authentication APIs: address validation (format, MX, disposable, role and free-provider flags), a disposable email checker, MX lookup, and SPF, DKIM, DMARC and BIMI record validators. Free plan of 200 credits a month, no card required.
+- [CheckMail1](https://checkmail1.com) - Email verification API for bulk list cleaning, with disposable, role-based and catch-all detection. REST API and CSV upload; 100 free credits, pay-as-you-go from $5 per 1,000 checks.
 
 ## Auth, DNS & monitoring
 
