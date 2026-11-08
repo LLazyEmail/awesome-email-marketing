@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-08",
+    "title": "Add email validation readme and docs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/383",
+    "items": [
+      "Merged pull request #383",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/383"
+    ]
+  },
+  {
     "date": "2026-11-07",
     "title": "Add SimpleVerifier to README and Docusaurus docs (from #346)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/381",
