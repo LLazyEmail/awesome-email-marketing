@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-08",
+    "title": "chore: adopt shared label-conflicted-prs workflow",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/401",
+    "items": [
+      "Merged pull request #401",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/401"
+    ]
+  },
+  {
+    "date": "2026-11-08",
     "title": "chore: adopt shared open-prs-status-report workflow",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/402",
     "items": [
