@@ -54,6 +54,7 @@ Browse with tags on [Explore](/explore).
 
 - [Canny Pigeons](https://cannypigeons.com) - DMARC monitoring that walks you to p=reject: DNS drift alerts, IP threat intel, and free first domain with hosted DMARC.
 - [Email Forgery Check](https://stephen-psaradellis.github.io/demos/email-forgery-check.html) - Free, no-signup check of whether anyone can send mail as your domain: reads SPF, DMARC, common DKIM selectors and MX from public DNS in your browser and explains each gap in plain words. MIT, open source. ([source](https://github.com/Stephen-Psaradellis/email-forgery-check))
+- [SPF, DKIM and DMARC alignment lesson](https://artigram.cafeboon.com/p/wpjtfzc) - Free, no-signup explorable lesson: flip the envelope sender, the DKIM signing domain and the alignment mode, guess six cases and break the SPF 10-lookup limit. Runs in the browser. Posted on ArtiGram, which I built.
 - [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 - [oneclick-check](https://github.com/dimonch-byte/oneclick-check) - Free, offline check of one sent message's raw headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rule): https List-Unsubscribe, List-Unsubscribe-Post, and DKIM h= coverage. Stdlib Python, MIT.
 - [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
