@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-14",
+    "title": "Add email59 to Email Service Providers",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/407",
+    "items": [
+      "Merged pull request #407",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/407"
+    ]
+  },
+  {
+    "date": "2026-11-14",
     "title": "Add SPF, DKIM and DMARC alignment lesson to Deliverability & Testing Tools",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/405",
     "items": [

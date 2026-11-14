@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add email59 to Email Service Providers ([#407](https://github.com/LLazyEmail/awesome-email-marketing/pull/407))
 - Add SPF, DKIM and DMARC alignment lesson to Deliverability & Testing Tools ([#405](https://github.com/LLazyEmail/awesome-email-marketing/pull/405))
 - chore: adopt shared comment-readme-only workflow ([#404](https://github.com/LLazyEmail/awesome-email-marketing/pull/404))
 - chore: adopt shared readme-docs-sync-check workflow ([#403](https://github.com/LLazyEmail/awesome-email-marketing/pull/403))
