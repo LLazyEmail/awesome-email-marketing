@@ -49,6 +49,43 @@ These rules keep PRs from conflicting and mean nobody has to ask for rebases or 
 - `website/docs/tools/` — tool category pages that mirror sections of the README
 - `website/docs/development/` — HTML email, templates, and related lists
 
+
+## README section → docs page map
+
+When adding an entry, update **both** the README section and the matching docs file:
+
+| README section | Docs file |
+|---|---|
+| Newsletter Platforms | `website/docs/tools/newsletter-platforms.md` |
+| Self-Hosted ESPs | `website/docs/tools/self-hosted-esp.md` |
+| Email Builders & Templates | `website/docs/tools/email-builders.md` |
+| Deliverability & Testing Tools | `website/docs/tools/deliverability-tools.md` |
+| Growth & Automation Tools | `website/docs/tools/growth-automation-tools.md` |
+| Email Service Providers | `website/docs/tools/email-service-providers.md` |
+| Email Marketing For eCommerce | `website/docs/tools/ecommerce.md` |
+| Automation Email Marketing platform | `website/docs/tools/automation-platforms.md` |
+| Tools for effective work with emails | `website/docs/tools/email-work-tools.md` |
+| HTML Email Templates | `website/docs/development/html-email-templates.md` |
+| HTML email tutorials | `website/docs/development/html-email-tutorials.md` |
+| Open source tools | `website/docs/tools/open-source-tools.md` |
+
+If the section is not listed, search `website/docs/` for the closest page or ask before inventing a new one.
+
+## How to add an entry
+
+1. Find the correct section in `README.md` and the matching docs file (table above).
+2. Use this format in both places:
+
+   ```markdown
+   - [Name](https://example.com) — Short description. Optional disclosure.
+   ```
+
+3. Keep the description to one short sentence.
+4. If the product is commercial and you are affiliated, say so in the description or PR body.
+5. Open one PR that changes **both** files. Do not open a README-only PR.
+6. In the PR body, link the live URL and mention the docs page you updated.
+7. Always report the PR with its full URL, e.g. `https://github.com/LLazyEmail/awesome-email-marketing/pull/123`.
+
 ## Useful links
 
 - Live site: https://llazyemail.github.io/awesome-email-marketing/
