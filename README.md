@@ -167,6 +167,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [BenchMark](https://benchmarkemail.com) - is a simple email marketing tool for anyone who needs to send personalized email at scale.
 * [Campaign Monitor](https://campaignmonitor.com) - is a global technology company that provides an email marketing platform that's easy to use yet extremely powerful
 * [Constant Contact](https://constantcontact.com) - effective email marketing and other online marketing campaigns to meet business goals
+* [email59](https://email59.com) - Email API and SMTP relay for transactional messages, test sends and MCP
 * [Getresponse](https://getresponse.com) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
 * [Mailchimp](https://mailchimp.com) - Free emailing software
 * [Mailjet](https://mailjet.com) - Create and send beautiful emails without touching a single line of code
