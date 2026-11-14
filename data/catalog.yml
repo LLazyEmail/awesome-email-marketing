@@ -1,0 +1,12 @@
+# Pilot catalog for new entries.
+# Agents should prefer adding new tools here.
+# A later step will generate README + docs pages from this file.
+# Schema:
+#   - name: string
+#     url: string
+#     description: string
+#     section: string   # matches README heading / docs page
+#     tags: [string]
+#     disclosure: string | null
+
+entries: []
