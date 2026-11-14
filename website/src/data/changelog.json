@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-14",
+    "title": "Add SPF, DKIM and DMARC alignment lesson to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/405",
+    "items": [
+      "Merged pull request #405",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/405"
+    ]
+  },
+  {
     "date": "2026-11-08",
     "title": "chore: adopt shared comment-readme-only workflow",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/404",
