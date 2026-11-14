@@ -181,7 +181,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ## Email Marketing For eCommerce
 
-- [Klaviyo](https://kinsta.com/) 
+- [Klaviyo](https://www.klaviyo.com/) 
 - Campaign Monitor (listed below)
 - [Encharge](https://encharge.io/)
 - [Newsletter2go](https://docs.newsletter2go.com/)
