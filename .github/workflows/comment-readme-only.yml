@@ -10,14 +10,5 @@ permissions:
 
 jobs:
   comment:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-comment-readme-only.yml@v1
-    with:
-      docs-prefix: website/docs/
-      comment-body: |
-        ### Dual-update reminder
-
-        This PR currently only changes `README.md`.
-
-        Please also add the same entry to the matching page under `website/docs/` so the Docusaurus site stays in sync with the list.
-
-        Once the docs file is updated, this reminder can be ignored.
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-comment-readme-only.yml@main
+    secrets: inherit

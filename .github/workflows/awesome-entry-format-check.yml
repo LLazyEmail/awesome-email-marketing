@@ -11,40 +11,5 @@ permissions:
 
 jobs:
   validate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v7
-
-      - name: Basic entry format validation
-        run: |
-          set -euo pipefail
-          echo "Checking list entry style in changed markdown files..."
-
-          # Simple heuristic: list items should be "* [Name](url) - description" or "- [Name](url) - description"
-          # Warn on obvious problems but do not hard-fail for now
-          FILES=$(git diff --name-only "${{ github.event.pull_request.base.sha }}" "${{ github.event.pull_request.head.sha }}" | grep -E '\.md$' || true)
-
-          if [ -z "$FILES" ]; then
-            echo "No markdown files changed"
-            exit 0
-          fi
-
-          ERRORS=0
-          for f in $FILES; do
-            if [ ! -f "$f" ]; then continue; fi
-            # Flag lines that look like list items but miss the " - " separator
-            while IFS= read -r line; do
-              if echo "$line" | grep -qE '^\s*[-*]\s+\[.*\]\(https?://'; then
-                if ! echo "$line" | grep -q ' - '; then
-                  echo "::warning file=$f::List entry may be missing ' - description': $line"
-                  ERRORS=$((ERRORS+1))
-                fi
-              fi
-            done < "$f"
-          done
-
-          if [ "$ERRORS" -gt 0 ]; then
-            echo "::notice::Found $ERRORS potential format issues (warnings only)"
-          else
-            echo "Entry format looks OK"
-          fi
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-entry-format-check.yml@main
+    secrets: inherit
