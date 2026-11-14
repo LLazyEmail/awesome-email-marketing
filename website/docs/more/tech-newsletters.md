@@ -27,7 +27,7 @@ seo:
 
 Originally collected as newsletters db #95 (28 July 2022). Links point at each newsletter's signup or archive page.
 
-Also listed from the [Miscellaneous](./miscellaneous) page.
+Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in the repository [README](https://github.com/LLazyEmail/awesome-email-marketing#tech-newsletters).
 
 ## DevOps
 
