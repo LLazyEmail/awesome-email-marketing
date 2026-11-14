@@ -21,7 +21,7 @@ Docs site: [`website/`](./website/). Full docs page list: [`website/docs/pages-i
 - [Similar companies](#similar-companies)
 - [Building an email list](#building-an-email-list)
 - [Data Driven Email Marketing](#data-driven-email-marketing)
-- [Lifecycle of](#lifecycle-of)
+- [Lifecycle of an email](#lifecycle-of)
     - [Getting started & definitions](#getting-started--definitions)
     - [Guides & best practices](#guides--best-practices-1)
     - [Campaign playbooks & examples](#campaign-playbooks--examples)
@@ -71,7 +71,7 @@ Docs site: [`website/`](./website/). Full docs page list: [`website/docs/pages-i
     - [Concepts & guides](#concepts--guides)
     - [Providers & products](#providers--products)
 - [Reasons to use email newsletters](#reasons-to-use-email-newsletters)
-- [Frequently asked questionss](#frequently-asked-questions)
+- [Frequently asked questions](#frequently-asked-questions)
 - [Awesome lists](#awesome-lists)
 - [Additional content](#additional-content)
 
@@ -181,7 +181,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ## Email Marketing For eCommerce
 
-- [Klaviyo](https://kinsta.com/) 
+- [Klaviyo](https://www.klaviyo.com/) 
 - Campaign Monitor (listed below)
 - [Encharge](https://encharge.io/)
 - [Newsletter2go](https://docs.newsletter2go.com/)
