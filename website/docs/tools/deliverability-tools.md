@@ -59,6 +59,7 @@ Browse with tags on [Explore](/explore).
 - [oneclick-check](https://github.com/dimonch-byte/oneclick-check) - Free, offline check of one sent message's raw headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rule): https List-Unsubscribe, List-Unsubscribe-Post, and DKIM h= coverage. Stdlib Python, MIT.
 - [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
 - [SolidPing](https://www.solidping.io) - Uptime monitoring with DNSBL blocklist checks (Spamhaus, SpamCop and others), SMTP, IMAP and POP3 checks, and a passive inbox check that alerts when a periodic email stops arriving. Open source (AGPL-3.0), self-hosted or hosted with a free tier.
+- [Gmail & Yahoo Sender Requirements Checker](https://www.inboxwisetools.com/tools/email-sender-requirements-checker/) - Free, no-signup checklist of the Gmail and Yahoo bulk-sender rules (SPF, DKIM, DMARC alignment, one-click unsubscribe, 0.1%/0.3% spam-rate lines), based on their official pages. Runs in the browser; no DNS lookups.
 
 ## Testing, warmup & delivery
 
