@@ -58,6 +58,7 @@ Browse with tags on [Explore](/explore).
 - [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
 - [oneclick-check](https://github.com/dimonch-byte/oneclick-check) - Free, offline check of one sent message's raw headers for RFC 8058 one-click unsubscribe (Gmail/Yahoo bulk sender rule): https List-Unsubscribe, List-Unsubscribe-Post, and DKIM h= coverage. Stdlib Python, MIT.
 - [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
+- [Pidgely SPF, DKIM and DMARC checker](https://pidgely.com/tools/spf-dkim-dmarc-checker/) - Free, no-signup check of a domain's SPF, DKIM (common selectors) and DMARC records with plain-words fixes. Runs public DNS queries from your browser; the domain is not sent to a server.
 - [SolidPing](https://www.solidping.io) - Uptime monitoring with DNSBL blocklist checks (Spamhaus, SpamCop and others), SMTP, IMAP and POP3 checks, and a passive inbox check that alerts when a periodic email stops arriving. Open source (AGPL-3.0), self-hosted or hosted with a free tier.
 
 ## Testing, warmup & delivery
