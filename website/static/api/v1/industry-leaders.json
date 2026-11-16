@@ -1,16 +1,16 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-11-16T20:39:26.130Z",
+  "generatedAt": "2026-11-16T20:42:04.251Z",
   "name": "Industry Leaders articles",
   "homepage": "https://llazyemail.github.io/awesome-email-marketing/docs/industry-leaders",
   "repository": "https://github.com/LLazyEmail/awesome-email-marketing",
   "sourceCount": 41,
-  "articleCount": 267,
+  "articleCount": 261,
   "byTopic": {
-    "esp-blogs": 64,
+    "esp-blogs": 63,
     "ecommerce": 127,
     "growth": 20,
-    "publications": 43,
+    "publications": 38,
     "developers": 5,
     "deliverability": 8
   },
@@ -58,7 +58,7 @@
       "homepage": "https://help.convertkit.com/",
       "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit",
       "path": "industry-leaders/esp-blogs/convertkit.md",
-      "articleCount": 20
+      "articleCount": 19
     },
     {
       "id": "customer-io",
@@ -190,10 +190,10 @@
       "id": "only-influencers",
       "name": "Only Influencers",
       "topic": "publications",
-      "homepage": "https://www.onlyinfluencers.com",
+      "homepage": "https://web.archive.org/web/20230102105442/https://www.onlyinfluencers.com/",
       "sourcePage": "/docs/industry-leaders/publications/only-influencers",
       "path": "industry-leaders/publications/only-influencers.md",
-      "articleCount": 4
+      "articleCount": 0
     },
     {
       "id": "practical-ecommerce",
@@ -220,7 +220,7 @@
       "homepage": "https://reallygoodemails.com",
       "sourcePage": "/docs/industry-leaders/publications/really-good-emails",
       "path": "industry-leaders/publications/really-good-emails.md",
-      "articleCount": 10
+      "articleCount": 9
     },
     {
       "id": "revue",
@@ -307,7 +307,7 @@
       "id": "twilio-sendgrid",
       "name": "Twilio SendGrid",
       "topic": "ecommerce",
-      "homepage": "https://www.twilio.com/en-us/blog/tag/sendgrid",
+      "homepage": "https://www.twilio.com/en-us/blog",
       "sourcePage": "/docs/industry-leaders/ecommerce/twilio-sendgrid",
       "path": "industry-leaders/ecommerce/twilio-sendgrid.md",
       "articleCount": 0
@@ -516,7 +516,7 @@
     },
     {
       "title": "A/B testing emails",
-      "url": "https://mailchimp.com/resources/ab-testing-emails/",
+      "url": "https://mailchimp.com/resources/email-a-b-testing/",
       "heading": "Articles",
       "source": "mailchimp",
       "topic": "esp-blogs",
@@ -596,19 +596,11 @@
     },
     {
       "title": "Authentication",
-      "url": "https://www.validity.com/blog/what-is-dmarc/",
+      "url": "https://www.validity.com/blog/demystifying-the-dmarc-record/",
       "heading": "Articles",
       "source": "validity",
       "topic": "deliverability",
       "sourcePage": "/docs/industry-leaders/deliverability/validity"
-    },
-    {
-      "title": "Automated Email Campaigns: A Beginner's Guide (2025)",
-      "url": "https://www.shopify.com/blog/automated-email-campaigns",
-      "heading": "Articles",
-      "source": "shopify",
-      "topic": "ecommerce",
-      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
     },
     {
       "title": "Behavioral messaging",
@@ -620,7 +612,7 @@
     },
     {
       "title": "Benchmark reports",
-      "url": "https://www.klaviyo.com/blog/benchmarks",
+      "url": "https://www.klaviyo.com/features/benchmarks",
       "heading": "Articles",
       "source": "klaviyo",
       "topic": "ecommerce",
@@ -660,7 +652,7 @@
     },
     {
       "title": "BIMI Implementation: How to Set Up Brand Logos in Inboxes",
-      "url": "https://www.sender.net/blog/bimi-implementation/",
+      "url": "https://www.sender.net/blog/bimi-implementation-guide/",
       "heading": "Articles",
       "source": "sender",
       "topic": "ecommerce",
@@ -668,7 +660,7 @@
     },
     {
       "title": "Blog",
-      "url": "https://reallygoodemails.com/blog",
+      "url": "https://reallygoodemails.com/school/blog",
       "heading": "Articles",
       "source": "really-good-emails",
       "topic": "publications",
@@ -692,7 +684,7 @@
     },
     {
       "title": "Boost Your Revenue with Smarter Email List Segmentation (2026)",
-      "url": "https://www.shopify.com/enterprise/blog/email-list-segmentation-strategies-for-high-volume-ecommerce-stores",
+      "url": "https://www.shopify.com/enterprise/blog/54387715-email-list-segmentation-strategies-for-high-volume-ecommerce-stores",
       "heading": "Articles",
       "source": "shopify",
       "topic": "ecommerce",
@@ -748,7 +740,7 @@
     },
     {
       "title": "Building an Email Design System",
-      "url": "https://www.litmus.com/blog/email-design-systems",
+      "url": "https://www.litmus.com/blog/email-design-system",
       "heading": "Articles",
       "source": "litmus",
       "topic": "publications",
@@ -828,19 +820,11 @@
     },
     {
       "title": "Deliverability",
-      "url": "https://www.brevo.com/blog/category/deliverability/",
+      "url": "https://www.brevo.com/blog/email-deliverability-best-practices/",
       "heading": "Articles",
       "source": "brevo",
       "topic": "esp-blogs",
       "sourcePage": "/docs/industry-leaders/esp-blogs/brevo"
-    },
-    {
-      "title": "Deliverability",
-      "url": "https://www.onlyinfluencers.com/category/deliverability",
-      "heading": "Articles",
-      "source": "only-influencers",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/only-influencers"
     },
     {
       "title": "Deliverability guides",
@@ -892,7 +876,7 @@
     },
     {
       "title": "Email Analytics That Matter",
-      "url": "https://www.litmus.com/blog/email-analytics",
+      "url": "https://www.litmus.com/blog/how-to-use-email-analytics-for-marketing",
       "heading": "Articles",
       "source": "litmus",
       "topic": "publications",
@@ -916,7 +900,7 @@
     },
     {
       "title": "Email automation",
-      "url": "https://mailchimp.com/resources/email-automation/",
+      "url": "https://mailchimp.com/resources/email-automations/",
       "heading": "Articles",
       "source": "mailchimp",
       "topic": "esp-blogs",
@@ -956,7 +940,7 @@
     },
     {
       "title": "Email deliverability",
-      "url": "https://mailchimp.com/resources/email-deliverability/",
+      "url": "https://mailchimp.com/resources/deliverability-101/",
       "heading": "Articles",
       "source": "mailchimp",
       "topic": "esp-blogs",
@@ -977,22 +961,6 @@
       "source": "litmus",
       "topic": "publications",
       "sourcePage": "/docs/industry-leaders/publications/litmus"
-    },
-    {
-      "title": "Email gallery",
-      "url": "https://reallygoodemails.com/emails",
-      "heading": "Articles",
-      "source": "really-good-emails",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
-    },
-    {
-      "title": "Email industry news",
-      "url": "https://www.onlyinfluencers.com/category/email-marketing",
-      "heading": "Articles",
-      "source": "only-influencers",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/only-influencers"
     },
     {
       "title": "Email Infrastructure: 2026 Guide to Building, Buying, and Operating It",
@@ -1028,7 +996,7 @@
     },
     {
       "title": "Email marketing",
-      "url": "https://blog.hubspot.com/marketing/email",
+      "url": "https://blog.hubspot.com/marketing/email-marketing-guide",
       "heading": "Articles",
       "source": "hubspot",
       "topic": "growth",
@@ -1083,6 +1051,14 @@
       "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
     },
     {
+      "title": "Email Marketing Automation: Shopify Guide (2025)",
+      "url": "https://www.shopify.com/blog/57720581-7-automated-email-campaigns-that-win-customers-and-keep-them-coming-back",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
+    },
+    {
       "title": "Email marketing checklist",
       "url": "https://www.litmus.com/wp-content/uploads/2021/08/ultimate-email-marketing-checklist.pdf",
       "heading": "From issue #259",
@@ -1108,7 +1084,7 @@
     },
     {
       "title": "Email marketing guide",
-      "url": "https://mailchimp.com/resources/email-marketing-guide/",
+      "url": "https://mailchimp.com/resources/email-marketing-101/",
       "heading": "Articles",
       "source": "mailchimp",
       "topic": "esp-blogs",
@@ -1196,7 +1172,7 @@
     },
     {
       "title": "Email subject line guide",
-      "url": "https://mailchimp.com/resources/email-subject-line-guide/",
+      "url": "https://mailchimp.com/resources/catchy-email-subject-lines/",
       "heading": "Articles",
       "source": "mailchimp",
       "topic": "esp-blogs",
@@ -1252,7 +1228,7 @@
     },
     {
       "title": "Flows",
-      "url": "https://www.klaviyo.com/blog/email-flows",
+      "url": "https://www.klaviyo.com/blog/email-automation-basics",
       "heading": "Articles",
       "source": "klaviyo",
       "topic": "ecommerce",
@@ -1428,7 +1404,7 @@
     },
     {
       "title": "How to build an email list",
-      "url": "https://mailchimp.com/resources/how-to-build-an-email-list/",
+      "url": "https://mailchimp.com/resources/how-to-build-your-email-list/",
       "heading": "Articles",
       "source": "mailchimp",
       "topic": "esp-blogs",
@@ -1460,7 +1436,7 @@
     },
     {
       "title": "How to create an email newsletter",
-      "url": "https://blog.hubspot.com/marketing/how-to-create-an-email-newsletter",
+      "url": "https://blog.hubspot.com/marketing/how-to-create-email-newsletters-ht",
       "heading": "Articles",
       "source": "hubspot",
       "topic": "growth",
@@ -1588,7 +1564,7 @@
     },
     {
       "title": "How to Test Emails",
-      "url": "https://www.litmus.com/blog/how-to-test-emails",
+      "url": "https://www.litmus.com/blog/email-testing-and-qa",
       "heading": "Articles",
       "source": "litmus",
       "topic": "publications",
@@ -1644,7 +1620,7 @@
     },
     {
       "title": "Lead nurturing",
-      "url": "https://blog.hubspot.com/marketing/lead-nurturing-guide",
+      "url": "https://blog.hubspot.com/marketing/lead-nurturing-email-examples",
       "heading": "Articles",
       "source": "hubspot",
       "topic": "growth",
@@ -1684,7 +1660,7 @@
     },
     {
       "title": "List hygiene",
-      "url": "https://www.validity.com/blog/email-list-hygiene/",
+      "url": "https://www.validity.com/blog/deliverability-101-what-is-list-hygiene/",
       "heading": "Articles",
       "source": "validity",
       "topic": "deliverability",
@@ -1708,7 +1684,7 @@
     },
     {
       "title": "Marketing automation",
-      "url": "https://www.brevo.com/blog/category/marketing-automation/",
+      "url": "https://www.brevo.com/blog/email-automation/",
       "heading": "Articles",
       "source": "brevo",
       "topic": "esp-blogs",
@@ -1780,7 +1756,7 @@
     },
     {
       "title": "Meet the All-New Email Builder: One Flexible Container for Every Layout",
-      "url": "https://www.sender.net/blog/email-builder-flexible-container/",
+      "url": "https://www.sender.net/blog/new-email-builder/",
       "heading": "Articles",
       "source": "sender",
       "topic": "ecommerce",
@@ -1788,7 +1764,7 @@
     },
     {
       "title": "Meet Your AI Marketing Co-Pilot: Sender MCP Server",
-      "url": "https://www.sender.net/blog/sender-mcp-server/",
+      "url": "https://www.sender.net/blog/new-feature-mcp-server/",
       "heading": "Articles",
       "source": "sender",
       "topic": "ecommerce",
@@ -1812,11 +1788,19 @@
     },
     {
       "title": "Newsletter design",
-      "url": "https://mailchimp.com/resources/newsletter-design/",
+      "url": "https://mailchimp.com/resources/email-newsletter-design/",
       "heading": "Articles",
       "source": "mailchimp",
       "topic": "esp-blogs",
       "sourcePage": "/docs/industry-leaders/esp-blogs/mailchimp"
+    },
+    {
+      "title": "Newsletter Subject Lines: 5 Examples and 10 Tips",
+      "url": "https://www.shopify.com/blog/newsletter-subject-lines",
+      "heading": "Articles",
+      "source": "shopify",
+      "topic": "ecommerce",
+      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
     },
     {
       "title": "Newsletters",
@@ -1859,14 +1843,6 @@
       "sourcePage": "/docs/industry-leaders/publications/really-good-emails"
     },
     {
-      "title": "Onboarding the Newsletter Plan",
-      "url": "https://help.convertkit.com/en/articles/9053606-onboarding-the-newsletter-plan",
-      "heading": "Getting started and deliverability",
-      "source": "convertkit",
-      "topic": "esp-blogs",
-      "sourcePage": "/docs/industry-leaders/esp-blogs/convertkit"
-    },
-    {
       "title": "Opt-In Email Marketing: 2026 Guide & Free Templates",
       "url": "https://www.omnisend.com/blog/opt-in-emails/",
       "heading": "Articles",
@@ -1881,14 +1857,6 @@
       "source": "twilio-segment",
       "topic": "ecommerce",
       "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
-    },
-    {
-      "title": "Privacy and compliance",
-      "url": "https://www.onlyinfluencers.com/category/privacy",
-      "heading": "Articles",
-      "source": "only-influencers",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/only-influencers"
     },
     {
       "title": "Product Update: August, 2026",
@@ -1940,7 +1908,7 @@
     },
     {
       "title": "Responsive Email Design",
-      "url": "https://www.litmus.com/blog/responsive-email-support",
+      "url": "https://www.litmus.com/blog/understanding-responsive-and-hybrid-email-design",
       "heading": "Articles",
       "source": "litmus",
       "topic": "publications",
@@ -1979,14 +1947,6 @@
       "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
     },
     {
-      "title": "Shopify Email Subject Lines: Formulas and Examples",
-      "url": "https://www.shopify.com/blog/email-subject-lines",
-      "heading": "Articles",
-      "source": "shopify",
-      "topic": "ecommerce",
-      "sourcePage": "/docs/industry-leaders/ecommerce/shopify"
-    },
-    {
       "title": "Shopify Emails Going to Spam? Fix It Fast (2026)",
       "url": "https://www.omnisend.com/blog/shopify-emails-going-to-spam/",
       "heading": "Articles",
@@ -2004,7 +1964,7 @@
     },
     {
       "title": "SMS marketing",
-      "url": "https://www.klaviyo.com/blog/sms-marketing",
+      "url": "https://www.klaviyo.com/blog/category/sms-marketing",
       "heading": "Articles",
       "source": "klaviyo",
       "topic": "ecommerce",
@@ -2057,14 +2017,6 @@
       "source": "litmus",
       "topic": "publications",
       "sourcePage": "/docs/industry-leaders/publications/litmus"
-    },
-    {
-      "title": "Strategy",
-      "url": "https://www.onlyinfluencers.com/category/strategy",
-      "heading": "Articles",
-      "source": "only-influencers",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/only-influencers"
     },
     {
       "title": "Streamline email marketing: Automated approvals with Adobe Campaign",
@@ -2252,7 +2204,7 @@
     },
     {
       "title": "Transactional email",
-      "url": "https://www.brevo.com/blog/category/transactional-email/",
+      "url": "https://www.brevo.com/blog/category/transactional/",
       "heading": "Articles",
       "source": "brevo",
       "topic": "esp-blogs",
@@ -2324,7 +2276,7 @@
     },
     {
       "title": "Welcome email examples",
-      "url": "https://mailchimp.com/resources/welcome-email-examples/",
+      "url": "https://mailchimp.com/resources/make-lasting-connections-with-welcome-emails/",
       "heading": "Articles",
       "source": "mailchimp",
       "topic": "esp-blogs",
@@ -2348,7 +2300,7 @@
     },
     {
       "title": "Welcome series",
-      "url": "https://www.klaviyo.com/blog/welcome-series",
+      "url": "https://www.klaviyo.com/blog/welcome-flow-strategy",
       "heading": "Articles",
       "source": "klaviyo",
       "topic": "ecommerce",
@@ -2484,7 +2436,7 @@
     },
     {
       "title": "Why Are My Emails Going to Spam? The Diagnostic Playbook",
-      "url": "https://www.sender.net/blog/emails-going-to-spam/",
+      "url": "https://www.sender.net/blog/why-are-my-emails-going-to-spam/",
       "heading": "Articles",
       "source": "sender",
       "topic": "ecommerce",
