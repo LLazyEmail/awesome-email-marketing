@@ -4,7 +4,7 @@ permissions:
   contents: read
 jobs:
   images:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-build-image-check.yml@v1
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-build-image-check.yml@v2
     with:
       working-directory: website
       build-dir: website/build
