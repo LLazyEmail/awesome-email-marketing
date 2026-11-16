@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "fix(links): repair dead README links and docs mirrors (archived / moved / discontinued)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/435",
+    "items": [
+      "Merged pull request #435",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/435"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "chore(ci): bump documentation-actions to v2",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/425",
     "items": [
