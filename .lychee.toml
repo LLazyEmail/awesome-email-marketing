@@ -1,10 +1,14 @@
 # Lychee config for awesome-email-marketing
-# CI workflow keeps fail:false so flaky external links never hard-fail PRs.
+# Read by .github/workflows/link-check.yml via `--config .lychee.toml`.
+# CI keeps fail:false so flaky external links never hard-fail PRs.
 # Scheduled Monday runs publish a job summary (+ best-effort issue).
 
 timeout = 20
 max_concurrency = 8
-accept = [200, 204, 206, 403, 429]
+
+# 202: bot-challenge pages (e.g. AWS WAF) answer 202 to non-browsers.
+# 403/429: auth walls and rate limits; the page usually exists.
+accept = [200, 202, 204, 206, 403, 429]
 
 exclude_path = [
   "node_modules",
@@ -13,10 +17,24 @@ exclude_path = [
   ".git",
 ]
 
-# Common noise / auth walls
+# --- Docusaurus routes -------------------------------------------------------
+# Docs pages link to each other with site routes such as /docs/tools/esp or
+# extensionless relative paths such as ./github-frameworks. Docusaurus maps
+# /docs/<path> to website/docs/<path>.md(x), so resolve root-relative links
+# against website/ and try .md/.mdx when the bare path is not a file.
+# Real broken internal links (missing files) are still reported.
+root_dir = "website"
+fallback_extensions = ["md", "mdx"]
+
+# /explore (with or without ?tag=...) is a React page, not a markdown file.
+remap = [
+  '^(file://.*/website)/explore([?#].*)?$ $1/src/pages/explore.tsx',
+]
+
+# Common noise / auth walls (single backslash: TOML literal strings).
 exclude = [
-  '^https://twitter\\.com/',
-  '^https://x\\.com/',
-  '^https://www\\.linkedin\\.com/',
-  '^https://linkedin\\.com/',
+  '^https://twitter\.com/',
+  '^https://x\.com/',
+  '^https://www\.linkedin\.com/',
+  '^https://linkedin\.com/',
 ]
