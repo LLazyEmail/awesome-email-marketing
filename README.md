@@ -21,7 +21,7 @@ Docs site: [`website/`](./website/). Full docs page list: [`website/docs/pages-i
 - [Similar companies](#similar-companies)
 - [Building an email list](#building-an-email-list)
 - [Data Driven Email Marketing](#data-driven-email-marketing)
-- [Lifecycle of](#lifecycle-of)
+- [Lifecycle of an email](#lifecycle-of)
     - [Getting started & definitions](#getting-started--definitions)
     - [Guides & best practices](#guides--best-practices-1)
     - [Campaign playbooks & examples](#campaign-playbooks--examples)
@@ -71,7 +71,7 @@ Docs site: [`website/`](./website/). Full docs page list: [`website/docs/pages-i
     - [Concepts & guides](#concepts--guides)
     - [Providers & products](#providers--products)
 - [Reasons to use email newsletters](#reasons-to-use-email-newsletters)
-- [Frequently asked questionss](#frequently-asked-questions)
+- [Frequently asked questions](#frequently-asked-questions)
 - [Awesome lists](#awesome-lists)
 - [Additional content](#additional-content)
 
@@ -140,6 +140,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 * [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
 * [Gmail & Yahoo Sender Requirements Checker](https://www.inboxwisetools.com/tools/email-sender-requirements-checker/) - Free, no-signup checklist of the Gmail and Yahoo bulk-sender rules (SPF, DKIM, DMARC alignment, one-click unsubscribe, 0.1%/0.3% spam-rate lines), based on their official pages. Runs in the browser; no DNS lookups.
+* [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
 
 ### Growth & Automation Tools
 
@@ -182,7 +183,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 
 ## Email Marketing For eCommerce
 
-- [Klaviyo](https://kinsta.com/) 
+- [Klaviyo](https://www.klaviyo.com/) 
 - Campaign Monitor (listed below)
 - [Encharge](https://encharge.io/)
 - [Newsletter2go](https://docs.newsletter2go.com/)

@@ -1,0 +1,19 @@
+# Pilot catalog for new entries.
+# Prefer adding new tools here; generator prints dual-update lines.
+# Agents should prefer adding new tools here.
+# A later step will generate README + docs pages from this file.
+# Schema: name, url, description, section, tags, disclosure (optional)
+#   - name: string
+#     url: string
+#     description: string
+#     section: string   # matches README heading / docs page
+#     tags: [string]
+#     disclosure: string | null
+
+entries:
+  - name: Example Entry
+    url: https://example.com
+    description: Placeholder so the catalog format is visible (remove when real entries land)
+    section: Deliverability & Testing Tools
+    tags: [deliverability, example]
+    disclosure: null
