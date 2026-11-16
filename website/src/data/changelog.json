@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "docs(industry-leaders): add SendPulse source page",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/432",
+    "items": [
+      "Merged pull request #432",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/432"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "docs: point dead Revue links at Internet Archive copies",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/429",
     "items": [
