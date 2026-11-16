@@ -52,10 +52,14 @@ These rules keep PRs from conflicting and mean nobody has to ask for rebases or 
 
 ## README section → docs page map
 
-When adding an entry, update **both** the README section and the matching docs file:
+When adding an entry, update **both** the README section and the matching docs file.
+Headings are the README `##` / `###` titles; `… >` means a `###` under
+"Resources which give answers about importance e-mail in your business".
+The map was built by matching each README section's links against the docs pages
+that already contain them, so it reflects where entries actually live today.
 
 | README section | Docs file |
-|---|---|
+| --- | --- |
 | Newsletter Platforms | `website/docs/tools/newsletter-platforms.md` |
 | Self-Hosted ESPs | `website/docs/tools/self-hosted-esp.md` |
 | Email Builders & Templates | `website/docs/tools/email-builders.md` |
@@ -63,13 +67,52 @@ When adding an entry, update **both** the README section and the matching docs f
 | Growth & Automation Tools | `website/docs/tools/growth-automation-tools.md` |
 | Email Service Providers | `website/docs/tools/email-service-providers.md` |
 | Email Marketing For eCommerce | `website/docs/tools/ecommerce.md` |
-| Automation Email Marketing platform | `website/docs/tools/automation-platforms.md` |
+| Automation Email Marketing platform (all three subsections) | `website/docs/tools/automation-platforms.md` |
 | Tools for effective work with emails | `website/docs/tools/email-work-tools.md` |
-| HTML Email Templates | `website/docs/development/html-email-templates.md` |
-| HTML email tutorials | `website/docs/development/html-email-tutorials.md` |
 | Open source tools | `website/docs/tools/open-source-tools.md` |
+| Similar companies | `website/docs/more/similar-companies.md` |
+| Building an email list | `website/docs/strategy/building-an-email-list.md` |
+| Data Driven Email Marketing | `website/docs/strategy/data-driven.md` |
+| Lifecycle of (all subsections) | `website/docs/strategy/lifecycle-emails.md` |
+| Personalization and slides | `website/docs/strategy/personalization.md` |
+| Read and use later | `website/docs/guides/read-later.md` |
+| Newsletters lead generation (all subsections) | `website/docs/strategy/lead-generation.md` |
+| Blogs | `website/docs/guides/blogs.md` |
+| Resources which give answers about importance e-mail in your business | `website/docs/guides/why-email-matters.md` |
+| … > Demand Curve: Tested tactics for growing newsletters | `website/docs/guides/demand-curve.md` |
+| … > Email templates | `website/docs/guides/email-templates.md` |
+| … > Email marketing insights from Vero | `website/docs/industry-leaders/esp-blogs/vero.md` |
+| … > Zapier Blog | `website/docs/industry-leaders/growth/zapier.md` |
+| … > Drip blog | `website/docs/industry-leaders/ecommerce/drip.md` |
+| … > Automizy Blog | `website/docs/industry-leaders/esp-blogs/automizy.md` |
+| … > Revue: fears and risks | `website/docs/industry-leaders/publications/revue.md` |
+| … > GDPR | `website/docs/operations/gdpr.md` |
+| … > Frontend Development (tutorials) | `website/docs/development/html-email-tutorials.md` |
+| … > Frontend Development (templates) | `website/docs/development/html-email-templates.md` |
+| Github Repositories > HTML email templates & boilerplates | `website/docs/development/github-email-templates.md` |
+| Github Repositories > Frameworks & compilers | `website/docs/development/github-frameworks.md` |
+| Github Repositories > Infrastructure & APIs | `website/docs/development/github-infrastructure.md` |
+| Github Repositories > Checkers | `website/docs/development/checkers.md` |
+| Github Repositories > GitHub repositories related to email marketing | `website/docs/development/related-repositories.md` |
+| Github Repositories > HTML stuff | `website/docs/development/html-utilities.md` |
+| Github Repositories > Cool projects to take a look | `website/docs/development/cool-projects.md` |
+| Miscellaneous | `website/docs/more/miscellaneous.md` |
+| Tech Newsletters (all subsections) | `website/docs/more/tech-newsletters.md` |
+| Arthur Tkachenko articles | `website/docs/more/arthur-tkachenko.md` |
+| Administration > DNS DKIM Records | `website/docs/operations/dns-dkim.md` |
+| Administration > Sending emails via Amazon SES | `website/docs/operations/amazon-ses.md` |
+| Newsletter Metrics > Email Marketing Basics | `website/docs/operations/metrics/email-marketing-basics.md` |
+| Newsletter Metrics > How To Measure Your Newsletter Performance | `website/docs/operations/metrics/measure-performance.md` |
+| Newsletter Metrics > All about effective Email Marketing | `website/docs/operations/metrics/effective-email-marketing.md` |
+| Email marketing strategy (incl. Email marketing for startups) | `website/docs/strategy/email-marketing-strategy.md` |
+| Transactional Emails > Concepts & guides | `website/docs/more/transactional-articles.md` |
+| Transactional Emails > Providers & products | `website/docs/more/transactional-tools.md` |
+| Awesome lists | `website/docs/more/awesome-lists.md` |
+| Additional content | `website/docs/more/additional-content.md` |
 
 If the section is not listed, search `website/docs/` for the closest page or ask before inventing a new one.
+The README ↔ Docs sync check passes a README-only PR when every added link is already on a docs page
+(`pass-if-links-in-docs: true`), so updating the docs file in the same PR is what keeps it green.
 
 ## How to add an entry
 
