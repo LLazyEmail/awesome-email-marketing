@@ -16,7 +16,7 @@ keywords: [miscellaneous, email newsletters, email tools, community]
 - [Really Good Emails Newsletter](https://reallygoodemails.com/emails/really-good-emails-weekly) — Curated examples and email inspiration.
 - [Email on Acid Newsletter](https://www.emailonacid.com/blog/article/email-marketing/email-on-acids-email-newsletter/) — Deliverability and QA insights.
 - [Email Love Newsletter](https://emaillove.com/newsletter) — Design and campaign inspiration.
-- [Email Weekly Newsletter](https://www.getrevue.co/profile/emailweekly) — Weekly email industry roundup.
+- [Email Weekly Newsletter](https://www.getrevue.co/profile/emailweekly) — Weekly email industry roundup. (Revue shut down in January 2023; no archived copy found)
 
 ## Tools & community
 
