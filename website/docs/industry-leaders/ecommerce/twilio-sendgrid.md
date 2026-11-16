@@ -11,7 +11,7 @@ slug: /industry-leaders/ecommerce/twilio-sendgrid
 category: industry-leaders
 source:
   name: Twilio SendGrid
-  homepage: https://www.twilio.com/en-us/blog/tag/sendgrid
+  homepage: https://www.twilio.com/en-us/blog
   topic: ecommerce
 seo:
   title: "Twilio SendGrid articles | Awesome Email Marketing"
@@ -23,7 +23,7 @@ seo:
 
 # Twilio SendGrid
 
-Homepage: [twilio.com](https://www.twilio.com/en-us/blog/tag/sendgrid)
+Homepage: [twilio.com](https://www.twilio.com/en-us/blog)
 
 ## Articles
 

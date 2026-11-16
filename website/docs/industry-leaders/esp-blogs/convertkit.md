@@ -29,7 +29,7 @@ Homepage: [help.convertkit.com](https://help.convertkit.com/)
 
 - [Troubleshooting](https://help.convertkit.com/en/collections/1635305-troubleshooting)
 - [Getting Started with Deliverability Success](https://help.convertkit.com/en/articles/3215993-getting-started-with-deliverability-success)
-- [Onboarding the Newsletter Plan](https://help.convertkit.com/en/articles/9053606-onboarding-the-newsletter-plan)
+- [Onboarding the Newsletter Plan](https://web.archive.org/web/20240720073703/https://help.convertkit.com/en/articles/9053606-onboarding-the-newsletter-plan) (archived)
 - [What you should know before setting up a Verified Sending Domain](https://help.convertkit.com/en/articles/9176509-what-you-should-know-before-setting-up-a-verified-sending-domain)
 - [How to add a new sending email address](https://help.convertkit.com/en/articles/8711248-how-to-add-a-new-sending-email-address)
 - [What you should know about Google Postmaster Tools and how to set it up](https://help.convertkit.com/en/articles/9161410-what-you-should-know-about-google-postmaster-tools-and-how-to-set-it-up)

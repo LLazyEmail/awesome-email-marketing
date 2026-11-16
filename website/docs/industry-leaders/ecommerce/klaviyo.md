@@ -27,9 +27,9 @@ Homepage: [klaviyo.com/blog](https://www.klaviyo.com/blog)
 ## Articles
 
 - [Blog](https://www.klaviyo.com/blog)
-- [Flows](https://www.klaviyo.com/blog/email-flows)
+- [Flows](https://www.klaviyo.com/blog/email-automation-basics)
 - [Abandoned cart](https://www.klaviyo.com/blog/abandoned-cart-email)
-- [Welcome series](https://www.klaviyo.com/blog/welcome-series)
-- [SMS marketing](https://www.klaviyo.com/blog/sms-marketing)
+- [Welcome series](https://www.klaviyo.com/blog/welcome-flow-strategy)
+- [SMS marketing](https://www.klaviyo.com/blog/category/sms-marketing)
 - [Segmentation](https://www.klaviyo.com/blog/email-segmentation)
-- [Benchmark reports](https://www.klaviyo.com/blog/benchmarks)
+- [Benchmark reports](https://www.klaviyo.com/features/benchmarks)

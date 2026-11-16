@@ -32,11 +32,11 @@ Homepage: [litmus.com/blog](https://www.litmus.com/blog)
 - [How to Code Emails for Dark Mode](https://www.litmus.com/blog/the-ultimate-guide-to-dark-mode-for-email-marketers)
 - [Interactive Email](https://www.litmus.com/blog/the-ultimate-guide-to-interactive-email)
 - [Email Accessibility](https://www.litmus.com/blog/ultimate-guide-accessible-emails)
-- [How to Test Emails](https://www.litmus.com/blog/how-to-test-emails)
+- [How to Test Emails](https://www.litmus.com/blog/email-testing-and-qa)
 - [Email Preheader Text](https://www.litmus.com/blog/the-ultimate-guide-to-preview-text-support)
-- [Responsive Email Design](https://www.litmus.com/blog/responsive-email-support)
-- [Email Analytics That Matter](https://www.litmus.com/blog/email-analytics)
-- [Building an Email Design System](https://www.litmus.com/blog/email-design-systems)
+- [Responsive Email Design](https://www.litmus.com/blog/understanding-responsive-and-hybrid-email-design)
+- [Email Analytics That Matter](https://www.litmus.com/blog/how-to-use-email-analytics-for-marketing)
+- [Building an Email Design System](https://www.litmus.com/blog/email-design-system)
 
 ## From issue #259
 

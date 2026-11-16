@@ -26,15 +26,15 @@ Homepage: [mailchimp.com/resources](https://mailchimp.com/resources/)
 
 ## Articles
 
-- [Email marketing guide](https://mailchimp.com/resources/email-marketing-guide/)
-- [How to build an email list](https://mailchimp.com/resources/how-to-build-an-email-list/)
-- [Email subject line guide](https://mailchimp.com/resources/email-subject-line-guide/)
-- [A/B testing emails](https://mailchimp.com/resources/ab-testing-emails/)
-- [Welcome email examples](https://mailchimp.com/resources/welcome-email-examples/)
-- [Newsletter design](https://mailchimp.com/resources/newsletter-design/)
-- [Email automation](https://mailchimp.com/resources/email-automation/)
+- [Email marketing guide](https://mailchimp.com/resources/email-marketing-101/)
+- [How to build an email list](https://mailchimp.com/resources/how-to-build-your-email-list/)
+- [Email subject line guide](https://mailchimp.com/resources/catchy-email-subject-lines/)
+- [A/B testing emails](https://mailchimp.com/resources/email-a-b-testing/)
+- [Welcome email examples](https://mailchimp.com/resources/make-lasting-connections-with-welcome-emails/)
+- [Newsletter design](https://mailchimp.com/resources/email-newsletter-design/)
+- [Email automation](https://mailchimp.com/resources/email-automations/)
 - [GDPR and email](https://mailchimp.com/help/about-the-general-data-protection-regulation/)
-- [Email deliverability](https://mailchimp.com/resources/email-deliverability/)
+- [Email deliverability](https://mailchimp.com/resources/deliverability-101/)
 - [Marketing glossary](https://mailchimp.com/marketing-glossary/)
 
 ## Blog design and promotion
