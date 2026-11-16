@@ -20,10 +20,35 @@ exclude_path = [
   ".git",
 ]
 
-# Common noise / auth walls
+# Common noise / auth walls.
+# Note: TOML literal strings ('...') take backslashes as-is, so use a single
+# backslash to escape dots in these regexes.
 exclude = [
-  '^https://twitter\\.com/',
-  '^https://x\\.com/',
-  '^https://www\\.linkedin\\.com/',
-  '^https://linkedin\\.com/',
+  '^https://twitter\.com/',
+  '^https://x\.com/',
+  '^https://www\.linkedin\.com/',
+  '^https://linkedin\.com/',
+
+  # Bot-blocked: these pages load in a browser but reject CI runners.
+  # business.adobe.com resets HTTP/2 streams from non-browser clients.
+  '^https://business\.adobe\.com/',
+  # encharge.io answers bots with a Cloudflare challenge (HTTP 500).
+  '^https://encharge\.io/',
+
+  # Not a web page: MCP JSON-RPC endpoint that only accepts POST (GET = 405).
+  '^https://www\.agentready\.it\.com/api/mcp$',
+
+  # CHANGELOG.md is generated from merged PRs; GitHub removed PR #310
+  # together with its author's account, so the generated link 404s.
+  '^https://github\.com/LLazyEmail/awesome-email-marketing/pull/310$',
+
+  # Marked "(discontinued)" in the docs: dead and no Wayback snapshot.
+  # Kept as historical references; excluded so they don't reappear weekly.
+  '^http://www\.tlehs\.com/on-demand-newsletters$',
+  '^https://github\.com/caelum0x/scribase-mail-studio$',
+  '^https://github\.com/manishgupta412/express-email-otp-login$',
+  '^https://serverless\.email/$',
+  '^https://www\.emailonacid\.com/blog/article/email-marketing/email-on-acids-email-newsletter/$',
+  '^https://www\.onlyinfluencers\.com/category/',
+  '^https://www\.getrevue\.co/profile/(emailweekly|the_week_in_newsletters/issues/risks-and-rewards-of-a-paid-newsletter-280186)$',
 ]
