@@ -6,6 +6,8 @@
 # with `--config .lychee.toml`. Docusaurus-specific local-link flags live in
 # the workflow args because they need an absolute path:
 #   --root-dir <workspace>/website   resolves `/docs/...` links to website/docs
+#     ($GITHUB_WORKSPACE is expanded by lychee-action, which evals args;
+#      ${{ github.workspace }} is empty when passed through a reusable workflow)
 #   --fallback-extensions md,mdx     resolves `./page` to `./page.md`
 #   --index-files index.md,index.mdx,.  resolves category folder links
 #   --exclude website/explore        /explore is a React page (src/pages/explore.tsx)

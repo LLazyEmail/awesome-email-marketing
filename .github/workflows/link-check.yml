@@ -27,7 +27,7 @@ jobs:
         --exclude-path website/build
         --exclude-path .git
         --config .lychee.toml
-        --root-dir ${{ github.workspace }}/website
+        --root-dir "$GITHUB_WORKSPACE/website"
         --fallback-extensions md,mdx
         --index-files index.md,index.mdx,.
         --exclude '^file://.*/website/explore'
