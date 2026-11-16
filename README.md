@@ -92,7 +92,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Flodesk](https://flodesk.com) - a new email marketing service provider that’s built for creators, by creators
 * [Mailerlite](https://mailerlite.com/pricing) - Pricing mailerlite
 * [NoCodeLetters](https://nocodeletters.com) - Send your newsletters directly from Notion
-* [Revue](https://getrevue.co) - Editorial newsletters tool for writers and publishers
+* [Revue](https://web.archive.org/web/20221201193739/https://www.getrevue.co/) - Editorial newsletters tool for writers and publishers (archived copy; Revue shut down in January 2023)
 * [Sendfox](https://sendfox.com) - Start a newsletter without money
 * [Substack](https://substack.com) - Paid newsletters made simple
 * [TinyLetter](https://tinyletter.com) - Email for people with something to say
@@ -450,11 +450,11 @@ Docs: [`website/docs/guides/demand-curve.md`](./website/docs/guides/demand-curve
 
 ### Revue: fears and risks
 
-- [A newsletter for readers and writers on Twitter.](https://www.getrevue.co/profile/the_week_in_newsletters) 
-- [How much can you earn from your newsletter?](https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-can-you-earn-from-your-newsletter-557696) 
-- [Options to start a paid newsletter](https://www.getrevue.co/profile/the_week_in_newsletters/issues/options-to-start-a-paid-newsletter-292557)
-- [How much is your newsletter worth?](https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-is-your-newsletter-worth-285518)
-- [Risks and rewards of a paid newsletter](https://www.getrevue.co/profile/the_week_in_newsletters/issues/risks-and-rewards-of-a-paid-newsletter-280186)
+- [A newsletter for readers and writers on Twitter.](https://web.archive.org/web/20211127182638/https://www.getrevue.co/profile/the_week_in_newsletters) (archived copy; Revue shut down in January 2023)
+- [How much can you earn from your newsletter?](https://web.archive.org/web/20211102060333/https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-can-you-earn-from-your-newsletter-557696) (archived copy; Revue shut down in January 2023)
+- [Options to start a paid newsletter](https://web.archive.org/web/20220119194250/https://www.getrevue.co/profile/the_week_in_newsletters/issues/options-to-start-a-paid-newsletter-292557) (archived copy; Revue shut down in January 2023)
+- [How much is your newsletter worth?](https://web.archive.org/web/20220119231447/https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-is-your-newsletter-worth-285518) (archived copy; Revue shut down in January 2023)
+- [Risks and rewards of a paid newsletter](https://www.getrevue.co/profile/the_week_in_newsletters/issues/risks-and-rewards-of-a-paid-newsletter-280186) (Revue shut down in January 2023; no archived copy found)
 
 ### GDPR
 
@@ -599,7 +599,7 @@ Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 - [Really Good Emails Newsletter](https://reallygoodemails.com/emails/really-good-emails-weekly) — Curated examples and email inspiration.
 - [Email on Acid Newsletter](https://www.emailonacid.com/blog/article/email-marketing/email-on-acids-email-newsletter/) — Deliverability and QA insights.
 - [Email Love Newsletter](https://emaillove.com/newsletter) — Design and campaign inspiration.
-- [Email Weekly Newsletter](https://www.getrevue.co/profile/emailweekly) — Weekly email industry roundup.
+- [Email Weekly Newsletter](https://www.getrevue.co/profile/emailweekly) — Weekly email industry roundup. (Revue shut down in January 2023; no archived copy found)
 - [StampReady](https://www.stampready.net/) — Email template tool and editor for building and managing HTML emails.
 - [Correlated](https://www.linkedin.com/company/correlated) — LinkedIn company page for the Correlated product/community.
 - [How to Build a World-Class Email Team](https://www.mailjet.com/blog/email-best-practices/build-email-team/) — Mailjet guide to hiring and structuring email marketing teams.
@@ -651,7 +651,7 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 - [Data Eng Weekly](https://dataengweekly.com/) — Weekly data engineering news (formerly Hadoop Weekly).
 - [Data Elixir](https://dataelixir.com/) — A weekly newsletter of the best data science news and resources from around the web.
 - [Artificial Intelligence Weekly](https://aiweekly.co/) — A weekly collection of the best news and resources on AI and machine learning.
-- [The Wild Week in AI](https://www.getrevue.co/profile/wildml) — A weekly AI and deep learning newsletter.
+- [The Wild Week in AI](https://web.archive.org/web/20221203071224/https://www.getrevue.co/profile/wildml) — A weekly AI and deep learning newsletter. (archived copy; Revue shut down in January 2023)
 - [Machine Learnings](https://machinelearnings.co/) — A weekly roundup of ML and AI news.
 - [Inside AI](https://inside.com/ai) — Weekly newsletter on artificial intelligence, robotics, and neurotechnology.
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html) — Updates on open source frameworks, tutorials and articles curated by machine learning professionals.
