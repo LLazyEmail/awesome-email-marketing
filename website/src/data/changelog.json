@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "Add Pidgely SPF, DKIM and DMARC checker to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/420",
+    "items": [
+      "Merged pull request #420",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/420"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "ci(auto-rebase): enable merge-fallback for conflict dispatches",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/443",
     "items": [

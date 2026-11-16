@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add Pidgely SPF, DKIM and DMARC checker to Deliverability & Testing Tools ([#420](https://github.com/LLazyEmail/awesome-email-marketing/pull/420))
 - ci(auto-rebase): enable merge-fallback for conflict dispatches ([#443](https://github.com/LLazyEmail/awesome-email-marketing/pull/443))
 - fix(links): exclude bot-blocked hosts and known-dead references in lychee ([#437](https://github.com/LLazyEmail/awesome-email-marketing/pull/437))
 - ci(links): use DA docusaurus-root and config-file inputs ([#442](https://github.com/LLazyEmail/awesome-email-marketing/pull/442))
