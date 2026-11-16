@@ -22,7 +22,7 @@ seo:
 
 Periscopix used Gmail Ads targeting and reported a 181% boost in opt-in rate.
 
-Case study: [World-first Gmail ads](http://www.periscopix.co.uk/clients/case-studies/world-first-gmail-ads)
+Case study: [World-first Gmail ads](https://web.archive.org/web/20190918223307/https://www.periscopix.co.uk/clients/case-studies/world-first-gmail-ads/) (archived)
 
 A Gmail ad looks like a regular email in the inbox, so it reaches people who are already using email.
 

@@ -26,10 +26,10 @@ Homepage: [blog.hubspot.com/marketing](https://blog.hubspot.com/marketing)
 
 ## Articles
 
-- [Email marketing](https://blog.hubspot.com/marketing/email)
-- [How to create an email newsletter](https://blog.hubspot.com/marketing/how-to-create-an-email-newsletter)
+- [Email marketing](https://blog.hubspot.com/marketing/email-marketing-guide)
+- [How to create an email newsletter](https://blog.hubspot.com/marketing/how-to-create-email-newsletters-ht)
 - [Email marketing statistics](https://blog.hubspot.com/marketing/email-marketing-stats)
-- [Lead nurturing](https://blog.hubspot.com/marketing/lead-nurturing-guide)
+- [Lead nurturing](https://blog.hubspot.com/marketing/lead-nurturing-email-examples)
 - [Welcome emails](https://blog.hubspot.com/marketing/welcome-email-examples)
 - [Subject lines](https://blog.hubspot.com/blog/tabid/6307/bid/30684/the-ultimate-list-of-email-subject-line-templates.aspx)
 - [Marketing automation](https://blog.hubspot.com/marketing/marketing-automation)
