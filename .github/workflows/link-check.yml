@@ -37,4 +37,5 @@ jobs:
         'website/docs/**/*.mdx'
       create-issue: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
       issue-title: 'Link check report (lychee)'
+      update-existing-issue: true
     secrets: inherit
