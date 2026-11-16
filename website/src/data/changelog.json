@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "docs(agents): map every README section to its docs page",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/428",
+    "items": [
+      "Merged pull request #428",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/428"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "docs(industry-leaders): add SendPulse source page",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/432",
     "items": [

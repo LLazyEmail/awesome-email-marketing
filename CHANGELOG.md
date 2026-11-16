@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs(agents): map every README section to its docs page ([#428](https://github.com/LLazyEmail/awesome-email-marketing/pull/428))
 - docs(industry-leaders): add SendPulse source page ([#432](https://github.com/LLazyEmail/awesome-email-marketing/pull/432))
 - docs: point dead Revue links at Internet Archive copies ([#429](https://github.com/LLazyEmail/awesome-email-marketing/pull/429))
 - fix(link-check): resolve Docusaurus local links, load .lychee.toml ([#427](https://github.com/LLazyEmail/awesome-email-marketing/pull/427))
