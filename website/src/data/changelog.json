@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "ci(links): use DA docusaurus-root and config-file inputs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/442",
+    "items": [
+      "Merged pull request #442",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/442"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "ci(links): update one open lychee report issue instead of opening a new one weekly",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/439",
     "items": [

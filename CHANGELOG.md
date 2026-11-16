@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- ci(links): use DA docusaurus-root and config-file inputs ([#442](https://github.com/LLazyEmail/awesome-email-marketing/pull/442))
 - ci(links): update one open lychee report issue instead of opening a new one weekly ([#439](https://github.com/LLazyEmail/awesome-email-marketing/pull/439))
 - fix(links): repair dead links on docs-only pages (industry leaders, case studies) ([#436](https://github.com/LLazyEmail/awesome-email-marketing/pull/436))
 - fix(links): repair dead README links and docs mirrors (archived / moved / discontinued) ([#435](https://github.com/LLazyEmail/awesome-email-marketing/pull/435))
