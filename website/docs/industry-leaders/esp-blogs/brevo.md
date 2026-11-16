@@ -27,7 +27,7 @@ Homepage: [brevo.com/blog](https://www.brevo.com/blog/)
 ## Articles
 
 - [Email marketing](https://www.brevo.com/blog/category/email-marketing/)
-- [Transactional email](https://www.brevo.com/blog/category/transactional-email/)
-- [Marketing automation](https://www.brevo.com/blog/category/marketing-automation/)
-- [Deliverability](https://www.brevo.com/blog/category/deliverability/)
+- [Transactional email](https://www.brevo.com/blog/category/transactional/)
+- [Marketing automation](https://www.brevo.com/blog/email-automation/)
+- [Deliverability](https://www.brevo.com/blog/email-deliverability-best-practices/)
 - [CRM](https://www.brevo.com/blog/category/crm/)

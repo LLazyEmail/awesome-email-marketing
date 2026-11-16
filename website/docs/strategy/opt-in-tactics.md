@@ -109,7 +109,7 @@ Secret ad targeting that boosted opt-in rates for Periscopix by 181%...
 
 
 Periscopix used this smart targeting and boosted their opt-in rate by 181%.
-[http://www.periscopix.co.uk/clients/case-studies/world-first-gmail-ads](http://www.periscopix.co.uk/clients/case-studies/world-first-gmail-ads)
+[http://www.periscopix.co.uk/clients/case-studies/world-first-gmail-ads](https://web.archive.org/web/20190918223307/https://www.periscopix.co.uk/clients/case-studies/world-first-gmail-ads/) (archived)
 How?
 
 Have you heard of Gmail Ads?

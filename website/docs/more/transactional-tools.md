@@ -39,7 +39,7 @@ Providers, platform documentation, directories, and templates for sending transa
 
 ## Providers & platforms
 
-- [Transactional Email (SendGrid)](https://sendgrid.com/use-cases/transactional-email/)
+- [Transactional Email (SendGrid)](https://www.twilio.com/docs/sendgrid/for-developers/sending-email/getting-started-with-transactional-emails)
 - [MailerSend / MailerLite transactional](https://www.mailerlite.com/features/transactional-emails)
 - [Mailjet transactional email](https://www.mailjet.com/solutions/use-cases/transactional-email/)
 - [Transactional Email – WordPress (Kinsta)](https://kinsta.com/help/transactional-email/)

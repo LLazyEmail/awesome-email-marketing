@@ -34,6 +34,6 @@ seo:
 # Blogs
 
 - [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies)
-- [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
+- [12 Statistics that Show the Power of Email Newsletters](https://web.archive.org/web/20250803053752/https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/) (archived)
 - [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 

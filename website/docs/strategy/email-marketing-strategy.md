@@ -48,7 +48,7 @@ seo:
 
 Startup-focused marketing articles (moved out of Transactional Emails so that section stays on triggered/message infrastructure topics).
 
-- [Email Templates You Need To Run Your Startup](https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/)
+- [Email Templates You Need To Run Your Startup](https://web.archive.org/web/20240523114104/https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/) (archived)
 - [Inspiring Email Startups](https://mailtrap.io/blog/email-startups/)
 - [Email Marketing for Startups: Promotion Best Practices](https://sendpulse.com/blog/email-marketing-for-startups)
 - [5 essential lessons of email marketing for startups](https://www.campaignmonitor.com/blog/email-marketing/5-essential-lessons-of-email-marketing-for-startups/)

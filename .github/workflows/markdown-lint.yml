@@ -18,7 +18,7 @@ on:
 
 jobs:
   markdownlint:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-markdownlint.yml@v1
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-markdownlint.yml@v2
     with:
       globs: |
         README.md

@@ -49,6 +49,7 @@ Browse with tags on [Explore](/explore).
 - [Email Validation](https://email-validation.org/) - Validate email addresses in bulk or via API/MCP, pay-as-you-go from $35/10k credits, up to 500 free credits.
 - [APIVerve](https://apiverve.com/) - Email validation and sender-authentication APIs: address validation (format, MX, disposable, role and free-provider flags), a disposable email checker, MX lookup, and SPF, DKIM, DMARC and BIMI record validators. Free plan of 200 credits a month, no card required.
 - [CheckMail1](https://checkmail1.com) - Email verification API for bulk list cleaning, with disposable, role-based and catch-all detection. REST API and CSV upload; 100 free credits, pay-as-you-go from $5 per 1,000 checks.
+- [LeadSets](https://www.leadsets.ai) - Unlimited B2B Contact Data for AI agents: find work emails and verify them (verified, catch-all, unknown, invalid) over REST or MCP. Free 1,000 records, no card.
 
 ## Auth, DNS & monitoring
 
@@ -60,6 +61,7 @@ Browse with tags on [Explore](/explore).
 - [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
 - [Pidgely SPF, DKIM and DMARC checker](https://pidgely.com/tools/spf-dkim-dmarc-checker/) - Free, no-signup check of a domain's SPF, DKIM (common selectors) and DMARC records with plain-words fixes. Runs public DNS queries from your browser; the domain is not sent to a server.
 - [SolidPing](https://www.solidping.io) - Uptime monitoring with DNSBL blocklist checks (Spamhaus, SpamCop and others), SMTP, IMAP and POP3 checks, and a passive inbox check that alerts when a periodic email stops arriving. Open source (AGPL-3.0), self-hosted or hosted with a free tier.
+- [Gmail & Yahoo Sender Requirements Checker](https://www.inboxwisetools.com/tools/email-sender-requirements-checker/) - Free, no-signup checklist of the Gmail and Yahoo bulk-sender rules (SPF, DKIM, DMARC alignment, one-click unsubscribe, 0.1%/0.3% spam-rate lines), based on their official pages. Runs in the browser; no DNS lookups.
 
 ## Testing, warmup & delivery
 

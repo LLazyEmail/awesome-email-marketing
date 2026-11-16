@@ -1,5 +1,4 @@
 {
-  "output": "../CHANGELOG.md",
   "template": "./scripts/changelog-template.hbs",
   "unreleased": true,
   "commitLimit": false,

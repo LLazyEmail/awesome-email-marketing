@@ -20,7 +20,7 @@ permissions:
 
 jobs:
   rebase:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-auto-rebase-prs.yml@v1
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-auto-rebase-prs.yml@v2
     with:
       pr-numbers: ${{ inputs.pr-numbers || '' }}
       rebase-conflicts: ${{ inputs.rebase-conflicts || false }}

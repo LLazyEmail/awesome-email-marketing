@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T07:16:14.233Z",
-  "count": 134,
+  "generatedAt": "2026-11-16T20:42:18.089Z",
+  "count": 136,
   "pages": [
     {
       "id": "api",
@@ -53,6 +53,17 @@
       "description": "Auto-generated full list of every documentation page in this site (markdown sources under website/docs).",
       "path": "pages-index.md",
       "url": "/docs/pages-index",
+      "section": "root",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "start-here",
+      "title": "Start here",
+      "sidebarLabel": "Start here",
+      "description": "How to use the Awesome Email Marketing list and docs.",
+      "path": "start-here.md",
+      "url": "/docs/start-here",
       "section": "root",
       "draft": false,
       "unlisted": false
@@ -1373,6 +1384,17 @@
       "description": "Curated marketing and email guides from the Mailchimp resources library.",
       "path": "industry-leaders/esp-blogs/mailchimp.md",
       "url": "/docs/industry-leaders/esp-blogs/mailchimp",
+      "section": "industry-leaders",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "industry-leaders/esp-blogs/sendpulse",
+      "title": "SendPulse articles",
+      "sidebarLabel": "SendPulse",
+      "description": "Email marketing guides and glossary definitions from SendPulse — curated article links from the Awesome Email Marketing library.",
+      "path": "industry-leaders/esp-blogs/sendpulse.md",
+      "url": "/docs/industry-leaders/esp-blogs/sendpulse",
       "section": "industry-leaders",
       "draft": false,
       "unlisted": false

@@ -14,7 +14,7 @@ on:
 
 jobs:
   lychee:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-link-check.yml@v1
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-link-check.yml@v2
     with:
       args: >-
         --verbose
@@ -26,10 +26,14 @@ jobs:
         --exclude-path website/node_modules
         --exclude-path website/build
         --exclude-path .git
+        --exclude '^file://.*/website/explore'
         README.md
         CHANGELOG.md
         'website/docs/**/*.md'
         'website/docs/**/*.mdx'
+      docusaurus-root: website
+      config-file: .lychee.toml
       create-issue: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
       issue-title: 'Link check report (lychee)'
+      update-existing-issue: true
     secrets: inherit

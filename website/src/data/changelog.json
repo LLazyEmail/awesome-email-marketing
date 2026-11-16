@@ -1,5 +1,239 @@
 [
   {
+    "date": "2026-11-16",
+    "title": "fix(links): exclude bot-blocked hosts and known-dead references in lychee",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/437",
+    "items": [
+      "Merged pull request #437",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/437"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "ci(links): use DA docusaurus-root and config-file inputs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/442",
+    "items": [
+      "Merged pull request #442",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/442"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "ci(links): update one open lychee report issue instead of opening a new one weekly",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/439",
+    "items": [
+      "Merged pull request #439",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/439"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "fix(links): repair dead links on docs-only pages (industry leaders, case studies)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/436",
+    "items": [
+      "Merged pull request #436",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/436"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "fix(links): repair dead README links and docs mirrors (archived / moved / discontinued)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/435",
+    "items": [
+      "Merged pull request #435",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/435"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "chore(ci): bump documentation-actions to v2",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/425",
+    "items": [
+      "Merged pull request #425",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/425"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "docs(agents): map every README section to its docs page",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/428",
+    "items": [
+      "Merged pull request #428",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/428"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "docs(industry-leaders): add SendPulse source page",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/432",
+    "items": [
+      "Merged pull request #432",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/432"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "docs: point dead Revue links at Internet Archive copies",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/429",
+    "items": [
+      "Merged pull request #429",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/429"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "fix(link-check): resolve Docusaurus local links, load .lychee.toml",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/427",
+    "items": [
+      "Merged pull request #427",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/427"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "fix(changelog): drop unsafe output key so Update changelog runs again",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/426",
+    "items": [
+      "Merged pull request #426",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/426"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Add LeadSets",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/419",
+    "items": [
+      "Merged pull request #419",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/419"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "docs(tools): add LeadSets to deliverability tools page",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/430",
+    "items": [
+      "Merged pull request #430",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/430"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Add Gmail & Yahoo Sender Requirements Checker to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/418",
+    "items": [
+      "Merged pull request #418",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/418"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "docs: add start-here page",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/415",
+    "items": [
+      "Merged pull request #415",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/415"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "fix(readme): correct headings and Klaviyo link",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/414",
+    "items": [
+      "Merged pull request #414",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/414"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "feat(catalog): pilot structured catalog + generator; fix Klaviyo link",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/412",
+    "items": [
+      "Merged pull request #412",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/412"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "Add Warmerly to Deliverability & Testing Tools (from #316)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/422",
+    "items": [
+      "Merged pull request #422",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/422"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "ci: pass README sync check when added links are already in docs",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/423",
+    "items": [
+      "Merged pull request #423",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/423"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "docs: surface explore tags on overview",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/417",
+    "items": [
+      "Merged pull request #417",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/417"
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "title": "feat(catalog): sample catalog entry",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/416",
+    "items": [
+      "Merged pull request #416",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/416"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "title": "chore: move root PDF out of repo root",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/413",
+    "items": [
+      "Merged pull request #413",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/413"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "title": "docs(agents): add section-to-docs map and entry recipe",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/411",
+    "items": [
+      "Merged pull request #411",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/411"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "title": "docs: add Tech Newsletters list to README",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/409",
+    "items": [
+      "Merged pull request #409",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/409"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Switch PR hygiene workflows to reusable documentation-actions",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/408",
+    "items": [
+      "Merged pull request #408",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/408"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "title": "Bump the npm-minor-patch group across 1 directory with 7 updates",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/399",
+    "items": [
+      "Merged pull request #399",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/399"
+    ]
+  },
+  {
     "date": "2026-11-14",
     "title": "Add email59 to Email Service Providers",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/407",

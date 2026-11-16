@@ -2,6 +2,11 @@
 /**
  * Generate CHANGELOG.md and website/src/data/changelog.json from git history
  * using the auto-changelog npm package (merged PRs).
+ *
+ * This script writes both output files itself (auto-changelog runs with
+ * --stdout). Do not add an "output" key to website/.auto-changelog:
+ * auto-changelog 2.7.0+ refuses in-repo config whose "output" escapes the
+ * working directory (GHSA-xpvr-2hvx-m8q4), and "../CHANGELOG.md" does.
  */
 import {execFileSync} from 'node:child_process';
 import fs from 'node:fs';

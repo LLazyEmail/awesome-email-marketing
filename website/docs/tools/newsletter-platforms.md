@@ -45,7 +45,7 @@ Curated newsletter and creator email platforms for writers, publishers, and audi
 - [Flodesk](https://flodesk.com) - a new email marketing service provider that’s built for creators, by creators
 - [Mailerlite](https://mailerlite.com/pricing) - Pricing mailerlite
 - [NoCodeLetters](https://nocodeletters.com) - Send your newsletters directly from Notion
-- [Revue](https://getrevue.co) - Editorial newsletters tool for writers and publishers
+- [Revue](https://web.archive.org/web/20221201193739/https://www.getrevue.co/) - Editorial newsletters tool for writers and publishers (archived copy; Revue shut down in January 2023)
 - [Sendfox](https://sendfox.com) - Start a newsletter without money
 - [Substack](https://substack.com) - Paid newsletters made simple
 - [TinyLetter](https://tinyletter.com) - Email for people with something to say

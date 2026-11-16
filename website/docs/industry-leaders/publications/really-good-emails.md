@@ -26,7 +26,7 @@ Homepage: [reallygoodemails.com](https://reallygoodemails.com)
 
 ## Articles
 
-- [Email gallery](https://reallygoodemails.com/emails)
+- [Email gallery](https://reallygoodemails.com/)
 - [Welcome emails](https://reallygoodemails.com/categories/welcome)
 - [Abandoned cart emails](https://reallygoodemails.com/categories/ecommerce)
 - [Product updates](https://reallygoodemails.com/categories/product-update)
@@ -35,4 +35,4 @@ Homepage: [reallygoodemails.com](https://reallygoodemails.com)
 - [Re-engagement emails](https://reallygoodemails.com/categories/re-engagement)
 - [Onboarding emails](https://reallygoodemails.com/categories/onboarding)
 - [Email awards](https://reallygoodemails.com/awards)
-- [Blog](https://reallygoodemails.com/blog)
+- [Blog](https://reallygoodemails.com/school/blog)
