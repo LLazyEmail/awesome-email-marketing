@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "chore(ci): bump documentation-actions to v2",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/425",
+    "items": [
+      "Merged pull request #425",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/425"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "docs(agents): map every README section to its docs page",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/428",
     "items": [
