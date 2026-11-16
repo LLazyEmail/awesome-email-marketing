@@ -34,6 +34,12 @@ seo:
 
 # Awesome Email Marketing
 
+
+## Explore by tag
+
+[esp](/explore?tag=esp) · [self-hosted](/explore?tag=self-hosted) · [templates](/explore?tag=templates) · [automation](/explore?tag=automation) · [newsletter](/explore?tag=newsletter) · [transactional](/explore?tag=transactional)
+
+
 A curated collection of articles, templates, tools, and resources to build and manage emails.
 
 Use the sidebar, **[Explore](/explore)** filters, the **Browse** menu, or search (`Ctrl/⌘ + K`) to find what you need.
