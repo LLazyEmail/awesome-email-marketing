@@ -8,6 +8,22 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- fix(changelog): drop unsafe output key so Update changelog runs again ([#426](https://github.com/LLazyEmail/awesome-email-marketing/pull/426))
+- Add LeadSets ([#419](https://github.com/LLazyEmail/awesome-email-marketing/pull/419))
+- docs(tools): add LeadSets to deliverability tools page ([#430](https://github.com/LLazyEmail/awesome-email-marketing/pull/430))
+- Add Gmail & Yahoo Sender Requirements Checker to Deliverability & Testing Tools ([#418](https://github.com/LLazyEmail/awesome-email-marketing/pull/418))
+- docs: add start-here page ([#415](https://github.com/LLazyEmail/awesome-email-marketing/pull/415))
+- fix(readme): correct headings and Klaviyo link ([#414](https://github.com/LLazyEmail/awesome-email-marketing/pull/414))
+- feat(catalog): pilot structured catalog + generator; fix Klaviyo link ([#412](https://github.com/LLazyEmail/awesome-email-marketing/pull/412))
+- Add Warmerly to Deliverability & Testing Tools (from #316) ([#422](https://github.com/LLazyEmail/awesome-email-marketing/pull/422))
+- ci: pass README sync check when added links are already in docs ([#423](https://github.com/LLazyEmail/awesome-email-marketing/pull/423))
+- docs: surface explore tags on overview ([#417](https://github.com/LLazyEmail/awesome-email-marketing/pull/417))
+- feat(catalog): sample catalog entry ([#416](https://github.com/LLazyEmail/awesome-email-marketing/pull/416))
+- chore: move root PDF out of repo root ([#413](https://github.com/LLazyEmail/awesome-email-marketing/pull/413))
+- docs(agents): add section-to-docs map and entry recipe ([#411](https://github.com/LLazyEmail/awesome-email-marketing/pull/411))
+- docs: add Tech Newsletters list to README ([#409](https://github.com/LLazyEmail/awesome-email-marketing/pull/409))
+- Switch PR hygiene workflows to reusable documentation-actions ([#408](https://github.com/LLazyEmail/awesome-email-marketing/pull/408))
+- Bump the npm-minor-patch group across 1 directory with 7 updates ([#399](https://github.com/LLazyEmail/awesome-email-marketing/pull/399))
 - Add email59 to Email Service Providers ([#407](https://github.com/LLazyEmail/awesome-email-marketing/pull/407))
 - Add SPF, DKIM and DMARC alignment lesson to Deliverability & Testing Tools ([#405](https://github.com/LLazyEmail/awesome-email-marketing/pull/405))
 - chore: adopt shared comment-readme-only workflow ([#404](https://github.com/LLazyEmail/awesome-email-marketing/pull/404))
