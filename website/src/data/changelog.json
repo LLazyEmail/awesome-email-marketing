@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "fix(link-check): resolve Docusaurus local links, load .lychee.toml",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/427",
+    "items": [
+      "Merged pull request #427",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/427"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "fix(changelog): drop unsafe output key so Update changelog runs again",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/426",
     "items": [
