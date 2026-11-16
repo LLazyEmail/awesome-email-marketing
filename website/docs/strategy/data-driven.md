@@ -37,12 +37,12 @@ seo:
 - [6 Strategies to Make Your Email Campaign More Data-Driven](https://www.voilanorbert.com/blog/data-driven-email-campaigns/)
 - [Data-Driven Email Marketing](https://emailmastery.org/data-driven-email-marketing/)
 - [Data-Driven Email Marketing Strategies](https://emailmastery.org/data-driven-email-marketing-strategies/)
-- [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://www.tye.io/en/blog/data-driven-email-marketing/)
+- [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://web.archive.org/web/20260419015852/https://www.tye.io/en/blog/data-driven-email-marketing/) (archived)
 - [How to Get Started with Data-Driven Email Marketing](https://clevertap.com/blog/get-started-with-data-driven-email-marketing/)
 - [Cold Email Italy Observatory](https://github.com/arnold222a/osservatorio-cold-email-italia) - Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by industry, CC BY 4.0
 
 ## Suggested reading order
 
 1. [Data-Driven Email Marketing](https://emailmastery.org/data-driven-email-marketing/)
-2. [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://www.tye.io/en/blog/data-driven-email-marketing/)
+2. [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://web.archive.org/web/20260419015852/https://www.tye.io/en/blog/data-driven-email-marketing/) (archived)
 3. [How to Get Started with Data-Driven Email Marketing](https://clevertap.com/blog/get-started-with-data-driven-email-marketing/) — [Slides](https://www.notion.so/Slides-a1b9bff869c348caa6b92264048e5f05)

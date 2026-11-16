@@ -39,9 +39,9 @@ seo:
 - [What Are The Advantages Of Mobile-First Email Design](https://elasticemail.com/blog/marketing_tips/mobile-first-email-design)
 - [7 Powerful Examples of AMP Email Campaigns](https://elasticemail.com/blog/7-powerful-examples-of-amp-email-campaigns)
 - [4 Reasons to Use Newsletters in Your Email Marketing Strategy](https://elasticemail.com/blog/newsletter-strategy)
-- [Everything you need to know about email newsletter monetization](https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/)
+- [Everything you need to know about email newsletter monetization](https://web.archive.org/web/20220517064500/https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/) (archived)
 - [What 14 Studies Say About The Best Time To Send Email](https://coschedule.com/blog/best-time-to-send-email)
-- [Five Reasons the Newsletter Should Be Part of Your Marketing Strategy](https://www.simplemachinesmarketing.com/blog/five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy/)
+- [Five Reasons the Newsletter Should Be Part of Your Marketing Strategy](https://web.archive.org/web/20240819111843/https://www.simplemachinesmarketing.com/blog/five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy/) (archived)
 - [Images vs. No Images in Email Marketing Newsletters: Which Gets Better Results?](https://www.impactplus.com/blog/images-vs.-no-images-in-marketing-emails-newsletters)
-- [What are the benefits of email newsletters](https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters)
+- [What are the benefits of email newsletters](https://web.archive.org/web/20210125131759/https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters) (archived)
 

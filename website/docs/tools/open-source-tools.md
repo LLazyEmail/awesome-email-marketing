@@ -35,8 +35,8 @@ seo:
 # Open Source Tools
 
 - [Mautic](https://www.mautic.org/)
-- [Sympa](https://www.sympa.org/)
-- [OpenEMM](https://www.openemm.org/doku.php)
+- [Sympa](https://www.sympa.community/)
+- [OpenEMM](https://www.agnitas.de/en/e-marketing_manager/email-marketing-software-variants/openemm/)
 - [SendPortal](https://sendportal.io/)
 - [Lightmeterc](https://lightmeter.io/)
 

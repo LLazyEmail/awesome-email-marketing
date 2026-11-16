@@ -45,7 +45,7 @@ Also see [Opt-in Tactics](./opt-in-tactics) and [Building an Email List](./build
 - [Generate leads email newsletter](https://www.benchmarkone.com/blog/generate-leads-email-newsletter/)
 - [The best way to generate leads using email newsletter advertising](https://www.thedrum.com/industryinsights/2022/05/11/the-best-way-generate-leads-using-email-newsletter-advertising)
 - [How to generate more leads with a Monthly Newsletter](https://leadsbridge.com/blog/how-to-generate-more-leads-with-a-monthly-newsletter/)
-- [4 ways to generate leads with newsletters](https://www.randallreilly.com/4-ways-to-generate-leads-with-newsletters/)
+- [4 ways to generate leads with newsletters](https://web.archive.org/web/20231201203603/https://randallreilly.com/4-ways-to-generate-leads-with-newsletters/) (archived)
 
 ## Opt-in & checklists
 

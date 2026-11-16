@@ -107,7 +107,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [MailWiz](https://mailwizz.com) - Self-hosted Email Marketing Software
 * [MailySend](https://github.com/GagnDeep/mailysend) - is a self-hosted email platform with a Resend-compatible API: transactional sending, audiences and live segments, broadcasts with A/B testing, inbound mailboxes, and deliverability analytics. Runs on Cloudflare Workers in your own account or on a plain Node server, sending through Cloudflare Email Service, Amazon SES, Resend or SMTP.
 * [Peopcampaigns](https://pepocampaigns.com) - the most powerful email platform that allows you to connect your Amazon SES account and run your email marketing
-* [Scribase Mail Studio](https://github.com/caelum0x/scribase-mail-studio) - is a self-hosted, Resend-compatible email API and dashboard (AGPL fork of useSend): domains, webhooks, broadcasts and inbound, with a one-line SDK switch from Resend.
+* [Scribase Mail Studio](https://github.com/caelum0x/scribase-mail-studio) (discontinued) - is a self-hosted, Resend-compatible email API and dashboard (AGPL fork of useSend): domains, webhooks, broadcasts and inbound, with a one-line SDK switch from Resend.
 * [Sendy](https://sendy.co) - is a self hosted email newsletter application that lets you send trackable emails via Amazon Simple Email Service (SES)
 * [Xem](https://xem.email/) - Open-source email marketing with newsletters, templates, audience lists, and visual automations; supports custom SMTP and managed sending through Amazon SES.
 
@@ -155,12 +155,12 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Froged](https://froged.com) - Optimize your Customer Experience with One Powerful Product
 * [ImagineYourBook](https://www.imagineyourbook.com/book-generators/lead-magnet-ebook) - AI book drafting app that turns your notes or an outline into a full lead-magnet ebook for opt-ins and nurture sequences, with a cover and Word, EPUB or Markdown download. Paid, 7-day trial (card required); drafts need author review.
 * [JaxSuite AI](https://www.jaxsuite.com) - AI-native cold outreach and CRM platform with built-in warmup, spam testing, and smart sending limits.
-* [Jilt](https://jilt.com) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
+* [Jilt](https://web.archive.org/web/20211229174345/https://jilt.com/) (archived, discontinued) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
 * [Keap](https://keap.com) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Klinky](https://klinky.io) - A/B testing link shortener: split one campaign link between two destinations and measure which one wins
 * [looot](https://looot.ai) - Pay-per-call data API for outbound lists: find and verify work emails and phones, enrich companies and people, and search companies from one key and one prepaid balance. Remote MCP server and CLI included; a failed call costs nothing, no subscription.
 * [Omnisend](https://omnisend.com) - is an omnichannel marketing automation platform for growth-focused ecommerce businesses
-* [Palabra](https://palabra.io) - Automate your product-led growth
+* [Palabra](https://web.archive.org/web/20210118035739/https://palabra.io/) (archived) - Automate your product-led growth
 * [SalesLabel](https://sales-label.com) - White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and built-in deliverability.
 * [UnderSend](https://undersend.com) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
 
@@ -264,14 +264,14 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 - [6 Strategies to Make Your Email Campaign More Data-Driven](https://www.voilanorbert.com/blog/data-driven-email-campaigns/)
 - [Data-Driven Email Marketing](https://emailmastery.org/data-driven-email-marketing/) 
 - [Data-Driven Email Marketing Strategies](https://emailmastery.org/data-driven-email-marketing-strategies/) 
-- [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://www.tye.io/en/blog/data-driven-email-marketing/) 
+- [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://web.archive.org/web/20260419015852/https://www.tye.io/en/blog/data-driven-email-marketing/) (archived) 
 - [How to Get Started with Data-Driven Email Marketing](https://clevertap.com/blog/get-started-with-data-driven-email-marketing/) 
 - [Cold Email Italy Observatory](https://github.com/arnold222a/osservatorio-cold-email-italia) - Open dataset of 723 Italian B2B cold email campaigns (3.7M emails) with reply-rate benchmarks by industry, CC BY 4.0
 
 Order is :
 
 - [Data-Driven Email Marketing](https://emailmastery.org/data-driven-email-marketing/)
-- [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://www.tye.io/en/blog/data-driven-email-marketing/)
+- [Better Emails With Data-Driven Marketing: A Beginner’s Guide](https://web.archive.org/web/20260419015852/https://www.tye.io/en/blog/data-driven-email-marketing/) (archived)
 - [[Slides](https://www.notion.so/Slides-a1b9bff869c348caa6b92264048e5f05)][How to Get Started with Data-Driven Email Marketing](https://clevertap.com/blog/get-started-with-data-driven-email-marketing/)
 
 ## Lifecycle of
@@ -280,10 +280,10 @@ Docs: [`website/docs/strategy/lifecycle-emails.md`](./website/docs/strategy/life
 
 ### Getting started & definitions
 
-- [Lifecycle Emails: Getting Started](https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/)
+- [Lifecycle Emails: Getting Started](https://web.archive.org/web/20220928085711/https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/) (archived)
 - [What is customer lifecycle marketing?](https://www.smartinsights.com/ecommerce/web-personalisation/what-is-lifecycle-marketing/)
 - [Why You Need to Get a Life(cycle) Email Marketing Program](https://contentmarketinginstitute.com/2019/10/lifecycle-email-marketing/)
-- [Why savvy email marketers use lifecycle emails](https://jilt.com/blog/lifecycle-email-marketing/)
+- [Why savvy email marketers use lifecycle emails](https://web.archive.org/web/20230325162505/https://jilt.com/blog/lifecycle-email-marketing/) (archived)
 
 ### Guides & best practices
 
@@ -291,7 +291,7 @@ Docs: [`website/docs/strategy/lifecycle-emails.md`](./website/docs/strategy/life
 - [How to Implement Lifecycle Email Marketing Campaigns](https://www.benchmarkemail.com/blog/lifecycle-email-marketing-campaigns/)
 - [The Ultimate Lifecycle Email Marketing Guide](https://www.getvero.com/resources/guides/lifecycle-marketing/)
 - [Guide: All You Need to Know About Lifecycle Email Marketing](https://chamaileon.io/resources/lifecycle-email-marketing/)
-- [The Anatomy of a Perfect Lifecycle Email](https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/)
+- [The Anatomy of a Perfect Lifecycle Email](https://web.archive.org/web/20220928085711/https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/) (archived)
 - [LIFECYCLE EMAIL MARKETING: THE ULTIMATE GUIDE (WITH 250 EXAMPLES)](https://chainlinkmarketing.com/lifecycle-email-marketing/)
 
 ### Campaign playbooks & examples
@@ -341,7 +341,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 - [Generate leads email newsletter](https://www.benchmarkone.com/blog/generate-leads-email-newsletter/)
 - [The best way to generate leads using email newsletter advertising](https://www.thedrum.com/industryinsights/2022/05/11/the-best-way-generate-leads-using-email-newsletter-advertising)
 - [How to generate more leads with a Monthly Newsletter](https://leadsbridge.com/blog/how-to-generate-more-leads-with-a-monthly-newsletter/)
-- [4 ways to generate leads with newsletters](https://www.randallreilly.com/4-ways-to-generate-leads-with-newsletters/)
+- [4 ways to generate leads with newsletters](https://web.archive.org/web/20231201203603/https://randallreilly.com/4-ways-to-generate-leads-with-newsletters/) (archived)
 
 ### Opt-in & checklists
 
@@ -358,7 +358,7 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 ## Blogs
 
 - [Blockchain / Cryptocurrencies](https://github.com/zudochkin/awesome-newsletters#blockchain--cryptocurrencies) 
-- [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
+- [12 Statistics that Show the Power of Email Newsletters](https://web.archive.org/web/20250803053752/https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/) (archived)
 - [Compare AI Tools](https://compareaitools.org) - Independent, hands-on tested comparisons of email marketing and AI tools.
 
 ## Resources which give answers about importance e-mail in your business
@@ -369,11 +369,11 @@ Docs: [`website/docs/strategy/lead-generation.md`](./website/docs/strategy/lead-
 - [What Are The Advantages Of Mobile-First Email Design](https://elasticemail.com/blog/marketing_tips/mobile-first-email-design)
 - [7 Powerful Examples of AMP Email Campaigns](https://elasticemail.com/blog/7-powerful-examples-of-amp-email-campaigns)
 - [4 Reasons to Use Newsletters in Your Email Marketing Strategy](https://elasticemail.com/blog/newsletter-strategy)
-- [Everything you need to know about email newsletter monetization](https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/) 
+- [Everything you need to know about email newsletter monetization](https://web.archive.org/web/20220517064500/https://blog.liveintent.com/everything-you-need-to-know-about-email-newsletter-monetization/) (archived) 
 - [What 14 Studies Say About The Best Time To Send Email](https://coschedule.com/blog/best-time-to-send-email) 
-- [Five Reasons the Newsletter Should Be Part of Your Marketing Strategy](https://www.simplemachinesmarketing.com/blog/five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy/) 
+- [Five Reasons the Newsletter Should Be Part of Your Marketing Strategy](https://web.archive.org/web/20240819111843/https://www.simplemachinesmarketing.com/blog/five-reasons-the-newsletter-should-be-part-of-your-marketing-strategy/) (archived) 
 - [Images vs. No Images in Email Marketing Newsletters: Which Gets Better Results?](https://www.impactplus.com/blog/images-vs.-no-images-in-marketing-emails-newsletters) 
-- [What are the benefits of email newsletters](https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters)
+- [What are the benefits of email newsletters](https://web.archive.org/web/20210125131759/https://www.contactually.com/blog/what-are-the-benefits-of-email-newsletters) (archived)
 
 ### Demand Curve: Tested tactics for growing newsletters
 
@@ -384,23 +384,23 @@ Docs: [`website/docs/guides/demand-curve.md`](./website/docs/guides/demand-curve
 - [Demand curve tested tactics for growing newsletters](https://techcrunch.com/2021/08/03/demand-curve-tested-tactics-for-growing-newsletters/)
 - [Demand Curve: Email marketing tactics that convert subscribers into customers](https://techcrunch.com/2021/06/28/demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers/)
 - [Advanced marketing insights. By email](https://www.demandcurve.com/newsletter#oktgfxnrwma0uvcsjkaw)
-- [Creating Demand With Email Newsletters](https://ezinearticles.com/?Creating-Demand-With-Email-Newsletters&id=17354)
+- [Creating Demand With Email Newsletters](https://web.archive.org/web/20050421052353/http://www.ezinearticles.com:80/?Creating-Demand-With-Email-Newsletters&id=17354) (archived)
 - [Email newsletters: start, improve, reap](https://www.zembr.co/blog-archive/email-newsletters-start-improve-reap)
 
 #### On-demand & partner newsletters
 
 - [How to Send Newsletters On Demand](https://blog.feedly.com/how-to-send-newsletters-on-demand/)
-- [On demand newsletters](http://www.tlehs.com/on-demand-newsletters)
+- [On demand newsletters](http://www.tlehs.com/on-demand-newsletters) (discontinued)
 - [Deliver personalized news and targeted newsletters based on preferences](https://www.impartner.com/news-on-demand/)
-- [Partnerdemand newsletters](https://www.partnerdemand.com/hpi/newsletters)
+- [Partnerdemand newsletters](https://web.archive.org/web/20260113221106/https://www.partnerdemand.com/hpi/newsletters) (archived)
 - [IT/Cyber security expert newsletters](https://www.it-on-demand.com/free-stuff/newsletters/)
 - [Top 10 Supply Chain Newsletters](https://supplychaindigital.com/top10/top-10-supply-chain-newsletters)
 
 #### Industry signals & trends
 
-- [94% Of Marketers Cite Email As Integral For Pandemic & Post-Pandemic Success](https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/)
+- [94% Of Marketers Cite Email As Integral For Pandemic & Post-Pandemic Success](https://web.archive.org/web/20231211053931/https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/) (archived)
 - [The Future of Email in 2020 and Beyond](https://www.litmus.com/blog/infographic-5-email-marketing-trends-2020/)
-- [63% of Marketers to Use Email Newsletters to Enhance First-Party Data](https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/)
+- [63% of Marketers to Use Email Newsletters to Enhance First-Party Data](https://web.archive.org/web/20240224192137/https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/) (archived)
 
 ### Email templates
 
@@ -423,7 +423,7 @@ Docs: [`website/docs/guides/demand-curve.md`](./website/docs/guides/demand-curve
 - [How to choose email marketing software](https://zapier.com/learn/email-marketing/) 
 - [6 ways to automate your email marketing with Mailchimp](https://zapier.com/blog/mailchimp-integrations/) 
 - [4 ways to automate your email marketing for better communication](https://zapier.com/blog/automate-email-marketing/) 
-- [How to automate email marketing like a pro](https://zapier.com/learn/automation-for-small-businesses/email-marketing-automation/) 
+- [How to automate email marketing like a pro](https://zapier.com/blog/automate-email-marketing/) 
 - [The 6 best email marketing apps to send drip campaigns in 2022](https://zapier.com/learn/email-marketing/best-drip-email-marketing-apps/) 
 - [4 ways to automate your email marketing for better communication](https://zapier.com/learn/email-marketing/email-marketing-list-automation/)
 - [Email by Zapier Integrations](https://zapier.com/apps/email/integrations)
@@ -470,7 +470,7 @@ Resources for building HTML emails — tutorials, templates, and coding referenc
 #### Articles & Tutorials
 
 - [HTML Email Basics](https://templates.mailchimp.com/getting-started/html-email-basics/)
-- [New to email coding? Here’s where to start](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4)
+- [New to email coding? Here’s where to start](https://web.archive.org/web/20210629080955/https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4) (archived)
 - [How To Code An Email Newsletter in 6 Simple Steps](https://www.crazyegg.com/blog/how-to-code-an-email-newsletter/)
 - [The RIGHT WAY to create HTML emails | TUTORIAL [2021]](https://www.youtube.com/watch?v=sSNnixkKqcA)
 - [A Complete Guide To HTML Email](https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/)
@@ -597,7 +597,7 @@ Showcase projects (compilers like Inky/Premailer live under Frameworks above).
 - [200+ newsletters: a crowdsourced list of must-read emails](https://medium.com/an-idea-for-you/25-newsletters-worth-inviting-into-your-inbox-62046f871a63) 
 - [Amazing email newsletters for bloggers/technology/scientists/startups/crypto/investing/finance/marceter/fitnesses](https://letterlist.com/)
 - [Really Good Emails Newsletter](https://reallygoodemails.com/emails/really-good-emails-weekly) — Curated examples and email inspiration.
-- [Email on Acid Newsletter](https://www.emailonacid.com/blog/article/email-marketing/email-on-acids-email-newsletter/) — Deliverability and QA insights.
+- [Email on Acid Newsletter](https://www.emailonacid.com/blog/article/email-marketing/email-on-acids-email-newsletter/) (discontinued) — Deliverability and QA insights.
 - [Email Love Newsletter](https://emaillove.com/newsletter) — Design and campaign inspiration.
 - [Email Weekly Newsletter](https://www.getrevue.co/profile/emailweekly) — Weekly email industry roundup.
 - [StampReady](https://www.stampready.net/) — Email template tool and editor for building and managing HTML emails.
@@ -613,7 +613,7 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 
 - [DevOps Weekly](https://www.devopsweekly.com/) — A weekly slice of devops news.
 - [DevOps newsletter](https://www.serverdensity.com/) — The best DevOps links of the week.
-- [Sysadmin Casts](https://sysadmincasts.com) — Bite-sized sysadmin screencasts (released weekly).
+- [Sysadmin Casts](https://web.archive.org/web/20251117032321/https://sysadmincasts.com/) (archived) — Bite-sized sysadmin screencasts (released weekly).
 - [Server Admin for Programmers](https://serversforhackers.com/) — Teaching the server tech you need for development and production.
 - [Cron.Weekly](https://ma.ttias.be/cronweekly/) — A weekly newsletter, delivered every Sunday, with news and tools tailored to Linux sysadmins.
 - [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter) — A curated list of awesome SysAdmin tools, software and resources.
@@ -624,14 +624,14 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 ### Cloud development
 
 - [Your weekly Azure news fix](https://azureweekly.info/) — Top news in the Microsoft Azure ecosystem.
-- [Serverless Status](https://serverless.email/) — Weekly newsletter about serverless architectures and paradigms.
+- [Serverless Status](https://serverless.email/) (discontinued) — Weekly newsletter about serverless architectures and paradigms.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) — Summary of the week's top news, tutorials, videos, and podcasts.
 - [Last Week in AWS](https://www.lastweekinaws.com/) — A weekly roundup of news from Amazon's cloud ecosystem.
 
 ### Kubernetes
 
 - [kubelist](https://kubelist.com/) — Your curated weekly Kubernetes information reconciliation loop.
-- [KubeWeekly](https://kube.news/) — Interesting weekly news about Kubernetes.
+- [KubeWeekly](https://web.archive.org/web/20250512091256/https://kube.news/) (archived) — Interesting weekly news about Kubernetes.
 - [LWKD](http://lwkd.info/) — Weekly newsletter summarizing code activity in the Kubernetes project.
 
 ### Mobile
@@ -640,7 +640,7 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 - [Android Weekly](https://androidweekly.net/) — Free newsletter that helps you stay cutting-edge with Android development.
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter) — Curated list of awesome Android packages and resources.
 - [Weekly Xamarin](https://weeklyxamarin.com/) — Xamarin development.
-- [Mobile Developers Cafe](https://mobiledeveloperscafe.com/) — Weekly newsletter for mobile developers.
+- [Mobile Developers Cafe](https://web.archive.org/web/20260719090141/https://mobiledeveloperscafe.com/) (archived) — Weekly newsletter for mobile developers.
 - [Flutter Croissants](https://flutter-croissants.com/) — Every Monday, news about Flutter and mobility.
 - [Flutter Digest](https://flutter-digest.com/) — A weekly French newsletter about Flutter and Dart.
 - [Android Croissants](https://android-croissants.com/) — Every Monday morning, the latest news, tutorials, and tips about Android.
@@ -663,7 +663,7 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 ### Technology in general
 
 - [TLDR](https://tldr.tech/) — Daily curated newsletter with links and summaries of the most interesting stories in tech.
-- [Barista](https://barista.io) — Tech news with a daily email.
+- [Barista](https://web.archive.org/web/20211220074051/https://www.barista.io/) (archived) — Tech news with a daily email.
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) — Four short links about (mostly research-oriented) technology every weekday.
 - [The Morning Paper](https://blog.acolyer.org/) — An interesting, influential, or important paper from the world of CS every weekday morning, selected by Adrian Colyer.
 - [TechMeme](https://www.techmeme.com) — Near real-time summary of what is new and generating conversation in technology.
@@ -678,11 +678,11 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 
 - [TLDR Marketing](https://tldrmarketing.com/) — Latest breaking news and trends about digital marketing without the fluff.
 - [Zero to Marketing](https://www.zerotomarketing.com/) — A weekly email with a 5-minute case study and actionable tips.
-- [The Content Odyssey](https://newsletter.mktodyssey.com/) — Biweekly tried-and-tested content growth experiments.
+- [The Content Odyssey](https://web.archive.org/web/20260311082245/https://newsletter.mktodyssey.com/) (archived) — Biweekly tried-and-tested content growth experiments.
 
 ### Business / Finance
 
-- [The Pricing Newsletter](https://taprun.com/contact/) — Lessons and news articles to help startups and business owners implement pricing strategy.
+- [The Pricing Newsletter](https://web.archive.org/web/20260403044644/https://taprun.com/contact/) (archived) — Lessons and news articles to help startups and business owners implement pricing strategy.
 - [FBA monthly](https://www.fbamonthly.com/) — The month's most important news articles and blog posts regarding Amazon businesses.
 - [Capital minded](https://capitalminded.com/) — Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
 - [AngelList Weekly](https://angel.co/newsletters) — The best of the startup world, curated weekly.
@@ -719,13 +719,13 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 - [Founders Grid](https://smash.vc/startup-newsletter/) — A weekly newsletter for startup founders that rounds up the best resources from the startup ecosystem.
 - [Code Cartoons](https://tinyletter.com/codecartoons) — Learn code via cartoons via email.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) — A directory of free software solutions and web applications which can be hosted locally.
-- [lkml wtf](https://lkml.wtf/) — A weekly roundup of Linux Kernel Mailing List threads, with extra sarcasm.
+- [lkml wtf](https://web.archive.org/web/20260807175904/https://lkml.wtf/) (archived) — A weekly roundup of Linux Kernel Mailing List threads, with extra sarcasm.
 - [Kleroteria](https://www.kleroteria.org/) — A free lottery newsletter where a subscriber is picked whose email submission is sent to all other subscribers.
-- [Startup Watching](https://startupwatching.com/) — Curated knowledge, inspiration and background stories for startups.
+- [Startup Watching](https://web.archive.org/web/20220415112709/https://startupwatching.com/) (archived) — Curated knowledge, inspiration and background stories for startups.
 - [Tech Productivity](https://techproductivity.co/) — Short weekly newsletter for tech professionals.
-- [Trending Projects](https://www.trendingprojects.com/) — A weekly email showcasing trending projects on GitHub.
+- [Trending Projects](https://web.archive.org/web/20190709202220/http://trendingprojects.com/) (archived) — A weekly email showcasing trending projects on GitHub.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) — Tech newsletter from Softwaretalks.
-- [Figures](https://www.joinfigures.com/) — Receive high-paying tech jobs based on your minimum salary requirement.
+- [Figures](https://web.archive.org/web/20220407044755/https://www.joinfigures.com/) (archived) — Receive high-paying tech jobs based on your minimum salary requirement.
 
 
 ## Arthur Tkachenko articles
@@ -745,8 +745,8 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 ## Open source tools
 
 - [Mautic](https://www.mautic.org/) 
-- [Sympa](https://www.sympa.org/)
-- [OpenEMM](https://www.openemm.org/doku.php)
+- [Sympa](https://www.sympa.community/)
+- [OpenEMM](https://www.agnitas.de/en/e-marketing_manager/email-marketing-software-variants/openemm/)
 - [SendPortal](https://sendportal.io/)
 - [Lightmeterc](https://lightmeter.io/)
 
@@ -782,7 +782,7 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 - [Metrics: Measuring Your Newsletter](https://localnewslab.org/guide/newsletters/metrics-measuring-your-newsletter/)
 - [10 Metrics to Track Newsletter Content Success](https://writtent.com/blog/10-metrics-to-track-your-newsletter-content-success/)
 - [Email Marketing Benchmarks and Statistics by Industry](https://mailchimp.com/resources/email-marketing-benchmarks/)
-- [12 Statistics that Show the Power of Email Newsletters](https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/)
+- [12 Statistics that Show the Power of Email Newsletters](https://web.archive.org/web/20250803053752/https://uplandsoftware.com/postup/resources/blog/email-newsletter-statistics/) (archived)
 
 ### How To Measure Your Newsletter Performance
 
@@ -799,7 +799,7 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 - [6 advanced KPIs for measuring email engagement](https://www.smartinsights.com/email-marketing/email-marketing-analytics/email-engagement-kpis/)
 - [How To Measure Your Newsletter Performance](https://revenue-hub.com/measure-newsletter-performance/)
 - [How to create an effective email marketing strategy? (Step-By-Step Guide)](https://www.lianatech.com/resources/blog/how-to-create-an-effective-email-marketing-strategy-step-by-step-guide.html)
-- [7 Email Newsletter Best Practices for Small Businesses](https://www.fool.com/the-blueprint/email-newsletter-best-practices/)
+- [7 Email Newsletter Best Practices for Small Businesses](https://web.archive.org/web/20210518043456/https://www.fool.com/the-blueprint/email-newsletter-best-practices/) (archived)
 
 ## Email marketing strategy
 
@@ -817,7 +817,7 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 
 Startup-focused marketing articles (moved out of Transactional Emails).
 
-- [Email Templates You Need To Run Your Startup](https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/)
+- [Email Templates You Need To Run Your Startup](https://web.archive.org/web/20240523114104/https://prelo.io/blog/4-email-templates-categories-all-you-need-to-keep-customers-happy/) (archived)
 - [Inspiring Email Startups](https://mailtrap.io/blog/email-startups/)
 - [Email Marketing for Startups: Promotion Best Practices](https://sendpulse.com/blog/email-marketing-for-startups)
 - [5 essential lessons of email marketing for startups](https://www.campaignmonitor.com/blog/email-marketing/5-essential-lessons-of-email-marketing-for-startups/)
@@ -861,7 +861,7 @@ Concepts, guides, and providers for transactional email. Docs: [`website/docs/mo
 
 #### Providers & platforms
 
-- [Transactional Email (SendGrid)](https://sendgrid.com/use-cases/transactional-email/)
+- [Transactional Email (SendGrid)](https://www.twilio.com/docs/sendgrid/for-developers/sending-email/getting-started-with-transactional-emails)
 - [MailerSend / MailerLite transactional](https://www.mailerlite.com/features/transactional-emails)
 - [Mailjet transactional email](https://www.mailjet.com/solutions/use-cases/transactional-email/)
 - [Transactional Email – WordPress (Kinsta)](https://kinsta.com/help/transactional-email/)
