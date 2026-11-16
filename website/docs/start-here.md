@@ -13,7 +13,7 @@ This site is the browsable version of the [Awesome Email Marketing](https://gith
 
 - **Tools** — [Newsletter platforms](/docs/tools/newsletter-platforms), [Deliverability & testing](/docs/tools/deliverability-tools), [ESPs](/docs/tools/email-service-providers), [Automation](/docs/tools/automation-platforms)
 - **Building emails** — [HTML email templates](/docs/development/html-email-templates), [Tutorials](/docs/development/html-email-tutorials)
-- **Strategy** — browse the [guides](/docs/guides) and strategy pages
+- **Strategy** — browse the [guides](/docs/guides/why-email-matters) and [strategy](/docs/strategy/building-an-email-list) pages
 
 ## Explore by tag
 
