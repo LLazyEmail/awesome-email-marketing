@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "fix(links): exclude bot-blocked hosts and known-dead references in lychee",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/437",
+    "items": [
+      "Merged pull request #437",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/437"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "ci(links): use DA docusaurus-root and config-file inputs",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/442",
     "items": [
