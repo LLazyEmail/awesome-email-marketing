@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "ci(auto-rebase): enable merge-fallback for conflict dispatches",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/443",
+    "items": [
+      "Merged pull request #443",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/443"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "fix(links): exclude bot-blocked hosts and known-dead references in lychee",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/437",
     "items": [

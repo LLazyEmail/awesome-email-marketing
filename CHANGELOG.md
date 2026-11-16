@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- ci(auto-rebase): enable merge-fallback for conflict dispatches ([#443](https://github.com/LLazyEmail/awesome-email-marketing/pull/443))
 - fix(links): exclude bot-blocked hosts and known-dead references in lychee ([#437](https://github.com/LLazyEmail/awesome-email-marketing/pull/437))
 - ci(links): use DA docusaurus-root and config-file inputs ([#442](https://github.com/LLazyEmail/awesome-email-marketing/pull/442))
 - ci(links): update one open lychee report issue instead of opening a new one weekly ([#439](https://github.com/LLazyEmail/awesome-email-marketing/pull/439))
