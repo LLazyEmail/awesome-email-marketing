@@ -49,6 +49,7 @@ Browse with tags on [Explore](/explore).
 - [Email Validation](https://email-validation.org/) - Validate email addresses in bulk or via API/MCP, pay-as-you-go from $35/10k credits, up to 500 free credits.
 - [APIVerve](https://apiverve.com/) - Email validation and sender-authentication APIs: address validation (format, MX, disposable, role and free-provider flags), a disposable email checker, MX lookup, and SPF, DKIM, DMARC and BIMI record validators. Free plan of 200 credits a month, no card required.
 - [CheckMail1](https://checkmail1.com) - Email verification API for bulk list cleaning, with disposable, role-based and catch-all detection. REST API and CSV upload; 100 free credits, pay-as-you-go from $5 per 1,000 checks.
+- [LeadSets](https://www.leadsets.ai) - Unlimited B2B Contact Data for AI agents: find work emails and verify them (verified, catch-all, unknown, invalid) over REST or MCP. Free 1,000 records, no card.
 
 ## Auth, DNS & monitoring
 
