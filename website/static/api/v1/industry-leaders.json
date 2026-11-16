@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-11-16T20:34:37.111Z",
+  "generatedAt": "2026-11-16T20:36:10.420Z",
   "name": "Industry Leaders articles",
   "homepage": "https://llazyemail.github.io/awesome-email-marketing/docs/industry-leaders",
   "repository": "https://github.com/LLazyEmail/awesome-email-marketing",
-  "sourceCount": 40,
-  "articleCount": 261,
+  "sourceCount": 41,
+  "articleCount": 267,
   "byTopic": {
-    "esp-blogs": 58,
+    "esp-blogs": 64,
     "ecommerce": 127,
     "growth": 20,
     "publications": 43,
@@ -257,6 +257,15 @@
       "sourcePage": "/docs/industry-leaders/ecommerce/sender",
       "path": "industry-leaders/ecommerce/sender.md",
       "articleCount": 12
+    },
+    {
+      "id": "sendpulse",
+      "name": "SendPulse",
+      "topic": "esp-blogs",
+      "homepage": "https://sendpulse.com/support/glossary",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/sendpulse",
+      "path": "industry-leaders/esp-blogs/sendpulse.md",
+      "articleCount": 6
     },
     {
       "id": "shopify",
@@ -1088,6 +1097,14 @@
       "source": "salesforce",
       "topic": "ecommerce",
       "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "Email Marketing for Startups: Promotion Best Practices",
+      "url": "https://sendpulse.com/blog/email-marketing-for-startups",
+      "heading": "Articles",
+      "source": "sendpulse",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/sendpulse"
     },
     {
       "title": "Email marketing guide",
@@ -2170,6 +2187,14 @@
       "sourcePage": "/docs/industry-leaders/ecommerce/hustler-marketing"
     },
     {
+      "title": "The Most Common Email Coding Mistakes and How to Avoid Them",
+      "url": "https://sendpulse.com/blog/email-coding-mistakes",
+      "heading": "Articles",
+      "source": "sendpulse",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/sendpulse"
+    },
+    {
       "title": "The State of Email 2025",
       "url": "https://www.litmus.com/wp-content/uploads/pdf/2025-state-of-email-litmus.pdf",
       "heading": "From issue #259",
@@ -2346,12 +2371,36 @@
       "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
     },
     {
+      "title": "What is a Personalized Email: Definition and Guide",
+      "url": "https://sendpulse.com/support/glossary/personalized-email",
+      "heading": "Articles",
+      "source": "sendpulse",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/sendpulse"
+    },
+    {
       "title": "What is a plain text email (and how to use it)?",
       "url": "https://www.twilio.com/en-us/blog/insights/plain-text-email",
       "heading": "Articles",
       "source": "twilio-segment",
       "topic": "ecommerce",
       "sourcePage": "/docs/industry-leaders/ecommerce/twilio-segment"
+    },
+    {
+      "title": "What is a Transactional Email? - Definitive Guide",
+      "url": "https://sendpulse.com/support/glossary/transactional-email",
+      "heading": "Articles",
+      "source": "sendpulse",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/sendpulse"
+    },
+    {
+      "title": "What is an Email Marketing Strategy? - Guide",
+      "url": "https://sendpulse.com/support/glossary/email-marketing-strategy",
+      "heading": "Articles",
+      "source": "sendpulse",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/sendpulse"
     },
     {
       "title": "What is an Email Sending Reputation and How Can You Improve It?",
@@ -2384,6 +2433,14 @@
       "source": "salesforce",
       "topic": "ecommerce",
       "sourcePage": "/docs/industry-leaders/ecommerce/salesforce"
+    },
+    {
+      "title": "What is Email Newsletter? - Definition and Tips",
+      "url": "https://sendpulse.com/support/glossary/email-newsletter",
+      "heading": "Articles",
+      "source": "sendpulse",
+      "topic": "esp-blogs",
+      "sourcePage": "/docs/industry-leaders/esp-blogs/sendpulse"
     },
     {
       "title": "What Is Email Segmentation?",
