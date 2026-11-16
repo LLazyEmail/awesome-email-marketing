@@ -33,8 +33,9 @@ These rules keep PRs from conflicting and mean nobody has to ask for rebases or 
 ## Rebases
 
 1. First use [`auto-rebase-prs.yml`](.github/workflows/auto-rebase-prs.yml). Dispatch it with `pr-numbers` (and `rebase-conflicts: true` only with the owner's approval).
-2. Fall back to a manual rebase only if the workflow cannot resolve the conflicts.
-3. Never push a rebase that makes a branch identical to `main`; GitHub auto-closes the PR.
+2. In `rebase-conflicts` mode the workflow skips PRs that already contain `main` ("already up to date"), and with `merge-fallback: true` (set in the workflow) it does a normal merge update when the rebase conflicts but GitHub says the PR is mergeable. Only a PR GitHub reports as not mergeable still fails.
+3. Fall back to a manual rebase only if the workflow cannot resolve the conflicts.
+4. Never push a rebase that makes a branch identical to `main`; GitHub auto-closes the PR.
 
 ## Dependencies and CI
 
