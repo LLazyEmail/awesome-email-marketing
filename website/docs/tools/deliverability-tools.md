@@ -68,6 +68,7 @@ Browse with tags on [Explore](/explore).
 - [Email Campaign Preflight](https://github.com/Kndll33/email-campaign-preflight-demo) - Offline HTML campaign QA with machine-readable JSON and client-readable Markdown reports.
 - [Email Subject Line Tester](https://alltoolsverse.com/tools/email-subject-line-tester/) - Analyzes subject-line length, spam triggers, capitalization, punctuation, and mobile and desktop inbox previews.
 - [Emailens](https://emailens.dev) - Lints HTML email against 21 clients (Outlook Classic, Gmail, Apple Mail and more) with per-client CSS support, dark mode simulation and copy-paste fixes. Free tier, plus a CLI, GitHub Action and MCP server.
+- [Luminoxia Cold Email Spam Checker](https://luminoxia.com/tools/cold-email-spam-checker/) - Free, no-signup check of email copy: highlights trigger words and checks links, images, capitals, length, the subject line, merge tags and the opt-out line. The checks run in the browser; there is no inbox-placement score. Built by the submitter.
 - [Mailtrap](https://mailtrap.io) - is a testing tool and is not designed to deliver emails to real addresses
 - [Mailwarm](https://mailwarm.com) - Don't land in spam anymore
 - [Sendgrid](https://sendgrid.com) - Email delivery service

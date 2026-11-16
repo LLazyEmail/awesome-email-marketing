@@ -142,6 +142,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Pidgely SPF, DKIM and DMARC checker](https://pidgely.com/tools/spf-dkim-dmarc-checker/) - Free, no-signup check of a domain's SPF, DKIM (common selectors) and DMARC records with plain-words fixes. Runs public DNS queries from your browser; the domain is not sent to a server.
 * [Gmail & Yahoo Sender Requirements Checker](https://www.inboxwisetools.com/tools/email-sender-requirements-checker/) - Free, no-signup checklist of the Gmail and Yahoo bulk-sender rules (SPF, DKIM, DMARC alignment, one-click unsubscribe, 0.1%/0.3% spam-rate lines), based on their official pages. Runs in the browser; no DNS lookups.
 * [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
+* [Luminoxia Cold Email Spam Checker](https://luminoxia.com/tools/cold-email-spam-checker/) - Free, no-signup check of email copy: highlights trigger words and checks links, images, capitals, length, the subject line, merge tags and the opt-out line. The checks run in the browser; there is no inbox-placement score. Built by the submitter.
 
 ### Growth & Automation Tools
 
