@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "fix(links): repair dead links on docs-only pages (industry leaders, case studies)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/436",
+    "items": [
+      "Merged pull request #436",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/436"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "fix(links): repair dead README links and docs mirrors (archived / moved / discontinued)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/435",
     "items": [

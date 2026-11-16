@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- fix(links): repair dead links on docs-only pages (industry leaders, case studies) ([#436](https://github.com/LLazyEmail/awesome-email-marketing/pull/436))
 - fix(links): repair dead README links and docs mirrors (archived / moved / discontinued) ([#435](https://github.com/LLazyEmail/awesome-email-marketing/pull/435))
 - chore(ci): bump documentation-actions to v2 ([#425](https://github.com/LLazyEmail/awesome-email-marketing/pull/425))
 - docs(agents): map every README section to its docs page ([#428](https://github.com/LLazyEmail/awesome-email-marketing/pull/428))
