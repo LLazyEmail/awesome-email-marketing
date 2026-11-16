@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T14:57:14.495Z",
-  "count": 134,
+  "generatedAt": "2026-11-16T19:38:32.483Z",
+  "count": 135,
   "pages": [
     {
       "id": "api",
@@ -53,6 +53,17 @@
       "description": "Auto-generated full list of every documentation page in this site (markdown sources under website/docs).",
       "path": "pages-index.md",
       "url": "/docs/pages-index",
+      "section": "root",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "start-here",
+      "title": "Start here",
+      "sidebarLabel": "Start here",
+      "description": "How to use the Awesome Email Marketing list and docs.",
+      "path": "start-here.md",
+      "url": "/docs/start-here",
       "section": "root",
       "draft": false,
       "unlisted": false
