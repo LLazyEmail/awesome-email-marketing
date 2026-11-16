@@ -139,6 +139,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [SolidPing](https://www.solidping.io) - Uptime monitoring with DNSBL blocklist checks (Spamhaus, SpamCop and others), SMTP, IMAP and POP3 checks, and a passive inbox check that alerts when a periodic email stops arriving. Open source (AGPL-3.0), self-hosted or hosted with a free tier.
 
 * [Pharos Email free tools](https://pharos.email/tools) - Free, no-signup SPF lookup counter (limit of 10), DMARC checker, one-pass domain health check (SPF, DKIM, DMARC, BIMI, MX, reverse DNS) and an SMTP bounce code reference.
+* [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
 
 ### Growth & Automation Tools
 
