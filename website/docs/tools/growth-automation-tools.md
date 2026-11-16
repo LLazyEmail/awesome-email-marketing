@@ -51,13 +51,13 @@ Filter on [Explore → automation](/explore?tag=automation).
 - [Froged](https://froged.com) - Optimize your Customer Experience with One Powerful Product
 - [ImagineYourBook](https://www.imagineyourbook.com/book-generators/lead-magnet-ebook) - AI book drafting app that turns your notes or an outline into a full lead-magnet ebook for opt-ins and nurture sequences, with a cover and Word, EPUB or Markdown download. Paid, 7-day trial (card required); drafts need author review.
 - [Keap](https://keap.com) - the all-in-one sales and marketing automation platform designed to help you grow
-- [Palabra](https://palabra.io) - Automate your product-led growth
+- [Palabra](https://web.archive.org/web/20210118035739/https://palabra.io/) (archived) - Automate your product-led growth
 - [UnderSend](https://undersend.com) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
 
 ## Ecommerce & outbound
 
 - [JaxSuite AI](https://www.jaxsuite.com) - AI-native cold outreach and CRM platform with built-in warmup, spam testing, and smart sending limits.
-- [Jilt](https://jilt.com) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
+- [Jilt](https://web.archive.org/web/20211229174345/https://jilt.com/) (archived, discontinued) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
 - [Klinky](https://klinky.io) - A/B testing link shortener: split one campaign link between two destinations and measure which one wins
 - [looot](https://looot.ai) - Pay-per-call data API for outbound lists: find and verify work emails and phones, enrich companies and people, and search companies from one key and one prepaid balance. Remote MCP server and CLI included; a failed call costs nothing, no subscription.
 - [Omnisend](https://omnisend.com) - is an omnichannel marketing automation platform for growth-focused ecommerce businesses

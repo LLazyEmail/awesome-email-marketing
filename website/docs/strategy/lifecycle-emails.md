@@ -39,10 +39,10 @@ Filter related tools on [Explore → automation](/explore?tag=automation) or [tr
 
 ## Getting started & definitions
 
-- [Lifecycle Emails: Getting Started](https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/)
+- [Lifecycle Emails: Getting Started](https://web.archive.org/web/20220928085711/https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/) (archived)
 - [What is customer lifecycle marketing?](https://www.smartinsights.com/ecommerce/web-personalisation/what-is-lifecycle-marketing/)
 - [Why You Need to Get a Life(cycle) Email Marketing Program](https://contentmarketinginstitute.com/2019/10/lifecycle-email-marketing/)
-- [Why savvy email marketers use lifecycle emails](https://jilt.com/blog/lifecycle-email-marketing/)
+- [Why savvy email marketers use lifecycle emails](https://web.archive.org/web/20230325162505/https://jilt.com/blog/lifecycle-email-marketing/) (archived)
 
 ## Guides & best practices
 
@@ -50,7 +50,7 @@ Filter related tools on [Explore → automation](/explore?tag=automation) or [tr
 - [How to Implement Lifecycle Email Marketing Campaigns](https://www.benchmarkemail.com/blog/lifecycle-email-marketing-campaigns/)
 - [The Ultimate Lifecycle Email Marketing Guide](https://www.getvero.com/resources/guides/lifecycle-marketing/)
 - [Guide: All You Need to Know About Lifecycle Email Marketing](https://chamaileon.io/resources/lifecycle-email-marketing/)
-- [The Anatomy of a Perfect Lifecycle Email](https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/)
+- [The Anatomy of a Perfect Lifecycle Email](https://web.archive.org/web/20220928085711/https://www.smartmail.io/resources/anatomy-perfect-lifecycle-email/) (archived)
 - [LIFECYCLE EMAIL MARKETING: THE ULTIMATE GUIDE (WITH 250 EXAMPLES)](https://chainlinkmarketing.com/lifecycle-email-marketing/)
 
 ## Campaign playbooks & examples

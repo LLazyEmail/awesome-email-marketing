@@ -41,23 +41,23 @@ Browse newsletter tools on [Explore → newsletter](/explore?tag=newsletter).
 - [Demand curve tested tactics for growing newsletters](https://techcrunch.com/2021/08/03/demand-curve-tested-tactics-for-growing-newsletters/)
 - [Demand Curve: Email marketing tactics that convert subscribers into customers](https://techcrunch.com/2021/06/28/demand-curve-email-marketing-tactics-that-convert-subscribers-into-customers/)
 - [Advanced marketing insights. By email](https://www.demandcurve.com/newsletter#oktgfxnrwma0uvcsjkaw)
-- [Creating Demand With Email Newsletters](https://ezinearticles.com/?Creating-Demand-With-Email-Newsletters&id=17354)
+- [Creating Demand With Email Newsletters](https://web.archive.org/web/20050421052353/http://www.ezinearticles.com:80/?Creating-Demand-With-Email-Newsletters&id=17354) (archived)
 - [Email newsletters: start, improve, reap](https://www.zembr.co/blog-archive/email-newsletters-start-improve-reap)
 
 ## On-demand & partner newsletters
 
 - [How to Send Newsletters On Demand](https://blog.feedly.com/how-to-send-newsletters-on-demand/)
-- [On demand newsletters](http://www.tlehs.com/on-demand-newsletters)
+- [On demand newsletters](http://www.tlehs.com/on-demand-newsletters) (discontinued)
 - [Deliver personalized news and targeted newsletters based on preferences](https://www.impartner.com/news-on-demand/)
-- [Partnerdemand newsletters](https://www.partnerdemand.com/hpi/newsletters)
+- [Partnerdemand newsletters](https://web.archive.org/web/20260113221106/https://www.partnerdemand.com/hpi/newsletters) (archived)
 - [IT/Cyber security expert newsletters](https://www.it-on-demand.com/free-stuff/newsletters/)
 - [Top 10 Supply Chain Newsletters](https://supplychaindigital.com/top10/top-10-supply-chain-newsletters)
 
 ## Industry signals & trends
 
-- [94% Of Marketers Cite Email As Integral For Pandemic & Post-Pandemic Success](https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/)
+- [94% Of Marketers Cite Email As Integral For Pandemic & Post-Pandemic Success](https://web.archive.org/web/20231211053931/https://demandgenreport.com/features/news-briefs/94-of-marketers-cite-email-as-integral-for-pandemic-post-pandemic-success/) (archived)
 - [The Future of Email in 2020 and Beyond](https://www.litmus.com/blog/infographic-5-email-marketing-trends-2020/)
-- [63% of Marketers to Use Email Newsletters to Enhance First-Party Data](https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/)
+- [63% of Marketers to Use Email Newsletters to Enhance First-Party Data](https://web.archive.org/web/20240224192137/https://komarketing.com/industry-news/63-of-marketers-to-use-email-newsletters-to-enhance-first-party-data-4420/) (archived)
 
 ## Related
 

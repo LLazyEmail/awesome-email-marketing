@@ -33,7 +33,7 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 
 - [DevOps Weekly](https://www.devopsweekly.com/) — A weekly slice of devops news.
 - [DevOps newsletter](https://www.serverdensity.com/) — The best DevOps links of the week.
-- [Sysadmin Casts](https://sysadmincasts.com) — Bite-sized sysadmin screencasts (released weekly).
+- [Sysadmin Casts](https://web.archive.org/web/20251117032321/https://sysadmincasts.com/) (archived) — Bite-sized sysadmin screencasts (released weekly).
 - [Server Admin for Programmers](https://serversforhackers.com/) — Teaching the server tech you need for development and production.
 - [Cron.Weekly](https://ma.ttias.be/cronweekly/) — A weekly newsletter, delivered every Sunday, with news and tools tailored to Linux sysadmins.
 - [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter) — A curated list of awesome SysAdmin tools, software and resources.
@@ -44,14 +44,14 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 ## Cloud development
 
 - [Your weekly Azure news fix](https://azureweekly.info/) — Top news in the Microsoft Azure ecosystem.
-- [Serverless Status](https://serverless.email/) — Weekly newsletter about serverless architectures and paradigms.
+- [Serverless Status](https://serverless.email/) (discontinued) — Weekly newsletter about serverless architectures and paradigms.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) — Summary of the week's top news, tutorials, videos, and podcasts.
 - [Last Week in AWS](https://www.lastweekinaws.com/) — A weekly roundup of news from Amazon's cloud ecosystem.
 
 ## Kubernetes
 
 - [kubelist](https://kubelist.com/) — Your curated weekly Kubernetes information reconciliation loop.
-- [KubeWeekly](https://kube.news/) — Interesting weekly news about Kubernetes.
+- [KubeWeekly](https://web.archive.org/web/20250512091256/https://kube.news/) (archived) — Interesting weekly news about Kubernetes.
 - [LWKD](http://lwkd.info/) — Weekly newsletter summarizing code activity in the Kubernetes project.
 
 ## Mobile
@@ -60,7 +60,7 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 - [Android Weekly](https://androidweekly.net/) — Free newsletter that helps you stay cutting-edge with Android development.
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter) — Curated list of awesome Android packages and resources.
 - [Weekly Xamarin](https://weeklyxamarin.com/) — Xamarin development.
-- [Mobile Developers Cafe](https://mobiledeveloperscafe.com/) — Weekly newsletter for mobile developers.
+- [Mobile Developers Cafe](https://web.archive.org/web/20260719090141/https://mobiledeveloperscafe.com/) (archived) — Weekly newsletter for mobile developers.
 - [Flutter Croissants](https://flutter-croissants.com/) — Every Monday, news about Flutter and mobility.
 - [Flutter Digest](https://flutter-digest.com/) — A weekly French newsletter about Flutter and Dart.
 - [Android Croissants](https://android-croissants.com/) — Every Monday morning, the latest news, tutorials, and tips about Android.
@@ -83,7 +83,7 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 ## Technology in general
 
 - [TLDR](https://tldr.tech/) — Daily curated newsletter with links and summaries of the most interesting stories in tech.
-- [Barista](https://barista.io) — Tech news with a daily email.
+- [Barista](https://web.archive.org/web/20211220074051/https://www.barista.io/) (archived) — Tech news with a daily email.
 - [Four Short Links](https://www.oreilly.com/radar/topics/four-short-links/) — Four short links about (mostly research-oriented) technology every weekday.
 - [The Morning Paper](https://blog.acolyer.org/) — An interesting, influential, or important paper from the world of CS every weekday morning, selected by Adrian Colyer.
 - [TechMeme](https://www.techmeme.com) — Near real-time summary of what is new and generating conversation in technology.
@@ -98,11 +98,11 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 
 - [TLDR Marketing](https://tldrmarketing.com/) — Latest breaking news and trends about digital marketing without the fluff.
 - [Zero to Marketing](https://www.zerotomarketing.com/) — A weekly email with a 5-minute case study and actionable tips.
-- [The Content Odyssey](https://newsletter.mktodyssey.com/) — Biweekly tried-and-tested content growth experiments.
+- [The Content Odyssey](https://web.archive.org/web/20260311082245/https://newsletter.mktodyssey.com/) (archived) — Biweekly tried-and-tested content growth experiments.
 
 ## Business / Finance
 
-- [The Pricing Newsletter](https://taprun.com/contact/) — Lessons and news articles to help startups and business owners implement pricing strategy.
+- [The Pricing Newsletter](https://web.archive.org/web/20260403044644/https://taprun.com/contact/) (archived) — Lessons and news articles to help startups and business owners implement pricing strategy.
 - [FBA monthly](https://www.fbamonthly.com/) — The month's most important news articles and blog posts regarding Amazon businesses.
 - [Capital minded](https://capitalminded.com/) — Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
 - [AngelList Weekly](https://angel.co/newsletters) — The best of the startup world, curated weekly.
@@ -139,10 +139,10 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 - [Founders Grid](https://smash.vc/startup-newsletter/) — A weekly newsletter for startup founders that rounds up the best resources from the startup ecosystem.
 - [Code Cartoons](https://tinyletter.com/codecartoons) — Learn code via cartoons via email.
 - [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) — A directory of free software solutions and web applications which can be hosted locally.
-- [lkml wtf](https://lkml.wtf/) — A weekly roundup of Linux Kernel Mailing List threads, with extra sarcasm.
+- [lkml wtf](https://web.archive.org/web/20260807175904/https://lkml.wtf/) (archived) — A weekly roundup of Linux Kernel Mailing List threads, with extra sarcasm.
 - [Kleroteria](https://www.kleroteria.org/) — A free lottery newsletter where a subscriber is picked whose email submission is sent to all other subscribers.
-- [Startup Watching](https://startupwatching.com/) — Curated knowledge, inspiration and background stories for startups.
+- [Startup Watching](https://web.archive.org/web/20220415112709/https://startupwatching.com/) (archived) — Curated knowledge, inspiration and background stories for startups.
 - [Tech Productivity](https://techproductivity.co/) — Short weekly newsletter for tech professionals.
-- [Trending Projects](https://www.trendingprojects.com/) — A weekly email showcasing trending projects on GitHub.
+- [Trending Projects](https://web.archive.org/web/20190709202220/http://trendingprojects.com/) (archived) — A weekly email showcasing trending projects on GitHub.
 - [Softwaretalks Newsletter](https://newsletter.softwaretalks.ir/) — Tech newsletter from Softwaretalks.
-- [Figures](https://www.joinfigures.com/) — Receive high-paying tech jobs based on your minimum salary requirement.
+- [Figures](https://web.archive.org/web/20220407044755/https://www.joinfigures.com/) (archived) — Receive high-paying tech jobs based on your minimum salary requirement.
