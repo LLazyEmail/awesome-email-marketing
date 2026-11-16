@@ -24,4 +24,7 @@ jobs:
     with:
       pr-numbers: ${{ inputs.pr-numbers || '' }}
       rebase-conflicts: ${{ inputs.rebase-conflicts || false }}
+      # When a rebase-conflicts dispatch hits a conflict but GitHub says the PR
+      # is mergeable, do a normal merge update (no force-push) instead of failing.
+      merge-fallback: true
     secrets: inherit
