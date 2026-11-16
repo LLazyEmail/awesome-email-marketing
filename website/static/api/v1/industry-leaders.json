@@ -1,16 +1,16 @@
 {
   "version": "1.0.0",
-  "generatedAt": "2026-10-30T11:36:19.396Z",
+  "generatedAt": "2026-11-16T20:34:37.111Z",
   "name": "Industry Leaders articles",
   "homepage": "https://llazyemail.github.io/awesome-email-marketing/docs/industry-leaders",
   "repository": "https://github.com/LLazyEmail/awesome-email-marketing",
   "sourceCount": 40,
-  "articleCount": 266,
+  "articleCount": 261,
   "byTopic": {
     "esp-blogs": 58,
     "ecommerce": 127,
     "growth": 20,
-    "publications": 48,
+    "publications": 43,
     "developers": 5,
     "deliverability": 8
   },
@@ -229,7 +229,7 @@
       "homepage": "https://www.getrevue.co",
       "sourcePage": "/docs/industry-leaders/publications/revue",
       "path": "industry-leaders/publications/revue.md",
-      "articleCount": 5
+      "articleCount": 0
     },
     {
       "id": "salesforce",
@@ -504,14 +504,6 @@
       "source": "selzy",
       "topic": "ecommerce",
       "sourcePage": "/docs/industry-leaders/ecommerce/selzy"
-    },
-    {
-      "title": "A newsletter for readers and writers on Twitter.",
-      "url": "https://www.getrevue.co/profile/the_week_in_newsletters",
-      "heading": "Articles",
-      "source": "revue",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/revue"
     },
     {
       "title": "A/B testing emails",
@@ -1370,22 +1362,6 @@
       "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
     },
     {
-      "title": "How much can you earn from your newsletter?",
-      "url": "https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-can-you-earn-from-your-newsletter-557696",
-      "heading": "Articles",
-      "source": "revue",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/revue"
-    },
-    {
-      "title": "How much is your newsletter worth?",
-      "url": "https://www.getrevue.co/profile/the_week_in_newsletters/issues/how-much-is-your-newsletter-worth-285518",
-      "heading": "Articles",
-      "source": "revue",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/revue"
-    },
-    {
       "title": "How to 5X Sales from Email Marketing in a Year",
       "url": "https://www.ecommercefuel.com/5x-email-marketing-revenue/",
       "heading": "Articles",
@@ -1882,14 +1858,6 @@
       "sourcePage": "/docs/industry-leaders/ecommerce/omnisend"
     },
     {
-      "title": "Options to start a paid newsletter",
-      "url": "https://www.getrevue.co/profile/the_week_in_newsletters/issues/options-to-start-a-paid-newsletter-292557",
-      "heading": "Articles",
-      "source": "revue",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/revue"
-    },
-    {
       "title": "Outlook Announces New Sender Requirements",
       "url": "https://www.twilio.com/en-us/blog/insights/outlook-new-email-sender-requirements",
       "heading": "Articles",
@@ -1960,14 +1928,6 @@
       "source": "litmus",
       "topic": "publications",
       "sourcePage": "/docs/industry-leaders/publications/litmus"
-    },
-    {
-      "title": "Risks and rewards of a paid newsletter",
-      "url": "https://www.getrevue.co/profile/the_week_in_newsletters/issues/risks-and-rewards-of-a-paid-newsletter-280186",
-      "heading": "Articles",
-      "source": "revue",
-      "topic": "publications",
-      "sourcePage": "/docs/industry-leaders/publications/revue"
     },
     {
       "title": "SaaS Marketing 101: How To Acquire & Retain Customers",
