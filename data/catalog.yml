@@ -1,0 +1,11 @@
+# Pilot catalog for new entries.
+# Prefer adding new tools here; generator prints dual-update lines.
+# Schema: name, url, description, section, tags, disclosure (optional)
+
+entries:
+  - name: Example Entry
+    url: https://example.com
+    description: Placeholder so the catalog format is visible (remove when real entries land)
+    section: Deliverability & Testing Tools
+    tags: [deliverability, example]
+    disclosure: null
