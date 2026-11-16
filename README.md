@@ -1019,7 +1019,7 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ## Automation and reports
 
-Every workflow lives in [`.github/workflows/`](./.github/workflows). Most call shared reusable workflows from [documentation-actions](https://github.com/LLazyEmail/documentation-actions) (DA); `@v2` pins a DA release, `@main` follows DA's main branch.
+Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch.
 
 ### Where to find the reports
 
@@ -1041,7 +1041,7 @@ A red *Auto-rebase open PRs* run usually means one PR has a real conflict (the s
 | Markdown lint | `markdown-lint.yml` | PRs and pushes touching Markdown | markdownlint on `README.md`, `CHANGELOG.md` and `website/docs/**`. |
 | Link check | `link-check.yml` | PRs, Mondays, manual | lychee on the README, changelog and docs, using `.lychee.toml`; site-relative `/docs/...` links resolve against `website/`. Scheduled and manual runs write the report issue above. |
 | Awesome list entry format check | `awesome-entry-format-check.yml` | PRs | Adds a warning annotation for changed list entries that are missing the ` - description` part. Doesn't fail the PR. |
-| README ↔ Docs sync check | `readme-docs-sync-check.yml` | PRs | Fails when a link is added to `README.md` but not to the matching `website/docs` page (see the map in [AGENTS.md](./AGENTS.md)). |
+| README ↔ Docs sync check | `readme-docs-sync-check.yml` | PRs | Fails when a link is added to `README.md` but not to the matching `website/docs` page (see the README → docs map in `AGENTS.md`). |
 | Comment on README-only PRs | `comment-readme-only.yml` | PRs | When a PR changes `README.md` but nothing under `website/docs/`, comments once asking to add the entry to the docs page too. |
 | Star request comment | `star-request.yml` | Newly opened PRs, including forks (`pull_request_target`) | Comments thanking the contributor and asking for a ⭐. |
 | Auto-rebase open PRs | `auto-rebase-prs.yml` | Every 6 h, manual | Updates PR branches that are behind `main`; conflicting PRs are reported, not force-pushed, unless `rebase-conflicts` is set. |
