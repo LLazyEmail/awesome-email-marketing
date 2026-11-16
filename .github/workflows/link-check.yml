@@ -26,15 +26,13 @@ jobs:
         --exclude-path website/node_modules
         --exclude-path website/build
         --exclude-path .git
-        --config .lychee.toml
-        --root-dir "$GITHUB_WORKSPACE/website"
-        --fallback-extensions md,mdx
-        --index-files index.md,index.mdx,.
         --exclude '^file://.*/website/explore'
         README.md
         CHANGELOG.md
         'website/docs/**/*.md'
         'website/docs/**/*.mdx'
+      docusaurus-root: website
+      config-file: .lychee.toml
       create-issue: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
       issue-title: 'Link check report (lychee)'
       update-existing-issue: true
