@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: point dead Revue links at Internet Archive copies ([#429](https://github.com/LLazyEmail/awesome-email-marketing/pull/429))
 - fix(link-check): resolve Docusaurus local links, load .lychee.toml ([#427](https://github.com/LLazyEmail/awesome-email-marketing/pull/427))
 - fix(changelog): drop unsafe output key so Update changelog runs again ([#426](https://github.com/LLazyEmail/awesome-email-marketing/pull/426))
 - Add LeadSets ([#419](https://github.com/LLazyEmail/awesome-email-marketing/pull/419))

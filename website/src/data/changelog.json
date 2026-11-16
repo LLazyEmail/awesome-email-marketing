@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-16",
+    "title": "docs: point dead Revue links at Internet Archive copies",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/429",
+    "items": [
+      "Merged pull request #429",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/429"
+    ]
+  },
+  {
+    "date": "2026-11-16",
     "title": "fix(link-check): resolve Docusaurus local links, load .lychee.toml",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/427",
     "items": [
