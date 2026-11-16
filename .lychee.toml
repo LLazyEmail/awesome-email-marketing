@@ -1,6 +1,14 @@
 # Lychee config for awesome-email-marketing
 # CI workflow keeps fail:false so flaky external links never hard-fail PRs.
 # Scheduled Monday runs publish a job summary (+ best-effort issue).
+#
+# lychee only auto-loads `lychee.toml`, so link-check.yml passes this file
+# with `--config .lychee.toml`. Docusaurus-specific local-link flags live in
+# the workflow args because they need an absolute path:
+#   --root-dir <workspace>/website   resolves `/docs/...` links to website/docs
+#   --fallback-extensions md,mdx     resolves `./page` to `./page.md`
+#   --index-files index.md,index.mdx,.  resolves category folder links
+#   --exclude website/explore        /explore is a React page (src/pages/explore.tsx)
 
 timeout = 20
 max_concurrency = 8

@@ -26,6 +26,11 @@ jobs:
         --exclude-path website/node_modules
         --exclude-path website/build
         --exclude-path .git
+        --config .lychee.toml
+        --root-dir ${{ github.workspace }}/website
+        --fallback-extensions md,mdx
+        --index-files index.md,index.mdx,.
+        --exclude '^file://.*/website/explore'
         README.md
         CHANGELOG.md
         'website/docs/**/*.md'
