@@ -653,8 +653,8 @@ Curated devops, cloud, Kubernetes, mobile, AI, security, marketing and startup n
 - [Data Elixir](https://dataelixir.com/) — A weekly newsletter of the best data science news and resources from around the web.
 - [Artificial Intelligence Weekly](https://aiweekly.co/) — A weekly collection of the best news and resources on AI and machine learning.
 - [The Wild Week in AI](https://web.archive.org/web/20221203071224/https://www.getrevue.co/profile/wildml) — A weekly AI and deep learning newsletter. (archived copy; Revue shut down in January 2023)
-- [Machine Learnings](https://machinelearnings.co/) — A weekly roundup of ML and AI news.
-- [Inside AI](https://inside.com/ai) — Weekly newsletter on artificial intelligence, robotics, and neurotechnology.
+- [Machine Learnings](https://web.archive.org/web/20170519095906/https://machinelearnings.co/) (archived) — A weekly roundup of ML and AI news.
+- [Inside AI](https://web.archive.org/web/20260215013629/https://inside.com/ai) (archived) — Weekly newsletter on artificial intelligence, robotics, and neurotechnology.
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html) — Updates on open source frameworks, tutorials and articles curated by machine learning professionals.
 
 ### Blockchain / Cryptocurrencies
