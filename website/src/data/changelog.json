@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-17",
+    "title": "fix(links): archive Machine Learnings and Inside AI newsletter links",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/438",
+    "items": [
+      "Merged pull request #438",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/438"
+    ]
+  },
+  {
     "date": "2026-11-16",
     "title": "Add Pidgely SPF, DKIM and DMARC checker to Deliverability & Testing Tools",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/420",
