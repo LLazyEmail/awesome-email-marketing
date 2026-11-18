@@ -1,15 +1,19 @@
-name: Awesome list entry format check
+name: Awesome entry format check
 
 on:
   pull_request:
     paths:
       - 'README.md'
-      - 'website/docs/**/*.md'
+  push:
+    branches: [main]
+    paths:
+      - 'README.md'
+  workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
   validate:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-entry-format-check.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-entry-format-check.yml@v2
     secrets: inherit

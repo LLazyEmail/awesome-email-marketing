@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   check-sync:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-readme-docs-sync-check.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-readme-sync.yml@v2
     with:
       # Pass README-only PRs whose added links are already on a docs page
       pass-if-links-in-docs: true
