@@ -27,4 +27,10 @@ jobs:
       # When a rebase-conflicts dispatch hits a conflict but GitHub says the PR
       # is mergeable, do a normal merge update (no force-push) instead of failing.
       merge-fallback: true
+      # Contributor (fork) PRs that conflict or can't be pushed to are replayed
+      # into supersede/pr-N here and opened as a draft PR that starts with
+      # "Supersedes #N" (the fork is never pushed to). Addition-only conflicts in
+      # list files keep both entries; anything else is reported on the PR.
+      supersede-fork-prs: true
+      supersede-union-paths: 'README.md website/docs/**/*.md'
     secrets: inherit
