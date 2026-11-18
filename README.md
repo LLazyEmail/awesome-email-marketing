@@ -1034,7 +1034,7 @@ Every workflow lives in `.github/workflows/`. Most call shared reusable workflow
 
 A red *Auto-rebase open PRs* run usually means one PR has a real conflict (the summary names it and the files). Fix that PR by hand or run the workflow with its number and `rebase-conflicts: true`; the other PRs were still processed.
 
-**Contributor PRs from forks** can't be rebased in place, because the workflow can't push to someone else's fork. When one conflicts, the workflow opens a new draft PR from `supersede/pr-<N>` instead. Its body starts with `Supersedes #N`, it credits the contributor as co-author, and it gets a link comment on the original. Two PRs adding entries to the same list are merged automatically, keeping both entries. Anything else gets a comment on the original PR asking for a person. Merge the new PR, and *Close superseded PRs* closes the original with a thank-you. Example: [#446](https://github.com/LLazyEmail/awesome-email-marketing/pull/446) superseded [#421](https://github.com/LLazyEmail/awesome-email-marketing/pull/421).
+**Contributor PRs from forks** can't be rebased in place, because the workflow can't push to someone else's fork. When one conflicts, the workflow opens a new draft PR from `supersede/pr-<N>` instead. Its body starts with `Supersedes #N`, it credits the contributor as co-author, and it gets a link comment on the original. Two PRs adding entries to the same list are merged automatically, keeping both entries. Anything else gets a comment on the original PR asking for a person. Merge the new PR, and *Close superseded PRs* closes the original with a thank-you. Example: PR #446 superseded contributor PR #421.
 
 ### All workflows
 
