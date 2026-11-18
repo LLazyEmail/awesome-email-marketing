@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-18",
+    "title": "chore: pin remaining documentation-actions callers to @v2",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/445",
+    "items": [
+      "Merged pull request #445",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/445"
+    ]
+  },
+  {
+    "date": "2026-11-18",
     "title": "docs(readme): explain every workflow and where each report shows up",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/444",
     "items": [
