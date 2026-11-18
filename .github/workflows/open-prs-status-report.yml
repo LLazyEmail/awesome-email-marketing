@@ -12,5 +12,5 @@ permissions:
 
 jobs:
   report:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-pr-status-report.yml@main
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-pr-status-report.yml@v2
     secrets: inherit
