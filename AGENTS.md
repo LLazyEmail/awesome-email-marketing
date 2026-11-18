@@ -37,6 +37,15 @@ These rules keep PRs from conflicting and mean nobody has to ask for rebases or 
 3. Fall back to a manual rebase only if the workflow cannot resolve the conflicts.
 4. Never push a rebase that makes a branch identical to `main`; GitHub auto-closes the PR.
 
+### Contributor (fork) PRs that conflict or can't be pushed to
+
+Never push or force-push to a contributor's fork. Instead:
+
+1. The auto-rebase workflow (`supersede-fork-prs: true`) replays the contributor's commits into a new branch `supersede/pr-<N>` in this repo, keeping their authorship and adding `Co-authored-by: <login> <<id>+<login>@users.noreply.github.com>`.
+2. It opens a draft PR whose body **starts with `Supersedes #N`**, links the original, and comments on #N with the new PR's link.
+3. If it reports a conflict it can't resolve (anything other than two PRs adding lines to the same list), do the same by hand: branch `supersede/pr-<N>` from `main`, cherry-pick, keep `main`'s content plus the contribution, mirror the entry on the matching `website/docs/` page, and open the draft PR starting with `Supersedes #N`. Example: [#446](https://github.com/LLazyEmail/awesome-email-marketing/pull/446) superseded [#421](https://github.com/LLazyEmail/awesome-email-marketing/pull/421).
+4. Don't close #N by hand. When the new PR merges, [`close-superseded-prs.yml`](.github/workflows/close-superseded-prs.yml) closes #N with a thank-you comment.
+
 ## Dependencies and CI
 
 - Dependabot opens one grouped PR per week per group (see [`.github/dependabot.yml`](.github/dependabot.yml)).

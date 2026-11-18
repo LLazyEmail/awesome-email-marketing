@@ -1,0 +1,16 @@
+# When a PR whose body says "Supersedes #N" is merged, close PR #N with a
+# thank-you comment. GitHub's "Closes #N" keyword does not close PRs.
+# pull_request_target is safe here: the job never checks out PR code.
+name: Close superseded PRs
+
+on:
+  pull_request_target:
+    types: [closed]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  close:
+    if: github.event.pull_request.merged == true
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-close-superseded-prs.yml@v2

@@ -1034,6 +1034,8 @@ Every workflow lives in `.github/workflows/`. Most call shared reusable workflow
 
 A red *Auto-rebase open PRs* run usually means one PR has a real conflict (the summary names it and the files). Fix that PR by hand or run the workflow with its number and `rebase-conflicts: true`; the other PRs were still processed.
 
+**Contributor PRs from forks** can't be rebased in place, because the workflow can't push to someone else's fork. When one conflicts, the workflow opens a new draft PR from `supersede/pr-<N>` instead. Its body starts with `Supersedes #N`, it credits the contributor as co-author, and it gets a link comment on the original. Two PRs adding entries to the same list are merged automatically, keeping both entries. Anything else gets a comment on the original PR asking for a person. Merge the new PR, and *Close superseded PRs* closes the original with a thank-you. Example: PR #446 superseded contributor PR #421.
+
 ### All workflows
 
 | Workflow | File | Runs on | What it does |
@@ -1046,7 +1048,8 @@ A red *Auto-rebase open PRs* run usually means one PR has a real conflict (the s
 | README ↔ Docs sync check | `readme-docs-sync-check.yml` | PRs | Fails when a link is added to `README.md` but not to the matching `website/docs` page (see the README → docs map in `AGENTS.md`). |
 | Comment on README-only PRs | `comment-readme-only.yml` | PRs | When a PR changes `README.md` but nothing under `website/docs/`, comments once asking to add the entry to the docs page too. |
 | Star request comment | `star-request.yml` | Newly opened PRs, including forks (`pull_request_target`) | Comments thanking the contributor and asking for a ⭐. |
-| Auto-rebase open PRs | `auto-rebase-prs.yml` | Every 6 h, manual | Updates PR branches that are behind `main`; conflicting PRs are reported, not force-pushed, unless `rebase-conflicts` is set. |
+| Auto-rebase open PRs | `auto-rebase-prs.yml` | Every 6 h, manual | Updates PR branches that are behind `main`; conflicting PRs are reported, not force-pushed, unless `rebase-conflicts` is set. Conflicting fork PRs get a superseding PR (`supersede/pr-N`, "Supersedes #N"). |
+| Close superseded PRs | `close-superseded-prs.yml` | A PR is merged (`pull_request_target`, no code checkout) | Closes every PR named in the merged PR's `Supersedes #N` line, with a thank-you comment. |
 | Label conflicted PRs | `label-conflicted-prs.yml` | Every 4 h, push to `main`, manual | Adds or removes `has-conflicts`. |
 | Open PRs status report | `open-prs-status-report.yml` | Mondays, manual | Writes the status report issue. |
 | Update changelog | `changelog.yml` | Push to `main` | Regenerates `CHANGELOG.md` and `website/src/data/changelog.json` and commits them. |
