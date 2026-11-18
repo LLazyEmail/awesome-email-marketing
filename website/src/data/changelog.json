@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-18",
+    "title": "docs(readme): explain every workflow and where each report shows up",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/444",
+    "items": [
+      "Merged pull request #444",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/444"
+    ]
+  },
+  {
     "date": "2026-11-17",
     "title": "fix(links): archive Machine Learnings and Inside AI newsletter links",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/438",

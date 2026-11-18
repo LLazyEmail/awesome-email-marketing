@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs(readme): explain every workflow and where each report shows up ([#444](https://github.com/LLazyEmail/awesome-email-marketing/pull/444))
 - fix(links): archive Machine Learnings and Inside AI newsletter links ([#438](https://github.com/LLazyEmail/awesome-email-marketing/pull/438))
 - Add Pidgely SPF, DKIM and DMARC checker to Deliverability & Testing Tools ([#420](https://github.com/LLazyEmail/awesome-email-marketing/pull/420))
 - ci(auto-rebase): enable merge-fallback for conflict dispatches ([#443](https://github.com/LLazyEmail/awesome-email-marketing/pull/443))
