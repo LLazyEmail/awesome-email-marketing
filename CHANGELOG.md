@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add Luminoxia Cold Email Spam Checker (supersedes #421) ([#446](https://github.com/LLazyEmail/awesome-email-marketing/pull/446))
 - chore: pin remaining documentation-actions callers to @v2 ([#445](https://github.com/LLazyEmail/awesome-email-marketing/pull/445))
 - docs(readme): explain every workflow and where each report shows up ([#444](https://github.com/LLazyEmail/awesome-email-marketing/pull/444))
 - fix(links): archive Machine Learnings and Inside AI newsletter links ([#438](https://github.com/LLazyEmail/awesome-email-marketing/pull/438))
