@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-20",
+    "title": "Add ZoneBI to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/449",
+    "items": [
+      "Merged pull request #449",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/449"
+    ]
+  },
+  {
     "date": "2026-11-18",
     "title": "ci(auto-rebase): supersede conflicting fork PRs; close superseded PRs on merge",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/447",

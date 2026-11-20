@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add ZoneBI to Deliverability & Testing Tools ([#449](https://github.com/LLazyEmail/awesome-email-marketing/pull/449))
 - ci(auto-rebase): supersede conflicting fork PRs; close superseded PRs on merge ([#447](https://github.com/LLazyEmail/awesome-email-marketing/pull/447))
 - Add Luminoxia Cold Email Spam Checker (supersedes #421) ([#446](https://github.com/LLazyEmail/awesome-email-marketing/pull/446))
 - chore: pin remaining documentation-actions callers to @v2 ([#445](https://github.com/LLazyEmail/awesome-email-marketing/pull/445))
