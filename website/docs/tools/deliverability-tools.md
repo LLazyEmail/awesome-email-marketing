@@ -62,6 +62,7 @@ Browse with tags on [Explore](/explore).
 - [Pidgely SPF, DKIM and DMARC checker](https://pidgely.com/tools/spf-dkim-dmarc-checker/) - Free, no-signup check of a domain's SPF, DKIM (common selectors) and DMARC records with plain-words fixes. Runs public DNS queries from your browser; the domain is not sent to a server.
 - [SolidPing](https://www.solidping.io) - Uptime monitoring with DNSBL blocklist checks (Spamhaus, SpamCop and others), SMTP, IMAP and POP3 checks, and a passive inbox check that alerts when a periodic email stops arriving. Open source (AGPL-3.0), self-hosted or hosted with a free tier.
 - [Gmail & Yahoo Sender Requirements Checker](https://www.inboxwisetools.com/tools/email-sender-requirements-checker/) - Free, no-signup checklist of the Gmail and Yahoo bulk-sender rules (SPF, DKIM, DMARC alignment, one-click unsubscribe, 0.1%/0.3% spam-rate lines), based on their official pages. Runs in the browser; no DNS lookups.
+- [ZoneBI](https://zonebi.com/en/) - Monitors SPF, DKIM, DMARC, Spamhaus blocklists, DNS and SSL certificates for your domains, and explains what to fix. Free plan for 3 domains. Built by the submitter.
 
 ## Testing, warmup & delivery
 
