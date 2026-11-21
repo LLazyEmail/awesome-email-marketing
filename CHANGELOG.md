@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- docs: add Google Tag Manager for analytics ([#454](https://github.com/LLazyEmail/awesome-email-marketing/pull/454))
 - Add Mail Toolbelt to Deliverability & Testing Tools ([#452](https://github.com/LLazyEmail/awesome-email-marketing/pull/452))
 - Add PlicSigur (free SPF/DKIM/DMARC checker) to Deliverability & Testing Tools (supersedes #450) ([#451](https://github.com/LLazyEmail/awesome-email-marketing/pull/451))
 - Add ZoneBI to Deliverability & Testing Tools ([#449](https://github.com/LLazyEmail/awesome-email-marketing/pull/449))

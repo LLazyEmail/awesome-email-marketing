@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-21",
+    "title": "docs: add Google Tag Manager for analytics",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/454",
+    "items": [
+      "Merged pull request #454",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/454"
+    ]
+  },
+  {
+    "date": "2026-11-21",
     "title": "Add Mail Toolbelt to Deliverability & Testing Tools",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/452",
     "items": [
