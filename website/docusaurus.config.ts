@@ -34,14 +34,20 @@ const config: Config = {
     },
   ],
 
-  // Google Tag Manager
-  scripts: [
+  // Google Tag Manager. `scripts` rejects inline content (must have src),
+  // so both tags go in headTags.
+  headTags: [
     {
-      src: 'https://www.googletagmanager.com/gtm.js?id=GTM-56LJKCZW',
-      async: true,
+      tagName: 'script',
+      attributes: {
+        async: 'true',
+        src: 'https://www.googletagmanager.com/gtm.js?id=GTM-56LJKCZW',
+      },
     },
     {
-      content: `
+      tagName: 'script',
+      attributes: {},
+      innerHTML: `
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
