@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T08:12:23.278Z",
-  "count": 136,
+  "generatedAt": "2026-11-21T08:33:59.446Z",
+  "count": 137,
   "pages": [
     {
       "id": "api",
@@ -757,6 +757,17 @@
       "description": "Arthur Tkachenko Articles — curated more resources from the Awesome Email Marketing library.",
       "path": "more/arthur-tkachenko.md",
       "url": "/docs/more/arthur-tkachenko",
+      "section": "more",
+      "draft": false,
+      "unlisted": false
+    },
+    {
+      "id": "more/automation-and-reports",
+      "title": "Automation and reports",
+      "sidebarLabel": "Automation and reports",
+      "description": "GitHub Actions workflows and reports that keep the Awesome Email Marketing list and docs site in sync.",
+      "path": "more/automation-and-reports.md",
+      "url": "/docs/more/automation-and-reports",
       "section": "more",
       "draft": false,
       "unlisted": false
