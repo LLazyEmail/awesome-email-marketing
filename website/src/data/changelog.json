@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-21",
+    "title": "docs: add WarmySender to Automation Platforms",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/455",
+    "items": [
+      "Merged pull request #455",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/455"
+    ]
+  },
+  {
+    "date": "2026-11-21",
     "title": "docs: add Google Tag Manager for analytics",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/454",
     "items": [
