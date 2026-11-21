@@ -63,6 +63,9 @@ Never push or force-push to a contributor's fork. Instead:
 ## README section → docs page map
 
 When adding an entry, update **both** the README section and the matching docs file.
+If a PR misses the docs file, `docs-sync-feedback.yml` labels it `needs-docs-sync` and comments
+with the exact file, section and line (it derives the page the same way this map was built).
+To re-check an already-open PR, run that workflow manually with the PR number.
 Headings are the README `##` / `###` titles; `… >` means a `###` under
 "Resources which give answers about importance e-mail in your business".
 The map was built by matching each README section's links against the docs pages

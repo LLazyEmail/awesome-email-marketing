@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-21",
+    "title": "ci: docs-sync feedback for contributor PRs (label + specific comment)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/456",
+    "items": [
+      "Merged pull request #456",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/456"
+    ]
+  },
+  {
+    "date": "2026-11-21",
     "title": "chore(deps-dev): bump typescript from 6.0.3 to 7.0.2 in /website in the npm-major group across 1 directory",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/400",
     "items": [

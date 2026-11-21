@@ -44,6 +44,8 @@ Every workflow lives in [`.github/workflows/`](https://github.com/LLazyEmail/awe
 
 A red *Auto-rebase open PRs* run usually means one PR has a real conflict (the summary names it and the files). Fix that PR by hand or run the workflow with its number and `rebase-conflicts: true`; the other PRs were still processed.
 
+**Contributor PRs from forks** can't be rebased in place, because the workflow can't push to someone else's fork. When one conflicts, the workflow opens a new draft PR from `supersede/pr-<N>` instead. Its body starts with `Supersedes #N`, it credits the contributor as co-author, and it gets a link comment on the original. Two PRs adding entries to the same list are merged automatically, keeping both entries. Anything else gets a comment on the original PR asking for a person. Merge the new PR, and *Close superseded PRs* closes the original with a thank-you. Example: PR #446 superseded contributor PR #421.
+
 ## All workflows
 
 | Workflow | File | Runs on | What it does |
@@ -53,8 +55,8 @@ A red *Auto-rebase open PRs* run usually means one PR has a real conflict (the s
 | Markdown lint | `markdown-lint.yml` | PRs and pushes touching Markdown | markdownlint on `README.md`, `CHANGELOG.md` and `website/docs/**`. |
 | Link check | `link-check.yml` | PRs, Mondays, manual | lychee on the README, changelog and docs, using `.lychee.toml`; site-relative `/docs/...` links resolve against `website/`. Scheduled and manual runs write the report issue above. |
 | Awesome list entry format check | `awesome-entry-format-check.yml` | PRs | Adds a warning annotation for changed list entries that are missing the ` - description` part. Doesn't fail the PR. Calls DA `reusable-entry-format`. |
-| README ↔ Docs sync check | `readme-docs-sync-check.yml` | PRs | Fails when a link is added to `README.md` but not to the matching `website/docs` page (see the README → docs map in `AGENTS.md`). Calls DA `reusable-readme-sync`. |
-| Comment on README-only PRs | `comment-readme-only.yml` | PRs | When a PR changes `README.md` but nothing under `website/docs/`, comments once asking to add the entry to the docs page too. Calls DA `reusable-readme-only`. |
+| README ↔ Docs sync check | `readme-docs-sync-check.yml` | PRs | Fails when a link is added to `README.md` but not to the matching `website/docs` page (see the README → docs map in `AGENTS.md` and [CONTRIBUTING.md](https://github.com/LLazyEmail/awesome-email-marketing/blob/main/CONTRIBUTING.md)). Its own comment is off; *Docs sync feedback* explains the fix. Calls DA `reusable-readme-sync`. |
+| Docs sync feedback | `docs-sync-feedback.yml` | PRs touching `README.md` or docs, including forks (`pull_request_target`); manual with a PR number | When a PR adds an entry to `README.md` but not to the docs page, adds the `needs-docs-sync` label and one comment naming the docs file, section and exact line to add. Later pushes edit that comment. Once in sync, the label is removed and the comment says resolved. Replaces the old *Comment on README-only PRs* workflow, which couldn't comment on fork PRs. Calls DA `reusable-sync-feedback` (no short alias). |
 | Star request comment | `star-request.yml` | Newly opened PRs, including forks (`pull_request_target`) | Comments thanking the contributor and asking for a ⭐. |
 | Auto-rebase open PRs | `auto-rebase-prs.yml` | Every 6 h, manual | Updates PR branches that are behind `main`; conflicting PRs are reported, not force-pushed, unless `rebase-conflicts` is set. Conflicting fork PRs get a superseding PR (`supersede/pr-N`, "Supersedes #N"). |
 | Close superseded PRs | `close-superseded-prs.yml` | A PR is merged (`pull_request_target`, no code checkout) | Closes every PR named in the merged PR's `Supersedes #N` line, with a thank-you comment. |
