@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-21",
+    "title": "Add Mail Toolbelt to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/452",
+    "items": [
+      "Merged pull request #452",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/452"
+    ]
+  },
+  {
+    "date": "2026-11-21",
     "title": "Add PlicSigur (free SPF/DKIM/DMARC checker) to Deliverability & Testing Tools (supersedes #450)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/451",
     "items": [
