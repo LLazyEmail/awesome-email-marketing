@@ -62,6 +62,7 @@ Filter on [Explore → automation](/explore?tag=automation), [esp](/explore?tag=
 - [Wraps](https://wraps.dev) — automations/templates/broadcasts sending through your AWS
 - [Overloop CLI](https://github.com/sortlist/overloop-cli) — AI-powered outbound engine as a CLI (`npm i -g overloop-cli`)
 - [MisarReach](https://misarreach.com) - AI lead finder with email, LinkedIn, WhatsApp and SMS outreach sequences and a built-in CRM
+- [WarmySender](https://github.com/warmysender-oss/warmysender) — open-source, self-hostable cold email engine (Instantly alternative) with sequences, same-thread follow-ups, a unified inbox and send caps enforced in code; AGPL-3.0
 
 ## Comparisons
 
