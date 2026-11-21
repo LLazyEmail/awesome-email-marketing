@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-21",
+    "title": "Add PlicSigur (free SPF/DKIM/DMARC checker) to Deliverability & Testing Tools (supersedes #450)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/451",
+    "items": [
+      "Merged pull request #451",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/451"
+    ]
+  },
+  {
     "date": "2026-11-20",
     "title": "Add ZoneBI to Deliverability & Testing Tools",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/449",

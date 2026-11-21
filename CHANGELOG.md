@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add PlicSigur (free SPF/DKIM/DMARC checker) to Deliverability & Testing Tools (supersedes #450) ([#451](https://github.com/LLazyEmail/awesome-email-marketing/pull/451))
 - Add ZoneBI to Deliverability & Testing Tools ([#449](https://github.com/LLazyEmail/awesome-email-marketing/pull/449))
 - ci(auto-rebase): supersede conflicting fork PRs; close superseded PRs on merge ([#447](https://github.com/LLazyEmail/awesome-email-marketing/pull/447))
 - Add Luminoxia Cold Email Spam Checker (supersedes #421) ([#446](https://github.com/LLazyEmail/awesome-email-marketing/pull/446))
