@@ -34,6 +34,21 @@ const config: Config = {
     },
   ],
 
+  // Google Tag Manager
+  scripts: [
+    {
+      src: 'https://www.googletagmanager.com/gtm.js?id=GTM-56LJKCZW',
+      async: true,
+    },
+    {
+      content: `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      `,
+    },
+  ],
+
   presets: [
     [
       'classic',
