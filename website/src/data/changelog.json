@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-21",
+    "title": "Add WarmySender to Delivery, outbound & infrastructure-owned",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/453",
+    "items": [
+      "Merged pull request #453",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/453"
+    ]
+  },
+  {
+    "date": "2026-11-21",
     "title": "docs: add WarmySender to Automation Platforms",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/455",
     "items": [
