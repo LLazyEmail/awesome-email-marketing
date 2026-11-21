@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-21",
+    "title": "ci: prefer documentation-actions short-name aliases",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/457",
+    "items": [
+      "Merged pull request #457",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/457"
+    ]
+  },
+  {
+    "date": "2026-11-21",
     "title": "ci: docs-sync feedback for contributor PRs (label + specific comment)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/456",
     "items": [
