@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-21",
+    "title": "ci(auto-rebase): accept workflow deletions on main, typed conflict report, warn not fail",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/458",
+    "items": [
+      "Merged pull request #458",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/458"
+    ]
+  },
+  {
+    "date": "2026-11-21",
     "title": "ci: prefer documentation-actions short-name aliases",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/457",
     "items": [
