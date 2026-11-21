@@ -122,6 +122,7 @@ that already contain them, so it reflects where entries actually live today.
 | Transactional Emails > Providers & products | `website/docs/more/transactional-tools.md` |
 | Awesome lists | `website/docs/more/awesome-lists.md` |
 | Additional content | `website/docs/more/additional-content.md` |
+| Automation and reports | `website/docs/more/automation-and-reports.md` |
 
 If the section is not listed, search `website/docs/` for the closest page or ask before inventing a new one.
 The README ↔ Docs sync check passes a README-only PR when every added link is already on a docs page
