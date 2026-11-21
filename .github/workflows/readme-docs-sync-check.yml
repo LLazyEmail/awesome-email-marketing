@@ -17,4 +17,6 @@ jobs:
     with:
       # Pass README-only PRs whose added links are already on a docs page
       pass-if-links-in-docs: true
+      # docs-sync-feedback.yml posts the (specific, self-updating) comment instead
+      post-comment: false
     secrets: inherit
