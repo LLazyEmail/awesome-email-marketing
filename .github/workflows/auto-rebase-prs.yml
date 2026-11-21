@@ -33,4 +33,14 @@ jobs:
       # list files keep both entries; anything else is reported on the PR.
       supersede-fork-prs: true
       supersede-union-paths: 'README.md website/docs/**/*.md'
+      # A PR that edits a workflow main has since deleted (e.g. #457 after #456):
+      # accept main's deletion instead of failing, and list the dropped file on
+      # the PR. Only for .github/workflows/**, and only if that's the sole conflict.
+      # Also lets merge-fallback try a local merge when GitHub says "not mergeable".
+      resolve-deleted-on-main: true
+      # Other conflicts: one typed report comment on the PR, plus the same
+      # has-conflicts label label-conflicted-prs.yml uses. The run stays green
+      # (warning) instead of red.
+      fail-on-conflict: false
+      conflict-label: has-conflicts
     secrets: inherit
