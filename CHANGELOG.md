@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- chore(deps-dev): bump typescript from 6.0.3 to 7.0.2 in /website in the npm-major group across 1 directory ([#400](https://github.com/LLazyEmail/awesome-email-marketing/pull/400))
 - Add WarmySender to Delivery, outbound & infrastructure-owned ([#453](https://github.com/LLazyEmail/awesome-email-marketing/pull/453))
 - docs: add WarmySender to Automation Platforms ([#455](https://github.com/LLazyEmail/awesome-email-marketing/pull/455))
 - docs: add Google Tag Manager for analytics ([#454](https://github.com/LLazyEmail/awesome-email-marketing/pull/454))
