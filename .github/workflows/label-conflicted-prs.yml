@@ -13,5 +13,5 @@ permissions:
 
 jobs:
   label:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-label-conflicted-prs.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-label-conflicts.yml@v2
     secrets: inherit

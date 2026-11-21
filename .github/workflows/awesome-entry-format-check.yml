@@ -15,5 +15,5 @@ permissions:
 
 jobs:
   validate:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-awesome-entry-format-check.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-entry-format.yml@v2
     secrets: inherit

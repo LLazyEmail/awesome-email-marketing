@@ -10,5 +10,5 @@ permissions:
 
 jobs:
   comment:
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-comment-readme-only.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-readme-only.yml@v2
     secrets: inherit
