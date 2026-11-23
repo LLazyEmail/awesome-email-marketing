@@ -54,6 +54,7 @@ Browse with tags on [Explore](/explore).
 ## Auth, DNS & monitoring
 
 - [Canny Pigeons](https://cannypigeons.com) - DMARC monitoring that walks you to p=reject: DNS drift alerts, IP threat intel, and free first domain with hosted DMARC.
+- [DMARC Record Generator](https://bestlatestapps.com/tools/dmarc-record-generator/) - Builds a DMARC TXT record for the _dmarc host from a policy and a report address, then checks the DMARC record the domain publishes today through public DNS. Free, no sign-up; built by the submitter, and the site shows ads.
 - [Email Forgery Check](https://stephen-psaradellis.github.io/demos/email-forgery-check.html) - Free, no-signup check of whether anyone can send mail as your domain: reads SPF, DMARC, common DKIM selectors and MX from public DNS in your browser and explains each gap in plain words. MIT, open source. ([source](https://github.com/Stephen-Psaradellis/email-forgery-check))
 - [SPF, DKIM and DMARC alignment lesson](https://artigram.cafeboon.com/p/wpjtfzc) - Free, no-signup explorable lesson: flip the envelope sender, the DKIM signing domain and the alignment mode, guess six cases and break the SPF 10-lookup limit. Runs in the browser. Posted on ArtiGram, which I built.
 - [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
