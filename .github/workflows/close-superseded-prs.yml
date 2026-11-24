@@ -13,4 +13,4 @@ permissions:
 jobs:
   close:
     if: github.event.pull_request.merged == true
-    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-close-superseded-prs.yml@v2
+    uses: LLazyEmail/documentation-actions/.github/workflows/reusable-close-superseded.yml@v2

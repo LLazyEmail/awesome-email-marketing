@@ -1029,7 +1029,7 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ## Automation and reports
 
-Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch. Where DA publishes a short-name alias (see [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md)), the caller uses that name and keeps the same pin. The alias accepts the same inputs as the long name.
+Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch. Where DA publishes a short-name alias (see [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md)), the caller uses that name and keeps the same pin. The alias accepts the same inputs as the long name. `auto-rebase-prs.yml` calls `reusable-auto-rebase`; `close-superseded-prs.yml` calls `reusable-close-superseded`.
 
 ### Where to find the reports
 
