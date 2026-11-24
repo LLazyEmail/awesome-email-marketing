@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- ci: use short DA aliases for auto-rebase and close-superseded ([#465](https://github.com/LLazyEmail/awesome-email-marketing/pull/465))
 - Add DMARC Record Generator to Deliverability & Testing Tools (supersedes #462) ([#464](https://github.com/LLazyEmail/awesome-email-marketing/pull/464))
 - Add Transmitly to Email Service Providers ([#461](https://github.com/LLazyEmail/awesome-email-marketing/pull/461))
 - Add InboxShield SPF Flattener & Audit to Deliverability & Testing Tools ([#459](https://github.com/LLazyEmail/awesome-email-marketing/pull/459))

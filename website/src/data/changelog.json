@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-24",
+    "title": "ci: use short DA aliases for auto-rebase and close-superseded",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/465",
+    "items": [
+      "Merged pull request #465",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/465"
+    ]
+  },
+  {
+    "date": "2026-11-24",
     "title": "Add DMARC Record Generator to Deliverability & Testing Tools (supersedes #462)",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/464",
     "items": [
