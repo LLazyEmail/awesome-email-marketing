@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-24",
+    "title": "Add InboxShield SPF Flattener & Audit to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/459",
+    "items": [
+      "Merged pull request #459",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/459"
+    ]
+  },
+  {
     "date": "2026-11-21",
     "title": "ci(auto-rebase): accept workflow deletions on main, typed conflict report, warn not fail",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/458",
