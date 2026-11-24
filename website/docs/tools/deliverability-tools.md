@@ -65,6 +65,7 @@ Browse with tags on [Explore](/explore).
 - [Gmail & Yahoo Sender Requirements Checker](https://www.inboxwisetools.com/tools/email-sender-requirements-checker/) - Free, no-signup checklist of the Gmail and Yahoo bulk-sender rules (SPF, DKIM, DMARC alignment, one-click unsubscribe, 0.1%/0.3% spam-rate lines), based on their official pages. Runs in the browser; no DNS lookups.
 - [ZoneBI](https://zonebi.com/en/) - Monitors SPF, DKIM, DMARC, Spamhaus blocklists, DNS and SSL certificates for your domains, and explains what to fix. Free plan for 3 domains. Built by the submitter.
 - [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup sender authentication check (UI in Romanian): SPF with recursive lookup count, DKIM, DMARC per RFC 9989, MTA-STS, TLS-RPT, BIMI and DNSSEC, with Gmail/Outlook bulk-sender verdicts and copy-paste DNS fixes; runs in the browser, nothing stored.
+- [InboxShield SPF Flattener & Audit](https://inbox-checker.appwrite.network/spf-flattener) - Free, no-signup SPF 10-lookup flattener and live SPF, DMARC, MX and MTA-STS deliverability audit with copy-paste BIND output; open-source CLI available and optional offline Pro toolkit. Built by the submitter.
 
 ## Testing, warmup & delivery
 
