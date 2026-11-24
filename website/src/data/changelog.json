@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-24",
+    "title": "Add DMARC Record Generator to Deliverability & Testing Tools (supersedes #462)",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/464",
+    "items": [
+      "Merged pull request #464",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/464"
+    ]
+  },
+  {
+    "date": "2026-11-24",
     "title": "Add Transmitly to Email Service Providers",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/461",
     "items": [
