@@ -185,6 +185,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Sendinblue](https://sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
 * [SendPulse](https://sendpulse.com) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
 * [SendX](https://sendx.io) - makes it easy to be a responsible email marketer
+* [Transmitly](https://transmitly.io) - Transactional email API and SMTP relay with inbound inboxes, MCP support, and delivery states. Free plan: 6,000 emails/month, 200/day, 3 domains. Built by the submitter.
 
 
 ## Email Marketing For eCommerce
