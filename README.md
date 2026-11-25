@@ -148,6 +148,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup sender authentication check (UI in Romanian): SPF with recursive lookup count, DKIM, DMARC per RFC 9989, MTA-STS, TLS-RPT, BIMI and DNSSEC, with Gmail/Outlook bulk-sender verdicts and copy-paste DNS fixes; runs in the browser, nothing stored.
 * [InboxShield SPF Flattener & Audit](https://inbox-checker.appwrite.network/spf-flattener) - Free, no-signup SPF 10-lookup flattener and live SPF, DMARC, MX and MTA-STS deliverability audit with copy-paste BIND output; open-source CLI available and optional offline Pro toolkit. Built by the submitter.
 * [DMARC Record Generator](https://bestlatestapps.com/tools/dmarc-record-generator/) - Builds a DMARC TXT record for the _dmarc host from a policy and a report address, then checks the DMARC record the domain publishes today through public DNS. Free, no sign-up; built by the submitter, and the site shows ads.
+* [MyIPScan Email Header Analyzer](https://myipscan.net/tools/email-header-analyzer) - Paste raw email headers to trace the delivery path, extract originating IPs and review SPF, DKIM and DMARC results; runs in the browser, no signup.
 
 ### Growth & Automation Tools
 
