@@ -41,6 +41,7 @@ seo:
 - [DNSai](https://dnsai.com/dns-tools/) - Free SPF, DKIM and DMARC checkers, plus DNS/WHOIS lookups and email-header analysis; no signup.
 - [Welcome email generator](https://kicklace.com/welcome-email-generator) - Type a SaaS's address and get the emails it should send, free and with no sign-up.
 - [Campaign Cleaner](https://campaigncleaner.com) - Spam checker, Font Color Adjuster, Blacklist Link Checker, Broken Link Checker, CSS Inliner, HTML Sanitizer, Non-ASCII replacement, Font-Size Adjuster, and more.
+- [Fig](https://fig.email) - Email verification for sales teams and AI agents: an SMTP mailbox check returns valid, invalid, risky or unknown with a reason, from a CSV or Excel upload, REST API, CLI or MCP server. 100 free checks, packs from $2 per 1,000 that never expire, unknown results refunded. Built by the submitter.
 - [Add-to-calendar links in email](https://addtocalendarlab.com/guides/add-to-calendar-link-in-email) - Free guide to adding "add to calendar" buttons that work in Gmail, Outlook and Apple Mail: why JavaScript widgets fail in email, how to build Google/Outlook/Yahoo links and a hosted .ics by hand, and links vs .ics attachments.
 - [Cold Email Checker](https://ignura.com/tools/cold-email-checker) - Free, no-signup check of a cold email's length, reading level, spam words, links, questions and ask; runs in the browser, open source (MIT).
 
