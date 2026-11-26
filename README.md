@@ -227,6 +227,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 - [Overloop CLI](https://github.com/sortlist/overloop-cli) - AI-powered outbound engine as a CLI (`npm i -g overloop-cli`)
 - [MisarReach](https://misarreach.com) - AI lead finder with email, LinkedIn, WhatsApp and SMS outreach sequences and a built-in CRM
 - [WarmySender](https://github.com/warmysender-oss/warmysender) - open-source, self-hostable cold email engine (Instantly alternative) with sequences, same-thread follow-ups, a unified inbox and send caps enforced in code; AGPL-3.0
+- [Drip Send](https://www.yuzool.com/apps/dripsend.html) - native Mac app for one-to-one cold emails and paced follow-ups sent from your own mailbox, stopping when someone replies. $34.99 one-time. Built by the submitter.
 
 
 ## Tools for effective work with emails
