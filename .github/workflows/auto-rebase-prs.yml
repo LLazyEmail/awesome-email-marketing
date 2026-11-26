@@ -39,8 +39,16 @@ jobs:
       # Also lets merge-fallback try a local merge when GitHub says "not mergeable".
       resolve-deleted-on-main: true
       # Other conflicts: one typed report comment on the PR, plus the same
-      # has-conflicts label label-conflicted-prs.yml uses. The run stays green
-      # (warning) instead of red.
+      # has-conflicts label label-conflicted-prs.yml uses. A conflict hit during
+      # a rebase-conflicts dispatch stays a warning instead of red.
       fail-on-conflict: false
       conflict-label: has-conflicts
+      # Make PRs this run can't fix visible (DA v2.16.0+): a sweep that skips a
+      # conflicting PR turns the run red, and PRs whose checks are red get a
+      # warning, a summary column and the checks-failing label. Check names need
+      # the AUTO_REBASE_TOKEN secret (a PAT that can read checks); without it the
+      # action uses GitHub's "unstable" merge state.
+      fail-on-skipped-conflicts: true
+      report-failing-checks: true
+      failing-checks-label: checks-failing
     secrets: inherit
