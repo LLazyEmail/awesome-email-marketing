@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-26",
+    "title": "Add Postmaster of Puppets to Deliverability & Testing Tools",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/467",
+    "items": [
+      "Merged pull request #467",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/467"
+    ]
+  },
+  {
+    "date": "2026-11-26",
     "title": "ci(auto-rebase): label conflicts, fail on skipped conflicts, report failing checks",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/473",
     "items": [

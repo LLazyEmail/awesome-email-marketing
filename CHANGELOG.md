@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add Postmaster of Puppets to Deliverability & Testing Tools ([#467](https://github.com/LLazyEmail/awesome-email-marketing/pull/467))
 - ci(auto-rebase): label conflicts, fail on skipped conflicts, report failing checks ([#473](https://github.com/LLazyEmail/awesome-email-marketing/pull/473))
 - Add Drip Send ([#466](https://github.com/LLazyEmail/awesome-email-marketing/pull/466))
 - ci: use short DA aliases for auto-rebase and close-superseded ([#465](https://github.com/LLazyEmail/awesome-email-marketing/pull/465))
