@@ -209,6 +209,7 @@ Docs: [`website/docs/tools/automation-platforms.md`](./website/docs/tools/automa
 - [Sendinblue](https://www.sendinblue.com) - all-in-one digital marketing with transactional messaging and automation
 - [GetResponse](https://www.getresponse.com/) - email marketing platform for lists, relationships, and campaigns
 - [Zoho Campaigns](https://www.zoho.com/campaigns/) - email marketing platform for leads and contacts
+- [Genaya](https://www.genaya.com) - CRM with email and SMS campaigns, review requests, scheduling, invoices and an AI receptionist for service businesses. Paid, 14-day free trial. Built by the submitter.
 
 ### Ecommerce & product-led
 
