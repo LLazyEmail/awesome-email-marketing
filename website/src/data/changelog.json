@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-26",
+    "title": "Add Fig to Tools for effective work with emails",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/468",
+    "items": [
+      "Merged pull request #468",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/468"
+    ]
+  },
+  {
+    "date": "2026-11-26",
     "title": "Add Postmaster of Puppets to Deliverability & Testing Tools",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/467",
     "items": [
