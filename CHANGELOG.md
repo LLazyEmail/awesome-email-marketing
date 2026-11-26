@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Add Genaya to All-in-one automation & CRM ([#470](https://github.com/LLazyEmail/awesome-email-marketing/pull/470))
 - Add Fig to Tools for effective work with emails ([#468](https://github.com/LLazyEmail/awesome-email-marketing/pull/468))
 - Add Postmaster of Puppets to Deliverability & Testing Tools ([#467](https://github.com/LLazyEmail/awesome-email-marketing/pull/467))
 - ci(auto-rebase): label conflicts, fail on skipped conflicts, report failing checks ([#473](https://github.com/LLazyEmail/awesome-email-marketing/pull/473))
