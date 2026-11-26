@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-11-26",
+    "title": "Add Drip Send",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/466",
+    "items": [
+      "Merged pull request #466",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/466"
+    ]
+  },
+  {
     "date": "2026-11-24",
     "title": "ci: use short DA aliases for auto-rebase and close-superseded",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/465",
