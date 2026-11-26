@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-26",
+    "title": "ci(auto-rebase): label conflicts, fail on skipped conflicts, report failing checks",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/473",
+    "items": [
+      "Merged pull request #473",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/473"
+    ]
+  },
+  {
+    "date": "2026-11-26",
     "title": "Add Drip Send",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/466",
     "items": [

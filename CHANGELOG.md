@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- ci(auto-rebase): label conflicts, fail on skipped conflicts, report failing checks ([#473](https://github.com/LLazyEmail/awesome-email-marketing/pull/473))
 - Add Drip Send ([#466](https://github.com/LLazyEmail/awesome-email-marketing/pull/466))
 - ci: use short DA aliases for auto-rebase and close-superseded ([#465](https://github.com/LLazyEmail/awesome-email-marketing/pull/465))
 - Add DMARC Record Generator to Deliverability & Testing Tools (supersedes #462) ([#464](https://github.com/LLazyEmail/awesome-email-marketing/pull/464))
