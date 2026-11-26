@@ -147,6 +147,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [ZoneBI](https://zonebi.com/en/) - Monitors SPF, DKIM, DMARC, Spamhaus blocklists, DNS and SSL certificates for your domains, and explains what to fix. Free plan for 3 domains. Built by the submitter.
 * [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup sender authentication check (UI in Romanian): SPF with recursive lookup count, DKIM, DMARC per RFC 9989, MTA-STS, TLS-RPT, BIMI and DNSSEC, with Gmail/Outlook bulk-sender verdicts and copy-paste DNS fixes; runs in the browser, nothing stored.
 * [InboxShield SPF Flattener & Audit](https://inbox.shipbastion.com/spf-flattener) - Free, no-signup SPF 10-lookup flattener and live SPF, DMARC, MX and MTA-STS deliverability audit with copy-paste BIND output; open-source CLI available and optional offline Pro toolkit. Built by the submitter.
+* [DMARC Record Generator](https://bestlatestapps.com/tools/dmarc-record-generator/) - Builds a DMARC TXT record for the _dmarc host from a policy and a report address, then checks the DMARC record the domain publishes today through public DNS. Free, no sign-up; built by the submitter, and the site shows ads.
 
 ### Growth & Automation Tools
 
@@ -185,6 +186,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Sendinblue](https://sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
 * [SendPulse](https://sendpulse.com) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
 * [SendX](https://sendx.io) - makes it easy to be a responsible email marketer
+* [Transmitly](https://transmitly.io) - Transactional email API and SMTP relay with inbound inboxes, MCP support, and delivery states. Free plan: 6,000 emails/month, 200/day, 3 domains. Built by the submitter.
 
 
 ## Email Marketing For eCommerce
@@ -1027,7 +1029,7 @@ One-time setup: repository **Settings → Pages → Source → GitHub Actions**.
 
 ## Automation and reports
 
-Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch. Where DA publishes a short-name alias (see [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md)), the caller uses that name and keeps the same pin. The alias accepts the same inputs as the long name.
+Every workflow lives in `.github/workflows/`. Most call shared reusable workflows from the `LLazyEmail/documentation-actions` repository (DA); `@v2` pins a DA release, `@main` follows DA's main branch. Where DA publishes a short-name alias (see [DA naming](https://github.com/LLazyEmail/documentation-actions/blob/main/docs/naming.md)), the caller uses that name and keeps the same pin. The alias accepts the same inputs as the long name. `auto-rebase-prs.yml` calls `reusable-auto-rebase`; `close-superseded-prs.yml` calls `reusable-close-superseded`.
 
 ### Where to find the reports
 
