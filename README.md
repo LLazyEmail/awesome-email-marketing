@@ -146,7 +146,7 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Luminoxia Cold Email Spam Checker](https://luminoxia.com/tools/cold-email-spam-checker/) - Free, no-signup check of email copy: highlights trigger words and checks links, images, capitals, length, the subject line, merge tags and the opt-out line. The checks run in the browser; there is no inbox-placement score. Built by the submitter.
 * [ZoneBI](https://zonebi.com/en/) - Monitors SPF, DKIM, DMARC, Spamhaus blocklists, DNS and SSL certificates for your domains, and explains what to fix. Free plan for 3 domains. Built by the submitter.
 * [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup sender authentication check (UI in Romanian): SPF with recursive lookup count, DKIM, DMARC per RFC 9989, MTA-STS, TLS-RPT, BIMI and DNSSEC, with Gmail/Outlook bulk-sender verdicts and copy-paste DNS fixes; runs in the browser, nothing stored.
-* [InboxShield SPF Flattener & Audit](https://inbox-checker.appwrite.network/spf-flattener) - Free, no-signup SPF 10-lookup flattener and live SPF, DMARC, MX and MTA-STS deliverability audit with copy-paste BIND output; open-source CLI available and optional offline Pro toolkit. Built by the submitter.
+* [InboxShield SPF Flattener & Audit](https://inbox.shipbastion.com/spf-flattener) - Free, no-signup SPF 10-lookup flattener and live SPF, DMARC, MX and MTA-STS deliverability audit with copy-paste BIND output; open-source CLI available and optional offline Pro toolkit. Built by the submitter.
 
 ### Growth & Automation Tools
 
