@@ -54,6 +54,7 @@ Browse with tags on [Explore](/explore).
 ## Auth, DNS & monitoring
 
 - [Canny Pigeons](https://cannypigeons.com) - DMARC monitoring that walks you to p=reject: DNS drift alerts, IP threat intel, and free first domain with hosted DMARC.
+- [DMARC Record Generator](https://bestlatestapps.com/tools/dmarc-record-generator/) - Builds a DMARC TXT record for the _dmarc host from a policy and a report address, then checks the DMARC record the domain publishes today through public DNS. Free, no sign-up; built by the submitter, and the site shows ads.
 - [Email Forgery Check](https://stephen-psaradellis.github.io/demos/email-forgery-check.html) - Free, no-signup check of whether anyone can send mail as your domain: reads SPF, DMARC, common DKIM selectors and MX from public DNS in your browser and explains each gap in plain words. MIT, open source. ([source](https://github.com/Stephen-Psaradellis/email-forgery-check))
 - [SPF, DKIM and DMARC alignment lesson](https://artigram.cafeboon.com/p/wpjtfzc) - Free, no-signup explorable lesson: flip the envelope sender, the DKIM signing domain and the alignment mode, guess six cases and break the SPF 10-lookup limit. Runs in the browser. Posted on ArtiGram, which I built.
 - [Inboxproof](https://inboxproof-phi.vercel.app/) - Free, no-signup email deliverability audit: SPF, DKIM, DMARC, TLS and IP reputation in ~30s, with a spam-risk score.
@@ -65,7 +66,7 @@ Browse with tags on [Explore](/explore).
 - [Gmail & Yahoo Sender Requirements Checker](https://www.inboxwisetools.com/tools/email-sender-requirements-checker/) - Free, no-signup checklist of the Gmail and Yahoo bulk-sender rules (SPF, DKIM, DMARC alignment, one-click unsubscribe, 0.1%/0.3% spam-rate lines), based on their official pages. Runs in the browser; no DNS lookups.
 - [ZoneBI](https://zonebi.com/en/) - Monitors SPF, DKIM, DMARC, Spamhaus blocklists, DNS and SSL certificates for your domains, and explains what to fix. Free plan for 3 domains. Built by the submitter.
 - [PlicSigur](https://plicsigur.ro/en/) - Free, no-signup sender authentication check (UI in Romanian): SPF with recursive lookup count, DKIM, DMARC per RFC 9989, MTA-STS, TLS-RPT, BIMI and DNSSEC, with Gmail/Outlook bulk-sender verdicts and copy-paste DNS fixes; runs in the browser, nothing stored.
-- [InboxShield SPF Flattener & Audit](https://inbox-checker.appwrite.network/spf-flattener) - Free, no-signup SPF 10-lookup flattener and live SPF, DMARC, MX and MTA-STS deliverability audit with copy-paste BIND output; open-source CLI available and optional offline Pro toolkit. Built by the submitter.
+- [InboxShield SPF Flattener & Audit](https://inbox.shipbastion.com/spf-flattener) - Free, no-signup SPF 10-lookup flattener and live SPF, DMARC, MX and MTA-STS deliverability audit with copy-paste BIND output; open-source CLI available and optional offline Pro toolkit. Built by the submitter.
 
 ## Testing, warmup & delivery
 
