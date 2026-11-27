@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-27",
+    "title": "chore(deps): bump the npm-minor-patch group in /website with 2 updates",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/460",
+    "items": [
+      "Merged pull request #460",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/460"
+    ]
+  },
+  {
+    "date": "2026-11-27",
     "title": "Add EmailTimer.app to Tools for effective work with emails",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/475",
     "items": [

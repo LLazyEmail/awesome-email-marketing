@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- chore(deps): bump the npm-minor-patch group in /website with 2 updates ([#460](https://github.com/LLazyEmail/awesome-email-marketing/pull/460))
 - Add EmailTimer.app to Tools for effective work with emails ([#475](https://github.com/LLazyEmail/awesome-email-marketing/pull/475))
 - Match list bullet style for Fig entry ([#478](https://github.com/LLazyEmail/awesome-email-marketing/pull/478))
 - docs: searchable Best Tools directory with a custom layout ([#479](https://github.com/LLazyEmail/awesome-email-marketing/pull/479))
