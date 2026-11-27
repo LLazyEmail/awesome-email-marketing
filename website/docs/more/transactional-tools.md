@@ -39,6 +39,10 @@ Providers, platform documentation, directories, and templates for sending transa
 
 ## Providers & platforms
 
+- [Amazon SES](https://aws.amazon.com/ses/) - AWS email sending service for transactional and marketing messages.
+- [Mailgun](https://www.mailgun.com/) - Email API and SMTP service for transactional and marketing mail.
+- [Postmark](https://postmarkapp.com/) - Transactional email delivery for application mail.
+- [Resend](https://resend.com/) - Email API for developers, with a simple sending interface.
 - [Transactional Email (SendGrid)](https://www.twilio.com/docs/sendgrid/for-developers/sending-email/getting-started-with-transactional-emails)
 - [MailerSend / MailerLite transactional](https://www.mailerlite.com/features/transactional-emails)
 - [Mailjet transactional email](https://www.mailjet.com/solutions/use-cases/transactional-email/)

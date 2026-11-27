@@ -42,9 +42,11 @@ All-in-one email service providers for campaigns, lists, analytics, and everyday
 - [Constant Contact](https://constantcontact.com) - effective email marketing and other online marketing campaigns to meet business goals
 - [email59](https://email59.com) - Email API and SMTP relay for transactional messages, test sends and MCP
 - [Getresponse](https://getresponse.com) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
+- [HubSpot](https://www.hubspot.com/products/marketing/email) - Marketing platform with email campaigns, automation, and a CRM.
 - [Mailchimp](https://mailchimp.com) - Free emailing software
 - [Mailjet](https://mailjet.com) - Create and send beautiful emails without touching a single line of code
 - [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
+- [Moosend](https://moosend.com/) - Email marketing and automation platform for campaigns and journeys.
 - [Nitrosend](https://nitrosend.com) - Create branded campaigns, automated flows, and transactional email from the dashboard or through MCP, CLI, and API
 - [Sendinblue](https://sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
 - [SendPulse](https://sendpulse.com) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
