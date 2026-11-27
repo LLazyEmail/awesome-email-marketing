@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-27",
+    "title": "Match list bullet style for Fig entry",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/478",
+    "items": [
+      "Merged pull request #478",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/478"
+    ]
+  },
+  {
+    "date": "2026-11-27",
     "title": "docs: searchable Best Tools directory with a custom layout",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/479",
     "items": [

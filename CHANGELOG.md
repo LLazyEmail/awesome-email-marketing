@@ -8,6 +8,7 @@ This changelog is generated automatically from merged pull requests with [`auto-
 
 ### Merged
 
+- Match list bullet style for Fig entry ([#478](https://github.com/LLazyEmail/awesome-email-marketing/pull/478))
 - docs: searchable Best Tools directory with a custom layout ([#479](https://github.com/LLazyEmail/awesome-email-marketing/pull/479))
 - Add Genaya to All-in-one automation & CRM ([#470](https://github.com/LLazyEmail/awesome-email-marketing/pull/470))
 - Add Fig to Tools for effective work with emails ([#468](https://github.com/LLazyEmail/awesome-email-marketing/pull/468))
