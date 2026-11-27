@@ -15,6 +15,8 @@
     "start": "docusaurus start",
     "prebuild": "npm run generate:api && npm run generate:docs-index && npm run generate:industry-leaders",
     "build": "docusaurus build",
+    "write:trailing-slash-redirects": "node ./scripts/write-trailing-slash-redirects.mjs",
+    "postbuild": "npm run write:trailing-slash-redirects",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",

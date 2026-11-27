@@ -83,11 +83,14 @@ function toDocId(relPath) {
 }
 
 function toSitePath(docId) {
+  // Canonical URLs match docusaurus.config.ts `trailingSlash: false`.
+  // A trailing slash 404s on GitHub Pages when the path is also a
+  // directory of child pages (the folder exists, but there is no index.html).
   if (docId === 'intro') {
-    return '/docs/';
+    return '/docs';
   }
   if (docId.endsWith('/index')) {
-    return `/docs/${docId.slice(0, -'/index'.length)}/`;
+    return `/docs/${docId.slice(0, -'/index'.length)}`;
   }
   return `/docs/${docId}`;
 }

@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-27",
+    "title": "fix: resolve live site 404s on trailing-slash paths",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/477",
+    "items": [
+      "Merged pull request #477",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/477"
+    ]
+  },
+  {
+    "date": "2026-11-27",
     "title": "chore(deps): bump the npm-minor-patch group in /website with 2 updates",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/460",
     "items": [

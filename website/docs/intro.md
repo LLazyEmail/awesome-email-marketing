@@ -27,7 +27,7 @@ seo:
   title: "Overview | Awesome Email Marketing"
   description: "Curated email marketing tools, strategy guides, templates, and development resources."
   robots: index,follow
-  canonical_path: "/docs/"
+  canonical_path: "/docs"
   og_type: article
   twitter_card: summary_large_image
 ---
