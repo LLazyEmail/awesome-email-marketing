@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-27",
+    "title": "Add EmailTimer.app to Tools for effective work with emails",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/475",
+    "items": [
+      "Merged pull request #475",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/475"
+    ]
+  },
+  {
+    "date": "2026-11-27",
     "title": "Match list bullet style for Fig entry",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/478",
     "items": [
