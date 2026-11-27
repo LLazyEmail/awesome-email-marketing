@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T06:53:02.811Z",
+  "generatedAt": "2026-11-27T09:15:52.964Z",
   "count": 137,
   "pages": [
     {
@@ -84,7 +84,7 @@
       "title": "Best Email Marketing Tools",
       "sidebarLabel": "Best Tools",
       "description": "Curated email marketing tools split into newsletters, ESPs, builders, self-hosted platforms, deliverability, and growth automation.",
-      "path": "tools/best-tools.md",
+      "path": "tools/best-tools.mdx",
       "url": "/docs/tools/best-tools",
       "section": "tools",
       "draft": false,
