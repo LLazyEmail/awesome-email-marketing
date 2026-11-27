@@ -87,7 +87,7 @@ docs/
   intro.md                 Overview / start here
   glossary.mdx / api.mdx / changelog.mdx
   tools/
-    best-tools.md          Hub page
+    best-tools.mdx         Hub page with searchable directory
     newsletter-platforms.md
     self-hosted-esp.md
     email-builders.md

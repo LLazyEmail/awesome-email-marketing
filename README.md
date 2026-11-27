@@ -84,12 +84,14 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 ### Newsletter Platforms
 
 * [BirdSend](https://birdsend.co) - Don't waste paying 3-5X more on an expensive email marketing tool
+* [Beehiiv](https://www.beehiiv.com/) - Newsletter platform for publishers, with paid subscriptions and built-in growth tools.
 * [Butondown](https://buttondown.email) - The easiest way to write/grow/build/launch/share/run/ your newsletter
 * [ConvertKit](https://convertkit.com) - is the go-to marketing hub for creators that helps you grow and monetize your audience with ease
 * [day3](https://day3.app) - Newsletters and transactional email for small software teams, billed by emails sent with unlimited subscribers
 * [EmailOctopus](https://emailoctopus.com) - Email marketing made easy
 * [Feedotter](https://feedotter.com) - Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools
 * [Flodesk](https://flodesk.com) - a new email marketing service provider that’s built for creators, by creators
+* [Ghost](https://ghost.org/) - Open-source publishing platform with newsletters and memberships.
 * [Mailerlite](https://mailerlite.com/pricing) - Pricing mailerlite
 * [NoCodeLetters](https://nocodeletters.com) - Send your newsletters directly from Notion
 * [Revue](https://web.archive.org/web/20221201193739/https://www.getrevue.co/) - Editorial newsletters tool for writers and publishers (archived copy; Revue shut down in January 2023)
@@ -117,8 +119,10 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Colorlib](https://colorlib.com) - is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month
 * [EMAIL.md](https://github.com/kingadow/email-design-md) - A free design system for email that AI can follow, with a Figma checklist, Claude skills and a full demo brand
 * [Mailbakery](https://mailbakery.com) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
+* [MJML](https://mjml.io/) - Open-source markup language for responsive email.
 * [Postcards](https://designmodo.com/postcards) - Create awesome emails with drag & drop simplicity
 * [Stripo](https://stripo.email) - Drag-n-drop and HTML email builder with 1,690+ responsive templates
+* [Topol](https://topol.io/) - Drag-and-drop email editor and template builder.
 
 ### Deliverability & Testing Tools
 
@@ -150,11 +154,20 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [DMARC Record Generator](https://bestlatestapps.com/tools/dmarc-record-generator/) - Builds a DMARC TXT record for the _dmarc host from a policy and a report address, then checks the DMARC record the domain publishes today through public DNS. Free, no sign-up; built by the submitter, and the site shows ads.
 * [Postmaster of Puppets](https://postmasterofpuppets.com/) - Free, no-signup check of a domain's MX, SPF, DKIM and DMARC records that says whether anyone can send email as it, with the records that fix it. Runs in the browser; MIT, open source ([source](https://github.com/randyesperben/postmaster-of-puppets)). Built by the submitter.
 
+* [dmarcian](https://dmarcian.com/) - DMARC implementation and monitoring platform.
+* [EasyDMARC](https://easydmarc.com/) - DMARC monitoring and email authentication management.
+* [Email on Acid](https://www.emailonacid.com/) - Email previews, accessibility checks, and deliverability testing.
+* [GlockApps](https://glockapps.com/) - Inbox placement and deliverability testing for campaigns.
+* [Litmus](https://www.litmus.com/) - Email testing, preview, and analytics across clients and devices.
+* [Mail-tester](https://www.mail-tester.com/) - Score a test email for spam issues before you send.
+* [Validity](https://www.validity.com/) - Email deliverability and data quality tools.
+
 ### Growth & Automation Tools
 
 * [ActiveCampaign](https://activecampaign.com) - Drive growth with customer experience automation
 * [Autopilot](https://autopilothq.com) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 * [BacklinkGenie](https://backlinkgenie.com) - AI outreach agent for link building: finds blog posts where your product fits, writes one plain-text pitch per post and sends it from a separate warmed-up mailbox, with follow-ups that stop on reply
+* [Braze](https://www.braze.com/) - Customer engagement platform for cross-channel messaging and journeys.
 * [Customer.io](https://customer.io) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))
 * [Datacircle](https://datacircle.dev) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
 * [DailyStory](https://dailystory.com) - Simple to use email marketing and more
@@ -162,11 +175,13 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software
 * [Froged](https://froged.com) - Optimize your Customer Experience with One Powerful Product
 * [ImagineYourBook](https://www.imagineyourbook.com/book-generators/lead-magnet-ebook) - AI book drafting app that turns your notes or an outline into a full lead-magnet ebook for opt-ins and nurture sequences, with a cover and Word, EPUB or Markdown download. Paid, 7-day trial (card required); drafts need author review.
+* [Iterable](https://iterable.com/) - Cross-channel marketing platform for email, push, SMS, and journeys.
 * [JaxSuite AI](https://www.jaxsuite.com) - AI-native cold outreach and CRM platform with built-in warmup, spam testing, and smart sending limits.
 * [Jilt](https://web.archive.org/web/20211229174345/https://jilt.com/) (archived, discontinued) - eCommerce email marketing for WooCommerce, Shopify, and EDD Jilt
 * [Keap](https://keap.com) - the all-in-one sales and marketing automation platform designed to help you grow
 * [Klinky](https://klinky.io) - A/B testing link shortener: split one campaign link between two destinations and measure which one wins
 * [looot](https://looot.ai) - Pay-per-call data API for outbound lists: find and verify work emails and phones, enrich companies and people, and search companies from one key and one prepaid balance. Remote MCP server and CLI included; a failed call costs nothing, no subscription.
+* [Loops](https://loops.so/) - Email platform for SaaS, with marketing and transactional sending.
 * [Omnisend](https://omnisend.com) - is an omnichannel marketing automation platform for growth-focused ecommerce businesses
 * [Palabra](https://web.archive.org/web/20210118035739/https://palabra.io/) (archived) - Automate your product-led growth
 * [SalesLabel](https://sales-label.com) - White-label outbound email automation for B2B agencies. Multi-channel email + LinkedIn workflows with unlimited sending inboxes and built-in deliverability.
@@ -180,9 +195,11 @@ Explore filters: [esp](https://llazyemail.github.io/awesome-email-marketing/expl
 * [Constant Contact](https://constantcontact.com) - effective email marketing and other online marketing campaigns to meet business goals
 * [email59](https://email59.com) - Email API and SMTP relay for transactional messages, test sends and MCP
 * [Getresponse](https://getresponse.com) - is an email marketing platform. It enables to create a valuable marketing list of prospects, partners, and clients, so can develop relationships with them and build a responsive and profitable customer base.
+* [HubSpot](https://www.hubspot.com/products/marketing/email) - Marketing platform with email campaigns, automation, and a CRM.
 * [Mailchimp](https://mailchimp.com) - Free emailing software
 * [Mailjet](https://mailjet.com) - Create and send beautiful emails without touching a single line of code
 * [MailMeteor](https://mailmeteor.com) - Send personalized mass emails with the best mail merge in Gmail
+* [Moosend](https://moosend.com/) - Email marketing and automation platform for campaigns and journeys.
 * [Nitrosend](https://nitrosend.com) - Create branded campaigns, automated flows, and transactional email from the dashboard or through MCP, CLI, and API
 * [Sendinblue](https://sendinblue.com) - is the only all-in-one digital marketing platform empowering B2B and B2C businesses, ecommerce sellers and agencies to build customer relationships through end to end digital marketing campaigns, transactional messaging, and marketing automation.
 * [SendPulse](https://sendpulse.com) - is a cloud-based marketing solution that allows users to manage email, text messaging and push notifications through a single platform
@@ -840,6 +857,13 @@ Startup-focused marketing articles (moved out of Transactional Emails).
 ## Transactional Emails
 
 Concepts, guides, and providers for transactional email. Docs: [`website/docs/more/`](./website/docs/more/).
+
+### Providers
+
+* [Amazon SES](https://aws.amazon.com/ses/) - AWS email sending service for transactional and marketing messages.
+* [Mailgun](https://www.mailgun.com/) - Email API and SMTP service for transactional and marketing mail.
+* [Postmark](https://postmarkapp.com/) - Transactional email delivery for application mail.
+* [Resend](https://resend.com/) - Email API for developers, with a simple sending interface.
 
 ### Concepts & guides
 

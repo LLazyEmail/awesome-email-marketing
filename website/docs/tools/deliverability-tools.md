@@ -81,6 +81,14 @@ Browse with tags on [Explore](/explore).
 - [Sparkpost](https://sparkpost.com) - is the world’s first and only predictive email intelligence platform
 - [Warmerly](https://warmerly.com) - Email warmup for Google, Microsoft and SMTP mailboxes plus cold email campaigns, with SPF/DKIM/DMARC monitoring, blocklist checks and inbox placement tests. Free plan.
 
+- [dmarcian](https://dmarcian.com/) - DMARC implementation and monitoring platform.
+- [EasyDMARC](https://easydmarc.com/) - DMARC monitoring and email authentication management.
+- [Email on Acid](https://www.emailonacid.com/) - Email previews, accessibility checks, and deliverability testing.
+- [GlockApps](https://glockapps.com/) - Inbox placement and deliverability testing for campaigns.
+- [Litmus](https://www.litmus.com/) - Email testing, preview, and analytics across clients and devices.
+- [Mail-tester](https://www.mail-tester.com/) - Score a test email for spam issues before you send.
+- [Validity](https://www.validity.com/) - Email deliverability and data quality tools.
+
 ## Related
 
 - [Best Tools](./best-tools)

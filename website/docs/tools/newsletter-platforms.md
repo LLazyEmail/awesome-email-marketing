@@ -37,12 +37,14 @@ seo:
 Curated newsletter and creator email platforms for writers, publishers, and audience-first brands.
 
 - [BirdSend](https://birdsend.co) - Don't waste paying 3-5X more on an expensive email marketing tool
+- [Beehiiv](https://www.beehiiv.com/) - Newsletter platform for publishers, with paid subscriptions and built-in growth tools.
 - [Butondown](https://buttondown.email) - The easiest way to write/grow/build/launch/share/run/ your newsletter
 - [ConvertKit](https://convertkit.com) - is the go-to marketing hub for creators that helps you grow and monetize your audience with ease
 - [day3](https://day3.app) - Newsletters and transactional email for small software teams, billed by emails sent with unlimited subscribers
 - [EmailOctopus](https://emailoctopus.com) - Email marketing made easy
 - [Feedotter](https://feedotter.com) - Automated RSS email, integrations with Marketo, Pardot, Eloqua, and drag-and-drop newsletter curation tools
 - [Flodesk](https://flodesk.com) - a new email marketing service provider that’s built for creators, by creators
+- [Ghost](https://ghost.org/) - Open-source publishing platform with newsletters and memberships.
 - [Mailerlite](https://mailerlite.com/pricing) - Pricing mailerlite
 - [NoCodeLetters](https://nocodeletters.com) - Send your newsletters directly from Notion
 - [Revue](https://web.archive.org/web/20221201193739/https://www.getrevue.co/) - Editorial newsletters tool for writers and publishers (archived copy; Revue shut down in January 2023)
