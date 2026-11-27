@@ -1,6 +1,15 @@
 [
   {
     "date": "2026-11-27",
+    "title": "docs: redirect short github-frameworks path and add live 404 checker",
+    "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/476",
+    "items": [
+      "Merged pull request #476",
+      "https://github.com/LLazyEmail/awesome-email-marketing/pull/476"
+    ]
+  },
+  {
+    "date": "2026-11-27",
     "title": "fix: resolve live site 404s on trailing-slash paths",
     "href": "https://github.com/LLazyEmail/awesome-email-marketing/pull/477",
     "items": [
