@@ -45,3 +45,4 @@ seo:
 - [Add-to-calendar links in email](https://addtocalendarlab.com/guides/add-to-calendar-link-in-email) - Free guide to adding "add to calendar" buttons that work in Gmail, Outlook and Apple Mail: why JavaScript widgets fail in email, how to build Google/Outlook/Yahoo links and a hosted .ics by hand, and links vs .ics attachments.
 - [Cold Email Checker](https://ignura.com/tools/cold-email-checker) - Free, no-signup check of a cold email's length, reading level, spam words, links, questions and ask; runs in the browser, open source (MIT).
 
+- [EmailTimer.app](https://emailtimer.app) - Live email countdown timers, polls, weather widgets and personalised images that redraw on every open; paste one image tag into any ESP. Free for 5,000 opens a month. Built by the submitter.

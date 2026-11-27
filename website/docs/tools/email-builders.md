@@ -40,7 +40,9 @@ Drag-and-drop email builders and template tools for designing marketing and news
 - [BEE](https://beefree.io) - Create beautiful emails, fast.
 - [Colorlib](https://colorlib.com) - is the most popular WordPress theme specific online resource which serves over 1 million pageviews each month
 - [Mailbakery](https://mailbakery.com) - simply beautiful custom email marketing newsletter templates, design and code email templates for marketing campaigns
+- [MJML](https://mjml.io/) - Open-source markup language for responsive email.
 - [Postcards](https://designmodo.com/postcards) - Create awesome emails with drag & drop simplicity
 - [Stripo](https://stripo.email) - Drag-n-drop and HTML email builder with 1,690+ responsive templates
+- [Topol](https://topol.io/) - Drag-and-drop email editor and template builder.
 
 Browse with tags on [Explore](/explore).

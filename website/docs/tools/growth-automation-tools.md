@@ -44,13 +44,16 @@ Filter on [Explore → automation](/explore?tag=automation).
 
 - [Autopilot](https://autopilothq.com) - brings the customer data platform, customer journey marketing, and customer journey analytics together to grow your SaaS business
 - [BacklinkGenie](https://backlinkgenie.com) - AI outreach agent for link building: finds blog posts where your product fits, writes one plain-text pitch per post and sends it from a separate warmed-up mailbox, with follow-ups that stop on reply
+- [Braze](https://www.braze.com/) - Customer engagement platform for cross-channel messaging and journeys.
 - [Customer.io](https://customer.io) - Build your dream messaging workflows (send targeted emails, push notifications, and SMS (Indie Hacker))
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website.
 - [Email Marketing Bible](https://github.com/CosmoBlk/email-marketing-bible) - Data-backed email marketing skill for AI agents (Claude Code, Codex and others): automation flows, deliverability triage, copy de-slopping, ESP control via MCP with send-safety gates and 19 industry playbooks.
 - [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software
 - [Froged](https://froged.com) - Optimize your Customer Experience with One Powerful Product
 - [ImagineYourBook](https://www.imagineyourbook.com/book-generators/lead-magnet-ebook) - AI book drafting app that turns your notes or an outline into a full lead-magnet ebook for opt-ins and nurture sequences, with a cover and Word, EPUB or Markdown download. Paid, 7-day trial (card required); drafts need author review.
+- [Iterable](https://iterable.com/) - Cross-channel marketing platform for email, push, SMS, and journeys.
 - [Keap](https://keap.com) - the all-in-one sales and marketing automation platform designed to help you grow
+- [Loops](https://loops.so/) - Email platform for SaaS, with marketing and transactional sending.
 - [Palabra](https://web.archive.org/web/20210118035739/https://palabra.io/) (archived) - Automate your product-led growth
 - [UnderSend](https://undersend.com) - Create and send personalized marketing campaing to your users based on their activities and properties. It`s ideal for SAAS
 

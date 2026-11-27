@@ -48,7 +48,7 @@ Auto-generated list of every markdown/MDX page under `website/docs/` (137 pages)
 ## Tools & Platforms
 
 - [Automation Platforms](./tools/automation-platforms.md) (`tools/automation-platforms.md`) → [`/docs/tools/automation-platforms`](/docs/tools/automation-platforms) — Marketing automation, CRM-adjacent, outbound, and SES-connected platforms for email-led growth.
-- [Best Email Marketing Tools](./tools/best-tools.md) (`tools/best-tools.md`) → [`/docs/tools/best-tools`](/docs/tools/best-tools) — Curated email marketing tools split into newsletters, ESPs, builders, self-hosted platforms, deliverability, and growth automation.
+- [Best Email Marketing Tools](./tools/best-tools.mdx) (`tools/best-tools.mdx`) → [`/docs/tools/best-tools`](/docs/tools/best-tools) — Curated email marketing tools split into newsletters, ESPs, builders, self-hosted platforms, deliverability, and growth automation.
 - [Deliverability & Testing Tools](./tools/deliverability-tools.md) (`tools/deliverability-tools.md`) → [`/docs/tools/deliverability-tools`](/docs/tools/deliverability-tools) — Email delivery, warm-up, and testing tools that help messages reach the inbox.
 - [eCommerce](./tools/ecommerce.md) (`tools/ecommerce.md`) → [`/docs/tools/ecommerce`](/docs/tools/ecommerce) — Email marketing tools and platforms for eCommerce.
 - [Email Builders & Templates](./tools/email-builders.md) (`tools/email-builders.md`) → [`/docs/tools/email-builders`](/docs/tools/email-builders) — Drag-and-drop email builders and template tools for designing marketing and newsletter campaigns.
@@ -209,7 +209,7 @@ intro.md
 pages-index.md
 start-here.md
 tools/automation-platforms.md
-tools/best-tools.md
+tools/best-tools.mdx
 tools/deliverability-tools.md
 tools/ecommerce.md
 tools/email-builders.md
