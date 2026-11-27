@@ -38,7 +38,7 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 - [Cron.Weekly](https://ma.ttias.be/cronweekly/) — A weekly newsletter, delivered every Sunday, with news and tools tailored to Linux sysadmins.
 - [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter) — A curated list of awesome SysAdmin tools, software and resources.
 - [Monitoring Weekly](https://monitoring.love/) — Latest monitoring news, articles, and tools in your inbox.
-- [SRE Weekly](http://sreweekly.com/) — Everything related to keeping a site or service available as consistently as possible.
+- [SRE Weekly](https://sreweekly.com/) — Everything related to keeping a site or service available as consistently as possible.
 - [StatusCode Weekly](https://weekly.statuscode.com/) — Weekly newsletter on web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 
 ## Cloud development
@@ -52,7 +52,7 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 
 - [kubelist](https://kubelist.com/) — Your curated weekly Kubernetes information reconciliation loop.
 - [KubeWeekly](https://web.archive.org/web/20250512091256/https://kube.news/) (archived) — Interesting weekly news about Kubernetes.
-- [LWKD](http://lwkd.info/) — Weekly newsletter summarizing code activity in the Kubernetes project.
+- [LWKD](https://lwkd.info/) — Weekly newsletter summarizing code activity in the Kubernetes project.
 
 ## Mobile
 
@@ -116,7 +116,7 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 - [Kickstarter](https://www.kickstarter.com/newsletters) — Projects We Love archive by Kickstarter.
 - [Startup Digest](https://www.techstars.com/communities/startup-digest) — Curated reading materials from around the world, customized by your interests.
 - [My Morning Routine](https://mymorningroutine.com/) — Independent online magazine.
-- [wpMail me](http://wpmail.me/) — A free WordPress newsletter, once a week.
+- [wpMail me](https://wpmail.me/) — A free WordPress newsletter, once a week.
 - [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) — The Think Clearly newsletter gives you little reflection exercises to help you in your daily life.
 - [Better Dev Link](https://betterdev.link/) — A weekly newsletter collecting links that aim to improve programming knowledge.
 - [HN Mail](https://hnmail.io/) — Weekly newsletter that delivers Hacker News.
@@ -132,7 +132,7 @@ Also listed from the [Miscellaneous](./miscellaneous) page. The same list is in 
 
 ## Miscellaneous
 
-- [Founder Weekly](http://www.founderweekly.com/) — A free weekly newsletter for entrepreneurs featuring curated content.
+- [Founder Weekly](https://www.founderweekly.com/) — A free weekly newsletter for entrepreneurs featuring curated content.
 - [WebRTC Weekly](https://webrtcweekly.com/) — Weekly brief newsletter with the latest news and activities on WebRTC.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) — Weekly newsletter for people interested in the Web Audio API.
 - [Data Is Plural](https://www.data-is-plural.com/) — A weekly newsletter of useful and curious datasets.
