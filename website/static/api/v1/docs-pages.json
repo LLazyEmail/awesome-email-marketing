@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T21:41:56.678Z",
+  "generatedAt": "2026-11-27T06:53:02.811Z",
   "count": 137,
   "pages": [
     {
@@ -41,7 +41,7 @@
       "sidebarLabel": "Overview",
       "description": "Curated email marketing tools, strategy guides, templates, and development resources.",
       "path": "intro.md",
-      "url": "/docs/",
+      "url": "/docs",
       "section": "root",
       "draft": false,
       "unlisted": false
@@ -393,7 +393,7 @@
       "sidebarLabel": "Overview",
       "description": "Opt-in, targeting, and list-growth case studies split from the a.md dump — one page per experiment.",
       "path": "guides/growth-hacks/index.md",
-      "url": "/docs/guides/growth-hacks/",
+      "url": "/docs/guides/growth-hacks",
       "section": "guides",
       "draft": false,
       "unlisted": false
@@ -723,7 +723,7 @@
       "sidebarLabel": "Overview",
       "description": "How to measure newsletter and email marketing performance.",
       "path": "operations/metrics/index.md",
-      "url": "/docs/operations/metrics/",
+      "url": "/docs/operations/metrics",
       "section": "operations",
       "draft": false,
       "unlisted": false
@@ -943,7 +943,7 @@
       "sidebarLabel": "Overview",
       "description": "Email strategy, campaign, automation, and deliverability services. One page per offering.",
       "path": "more/services/index.md",
-      "url": "/docs/more/services/",
+      "url": "/docs/more/services",
       "section": "more",
       "draft": false,
       "unlisted": false
@@ -1460,7 +1460,7 @@
       "sidebarLabel": "Overview",
       "description": "Curated articles from marketing-tech publishers, ESP blogs, deliverability labs, and industry analysts — one page per source.",
       "path": "industry-leaders/index.md",
-      "url": "/docs/industry-leaders/",
+      "url": "/docs/industry-leaders",
       "section": "industry-leaders",
       "draft": false,
       "unlisted": false
