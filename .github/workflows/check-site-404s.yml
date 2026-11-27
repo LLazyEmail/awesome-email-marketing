@@ -1,0 +1,28 @@
+name: Check site 404s
+
+on:
+  pull_request:
+    paths:
+      - 'website/docs/**'
+      - 'website/src/pages/**'
+      - 'website/scripts/check-site-404s.mjs'
+      - '.github/workflows/check-site-404s.yml'
+  schedule:
+    - cron: '0 8 * * 1' # Mondays 08:00 UTC
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check published paths for 404s
+        working-directory: website
+        run: node ./scripts/check-site-404s.mjs
+        env:
+          SITE_BASE_URL: https://llazyemail.github.io/awesome-email-marketing
